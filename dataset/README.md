@@ -27,6 +27,12 @@ Chi tiết nguồn và quy trình thu thập nằm tại:
 dataset/SOURCE_AND_COLLECTION_PLAN.md
 ```
 
+VAIPE-P là nguồn ưu tiên cần kiểm tra trước. Checklist tiếp nhận nằm tại:
+
+```text
+dataset/VAIPE_ACCESS_CHECKLIST.md
+```
+
 Dataset dùng mô hình kết hợp: drug catalog chính thống, ảnh tổng hợp và ảnh đơn thuốc thật đã ẩn danh.
 
 ## Quy tắc dữ liệu
