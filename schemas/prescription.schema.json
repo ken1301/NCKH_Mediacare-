@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ken1301/NCKH_Mediacare-/schema/prescription.schema.json",
+  "title": "MediCare Structured Prescription",
+  "description": "Schema cho kết quả hiểu đơn thuốc Việt Nam có kiểm chứng.",
+  "type": "object",
+  "required": ["schema_version", "prescription_id", "medications"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "prescription_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "image_path": { "type": ["string", "null"] },
+        "source_type": {
+          "type": "string",
+          "enum": ["uploaded_image", "camera_capture", "dataset"]
+        }
+      },
+      "required": ["source_type"],
+      "additionalProperties": false
+    },
+    "medications": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/medication" }
+    }
+  },
+  "$defs": {
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "medication": {
+      "type": "object",
+      "required": ["medication_id", "raw_text", "drug", "confidence", "verification"],
+      "properties": {
+        "medication_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "raw_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "drug": { "$ref": "#/$defs/drug" },
+        "strength": { "$ref": "#/$defs/value_with_unit" },
+        "dose": { "$ref": "#/$defs/value_with_unit" },
+        "form": { "type": ["string", "null"] },
+        "route": { "type": ["string", "null"] },
+        "frequency": { "type": ["string", "null"] },
+        "duration": { "type": ["string", "null"] },
+        "timing": { "type": ["string", "null"] },
+        "instruction": { "type": ["string", "null"] },
+        "prescribed_frequency": { "type": ["string", "null"] },
+        "reminder_schedule": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[0-2][0-9]:[0-5][0-9]$"
+          }
+        },
+        "confidence": {
+          "type": "object",
+          "required": ["drug"],
+          "properties": {
+            "drug": { "$ref": "#/$defs/confidence" },
+            "strength": { "$ref": "#/$defs/confidence" },
+            "dose": { "$ref": "#/$defs/confidence" },
+            "form": { "$ref": "#/$defs/confidence" },
+            "route": { "$ref": "#/$defs/confidence" },
+            "frequency": { "$ref": "#/$defs/confidence" },
+            "duration": { "$ref": "#/$defs/confidence" },
+            "timing": { "$ref": "#/$defs/confidence" },
+            "instruction": { "$ref": "#/$defs/confidence" }
+          },
+          "additionalProperties": false
+        },
+        "verification": {
+          "type": "object",
+          "required": ["status", "fields_to_verify"],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": ["pending", "verified", "needs_review"]
+            },
+            "fields_to_verify": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": ["drug", "strength", "dose", "form", "route", "frequency", "duration", "timing", "instruction"]
+              },
+              "uniqueItems": true
+            },
+            "verified_by": { "type": ["string", "null"] },
+            "verified_at": { "type": ["string", "null"], "format": "date-time" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "drug": {
+      "type": "object",
+      "required": ["raw_name"],
+      "properties": {
+        "raw_name": { "type": "string", "minLength": 1 },
+        "normalized_name": { "type": ["string", "null"] },
+        "active_ingredient": { "type": ["string", "null"] },
+        "drug_database_id": { "type": ["string", "null"] },
+        "linking_candidates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "score"],
+            "properties": {
+              "name": { "type": "string" },
+              "score": { "$ref": "#/$defs/confidence" }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "value_with_unit": {
+      "type": ["object", "null"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "unit": { "type": ["string", "null"] },
+        "raw_text": { "type": ["string", "null"] }
+      },
+      "required": ["value", "unit", "raw_text"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
