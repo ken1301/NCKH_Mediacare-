@@ -19,6 +19,16 @@ dataset/
 └── samples/             # Mẫu tổng hợp, không phải dữ liệu thật
 ```
 
+## Nguồn dữ liệu
+
+Chi tiết nguồn và quy trình thu thập nằm tại:
+
+```text
+dataset/SOURCE_AND_COLLECTION_PLAN.md
+```
+
+Dataset dùng mô hình kết hợp: drug catalog chính thống, ảnh tổng hợp và ảnh đơn thuốc thật đã ẩn danh.
+
 ## Quy tắc dữ liệu
 
 1. Chỉ sử dụng dữ liệu có quyền sử dụng rõ ràng.
@@ -77,4 +87,3 @@ Annotation cần lưu cả văn bản gốc, tọa độ bounding box, nhãn th�
 - Quan hệ không trỏ tới entity khác mẫu.
 - Tọa độ nằm trong kích thước ảnh.
 - Mẫu có bất đồng phải có `review_status` và ghi chú giải quyết.
-
