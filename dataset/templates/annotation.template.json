@@ -1,0 +1,79 @@
+{
+  "sample_id": "rx_000001",
+  "image": {
+    "file_name": "rx_000001.jpg",
+    "width": 1600,
+    "height": 2200,
+    "difficulty": "easy"
+  },
+  "privacy": {
+    "de_identified": true,
+    "reviewed": false,
+    "removed_fields": []
+  },
+  "split": null,
+  "entities": [
+    {
+      "id": "drug_1",
+      "label": "DRUG",
+      "text": "Augmentin",
+      "normalized_text": "Augmentin",
+      "bbox": [100, 200, 420, 250],
+      "needs_review": false
+    },
+    {
+      "id": "strength_1",
+      "label": "STRENGTH",
+      "text": "625 mg",
+      "normalized_text": "625 mg",
+      "bbox": [430, 200, 560, 250],
+      "needs_review": false
+    },
+    {
+      "id": "dose_1",
+      "label": "DOSE",
+      "text": "1 viên",
+      "normalized_text": "1 viên",
+      "bbox": [580, 200, 680, 250],
+      "needs_review": false
+    },
+    {
+      "id": "frequency_1",
+      "label": "FREQUENCY",
+      "text": "2 lần/ngày",
+      "normalized_text": "2 lần/ngày",
+      "bbox": [700, 200, 860, 250],
+      "needs_review": false
+    },
+    {
+      "id": "timing_1",
+      "label": "TIMING",
+      "text": "sau ăn",
+      "normalized_text": "sau ăn",
+      "bbox": [880, 200, 980, 250],
+      "needs_review": false
+    },
+    {
+      "id": "duration_1",
+      "label": "DURATION",
+      "text": "7 ngày",
+      "normalized_text": "7 ngày",
+      "bbox": [1000, 200, 1100, 250],
+      "needs_review": false
+    }
+  ],
+  "relations": [
+    { "source": "drug_1", "type": "HAS_STRENGTH", "target": "strength_1" },
+    { "source": "drug_1", "type": "HAS_DOSE", "target": "dose_1" },
+    { "source": "drug_1", "type": "HAS_FREQUENCY", "target": "frequency_1" },
+    { "source": "drug_1", "type": "HAS_TIMING", "target": "timing_1" },
+    { "source": "drug_1", "type": "HAS_DURATION", "target": "duration_1" }
+  ],
+  "review": {
+    "status": "draft",
+    "annotator_a": null,
+    "annotator_b": null,
+    "reviewer": null,
+    "notes": []
+  }
+}
