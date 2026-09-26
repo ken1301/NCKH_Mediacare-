@@ -2,17 +2,17 @@
 
 ## 1. Kết luận hiện tại
 
-Chưa có một bộ ảnh đơn thuốc Việt Nam công khai, đầy đủ và chắc chắn phù hợp trực tiếp với mục tiêu của MediCare. Vì vậy, dataset phải được xây dựng theo mô hình kết hợp thay vì phụ thuộc vào một nguồn duy nhất.
+Đã tìm thấy nguồn phù hợp để ưu tiên kiểm tra là **VAIPE-P**, bộ ảnh đơn thuốc Việt Nam của dự án VAIPE. Nhóm sẽ tìm và xác minh quyền sử dụng nguồn này trước khi nghĩ đến việc tự tạo dataset.
 
 ```text
-Drug database chính thống
-        +
-Ảnh đơn thuốc tổng hợp
-        +
-Ảnh đơn thuốc thật đã ẩn danh
-        ↓
-Vietnamese Prescription Dataset
+VAIPE-P từ nguồn chính thức
+        ↓ nếu thiếu/không truy cập được
+VAIPE 2022 challenge subset
+        ↓ nếu thiếu annotation
+Ảnh thật xin phép hoặc dữ liệu bổ sung có kiểm soát
 ```
+
+Chi tiết các nguồn đã tìm thấy nằm tại `dataset/FOUND_DATASET_CANDIDATES.md`.
 
 ## 2. Nguồn A — Drug database chính thống
 
@@ -158,4 +158,3 @@ source_accessed_at
 - Có drug catalog phiên bản đầu tiên.
 - Guideline đã được cập nhật sau vòng review thử.
 - Có quyết định rõ ràng về quyền sử dụng của ảnh thật.
-
