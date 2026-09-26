@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ken1301/NCKH_Mediacare-/schema/drug_catalog.schema.json",
+  "title": "MediCare Drug Catalog Entry",
+  "description": "Một bản ghi thuốc dùng cho chuẩn hóa và drug entity linking.",
+  "type": "object",
+  "required": ["drug_database_id", "brand_name", "active_ingredients", "source"],
+  "properties": {
+    "drug_database_id": { "type": "string", "minLength": 1 },
+    "brand_name": { "type": "string", "minLength": 1 },
+    "generic_names": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "active_ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "strength": { "type": ["string", "null"] }
+        },
+        "additionalProperties": false
+      }
+    },
+    "strengths": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["value", "unit"],
+        "properties": {
+          "value": { "type": "number", "exclusiveMinimum": 0 },
+          "unit": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    },
+    "dosage_forms": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "routes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "registration_number": { "type": ["string", "null"] },
+    "source": {
+      "type": "object",
+      "required": ["source_name", "source_url", "accessed_at"],
+      "properties": {
+        "source_name": { "type": "string", "minLength": 1 },
+        "source_url": { "type": "string", "format": "uri" },
+        "accessed_at": { "type": "string", "format": "date-time" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

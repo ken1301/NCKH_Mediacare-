@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ken1301/NCKH_Mediacare-/schema/medication_plan.schema.json",
+  "title": "MediCare Verified Medication Plan",
+  "description": "Kế hoạch sử dụng thuốc sau extraction, linking và verification.",
+  "type": "object",
+  "required": ["plan_id", "prescription_id", "status", "medications"],
+  "properties": {
+    "plan_id": { "type": "string", "minLength": 1 },
+    "prescription_id": { "type": "string", "minLength": 1 },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "needs_verification", "verified", "scheduled"]
+    },
+    "medications": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/medication" }
+    }
+  },
+  "$defs": {
+    "medication": {
+      "type": "object",
+      "required": ["medication_id", "drug_name", "prescribed", "verification"],
+      "properties": {
+        "medication_id": { "type": "string", "minLength": 1 },
+        "drug_database_id": { "type": ["string", "null"] },
+        "drug_name": { "type": "string", "minLength": 1 },
+        "prescribed": {
+          "type": "object",
+          "required": ["raw_text"],
+          "properties": {
+            "raw_text": { "type": "string", "minLength": 1 },
+            "strength": { "type": ["string", "null"] },
+            "dose": { "type": ["string", "null"] },
+            "frequency": { "type": ["string", "null"] },
+            "duration": { "type": ["string", "null"] },
+            "timing": { "type": ["string", "null"] },
+            "route": { "type": ["string", "null"] },
+            "instruction": { "type": ["string", "null"] }
+          },
+          "additionalProperties": false
+        },
+        "verification": {
+          "type": "object",
+          "required": ["status", "fields_to_verify"],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": ["pending", "needs_review", "verified"]
+            },
+            "fields_to_verify": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": ["drug", "strength", "dose", "frequency", "duration", "timing", "route", "instruction"]
+              },
+              "uniqueItems": true
+            }
+          },
+          "additionalProperties": false
+        },
+        "reminder_schedule": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
