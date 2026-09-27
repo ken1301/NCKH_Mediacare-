@@ -64,3 +64,26 @@ test('convertDataset converts COCO xywh boxes and preserves missing text as revi
     await rm(root, { recursive: true, force: true });
   }
 });
+
+test('convertDataset groups VAIPE word boxes into one prescription annotation', async () => {
+  const root = await mkdtemp(path.join(os.tmpdir(), 'medicare-vaipe-'));
+  const labels = path.join(root, 'public_train', 'label');
+  const output = path.join(root, 'out');
+  try {
+    await (await import('node:fs/promises')).mkdir(labels, { recursive: true });
+    await writeFile(path.join(labels, 'VAIPE_P_TRAIN_0.json'), JSON.stringify([
+      { id: 1, text: 'RENAPRIL 5MG', label: 'drugname', box: [10, 20, 120, 45], mapping: 2 },
+      { id: 2, text: 'Sáng 1 Viên', label: 'usage', box: [10, 50, 100, 70] },
+      { id: 3, text: 'Bác sĩ', label: 'other', box: [10, 80, 80, 100] }
+    ]));
+    const manifest = await convertDataset(root, output);
+    assert.equal(manifest.annotations_written, 1);
+    const converted = JSON.parse(await readFile(path.join(output, 'VAIPE_P_TRAIN_0.json'), 'utf8'));
+    assert.equal(converted.split, 'train');
+    assert.equal(converted.image.file_name, 'public_train/image/VAIPE_P_TRAIN_0.png');
+    assert.deepEqual(converted.entities.map((entity) => entity.label), ['DRUG', 'INSTRUCTION']);
+    assert.equal(converted.relations.length, 0);
+  } finally {
+    await rm(root, { recursive: true, force: true });
+  }
+});

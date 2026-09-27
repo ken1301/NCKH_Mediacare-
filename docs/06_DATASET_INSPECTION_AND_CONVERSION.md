@@ -32,6 +32,7 @@ Adapter hiện hỗ trợ các dạng thường gặp:
 - MediCare-like JSON: `entities` và `relations`.
 - Label Studio JSON: `annotations[].result` và relation `from_id/to_id`.
 - COCO JSON: `images`, `categories`, `annotations`, bbox dạng `[x, y, width, height]`.
+- VAIPE word-box JSON: danh sách `{text, label, box}` trong mỗi file đơn thuốc.
 - JSON records có field `drug`, `strength`, `dose`, `frequency`, ...
 
 Nhãn được chuyển sang:
@@ -39,6 +40,8 @@ Nhãn được chuyển sang:
 `DRUG`, `ACTIVE_INGREDIENT`, `STRENGTH`, `DOSE`, `FORM`, `ROUTE`, `FREQUENCY`, `DURATION`, `TIMING`, `INSTRUCTION`.
 
 Nhãn lạ, entity thiếu text, bbox thiếu hoặc relation không ghép được sẽ được đưa vào `review.notes`/`needs_review`; script không tự đoán nội dung y khoa.
+
+Với VAIPE-P Kaggle, mỗi file nhãn được gom thành **một annotation theo ảnh**. `drugname` được map thành `DRUG`, `usage` thành `INSTRUCTION`; các nhãn như `diagnose`, `quantity`, `other`, `date` chưa được map vào medication schema. Adapter không tự suy ra DOSE/FREQUENCY/TIMING và không tạo relation chỉ dựa trên khoảng cách hình học.
 
 ## 3. Đầu ra và bảo mật
 

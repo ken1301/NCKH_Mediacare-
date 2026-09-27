@@ -1,6 +1,7 @@
 # Local and unverified external datasets — never commit raw medical images.
 dataset/external/**
 !dataset/external/README.md
+dataset/metadata/vaipe-p-inspection/**
 *.zip
 *.7z
 *.rar

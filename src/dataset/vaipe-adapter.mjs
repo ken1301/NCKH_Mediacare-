@@ -10,6 +10,7 @@ const LABEL_MAP = new Map([
   ['drug', 'DRUG'],
   ['medicine', 'DRUG'],
   ['medication', 'DRUG'],
+  ['drugname', 'DRUG'],
   ['thuoc', 'DRUG'],
   ['activeingredient', 'ACTIVE_INGREDIENT'],
   ['ingredient', 'ACTIVE_INGREDIENT'],
@@ -36,6 +37,7 @@ const LABEL_MAP = new Map([
   ['meal', 'TIMING'],
   ['instruction', 'INSTRUCTION'],
   ['directions', 'INSTRUCTION'],
+  ['usage', 'INSTRUCTION'],
   ['huongdan', 'INSTRUCTION']
 ]);
 
@@ -65,6 +67,7 @@ const FIELD_MAP = new Map([
   ['meal', 'TIMING'],
   ['instruction', 'INSTRUCTION'],
   ['directions', 'INSTRUCTION'],
+  ['usage', 'INSTRUCTION'],
   ['huongdan', 'INSTRUCTION']
 ]);
 
@@ -132,6 +135,7 @@ function getArray(value) {
 
 function sourceFormat(value) {
   if (value && Array.isArray(value.images) && Array.isArray(value.annotations)) return 'coco';
+  if (Array.isArray(value) && value.length > 0 && value.every((item) => item && typeof item === 'object' && item.label !== undefined && item.box !== undefined)) return 'vaipe_word_boxes';
   if (Array.isArray(value) && value.some((item) => Array.isArray(item?.annotations))) return 'label_studio';
   if (value && Array.isArray(value.entities)) return 'medicare_annotation';
   if (Array.isArray(value) && value.some((item) => Array.isArray(item?.entities))) return 'medicare_annotation';
@@ -148,6 +152,12 @@ function flattenRecords(value) {
 
 function collectEntityLabels(value, labels) {
   if (!value || typeof value !== 'object') return;
+  if (Array.isArray(value)) {
+    for (const item of value) collectEntityLabels(item, labels);
+    return;
+  }
+  const directLabel = normalizeLabel(value.label ?? value.category ?? value.type);
+  if (directLabel) labels[directLabel] = (labels[directLabel] ?? 0) + 1;
   if (Array.isArray(value.entities)) {
     for (const entity of value.entities) {
       const label = normalizeLabel(entity.label ?? entity.category ?? entity.type);
@@ -172,8 +182,27 @@ function collectEntityLabels(value, labels) {
   }
 }
 
+function collectRawLabels(value, labels) {
+  if (!value || typeof value !== 'object') return;
+  if (Array.isArray(value)) {
+    for (const item of value) collectRawLabels(item, labels);
+    return;
+  }
+  if (value.label !== undefined) {
+    const label = String(value.label);
+    labels[label] = (labels[label] ?? 0) + 1;
+  }
+  for (const child of Object.values(value)) {
+    if (child && typeof child === 'object') collectRawLabels(child, labels);
+  }
+}
+
 function collectRelationTypes(value, relations) {
   if (!value || typeof value !== 'object') return;
+  if (Array.isArray(value)) {
+    for (const item of value) collectRelationTypes(item, relations);
+    return;
+  }
   for (const relation of value.relations ?? []) {
     const type = relation.type ?? relation.labels?.[0] ?? relation.label ?? 'UNSPECIFIED';
     relations[type] = (relations[type] ?? 0) + 1;
@@ -211,8 +240,13 @@ export async function inspectDataset(inputPath) {
     totals: { files: files.length, images: 0, annotation_candidates: 0, archives: 0, other: 0 },
     extensions: {},
     annotation_profiles: [],
+    raw_label_counts: {},
     entity_label_counts: {},
     relation_type_counts: {},
+    privacy_review: {
+      potentially_sensitive_labels: {},
+      note: 'Heuristic only; cần review thủ công trước khi chia sẻ hoặc huấn luyện.'
+    },
     likely_sensitive_fields: [],
     warnings: []
   };
@@ -228,11 +262,14 @@ export async function inspectDataset(inputPath) {
     try {
       const parsed = await readStructuredFile(filePath);
       const labels = {};
+      const rawLabels = {};
       const relations = {};
       collectEntityLabels(parsed, labels);
+      collectRawLabels(parsed, rawLabels);
       collectRelationTypes(parsed, relations);
       collectLikelySensitiveFields(parsed, sensitiveFields);
       for (const [label, count] of Object.entries(labels)) report.entity_label_counts[label] = (report.entity_label_counts[label] ?? 0) + count;
+      for (const [label, count] of Object.entries(rawLabels)) report.raw_label_counts[label] = (report.raw_label_counts[label] ?? 0) + count;
       for (const [relation, count] of Object.entries(relations)) report.relation_type_counts[relation] = (report.relation_type_counts[relation] ?? 0) + count;
       report.annotation_profiles.push({
         file: path.relative(inputPath, filePath),
@@ -248,9 +285,13 @@ export async function inspectDataset(inputPath) {
   }
 
   report.likely_sensitive_fields = [...sensitiveFields].sort();
+  for (const label of ['diagnose', 'date', 'other']) {
+    if (report.raw_label_counts[label]) report.privacy_review.potentially_sensitive_labels[label] = report.raw_label_counts[label];
+  }
   if (report.totals.annotation_candidates === 0) report.warnings.push('Không tìm thấy file annotation có đuôi được hỗ trợ.');
   if (report.totals.images === 0) report.warnings.push('Không tìm thấy ảnh trong thư mục input.');
   if (report.likely_sensitive_fields.length > 0) report.warnings.push('Có key có khả năng chứa thông tin định danh; cần review thủ công trước khi dùng.');
+  if (Object.keys(report.privacy_review.potentially_sensitive_labels).length > 0) report.warnings.push('Annotation có label ngoài medication có thể chứa chẩn đoán, ngày tháng hoặc thông tin định danh; không đưa các vùng này vào bản chia sẻ nếu chưa review.');
   return report;
 }
 
@@ -314,6 +355,43 @@ function makeAnnotation({ sampleId, imageRef, entities, relations, split, notes 
     relations,
     review: { status: 'draft', annotator_a: null, annotator_b: null, reviewer: null, notes }
   };
+}
+
+function inferImageRefFromLabelFile(sourceFile) {
+  const normalized = sourceFile.replaceAll('\\', '/');
+  const imagePath = normalized.replace('/label/', '/image/').replace(/\.json$/i, '.png');
+  return imagePath;
+}
+
+function convertVaipeWordBoxes(records, sourceFile, notes, inputRoot) {
+  const entities = [];
+  const unmappedLabels = new Set();
+  for (const [index, source] of records.entries()) {
+    const label = normalizeLabel(source.label);
+    if (!label) {
+      if (source.label) unmappedLabels.add(String(source.label));
+      continue;
+    }
+    entities.push(makeEntity({
+      id: `entity_${entities.length + 1}`,
+      label,
+      text: source.text,
+      normalizedText: source.text,
+      bbox: normalizeBbox(source.box),
+      needsReview: label === 'DRUG' || label === 'INSTRUCTION'
+    }));
+  }
+  if (unmappedLabels.size > 0) notes.push(`Bỏ qua VAIPE label chưa map: ${[...unmappedLabels].sort().join(', ')}.`);
+  notes.push('VAIPE import: đây là word-box annotation; chưa có relation thuốc–liều/tần suất đáng tin cậy.');
+  notes.push('VAIPE label usage được đưa vào INSTRUCTION để giữ nguyên bằng chứng, chưa tự tách thành DOSE/FREQUENCY/TIMING.');
+  return makeAnnotation({
+    sampleId: cleanSampleId(path.basename(sourceFile), `vaipe_${hashId(sourceFile)}`),
+    imageRef: inferImageRefFromLabelFile(path.relative(inputRoot, sourceFile)),
+    entities,
+    relations: [],
+    split: sourceFile.replaceAll('\\', '/').includes('/public_test/') ? 'test' : 'train',
+    notes
+  });
 }
 
 function convertEntitiesFromMediCare(record, notes) {
@@ -451,6 +529,7 @@ async function readRecords(filePath) {
   const parsed = await readStructuredFile(filePath);
   if (parsed === null) return [];
   if (parsed && Array.isArray(parsed.images) && Array.isArray(parsed.annotations)) return { coco: parsed };
+  if (Array.isArray(parsed) && parsed.length > 0 && parsed.every((item) => item && typeof item === 'object' && item.label !== undefined && item.box !== undefined)) return { vaipe_word_boxes: parsed };
   if (Array.isArray(parsed)) return parsed;
   if (parsed && Array.isArray(parsed.records)) return parsed.records;
   if (parsed && Array.isArray(parsed.items)) return parsed.items;
@@ -480,6 +559,7 @@ export async function convertDataset(inputPath, outputPath) {
       const records = await readRecords(sourceFile);
       let convertedItems = [];
       if (records?.coco) convertedItems = convertCoco(records.coco, sourceFile, manifest.warnings);
+      else if (records?.vaipe_word_boxes) convertedItems = [{ annotation: convertVaipeWordBoxes(records.vaipe_word_boxes, sourceFile, [`Imported from ${path.basename(sourceFile)}; chưa xác nhận quyền sử dụng.`], inputPath) }];
       else if (records?.length && records.some((record) => Array.isArray(record?.annotations))) {
         convertedItems = records.map((record, index) => ({ annotation: convertRecord(record, sourceFile, index) }));
       } else {
@@ -522,6 +602,10 @@ export function reportToMarkdown(report) {
     ...Object.entries(report.entity_label_counts).map(([label, count]) => `- ${label}: ${count}`),
     ...(Object.keys(report.entity_label_counts).length === 0 ? ['- Chưa phát hiện nhãn MediCare tương thích.'] : []),
     '',
+    '## Raw source labels',
+    '',
+    ...Object.entries(report.raw_label_counts).map(([label, count]) => `- ${label}: ${count}`),
+    '',
     '## Relations',
     '',
     ...Object.entries(report.relation_type_counts).map(([relation, count]) => `- ${relation}: ${count}`),
@@ -537,6 +621,7 @@ export function reportToMarkdown(report) {
     '',
     '## Privacy review',
     '',
+    ...Object.entries(report.privacy_review.potentially_sensitive_labels).map(([label, count]) => `- Label cần review thủ công: \`${label}\` (${count})`),
     ...(report.likely_sensitive_fields.length ? report.likely_sensitive_fields.map((field) => `- Có key cần review: \`${field}\``) : ['- Không phát hiện key nhạy cảm theo heuristic; vẫn phải review thủ công.'])
   ];
   return `${lines.join('\n')}\n`;
