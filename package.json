@@ -8,6 +8,8 @@
     "start": "node src/server.mjs",
     "test": "node --test",
     "inspect:dataset": "node scripts/inspect-vaipe.mjs",
-    "convert:dataset": "node scripts/convert-vaipe.mjs"
+    "convert:dataset": "node scripts/convert-vaipe.mjs",
+    "build:baseline": "node scripts/build-vaipe-baseline.mjs",
+    "evaluate:baseline": "node scripts/evaluate-vaipe-baseline.mjs"
   }
 }
