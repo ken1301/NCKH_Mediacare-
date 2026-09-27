@@ -1,0 +1,12 @@
+# Local and unverified external datasets — never commit raw medical images.
+dataset/external/**
+!dataset/external/README.md
+*.zip
+*.7z
+*.rar
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tif
+*.tiff
