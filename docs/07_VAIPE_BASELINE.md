@@ -2,6 +2,8 @@
 
 Mục tiêu của baseline là cố định một mốc thực nghiệm reproducible trước khi thử OCR/model mới.
 
+Baseline này là phần đo nền cho protocol nghiên cứu safety-aware tại [`docs/13_RESEARCH_FOCUS_AND_EVALUATION_PROTOCOL.md`](13_RESEARCH_FOCUS_AND_EVALUATION_PROTOCOL.md); không được dùng riêng nó để kết luận về confidence calibration hoặc critical-error reduction.
+
 ## Dataset contract
 
 VAIPE-P Kaggle hiện có 1.173 prescription JSON có word box và 1.345 ảnh PNG. `public_train` có nhãn; `public_test` trong bản tải về không có annotation. Nhãn nguồn gồm `drugname`, `usage`, `quantity`, `diagnose`, `date`, `other`.

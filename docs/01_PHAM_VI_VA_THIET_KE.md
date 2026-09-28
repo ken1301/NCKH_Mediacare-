@@ -20,6 +20,8 @@ MediCare tập trung vào bài toán **Vietnamese Prescription Understanding**:
 
 Sản phẩm nghiên cứu không được định nghĩa là “ứng dụng OCR đơn thuốc”. Kết quả cần chứng minh là thông tin của từng thuốc được nhận diện, gán đúng, chuẩn hóa và kiểm chứng.
 
+Protocol để chuyển các khoảng trống này thành contribution, metric và safety gate nằm tại [`docs/13_RESEARCH_FOCUS_AND_EVALUATION_PROTOCOL.md`](13_RESEARCH_FOCUS_AND_EVALUATION_PROTOCOL.md).
+
 ## 2. Phạm vi phiên bản 1
 
 ### Bao gồm
