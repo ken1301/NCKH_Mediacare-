@@ -11,7 +11,7 @@
 | Kaggle status | Public, version 1, Ready |
 | Dữ liệu chính thức | VAIPE / VinUni–Illinois Smart Health Center |
 | Mục tiêu sử dụng | Nghiên cứu OCR và Prescription Understanding |
-| Trạng thái MediCare | Chưa tải, chưa xác minh quyền sử dụng |
+| Trạng thái MediCare | Đã tải; quyền sử dụng cho nghiên cứu đã được xác nhận; chưa được phép công bố raw data/metric |
 
 ## 2. Cách tiếp nhận dữ liệu
 
@@ -94,7 +94,7 @@ Không chạy huấn luyện ngay. Thực hiện theo thứ tự:
 
 ### Được dùng cho nghiên cứu chính khi
 
-- Có nguồn/điều khoản sử dụng rõ ràng.
+- Có nguồn/điều khoản sử dụng rõ ràng hoặc có xác nhận quyền nghiên cứu được lưu trong hồ sơ dự án.
 - Có thể truy xuất nguồn và phiên bản.
 - Dữ liệu đã được ẩn danh hoặc có xác nhận phù hợp.
 - Có đủ ảnh và annotation cho mục tiêu đã chốt.
@@ -106,4 +106,3 @@ Không chạy huấn luyện ngay. Thực hiện theo thứ tự:
 - Không xác định được provenance.
 - Chỉ có ảnh nhưng không có ground truth cần thiết.
 - Không rõ quyền công bố metric.
-

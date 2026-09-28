@@ -203,7 +203,7 @@ Gate chỉ cho phép sample có `annotation_status=complete`, privacy đã revie
 - `P2 — Medication NER đầy đủ`: chờ annotation riêng cho `STRENGTH`, `DOSE`, `FREQUENCY`, `DURATION`, `TIMING`.
 - `P3 — Relation Extraction`: chờ quan hệ `DRUG → HAS_*`; không suy ra relation chỉ từ khoảng cách giữa các word box.
 - `P4 — Trusted Drug Entity Linking`: chờ nguồn CSDL thuốc chính thức có hoạt chất, hàm lượng, dạng thuốc và quyền truy cập rõ ràng.
-- `P5 — Publication/production`: chờ xác nhận license/quyền sử dụng VAIPE-P; Kaggle mirror hiện chỉ là nguồn phát triển nội bộ.
+- `P5 — Publication/production`: quyền nghiên cứu đã được xác nhận, nhưng vẫn chờ lưu điều khoản/citation chính thức và không được coi là approved cho publication/production.
 
 ## RQ6 — Deployment architecture benchmark
 
@@ -242,4 +242,4 @@ Các phase pending này không được thay thế bằng metric giả hoặc b�
 
 ## Trạng thái dữ liệu
 
-Dataset Kaggle vẫn `license=Unknown`, `access_status=unverified`, `approved_for_publication=false`. Tất cả manifest/report/raw data sinh từ dataset này chỉ lưu local.
+Dataset có `license=Unknown`, `access_status=authorized_for_research`, `approved_for_publication=false`. Raw data và các artifact có thể chứa dữ liệu nguồn chỉ lưu local; trạng thái này không thay thế privacy review hoặc annotation approval cho P2/P3.

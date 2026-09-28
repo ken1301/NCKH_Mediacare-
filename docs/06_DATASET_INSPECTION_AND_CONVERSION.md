@@ -1,6 +1,6 @@
 # Kiểm tra và chuyển annotation VAIPE-P
 
-Các script này dành cho bản VAIPE-P Kaggle đang chờ xác nhận quyền sử dụng. Chúng chỉ phục vụ phát triển nội bộ.
+Các script này dành cho bản VAIPE-P Kaggle đã được xác nhận quyền sử dụng cho nghiên cứu nội bộ. Chúng không cấp thêm quyền công bố raw data/metric và vẫn yêu cầu privacy review, annotation review trước khi tạo gold set.
 
 ## 1. Kiểm tra dataset
 
@@ -54,4 +54,4 @@ Sau khi chạy, hai thành viên cần review:
 3. Các cảnh báo privacy và quyền sử dụng.
 4. Tỷ lệ entity có `bbox`, có text và có relation trước khi dùng huấn luyện.
 
-Không coi output này là annotation chính thức cho bài báo khi VAIPE-P chưa được cấp quyền sử dụng.
+Không coi output này là annotation chính thức cho bài báo: output hiện vẫn là word-box import, chưa có medication relations và chưa qua annotation review.

@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { extractDrugNameAndStrength, normalizeDrugText, parseStrength } from '../src/catalog/drug-catalog.mjs';
+import { loadSourceMetadata } from '../src/dataset/source-metadata.mjs';
 
 function option(name, fallback) {
   const index = process.argv.indexOf(name);
@@ -12,6 +13,7 @@ const input = option('--input', 'dataset/external/vaipe-p');
 const manifestPath = option('--manifest', 'dataset/metadata/vaipe-p-baseline/train.json');
 const output = option('--output', 'dataset/metadata/vaipe-p-baseline/drug-candidates.json');
 const manifest = JSON.parse(await readFile(manifestPath, 'utf8'));
+const sourceMetadata = await loadSourceMetadata();
 const candidateMap = new Map();
 
 for (const sample of manifest) {
@@ -33,8 +35,8 @@ for (const sample of manifest) {
       source: {
         source_name: 'VAIPE-P Kaggle mirror — local candidate extraction',
         source_url: 'https://www.kaggle.com/datasets/litrdng/vaipe-p',
-        access_status: 'unverified',
-        license: 'Unknown'
+        access_status: sourceMetadata.access_status,
+        license: sourceMetadata.license
       }
     };
     candidate.occurrence_count += 1;

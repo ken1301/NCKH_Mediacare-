@@ -10,7 +10,7 @@ Schema machine-readable:
 schemas/medication_annotation.schema.json
 ```
 
-Nhãn nguồn phải có quyền sử dụng và được ẩn danh trước khi đưa ra ngoài môi trường được phê duyệt. VAIPE-P Kaggle hiện chưa đạt điều kiện này và chỉ dùng để kiểm tra pipeline nội bộ.
+Nhãn nguồn phải có quyền sử dụng và được ẩn danh trước khi đưa ra ngoài môi trường được phê duyệt. VAIPE-P hiện đã được xác nhận quyền sử dụng cho nghiên cứu nội bộ; vẫn phải hoàn tất privacy review và lưu điều khoản/citation trước khi công bố.
 
 ## 2. Entity labels
 
@@ -108,6 +108,8 @@ Reviewer quyết định các disagreement và ghi lý do. Chỉ bản adjudicat
 - [ ] `DRUG–STRENGTH–DOSE–FREQUENCY–DURATION` đã được review ở các mẫu dùng cho safety evaluation.
 - [ ] Split train/validation/test theo prescription, không tách các crop cùng một đơn sang nhiều split.
 - [ ] Gold set có version và hash manifest.
+
+Queue review có thể tạo bằng `npm run build:medication-annotation-queue`. Queue chỉ lập danh sách công việc và giữ số relation hiện có; script không tự sinh relation, gold label hoặc metric.
 
 ## 8. Output tối thiểu
 

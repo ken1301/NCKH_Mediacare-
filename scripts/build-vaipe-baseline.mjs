@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { mkdir, readFile, writeFile, open } from 'node:fs/promises';
 import path from 'node:path';
 import { walkFiles } from '../src/dataset/vaipe-adapter.mjs';
+import { loadSourceMetadata } from '../src/dataset/source-metadata.mjs';
 
 const TARGET_LABELS = new Set(['drugname', 'usage']);
 
@@ -91,7 +92,7 @@ function assignSplits(samples) {
   }));
 }
 
-function summarize(samples) {
+function summarize(samples, sourceMetadata) {
   const labels = {};
   const splitCounts = {};
   let totalWords = 0;
@@ -112,9 +113,9 @@ function summarize(samples) {
     valid_box_count: validBoxes,
     invalid_box_count: totalWords - validBoxes,
     raw_label_counts: labels,
-    source_license: 'Unknown',
-    access_status: 'unverified',
-    approved_for_publication: false
+    source_license: sourceMetadata.license,
+    access_status: sourceMetadata.access_status,
+    approved_for_publication: sourceMetadata.approved_for_publication
   };
 }
 
@@ -126,13 +127,14 @@ function publicSample(sample) {
 const input = option('--input', 'dataset/external/vaipe-p');
 const output = option('--output', 'dataset/metadata/vaipe-p-baseline');
 const samples = assignSplits(await readSamples(input));
+const sourceMetadata = await loadSourceMetadata();
 await mkdir(output, { recursive: true });
 const summary = {
   generated_at: new Date().toISOString(),
   input_path: path.resolve(input),
   output_path: path.resolve(output),
   split_policy: 'SHA-1(sample_id) deterministic ordering; 70% train, 15% validation, 15% test; one prescription file stays in one split.',
-  summary: summarize(samples),
+  summary: summarize(samples, sourceMetadata),
   samples_with_missing_images: samples.filter((sample) => sample.image_width === null).map((sample) => sample.sample_id),
   samples_with_invalid_boxes: samples.filter((sample) => sample.invalid_box_count > 0).map((sample) => ({ sample_id: sample.sample_id, invalid_box_count: sample.invalid_box_count }))
 };
@@ -167,9 +169,9 @@ const markdown = [
   '',
   '## Status',
   '',
-  '- License: Unknown',
-  '- Access: unverified',
-  '- Publication approval: false',
+  `- License: ${summary.summary.source_license}`,
+  `- Access: ${summary.summary.access_status}`,
+  `- Publication approval: ${summary.summary.approved_for_publication}`,
   '- This is a local development manifest; raw images are not committed.'
 ].join('\n') + '\n';
 await writeFile(path.join(output, 'summary.md'), markdown, 'utf8');

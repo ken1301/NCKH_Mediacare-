@@ -68,7 +68,7 @@ Privacy phải được báo cáo theo đường đi dữ liệu thực tế, kh
 
 ### Giới hạn dữ liệu hiện tại
 
-VAIPE-P Kaggle mirror đang có `license=Unknown`, `access_status=unverified`, `approved_for_publication=false`. Vì vậy không upload raw dataset lên cloud bên ngoài. Trong lúc chờ quyền tác giả, chỉ chạy local/loopback hoặc dữ liệu đã có quyền rõ ràng. Các kết quả từ mirror chỉ được ghi là kết quả phát triển nội bộ.
+VAIPE-P hiện có `license=Unknown`, nhưng quyền sử dụng cho nghiên cứu đã được xác nhận và ghi trong `dataset/external/source_manifest.json`. `approved_for_publication=false` vẫn được giữ nguyên: không upload raw dataset lên cloud bên ngoài, không công bố raw data và chỉ dùng kết quả theo đúng điều khoản đã được cấp. Các điều khoản/citation chính thức vẫn phải được lưu kèm hồ sơ trước khi công bố.
 
 ## Output schema đề xuất
 

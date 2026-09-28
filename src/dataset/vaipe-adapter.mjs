@@ -511,8 +511,8 @@ function convertCoco(data, sourceFile, notes) {
   }));
 }
 
-function convertRecord(record, sourceFile, index) {
-  const notes = [`Imported from ${path.basename(sourceFile)}; chưa xác nhận quyền sử dụng.`];
+function convertRecord(record, sourceFile, index, permissionNote = 'chưa xác nhận quyền sử dụng.') {
+  const notes = [`Imported from ${path.basename(sourceFile)}; ${permissionNote}`];
   if (record && Array.isArray(record.entities)) {
     const converted = convertEntitiesFromMediCare(record, notes);
     return makeAnnotation({ sampleId: cleanSampleId(record.sample_id ?? record.id, `${path.basename(sourceFile)}_${index + 1}`), imageRef: pickImageRef(record), entities: converted.entities, relations: converted.relations, split: record.split, notes });
@@ -536,7 +536,7 @@ async function readRecords(filePath) {
   return [parsed];
 }
 
-export async function convertDataset(inputPath, outputPath) {
+export async function convertDataset(inputPath, outputPath, options = {}) {
   const files = (await walkFiles(inputPath)).filter((filePath) => ['.json', '.jsonl', '.ndjson'].includes(path.extname(filePath).toLowerCase()));
   await mkdir(outputPath, { recursive: true });
   const usedIds = new Set();
@@ -544,8 +544,8 @@ export async function convertDataset(inputPath, outputPath) {
     converted_at: new Date().toISOString(),
     input_path: path.resolve(inputPath),
     output_path: path.resolve(outputPath),
-    source_status: 'unverified',
-    source_license: 'Unknown',
+    source_status: options.sourceStatus ?? 'unverified',
+    source_license: options.sourceLicense ?? 'Unknown',
     files_scanned: files.length,
     annotations_written: 0,
     entities_written: 0,
@@ -559,11 +559,11 @@ export async function convertDataset(inputPath, outputPath) {
       const records = await readRecords(sourceFile);
       let convertedItems = [];
       if (records?.coco) convertedItems = convertCoco(records.coco, sourceFile, manifest.warnings);
-      else if (records?.vaipe_word_boxes) convertedItems = [{ annotation: convertVaipeWordBoxes(records.vaipe_word_boxes, sourceFile, [`Imported from ${path.basename(sourceFile)}; chưa xác nhận quyền sử dụng.`], inputPath) }];
+      else if (records?.vaipe_word_boxes) convertedItems = [{ annotation: convertVaipeWordBoxes(records.vaipe_word_boxes, sourceFile, [`Imported from ${path.basename(sourceFile)}; ${options.permissionNote ?? 'chưa xác nhận quyền sử dụng.'}`], inputPath) }];
       else if (records?.length && records.some((record) => Array.isArray(record?.annotations))) {
-        convertedItems = records.map((record, index) => ({ annotation: convertRecord(record, sourceFile, index) }));
+        convertedItems = records.map((record, index) => ({ annotation: convertRecord(record, sourceFile, index, options.permissionNote) }));
       } else {
-        convertedItems = (records ?? []).map((record, index) => ({ annotation: convertRecord(record, sourceFile, index) }));
+        convertedItems = (records ?? []).map((record, index) => ({ annotation: convertRecord(record, sourceFile, index, options.permissionNote) }));
       }
       for (const [index, item] of convertedItems.entries()) {
         const annotation = item.annotation;
