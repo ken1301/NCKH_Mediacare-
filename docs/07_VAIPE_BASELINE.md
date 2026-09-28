@@ -139,6 +139,15 @@ npm run build:medication-drafts -- `
 
 Draft chỉ có các trường có bằng chứng từ OCR. `DOSE`, `FREQUENCY`, `DURATION`, `TIMING` chưa được tự điền; mọi thuốc đều ở `needs_review`.
 
+## Pending cho các phase tiếp theo
+
+- `P2 — Medication NER đầy đủ`: chờ annotation riêng cho `STRENGTH`, `DOSE`, `FREQUENCY`, `DURATION`, `TIMING`.
+- `P3 — Relation Extraction`: chờ quan hệ `DRUG → HAS_*`; không suy ra relation chỉ từ khoảng cách giữa các word box.
+- `P4 — Trusted Drug Entity Linking`: chờ nguồn CSDL thuốc chính thức có hoạt chất, hàm lượng, dạng thuốc và quyền truy cập rõ ràng.
+- `P5 — Publication/production`: chờ xác nhận license/quyền sử dụng VAIPE-P; Kaggle mirror hiện chỉ là nguồn phát triển nội bộ.
+
+Các phase pending này không được thay thế bằng metric giả hoặc bằng cách dùng nhãn gold của test làm prediction.
+
 ## Trạng thái dữ liệu
 
 Dataset Kaggle vẫn `license=Unknown`, `access_status=unverified`, `approved_for_publication=false`. Tất cả manifest/report/raw data sinh từ dataset này chỉ lưu local.
