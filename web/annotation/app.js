@@ -1,6 +1,7 @@
 const ENTITY_LABELS = ['DRUG', 'STRENGTH', 'DOSE', 'FORM', 'ROUTE', 'FREQUENCY', 'DURATION', 'TIMING', 'INSTRUCTION'];
 const RELATION_TYPES = ['HAS_STRENGTH', 'HAS_DOSE', 'HAS_FORM', 'HAS_ROUTE', 'HAS_FREQUENCY', 'HAS_DURATION', 'HAS_TIMING', 'HAS_INSTRUCTION'];
 const COLORS = { drugname: '#c27f22', usage: '#96701f', other: '#7b8b94', diagnose: '#a85c6d', quantity: '#6f67a8', date: '#527ba0' };
+const ENTITY_COLORS = ['#0d7770', '#2e6f9e', '#8257a6', '#b56535', '#9a6b1f', '#2d8660', '#a64764', '#58677d'];
 
 const state = {
   annotator: localStorage.getItem('medicare-annotator') ?? 'annotator-a',
@@ -15,6 +16,7 @@ const state = {
   imageScale: 1,
   zoomMode: 'fit',
   selectedEntityId: null,
+  relationPreview: { sourceId: null, targetId: null },
   saving: false
 };
 
@@ -26,6 +28,20 @@ const api = async (url, options) => {
   if (!response.ok) throw new Error(payload.error ?? 'Request thất bại.');
   return payload;
 };
+
+function entityKey(entity) {
+  const index = state.entities.findIndex((item) => item.id === entity?.id);
+  return index >= 0 ? `E${index + 1}` : 'E?';
+}
+
+function entityColor(entity) {
+  const index = state.entities.findIndex((item) => item.id === entity?.id);
+  return ENTITY_COLORS[Math.max(0, index) % ENTITY_COLORS.length];
+}
+
+function entityOptionLabel(entity) {
+  return `${entityKey(entity)} · ${entity.label} · ${String(entity.text ?? '').slice(0, 30)}`;
+}
 
 function setStatus(message, type = '') {
   $('save-status').textContent = message;
@@ -81,6 +97,7 @@ function loadWorkingState(payload) {
   }
   state.dirty = false;
   state.selectedEntityId = null;
+  state.relationPreview = { sourceId: null, targetId: null };
   state.zoomMode = 'fit';
   $('dirty-badge').textContent = payload.draft ? 'Saved' : 'Draft';
   $('dirty-badge').className = `draft-badge${payload.draft ? ' saved' : ''}`;
@@ -102,9 +119,10 @@ function renderEntities() {
   const list = $('entity-list');
   $('entity-count').textContent = state.entities.filter((entity) => entity.included !== false).length;
   list.innerHTML = state.entities.map((entity, index) => `
-    <article class="entity-card ${entity.included === false ? 'excluded' : ''} ${state.selectedEntityId === entity.id ? 'selected' : ''}" data-entity-index="${index}">
+    <article class="entity-card ${entity.included === false ? 'excluded' : ''} ${state.selectedEntityId === entity.id ? 'selected' : ''}" data-entity-index="${index}" style="--entity-color:${entityColor(entity)}">
       <div class="entity-card-head">
         <input type="checkbox" data-action="toggle-entity" ${entity.included !== false ? 'checked' : ''} aria-label="Giữ entity ${index + 1}" />
+        <span class="entity-key" title="Mã entity dùng để nối relation">${entityKey(entity)}</span>
         <select data-action="entity-label" aria-label="Label entity ${index + 1}">${optionHtml(ENTITY_LABELS, entity.label)}</select>
         <button class="focus-entity" type="button" data-action="focus-entity" aria-pressed="${state.selectedEntityId === entity.id}" aria-label="Soi entity ${index + 1} trên ảnh">◎</button>
         <button type="button" data-action="remove-entity" aria-label="Xóa entity ${index + 1}">×</button>
@@ -147,6 +165,7 @@ function onRemoveEntity(event) {
   const card = event.target.closest('[data-entity-index]');
   const id = state.entities[Number(card.dataset.entityIndex)].id;
   if (state.selectedEntityId === id) state.selectedEntityId = null;
+  if (state.relationPreview.sourceId === id || state.relationPreview.targetId === id) state.relationPreview = { sourceId: null, targetId: null };
   state.entities.splice(Number(card.dataset.entityIndex), 1);
   state.relations = state.relations.filter((relation) => relation.source_entity_id !== id && relation.target_entity_id !== id);
   const idMap = new Map(state.entities.map((entity, index) => [entity.id, `entity_${index + 1}`]));
@@ -162,13 +181,49 @@ function onRemoveEntity(event) {
 
 function renderEntityControls() {
   const included = state.entities.filter((entity) => entity.included !== false);
-  const options = included.map((entity) => `<option value="${escapeHtml(entity.id)}">${escapeHtml(entity.label)} · ${escapeHtml(entity.text.slice(0, 26))}</option>`).join('');
-  $('relation-source').innerHTML = options;
-  $('relation-target').innerHTML = options;
+  const previousSource = $('relation-source').value;
+  const previousTarget = $('relation-target').value;
+  const relationType = $('relation-type').value || 'HAS_STRENGTH';
+  const expectedTargetLabel = relationType.replace('HAS_', '');
+  const sources = included.filter((entity) => entity.label === 'DRUG');
+  const source = sources.find((entity) => entity.id === previousSource) ?? sources[0];
+  const targets = included.filter((entity) => entity.label === expectedTargetLabel && entity.id !== source?.id);
+  const sourceOptions = sources.length
+    ? sources.map((entity) => `<option value="${escapeHtml(entity.id)}">${escapeHtml(entityOptionLabel(entity))}</option>`).join('')
+    : '<option value="">Chưa có entity DRUG</option>';
+  const targetOptions = targets.length
+    ? targets.map((entity) => `<option value="${escapeHtml(entity.id)}">${escapeHtml(entityOptionLabel(entity))}</option>`).join('')
+    : `<option value="">Chưa có entity ${escapeHtml(expectedTargetLabel)}</option>`;
+  $('relation-source').innerHTML = sourceOptions;
+  $('relation-target').innerHTML = targetOptions;
+  if (source) $('relation-source').value = source.id;
+  const target = targets.find((entity) => entity.id === previousTarget) ?? targets[0];
+  if (target) $('relation-target').value = target.id;
   const words = state.current?.raw_words ?? [];
   $('new-entity-word').innerHTML = words.map((word) => `<option value="${escapeHtml(word.id)}">#${escapeHtml(word.id)} · ${escapeHtml(word.text.slice(0, 30))}</option>`).join('');
   $('new-entity-label').innerHTML = optionHtml(ENTITY_LABELS, 'DRUG');
   if (words[0] && !$('new-entity-text').value) $('new-entity-text').value = words[0].text ?? '';
+  renderRelationPreview();
+}
+
+function renderRelationPreview() {
+  const preview = $('relation-preview');
+  if (!preview) return;
+  const byId = new Map(state.entities.map((entity) => [entity.id, entity]));
+  const source = byId.get($('relation-source').value);
+  const target = byId.get($('relation-target').value);
+  state.relationPreview = { sourceId: source?.id ?? null, targetId: target?.id ?? null };
+  if (!source || !target) {
+    preview.className = 'relation-preview empty';
+    preview.innerHTML = '<span class="relation-preview-icon">↗</span><span>Chọn source và target để xem entity trên ảnh.</span>';
+  } else if (source.id === target.id) {
+    preview.className = 'relation-preview invalid';
+    preview.innerHTML = '<strong>Chọn hai entity khác nhau.</strong>';
+  } else {
+    preview.className = 'relation-preview ready';
+    preview.innerHTML = `<span class="entity-pill" style="--entity-color:${entityColor(source)}">${entityKey(source)}</span><strong>${escapeHtml($('relation-type').value)}</strong><span class="entity-pill" style="--entity-color:${entityColor(target)}">${entityKey(target)}</span><small>${escapeHtml(source.text)} → ${escapeHtml(target.text)}</small>`;
+  }
+  drawCanvas();
 }
 
 function renderRelations() {
@@ -177,7 +232,7 @@ function renderRelations() {
   $('relation-list').innerHTML = state.relations.map((relation, index) => {
     const source = byId.get(relation.source_entity_id);
     const target = byId.get(relation.target_entity_id);
-    return `<div class="relation-row"><div class="relation-copy"><strong>${escapeHtml(source?.text ?? relation.source_entity_id)}</strong> <span>${escapeHtml(relation.type)}</span> <strong>${escapeHtml(target?.text ?? relation.target_entity_id)}</strong><small>${relation.needs_review ? 'needs_review' : 'reviewed'}</small></div><button type="button" data-relation-index="${index}" aria-label="Xóa relation">×</button></div>`;
+    return `<div class="relation-row"><div class="relation-copy"><div class="relation-line"><span class="entity-pill" style="--entity-color:${entityColor(source)}">${entityKey(source)}</span><strong>${escapeHtml(source?.text ?? relation.source_entity_id)}</strong><span class="relation-type">${escapeHtml(relation.type)}</span><span class="entity-pill" style="--entity-color:${entityColor(target)}">${entityKey(target)}</span><strong>${escapeHtml(target?.text ?? relation.target_entity_id)}</strong></div><small>${relation.needs_review ? 'needs_review' : 'reviewed'} · ID: ${escapeHtml(relation.id)}</small></div><button type="button" data-relation-index="${index}" aria-label="Xóa relation">×</button></div>`;
   }).join('') || '<p class="helper-text">Chưa có relation.</p>';
   $('relation-list').querySelectorAll('[data-relation-index]').forEach((button) => button.addEventListener('click', () => {
     state.relations.splice(Number(button.dataset.relationIndex), 1);
@@ -241,12 +296,53 @@ function drawCanvas() {
   for (const entity of state.entities.filter((item) => item.included !== false)) {
     const [x1, y1, x2, y2] = entity.bbox;
     const selected = entity.id === state.selectedEntityId;
-    context.strokeStyle = selected ? '#be5c35' : '#087d74';
-    context.lineWidth = selected ? Math.max(5, image.naturalWidth / 360) : Math.max(3, image.naturalWidth / 500);
+    const isSource = entity.id === state.relationPreview.sourceId;
+    const isTarget = entity.id === state.relationPreview.targetId;
+    const previewColor = isSource ? '#b44c3a' : isTarget ? '#2e6f9e' : entityColor(entity);
+    context.strokeStyle = selected || isSource || isTarget ? previewColor : entityColor(entity);
+    context.lineWidth = selected || isSource || isTarget ? Math.max(5, image.naturalWidth / 360) : Math.max(3, image.naturalWidth / 500);
     context.strokeRect(x1, y1, x2 - x1, y2 - y1);
-    context.fillStyle = selected ? '#be5c3528' : '#087d7428';
+    context.fillStyle = `${previewColor}28`;
     context.fillRect(x1, y1, x2 - x1, y2 - y1);
+    drawEntityTag(context, entityKey(entity), x1, y1, previewColor, image.naturalWidth);
   }
+  const byId = new Map(state.entities.map((entity) => [entity.id, entity]));
+  const previewSource = byId.get(state.relationPreview.sourceId);
+  const previewTarget = byId.get(state.relationPreview.targetId);
+  if (previewSource && previewTarget && previewSource.id !== previewTarget.id) {
+    const sourceCenter = boxCenter(previewSource.bbox);
+    const targetCenter = boxCenter(previewTarget.bbox);
+    context.save();
+    context.strokeStyle = '#8f4e42';
+    context.lineWidth = Math.max(3, image.naturalWidth / 500);
+    context.setLineDash([Math.max(8, image.naturalWidth / 80), Math.max(6, image.naturalWidth / 110)]);
+    context.beginPath();
+    context.moveTo(sourceCenter.x, sourceCenter.y);
+    context.lineTo(targetCenter.x, targetCenter.y);
+    context.stroke();
+    context.restore();
+  }
+}
+
+function boxCenter(box) {
+  return { x: (Number(box?.[0] ?? 0) + Number(box?.[2] ?? 0)) / 2, y: (Number(box?.[1] ?? 0) + Number(box?.[3] ?? 0)) / 2 };
+}
+
+function drawEntityTag(context, label, x, y, color, imageWidth) {
+  const fontSize = Math.max(13, imageWidth / 65);
+  const paddingX = Math.max(5, imageWidth / 180);
+  const height = fontSize + paddingX * 1.7;
+  context.save();
+  context.font = `800 ${fontSize}px ui-sans-serif, system-ui, sans-serif`;
+  const width = context.measureText(label).width + paddingX * 2;
+  const tagX = Math.max(0, x);
+  const tagY = y >= height ? y - height : y;
+  context.fillStyle = color;
+  context.fillRect(tagX, tagY, width, height);
+  context.fillStyle = '#ffffff';
+  context.textBaseline = 'middle';
+  context.fillText(label, tagX + paddingX, tagY + height / 2);
+  context.restore();
 }
 
 function fitCanvas() {
@@ -450,6 +546,9 @@ function setupEvents() {
   $('add-entity-button').addEventListener('click', addEntity);
   $('add-relation-button').addEventListener('click', addRelation);
   $('relation-type').innerHTML = optionHtml(RELATION_TYPES, 'HAS_STRENGTH');
+  $('relation-source').addEventListener('change', renderRelationPreview);
+  $('relation-target').addEventListener('change', renderRelationPreview);
+  $('relation-type').addEventListener('change', renderEntityControls);
   $('save-button').addEventListener('click', saveAnnotation);
   ['privacy-deidentified', 'privacy-reviewed', 'privacy-approved', 'mark-complete', 'review-notes'].forEach((id) => $(id).addEventListener('change', markDirty));
   document.addEventListener('keydown', (event) => {

@@ -130,11 +130,12 @@ td:nth-child(2) { max-width: 230px; }
 .section-title-row { justify-content: space-between; gap: 10px; margin-bottom: 7px; }
 .helper-text { margin-bottom: 11px; color: var(--muted); font-size: 11px; }
 .entity-list, .relation-list { display: grid; gap: 8px; }
-.entity-card { padding: 10px; border: 1px solid var(--line); border-radius: 10px; background: #fbfcfc; transition: border-color .15s ease, box-shadow .15s ease, background-color .15s ease; }
+.entity-card { padding: 10px; border: 1px solid var(--line); border-left: 4px solid var(--entity-color, var(--brand)); border-radius: 10px; background: #fbfcfc; transition: border-color .15s ease, box-shadow .15s ease, background-color .15s ease; }
 .entity-card.selected { border-color: #be5c35; background: #fffaf7; box-shadow: 0 0 0 2px rgba(190,92,53,.13); }
 .entity-card.excluded { opacity: .48; }
 .entity-card-head { display: flex; align-items: center; gap: 7px; margin-bottom: 7px; }
 .entity-card-head input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--brand); }
+.entity-key { display: inline-flex; flex: none; align-items: center; justify-content: center; min-width: 30px; height: 26px; padding: 0 6px; border-radius: 7px; background: var(--entity-color, var(--brand)); color: white; font-size: 10px; font-weight: 850; letter-spacing: .04em; }
 .entity-card-head select { min-width: 0; flex: 1; height: 30px; padding: 0 4px; border: 1px solid #cbdadd; background: white; color: var(--ink); font-size: 11px; font-weight: 750; }
 .entity-card-head button, .relation-row button { width: 36px; min-width: 36px; height: 36px; padding: 0; border: 0; background: transparent; color: var(--muted); font-size: 18px; }
 .entity-card-head .focus-entity { color: var(--brand-deep); font-size: 20px; }
@@ -150,10 +151,20 @@ td:nth-child(2) { max-width: 230px; }
 .add-entity-box label, .review-section label { margin-bottom: 8px; }
 .form-grid select, .relation-form select, .add-entity-box input, .notes-field textarea { width: 100%; min-height: 32px; padding: 5px 7px; border: 1px solid #cbdadd; background: white; color: var(--ink); font-size: 11px; }
 .relation-form { display: grid; gap: 7px; }
+.relation-field-label { display: inline-flex; align-items: center; gap: 5px; }
+.step-index { display: inline-grid; place-items: center; width: 17px; height: 17px; border-radius: 50%; background: var(--brand-soft); color: var(--brand-deep); font-size: 9px; font-weight: 850; }
 .relation-form .button { width: 100%; margin-top: 2px; }
+.relation-preview { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; min-height: 42px; padding: 8px 9px; border: 1px solid #cfe3e1; border-radius: 9px; background: #f5fbfa; color: var(--muted); font-size: 10px; }
+.relation-preview.ready { border-color: #9ed0c9; color: var(--ink); }
+.relation-preview.invalid { border-color: #e3b6a8; background: #fff5f1; color: var(--danger); }
+.relation-preview-icon { color: var(--brand); font-size: 16px; font-weight: 800; }
+.relation-preview small { flex-basis: 100%; overflow: hidden; color: var(--muted); text-overflow: ellipsis; white-space: nowrap; }
+.entity-pill { display: inline-flex; align-items: center; justify-content: center; min-width: 27px; padding: 3px 6px; border-left: 3px solid var(--entity-color, var(--brand)); border-radius: 5px; background: white; color: var(--entity-color, var(--brand)); font-size: 9px; font-weight: 850; letter-spacing: .03em; }
 .relation-row { display: grid; grid-template-columns: 1fr auto; gap: 5px; align-items: center; padding: 8px; border: 1px solid #d9e6e5; border-radius: 9px; background: #f6fbfa; }
 .relation-copy { min-width: 0; color: var(--ink); font-size: 11px; }
+.relation-line { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; }
 .relation-copy strong { color: var(--brand-deep); }
+.relation-type { padding: 3px 5px; border-radius: 5px; background: #e8f2f1; color: var(--brand-deep); font-size: 9px; font-weight: 800; }
 .relation-copy small { display: block; margin-top: 2px; color: var(--muted); font-size: 10px; }
 .check-row { gap: 8px; margin-bottom: 9px; color: var(--ink); font-size: 11px; font-weight: 600; }
 .check-row input { width: 16px; height: 16px; accent-color: var(--brand); }

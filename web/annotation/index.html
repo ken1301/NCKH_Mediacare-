@@ -91,7 +91,7 @@
           </div>
           <div id="canvas-legend" class="canvas-legend" hidden>
             <span><i class="legend-swatch source"></i>OCR source</span>
-            <span><i class="legend-swatch entity"></i>Entity đang review</span>
+            <span><i class="legend-swatch entity"></i>Entity · mã E#</span>
             <span><i class="legend-swatch selected"></i>Entity đang chọn</span>
           </div>
         </div>
@@ -118,7 +118,7 @@
         <div id="inspector-content" hidden>
           <section class="inspector-section">
             <div class="section-title-row"><h3>Entities</h3><span id="entity-count" class="subtle-count">0</span></div>
-            <p class="helper-text">Candidate chỉ là gợi ý. Bấm <strong>◎</strong> để soi entity trên ảnh, rồi kiểm tra text và bbox trước khi giữ lại.</p>
+            <p class="helper-text">Mỗi entity có mã <strong>E1, E2…</strong> và màu riêng. Bấm <strong>◎</strong> để soi entity trên ảnh, rồi kiểm tra text và bbox trước khi giữ lại.</p>
             <div id="entity-list" class="entity-list"></div>
             <div class="add-entity-box">
               <h4>Thêm entity từ word box</h4>
@@ -133,11 +133,12 @@
 
           <section class="inspector-section relation-section">
             <div class="section-title-row"><h3>Relations</h3><span id="relation-count-current" class="subtle-count">0</span></div>
-            <p class="helper-text">Relation chỉ lưu khi source là DRUG và target đúng loại field.</p>
+            <p class="helper-text">Dùng mã <strong>E#</strong> để tránh nhầm text trùng nhau. Source luôn là thuốc <strong>DRUG</strong>; đường nối xem trước sẽ hiện trên ảnh.</p>
             <div class="relation-form">
-              <label>Source<select id="relation-source"></select></label>
-              <label>Type<select id="relation-type"></select></label>
-              <label>Target<select id="relation-target"></select></label>
+              <label><span class="relation-field-label"><span class="step-index">1</span> Source · thuốc DRUG</span><select id="relation-source"></select></label>
+              <label><span class="relation-field-label"><span class="step-index">2</span> Type · quan hệ</span><select id="relation-type"></select></label>
+              <label><span class="relation-field-label"><span class="step-index">3</span> Target · field cần nối</span><select id="relation-target"></select></label>
+              <div id="relation-preview" class="relation-preview empty" aria-live="polite"><span class="relation-preview-icon">↗</span><span>Chọn source và target để xem entity trên ảnh.</span></div>
               <button id="add-relation-button" class="button button-secondary" type="button">+ Nối relation</button>
             </div>
             <div id="relation-list" class="relation-list"></div>
