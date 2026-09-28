@@ -6,7 +6,8 @@ Phát triển MediCare theo thứ tự:
 
 ```text
 Chốt bài toán → Xây dựng dữ liệu → Baseline → AI lõi
-→ Kiểm chứng an toàn → Prototype ứng dụng → Đánh giá → Báo cáo
+→ Kiểm chứng an toàn → Prototype ứng dụng → Deployment benchmark
+→ Đánh giá → Báo cáo
 ```
 
 Trọng tâm xuyên suốt là biến ảnh đơn thuốc Việt Nam thành **kế hoạch sử dụng thuốc có cấu trúc, được chuẩn hóa và có kiểm chứng**.
@@ -122,6 +123,28 @@ Thông tin thuốc hiển thị phải lấy từ nguồn có kiểm soát.
 - Đo Clinically Critical Error Rate.
 - Hoàn thiện khóa luận, bài báo, demo và tài liệu hướng dẫn.
 
+### Giai đoạn 9 — Benchmark kiến trúc triển khai (RQ6)
+
+**Thời điểm:** Sau khi pipeline mô hình chính đạt trạng thái ổn định; có thể chạy song song với giai đoạn 8.
+
+So sánh ba profile trên cùng tập test, cùng phiên bản model và cùng protocol:
+
+1. **Cloud/server:** thiết bị gửi ảnh, server chạy OCR và prescription understanding.
+2. **Hybrid edge-cloud:** thiết bị tiền xử lý và/hoặc OCR, server chạy prescription understanding.
+3. **On-device:** toàn bộ pipeline khả thi chạy trên thiết bị.
+
+Các chỉ số bắt buộc:
+
+- Accuracy: dùng lại các metric P0–P3; không trộn metric OCR với medication metric.
+- Latency: P50, P95, P99; tách stage latency và end-to-end latency.
+- Computational cost: model size, peak memory, CPU/GPU utilization.
+- Network: request/response payload và số lần round-trip.
+- Privacy: ảnh gốc/text OCR có rời thiết bị hay không, dữ liệu lưu ở đâu và có bên thứ ba nào xử lý.
+
+Target đầu tiên là **P95 end-to-end < 3 giây cho server inference**. Mốc `end-to-end` được tính từ lúc bắt đầu upload đến khi client nhận kết quả; server-only latency phải được báo cáo riêng. Chưa được upload dữ liệu VAIPE-P lên cloud bên ngoài khi quyền sử dụng và tình trạng ẩn danh chưa được xác nhận.
+
+**Đầu ra:** bảng trade-off cloud/hybrid/on-device, file benchmark reproducible, khuyến nghị architecture và phân tích giới hạn.
+
 ---
 
 ## 3. Phân chia công việc
@@ -186,7 +209,8 @@ Không đánh giá bằng một vài ảnh mẫu; phải có tập test độc l
 4. Gán đúng thông tin cho từng thuốc.
 5. Confidence và user verification.
 6. Prototype scan → verify → schedule.
-7. Các tính năng mở rộng.
+7. Deployment benchmark RQ6.
+8. Các tính năng mở rộng.
 
 Các tính năng như chữ viết tay, tương tác thuốc, LLM/VLM và tư vấn nâng cao chỉ thực hiện sau khi hoàn thành pipeline lõi.
 
@@ -205,6 +229,7 @@ Lộ trình được xem là hoàn thành khi nhóm có:
 - Prototype MediCare.
 - Kết quả đánh giá kỹ thuật và an toàn.
 - Báo cáo giới hạn, failure cases và hướng phát triển.
+- Benchmark cloud/hybrid/on-device với P95 latency, tài nguyên, payload và privacy report.
 
 ---
 
@@ -216,4 +241,3 @@ Lộ trình được xem là hoàn thành khi nhóm có:
 - Không tự kê đơn, thay đổi liều hoặc chẩn đoán.
 - Dữ liệu thuốc phải có nguồn và có thể truy vết.
 - Khi không chắc chắn, hệ thống phải yêu cầu người dùng xác nhận.
-

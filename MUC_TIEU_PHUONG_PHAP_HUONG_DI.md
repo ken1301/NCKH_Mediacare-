@@ -107,6 +107,14 @@ Hệ thống có thể liên kết chính xác thuốc với hàm lượng, li�
 
 Cơ chế xác nhận dựa trên độ tin cậy có làm giảm lỗi nghiêm trọng liên quan đến thuốc hay không?
 
+### RQ6
+
+Đánh đổi giữa độ chính xác, độ trễ, chi phí tính toán và quyền riêng tư thay đổi như thế nào giữa ba chiến lược triển khai **cloud**, **hybrid edge-cloud** và **on-device**?
+
+RQ6 được thực hiện sau khi pipeline mô hình chính ổn định. Nhóm đo trên cùng một tập test và cùng protocol các chỉ số: accuracy, P50/P95 latency, kích thước model, bộ nhớ cực đại, CPU/GPU, network payload và đường đi của dữ liệu nhạy cảm.
+
+**Target ban đầu:** P95 end-to-end của server inference dưới 3 giây. Sau đó thử kiến trúc ưu tiên riêng tư: OCR trên thiết bị, prescription understanding phía server. Đây là target thực nghiệm, không phải cam kết sản phẩm trước khi đo.
+
 ---
 
 ## 6. Hướng đi nghiên cứu cốt lõi
@@ -512,4 +520,3 @@ Trước mỗi quyết định về tính năng, mô hình hoặc phạm vi, nh�
 5. Có vượt quá phạm vi khóa luận hiện tại không?
 
 Nếu câu trả lời không rõ, ưu tiên hoàn thiện pipeline lõi và ghi ý tưởng đó vào phần hướng phát triển thay vì đưa ngay vào sản phẩm chính.
-

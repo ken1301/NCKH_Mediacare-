@@ -146,6 +146,39 @@ Draft chỉ có các trường có bằng chứng từ OCR. `DOSE`, `FREQUENCY`,
 - `P4 — Trusted Drug Entity Linking`: chờ nguồn CSDL thuốc chính thức có hoạt chất, hàm lượng, dạng thuốc và quyền truy cập rõ ràng.
 - `P5 — Publication/production`: chờ xác nhận license/quyền sử dụng VAIPE-P; Kaggle mirror hiện chỉ là nguồn phát triển nội bộ.
 
+## RQ6 — Deployment architecture benchmark
+
+RQ6 được chạy sau khi model chính và medication pipeline ổn định. Mục tiêu là đo bằng số liệu thực nghiệm sự đánh đổi giữa accuracy, latency, computational cost và privacy; không kết luận kiến trúc chỉ từ cảm nhận “server chậm” hoặc “on-device nhẹ hơn”.
+
+### Ba profile cần so sánh
+
+| Profile | Đường đi dữ liệu | Phạm vi inference |
+|---|---|---|
+| Cloud/server | Thiết bị gửi ảnh → server → kết quả | OCR + prescription understanding trên server |
+| Hybrid edge-cloud | Thiết bị tiền xử lý/OCR → server → kết quả | OCR một phần ở edge, understanding trên server |
+| On-device | Ảnh được xử lý và giữ trên thiết bị | Toàn bộ pipeline khả thi trên thiết bị |
+
+### Metrics và target
+
+- **Accuracy:** dùng cùng tập test và metric P0–P3; khi chưa có annotation medication đầy đủ chỉ báo cáo OCR/box/text metric, không tạo medication metric giả.
+- **Latency:** P50, P95, P99 cho từng stage và end-to-end.
+- **Model/resource:** kích thước model trên disk, peak memory/RSS, CPU/GPU utilization.
+- **Network:** request payload, response payload, tổng bytes và số round-trip.
+- **Privacy:** ảnh gốc có rời thiết bị không, text OCR có rời thiết bị không, dữ liệu có lưu/log không, có bên thứ ba xử lý không.
+- **Reliability:** timeout/error rate và số lần retry.
+
+Target ban đầu của MediCare là **P95 end-to-end < 3 giây cho server inference**. Đồng hồ end-to-end bắt đầu khi client khởi tạo request/upload và kết thúc khi nhận response; server-only latency phải đo riêng để không che khuất chi phí mạng.
+
+### Protocol bắt buộc
+
+1. Dùng cùng một tập test cố định, cùng preprocessing, cùng model checkpoint và cùng output schema cho cả ba profile.
+2. Ghi rõ hardware, OS, runtime, phiên bản model, network condition và warm-up policy.
+3. Chạy warm-up trước; đo toàn bộ test set nếu có thể. Nếu lặp mẫu, phải báo số lần lặp và seed.
+4. Lưu raw timing/resource logs ở local report; chỉ commit script, schema và summary không nhạy cảm.
+5. Không upload raw VAIPE-P hoặc dữ liệu đơn thuốc chưa được phê duyệt lên cloud bên ngoài. Giai đoạn hiện tại chỉ benchmark local/loopback hoặc dữ liệu đã có quyền rõ ràng.
+
+Protocol chi tiết và schema log nằm tại [`docs/08_DEPLOYMENT_BENCHMARK.md`](08_DEPLOYMENT_BENCHMARK.md).
+
 Các phase pending này không được thay thế bằng metric giả hoặc bằng cách dùng nhãn gold của test làm prediction.
 
 ## Trạng thái dữ liệu
