@@ -13,6 +13,7 @@
     "evaluate:baseline": "node scripts/evaluate-vaipe-baseline.mjs",
     "build:drug-candidates": "node scripts/build-vaipe-drug-candidates.mjs",
     "evaluate:drug-linking": "node scripts/evaluate-vaipe-drug-linking.mjs",
-    "build:medication-drafts": "node scripts/build-vaipe-medication-drafts.mjs"
+    "build:medication-drafts": "node scripts/build-vaipe-medication-drafts.mjs",
+    "validate:medication-annotations": "node scripts/validate-medication-annotations.mjs"
   }
 }

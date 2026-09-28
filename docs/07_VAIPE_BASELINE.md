@@ -139,6 +139,26 @@ npm run build:medication-drafts -- `
 
 Draft chỉ có các trường có bằng chứng từ OCR. `DOSE`, `FREQUENCY`, `DURATION`, `TIMING` chưa được tự điền; mọi thuốc đều ở `needs_review`.
 
+## Annotation readiness gate cho P2/P3
+
+Schema annotation đầy đủ cho medication NER và relation extraction nằm tại:
+
+```text
+schemas/medication_annotation.schema.json
+```
+
+Validator chỉ kiểm tra tính hợp lệ của entity/relation, không tự tạo nhãn medication và không biến VAIPE-P thành annotation đầy đủ:
+
+```powershell
+npm run validate:medication-annotations -- `
+  --input dataset/external/vaipe-p-medicare-annotations `
+  --output dataset/metadata/vaipe-p-baseline/annotation-readiness.json
+```
+
+Các quan hệ được chấp nhận gồm `DRUG → HAS_STRENGTH/DOSE/FORM/ROUTE/FREQUENCY/DURATION/TIMING/INSTRUCTION`. Annotation partial không bị coi là lỗi, nhưng report phải ghi rõ thiếu relation hoặc thiếu field. Chỉ annotation `complete` đã được review mới đủ điều kiện làm gold label cho P2/P3.
+
+Kết quả chạy trên VAIPE-P conversion hiện tại: `1.173/1.173` record hợp lệ về cấu trúc sau legacy compatibility; có `6.838` entity gồm `2.844 DRUG` và `3.994 INSTRUCTION`, nhưng có `0` relation và `0` record complete. Vì vậy dataset này hiện chỉ đủ cho P0/P1 exploratory và kiểm thử pipeline; chưa đủ làm gold label cho Medication NER/Relation Extraction.
+
 ## Pending cho các phase tiếp theo
 
 - `P2 — Medication NER đầy đủ`: chờ annotation riêng cho `STRENGTH`, `DOSE`, `FREQUENCY`, `DURATION`, `TIMING`.
