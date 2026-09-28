@@ -186,6 +186,8 @@ Nếu annotation không có `ocr_words`, script chỉ dùng entity box fallback 
 
 Quy tắc gán nhãn và adjudication nằm tại [`docs/10_ANNOTATION_GUIDELINE.md`](10_ANNOTATION_GUIDELINE.md).
 
+> **Lưu ý về trạng thái:** các số liệu baseline ở trên mô tả conversion/candidate của VAIPE-P và không bao gồm các record review cục bộ phát sinh sau đó. Trạng thái thực tế của Annotator A/B, số sample đã lưu và cách bàn giao được ghi trong [`docs/12_ANNOTATION_HANDOFF.md`](12_ANNOTATION_HANDOFF.md).
+
 ## Experiment gate
 
 Trước khi huấn luyện P2/P3, chạy gate:

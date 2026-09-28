@@ -76,6 +76,25 @@ Annotator đọc theo layout đơn thuốc, không chỉ theo thứ tự file OC
 - Thiếu duration không được gán `0 ngày`.
 - Không dùng nhãn `diagnose`, `date`, `other` làm medication entity.
 
+### 5.1. Một thuốc có nhiều hàm lượng
+
+Một dòng thuốc có thể chứa nhiều hàm lượng, ví dụ `150mg, 20mg`, thường gặp ở thuốc phối hợp. Đây không phải lỗi chỉ vì có nhiều `STRENGTH`:
+
+```text
+DRUG → HAS_STRENGTH → 150mg
+DRUG → HAS_STRENGTH → 20mg
+```
+
+Chỉ tạo cả hai relation khi cả hai giá trị thực sự xuất hiện trong vùng thuốc trên ảnh. Không được nhầm `SL: 20 Viên` (số lượng cấp phát) thành `20mg`. Nếu chưa xác định được giá trị thứ hai là hàm lượng hay số lượng, giữ `needs_review=true`, ghi chú bất đồng và không đánh dấu `annotation_status=complete`.
+
+### 5.2. Ý nghĩa trạng thái
+
+- `partial`: chỉ có một phần thông tin, thường là dữ liệu chuyển đổi ban đầu chưa đủ medication relation.
+- `needs_review`: đã có annotation nhưng còn trường/entity/relation cần người kiểm tra.
+- `complete`: annotator đã kiểm tra toàn bộ bằng chứng trên ảnh, mọi entity/relation đều không còn `needs_review=true`.
+
+`complete` của Annotator A/B vẫn chưa phải gold. Chỉ record của `reviewer` thỏa privacy gate, relation gate và review gate mới được phép đưa vào gold set.
+
 ## 6. Quy trình hai annotator
 
 ### Pass A — độc lập
@@ -97,6 +116,21 @@ Không gộp agreement entity với OCR accuracy hoặc linking accuracy.
 ### Pass C — adjudication
 
 Reviewer quyết định các disagreement và ghi lý do. Chỉ bản adjudicated mới có `annotation_status=complete`. Bản còn tranh chấp dùng `needs_review`; bản chỉ có `DRUG/INSTRUCTION` như VAIPE-P hiện tại dùng `partial`.
+
+### Pass D — bàn giao trong Annotation Studio
+
+1. Annotator A và B chọn cùng `sample_id` nhưng làm ở role riêng, không xem thư mục làm việc của nhau.
+2. Bắt đầu từ filter `Chưa bắt đầu`; dùng zoom/fit và kiểm tra từng entity trên ảnh.
+3. Khi sample có nhiều hàm lượng hoặc liên kết khó, để `needs_review` và ghi chú thay vì ép chọn một cách đọc.
+4. Lưu local vào `dataset/working/medication-annotations/<annotator-id>/`.
+5. Chỉ sau khi A/B hoàn tất vòng độc lập mới export bundle, so sánh agreement và chuyển disagreement cho Reviewer.
+
+Hướng dẫn vận hành UI, export/import và trạng thái hiện tại nằm tại:
+
+```text
+docs/11_ANNOTATION_STUDIO.md
+docs/12_ANNOTATION_HANDOFF.md
+```
 
 ## 7. Checklist trước khi đưa vào gold set
 

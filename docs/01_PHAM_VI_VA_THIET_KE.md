@@ -27,7 +27,7 @@ Sản phẩm nghiên cứu không được định nghĩa là “ứng dụng OC
 - Đơn thuốc Việt Nam dạng in hoặc bán cấu trúc.
 - Ảnh chụp bằng điện thoại hoặc ảnh tải lên.
 - Một hoặc nhiều thuốc trên cùng đơn.
-- Các trường: tên thuốc, hoạt chất, hàm lượng, liều, dạng thuốc, đường dùng, tần suất, thời gian, thời điểm và hướng dẫn.
+- Các trường nghiên cứu: tên thuốc, hoạt chất, hàm lượng, liều, dạng thuốc, đường dùng, tần suất, thời gian, thời điểm và hướng dẫn.
 - Lỗi OCR phổ biến về ký tự, dấu tiếng Việt, chữ số và đơn vị.
 - Liên kết thông tin hướng dẫn với đúng thuốc.
 - Chuẩn hóa tên thuốc bằng nhiều thuộc tính và drug database.
@@ -59,7 +59,7 @@ Sản phẩm nghiên cứu không được định nghĩa là “ứng dụng OC
 | `TIMING` | Thời điểm dùng | `sau ăn` |
 | `INSTRUCTION` | Hướng dẫn bổ sung | `uống nhiều nước` |
 
-### 3.2. Quan hệ bắt buộc
+### 3.2. Quan hệ trong thiết kế nghiên cứu
 
 ```text
 DRUG → HAS_ACTIVE_INGREDIENT
@@ -73,7 +73,9 @@ DRUG → HAS_TIMING
 DRUG → HAS_INSTRUCTION
 ```
 
-Một trường không xuất hiện phải có giá trị `null` hoặc danh sách rỗng, không được tự suy đoán.
+Đây là đầy đủ các quan hệ mục tiêu của thiết kế nghiên cứu. Một trường không xuất hiện phải có giá trị `null` hoặc danh sách rỗng, không được tự suy đoán.
+
+> **Biên giới schema vận hành hiện tại:** `schemas/medication_annotation.schema.json` và Annotation Studio đang dùng `medication.annotation.v1`, gồm `DRUG`, `STRENGTH`, `DOSE`, `FORM`, `ROUTE`, `FREQUENCY`, `DURATION`, `TIMING`, `INSTRUCTION` và các quan hệ `DRUG → HAS_*`. `ACTIVE_INGREDIENT`/`HAS_ACTIVE_INGREDIENT` vẫn là hướng mở rộng của thiết kế nghiên cứu, nhưng chưa được dùng trong vòng annotation A/B hiện tại. Không tự thêm nhãn này vào file v1 nếu chưa có quyết định nâng schema.
 
 ## 4. Quy tắc chuẩn hóa
 
@@ -178,4 +180,3 @@ Tất cả pipeline phải được đánh giá trên cùng tập test và cùng
 3. Chuẩn bị template annotation.
 4. Thu thập một batch dữ liệu nhỏ để thử quy trình.
 5. Gắn nhãn thử và kiểm tra độ thống nhất giữa hai thành viên.
-

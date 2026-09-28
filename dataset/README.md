@@ -19,6 +19,11 @@ dataset/
 └── samples/             # Mẫu tổng hợp, không phải dữ liệu thật
 ```
 
+Quy trình thao tác web local và cách bàn giao hai annotator nằm tại:
+
+- `docs/11_ANNOTATION_STUDIO.md`
+- `docs/12_ANNOTATION_HANDOFF.md`
+
 ## Nguồn dữ liệu
 
 Chi tiết nguồn và quy trình thu thập nằm tại:
@@ -73,6 +78,8 @@ dataset/templates/annotation.template.json
 ```
 
 Annotation cần lưu cả văn bản gốc, tọa độ bounding box, nhãn thực thể, quan hệ, văn bản chuẩn hóa và ghi chú không chắc chắn.
+
+Schema vận hành của vòng annotation hiện tại là `medication.annotation.v1`. Các nhãn thực thể hợp lệ là `DRUG`, `STRENGTH`, `DOSE`, `FORM`, `ROUTE`, `FREQUENCY`, `DURATION`, `TIMING`, `INSTRUCTION`; `ACTIVE_INGREDIENT` là hướng mở rộng nghiên cứu, chưa dùng trong vòng A/B nếu chưa được chốt và cập nhật schema.
 
 ## Quy trình thêm một mẫu
 

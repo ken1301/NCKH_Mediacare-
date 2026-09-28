@@ -11,7 +11,6 @@ Mỗi entity phải có `id`, `label`, `text`, `bbox` theo thứ tự `[x_min, y
 | Nhãn | Ý nghĩa | Ví dụ |
 |---|---|---|
 | `DRUG` | Tên thương mại hoặc tên thuốc | `Augmentin` |
-| `ACTIVE_INGREDIENT` | Hoạt chất được ghi trên đơn | `amoxicillin` |
 | `STRENGTH` | Hàm lượng hoặc nồng độ | `625 mg` |
 | `DOSE` | Lượng dùng mỗi lần | `1 viên` |
 | `FORM` | Dạng bào chế | `viên nén` |
@@ -33,10 +32,9 @@ Mỗi entity phải có `id`, `label`, `text`, `bbox` theo thứ tự `[x_min, y
 
 Mỗi quan hệ có dạng `source_entity_id`, `type`, `target_entity_id`. Source của quan hệ thuốc–hướng dẫn phải là `DRUG`.
 
-Các quan hệ được phép:
+Các quan hệ được phép trong `medication.annotation.v1`:
 
 ```text
-DRUG → HAS_ACTIVE_INGREDIENT → ACTIVE_INGREDIENT
 DRUG → HAS_STRENGTH → STRENGTH
 DRUG → HAS_DOSE → DOSE
 DRUG → HAS_FORM → FORM
@@ -48,6 +46,10 @@ DRUG → HAS_INSTRUCTION → INSTRUCTION
 ```
 
 Không nối thông tin của thuốc này sang thuốc kế bên chỉ dựa vào vị trí gần nhau.
+
+Một thuốc có thể có nhiều `STRENGTH` nếu trên cùng vùng thuốc có nhiều hàm lượng, ví dụ `150mg, 20mg`. Khi đó giữ hai
+entity và tạo hai relation `HAS_STRENGTH`. Không nhầm `SL: 20 Viên` với `20mg`: đây là số lượng cấp phát, không phải
+hàm lượng. Nếu chưa đủ bằng chứng để phân biệt, giữ `needs_review=true` và không đánh dấu hoàn tất.
 
 ## 5. Chuẩn hóa annotation
 
@@ -70,7 +72,21 @@ Không tự sửa các trường có thể làm thay đổi ý nghĩa y khoa n�
 - Hướng dẫn áp dụng toàn đơn: gắn `global_instruction`, không gán tùy tiện cho từng thuốc.
 - Chữ viết tay trong phiên bản 1: đánh dấu `out_of_scope` nếu không thuộc phạm vi.
 
-## 7. Review hai người
+## 7. Trạng thái và kiểm tra hai người
+
+Chỉ dùng đúng ba trạng thái của schema:
+
+- `partial`: annotation một phần, chưa đủ field/relation.
+- `needs_review`: còn entity/relation hoặc quyết định an toàn cần kiểm tra.
+- `complete`: đã kiểm tra toàn bộ bằng chứng; mọi entity/relation đều không còn `needs_review=true`.
+
+`complete` của Annotator A/B chỉ là kết quả vòng độc lập, chưa phải gold. Reviewer phải adjudicate các disagreement và
+record của Reviewer mới có thể đủ điều kiện vào `dataset/annotations/gold/`.
+
+Quy trình thực tế dùng Annotation Studio được mô tả tại `docs/11_ANNOTATION_STUDIO.md` và trạng thái bàn giao tại
+`docs/12_ANNOTATION_HANDOFF.md`.
+
+## 8. Review hai người
 
 1. Annotator A gắn nhãn độc lập.
 2. Annotator B gắn nhãn độc lập, không xem kết quả của A.
@@ -79,4 +95,3 @@ Không tự sửa các trường có thể làm thay đổi ý nghĩa y khoa n�
 5. Reviewer cuối quyết định nhãn chuẩn.
 
 Theo dõi entity agreement, label agreement, relation agreement và tỷ lệ mẫu cần review.
-

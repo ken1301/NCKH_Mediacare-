@@ -35,9 +35,11 @@ Adapter hiện hỗ trợ các dạng thường gặp:
 - VAIPE word-box JSON: danh sách `{text, label, box}` trong mỗi file đơn thuốc.
 - JSON records có field `drug`, `strength`, `dose`, `frequency`, ...
 
-Nhãn được chuyển sang:
+Nhãn nguồn được adapter nhận diện để thống kê và chuyển đổi. Tuy nhiên, annotation vận hành hiện tại phải tuân theo `medication.annotation.v1`:
 
-`DRUG`, `ACTIVE_INGREDIENT`, `STRENGTH`, `DOSE`, `FORM`, `ROUTE`, `FREQUENCY`, `DURATION`, `TIMING`, `INSTRUCTION`.
+`DRUG`, `STRENGTH`, `DOSE`, `FORM`, `ROUTE`, `FREQUENCY`, `DURATION`, `TIMING`, `INSTRUCTION`.
+
+Một số bộ dữ liệu nguồn hoặc thiết kế mở rộng có thể chứa `ACTIVE_INGREDIENT`. Nhãn này được giữ trong báo cáo/cảnh báo nguồn để nghiên cứu tiếp, nhưng chưa được đưa vào schema v1 và không được coi là annotation hợp lệ cho vòng Annotator A/B. Không tự đổi hoạt chất thành `DRUG` hoặc tạo `HAS_ACTIVE_INGREDIENT` khi chưa chốt schema mở rộng.
 
 Nhãn lạ, entity thiếu text, bbox thiếu hoặc relation không ghép được sẽ được đưa vào `review.notes`/`needs_review`; script không tự đoán nội dung y khoa.
 
