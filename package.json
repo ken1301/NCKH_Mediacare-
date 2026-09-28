@@ -16,6 +16,7 @@
     "build:medication-drafts": "node scripts/build-vaipe-medication-drafts.mjs",
     "validate:medication-annotations": "node scripts/validate-medication-annotations.mjs",
     "build:medication-annotation-queue": "node scripts/build-medication-annotation-queue.mjs",
+    "build:medication-annotation-candidates": "node scripts/build-medication-annotation-candidates.mjs",
     "analyze:baseline-errors": "node scripts/build-vaipe-error-analysis.mjs",
     "build:medication-bio": "node scripts/build-medication-bio.mjs",
     "prepare:medication-experiment": "node scripts/prepare-medication-experiment.mjs"

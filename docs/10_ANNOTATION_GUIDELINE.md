@@ -111,6 +111,8 @@ Reviewer quyết định các disagreement và ghi lý do. Chỉ bản adjudicat
 
 Queue review có thể tạo bằng `npm run build:medication-annotation-queue`. Queue chỉ lập danh sách công việc và giữ số relation hiện có; script không tự sinh relation, gold label hoặc metric.
 
+Có thể tạo ứng viên hỗ trợ bằng `npm run build:medication-annotation-candidates`. Output này chỉ là `candidate_only`, mọi entity/relation đều `needs_review=true`, không được đưa trực tiếp vào train/test hoặc báo cáo metric.
+
 ## 8. Output tối thiểu
 
 ```json
