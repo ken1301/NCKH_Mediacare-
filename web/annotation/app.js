@@ -5,13 +5,17 @@ const COLORS = { drugname: '#c27f22', usage: '#96701f', other: '#7b8b94', diagno
 const state = {
   annotator: localStorage.getItem('medicare-annotator') ?? 'annotator-a',
   samples: [],
+  visibleSamples: [],
   currentIndex: -1,
   current: null,
   entities: [],
   relations: [],
   dirty: false,
   image: null,
-  imageScale: 1
+  imageScale: 1,
+  zoomMode: 'fit',
+  selectedEntityId: null,
+  saving: false
 };
 
 const $ = (id) => document.getElementById(id);
@@ -76,6 +80,8 @@ function loadWorkingState(payload) {
     $('review-notes').value = '';
   }
   state.dirty = false;
+  state.selectedEntityId = null;
+  state.zoomMode = 'fit';
   $('dirty-badge').textContent = payload.draft ? 'Saved' : 'Draft';
   $('dirty-badge').className = `draft-badge${payload.draft ? ' saved' : ''}`;
 }
@@ -83,6 +89,7 @@ function loadWorkingState(payload) {
 function markDirty() {
   state.dirty = true;
   $('dirty-badge').textContent = 'Unsaved';
+  $('dirty-badge').className = 'draft-badge unsaved';
   setStatus('Có thay đổi chưa lưu');
   drawCanvas();
 }
@@ -95,10 +102,11 @@ function renderEntities() {
   const list = $('entity-list');
   $('entity-count').textContent = state.entities.filter((entity) => entity.included !== false).length;
   list.innerHTML = state.entities.map((entity, index) => `
-    <article class="entity-card ${entity.included === false ? 'excluded' : ''}" data-entity-index="${index}">
+    <article class="entity-card ${entity.included === false ? 'excluded' : ''} ${state.selectedEntityId === entity.id ? 'selected' : ''}" data-entity-index="${index}">
       <div class="entity-card-head">
         <input type="checkbox" data-action="toggle-entity" ${entity.included !== false ? 'checked' : ''} aria-label="Giữ entity ${index + 1}" />
         <select data-action="entity-label" aria-label="Label entity ${index + 1}">${optionHtml(ENTITY_LABELS, entity.label)}</select>
+        <button class="focus-entity" type="button" data-action="focus-entity" aria-pressed="${state.selectedEntityId === entity.id}" aria-label="Soi entity ${index + 1} trên ảnh">◎</button>
         <button type="button" data-action="remove-entity" aria-label="Xóa entity ${index + 1}">×</button>
       </div>
       <input class="entity-text" data-action="entity-text" value="${escapeHtml(entity.text)}" aria-label="Text entity ${index + 1}" />
@@ -109,7 +117,16 @@ function renderEntities() {
     </article>
   `).join('') || '<p class="helper-text">Chưa có entity. Chọn word box rồi thêm entity.</p>';
   list.querySelectorAll('[data-action]').forEach((control) => control.addEventListener('change', onEntityChange));
+  list.querySelectorAll('[data-action="focus-entity"]').forEach((button) => button.addEventListener('click', onFocusEntity));
   list.querySelectorAll('[data-action="remove-entity"]').forEach((button) => button.addEventListener('click', onRemoveEntity));
+}
+
+function onFocusEntity(event) {
+  const card = event.target.closest('[data-entity-index]');
+  const entity = state.entities[Number(card.dataset.entityIndex)];
+  state.selectedEntityId = state.selectedEntityId === entity.id ? null : entity.id;
+  renderEntities();
+  drawCanvas();
 }
 
 function onEntityChange(event) {
@@ -129,6 +146,7 @@ function onEntityChange(event) {
 function onRemoveEntity(event) {
   const card = event.target.closest('[data-entity-index]');
   const id = state.entities[Number(card.dataset.entityIndex)].id;
+  if (state.selectedEntityId === id) state.selectedEntityId = null;
   state.entities.splice(Number(card.dataset.entityIndex), 1);
   state.relations = state.relations.filter((relation) => relation.source_entity_id !== id && relation.target_entity_id !== id);
   const idMap = new Map(state.entities.map((entity, index) => [entity.id, `entity_${index + 1}`]));
@@ -186,19 +204,31 @@ function renderInspector() {
 
 function drawCanvas() {
   const canvas = $('prescription-canvas');
+  const viewport = $('canvas-viewport');
+  const zoomLabel = $('zoom-label');
+  const hasImage = Boolean(state.image && state.current);
   if (!state.image || !state.current) {
     canvas.hidden = true;
+    viewport.hidden = true;
     $('empty-stage').hidden = false;
     $('canvas-legend').hidden = true;
+    ['zoom-out-button', 'zoom-in-button', 'fit-button'].forEach((id) => { $(id).disabled = true; });
+    zoomLabel.textContent = 'Fit';
     return;
   }
   canvas.hidden = false;
+  viewport.hidden = false;
   $('empty-stage').hidden = true;
   $('canvas-legend').hidden = false;
+  ['zoom-out-button', 'zoom-in-button', 'fit-button'].forEach((id) => { $(id).disabled = !hasImage; });
   const image = state.image;
   canvas.width = image.naturalWidth;
   canvas.height = image.naturalHeight;
+  canvas.style.width = `${Math.round(image.naturalWidth * state.imageScale)}px`;
+  canvas.style.height = `${Math.round(image.naturalHeight * state.imageScale)}px`;
+  zoomLabel.textContent = state.zoomMode === 'fit' ? 'Fit' : `${Math.round(state.imageScale * 100)}%`;
   const context = canvas.getContext('2d');
+  context.clearRect(0, 0, canvas.width, canvas.height);
   context.drawImage(image, 0, 0);
   context.lineWidth = Math.max(2, image.naturalWidth / 700);
   for (const word of state.current.raw_words) {
@@ -210,34 +240,86 @@ function drawCanvas() {
   }
   for (const entity of state.entities.filter((item) => item.included !== false)) {
     const [x1, y1, x2, y2] = entity.bbox;
-    context.strokeStyle = '#087d74';
-    context.lineWidth = Math.max(3, image.naturalWidth / 500);
+    const selected = entity.id === state.selectedEntityId;
+    context.strokeStyle = selected ? '#be5c35' : '#087d74';
+    context.lineWidth = selected ? Math.max(5, image.naturalWidth / 360) : Math.max(3, image.naturalWidth / 500);
     context.strokeRect(x1, y1, x2 - x1, y2 - y1);
-    context.fillStyle = '#087d7428';
+    context.fillStyle = selected ? '#be5c3528' : '#087d7428';
     context.fillRect(x1, y1, x2 - x1, y2 - y1);
   }
+}
+
+function fitCanvas() {
+  if (!state.image || !state.current) return;
+  const viewport = $('canvas-viewport');
+  const availableWidth = Math.max(260, viewport.clientWidth - 24);
+  const availableHeight = Math.max(300, window.innerHeight - 350);
+  state.imageScale = Math.min(1, availableWidth / state.image.naturalWidth, availableHeight / state.image.naturalHeight);
+  state.zoomMode = 'fit';
+  drawCanvas();
+}
+
+function adjustZoom(delta) {
+  if (!state.image || !state.current) return;
+  state.zoomMode = 'manual';
+  state.imageScale = Math.min(3, Math.max(0.4, state.imageScale + delta));
+  drawCanvas();
 }
 
 async function loadSamples() {
   const payload = await api(`/api/annotation/samples?annotator=${encodeURIComponent(state.annotator)}`);
   state.samples = payload.samples;
-  $('sample-count').textContent = payload.samples.length;
   $('saved-count').textContent = payload.stats.saved;
   $('relation-count').textContent = payload.stats.relations;
   renderSampleList();
 }
 
+function filteredSamples() {
+  const search = $('sample-search').value.trim().toLowerCase();
+  const filter = $('sample-filter').value;
+  return state.samples.filter((sample) => {
+    const matchesSearch = !search || sample.sample_id.toLowerCase().includes(search);
+    const matchesFilter = filter === 'all' || draftStatus(sample) === filter;
+    return matchesSearch && matchesFilter;
+  });
+}
+
 function renderSampleList() {
-  const search = $('sample-search').value.toLowerCase();
-  const visible = state.samples.filter((sample) => !search || sample.sample_id.toLowerCase().includes(search));
+  state.visibleSamples = filteredSamples();
+  const list = $('sample-list');
+  list.scrollTop = 0;
+  $('sample-count').textContent = state.visibleSamples.length;
+  list.setAttribute('aria-label', `${state.visibleSamples.length} sample đang hiển thị`);
+  renderSampleWindow();
+}
+
+function renderSampleWindow() {
+  const list = $('sample-list');
+  const visible = state.visibleSamples;
+  const rowHeight = 57;
+  const overscan = 8;
+  const start = Math.max(0, Math.floor(list.scrollTop / rowHeight) - overscan);
+  const end = Math.min(visible.length, Math.ceil((list.scrollTop + list.clientHeight) / rowHeight) + overscan);
+  const topSpacer = start * rowHeight;
+  const bottomSpacer = Math.max(0, (visible.length - end) * rowHeight);
+  const rows = visible.slice(start, end);
   $('sample-count').textContent = visible.length;
-  $('sample-list').innerHTML = visible.map((sample) => `<button class="sample-item" type="button" role="option" aria-selected="${state.current?.sample_id === sample.sample_id}" data-sample-id="${escapeHtml(sample.sample_id)}"><span class="sample-item-marker" aria-hidden="true"></span><span><span class="sample-id">${escapeHtml(sample.sample_id)}</span><span class="sample-meta">${sample.raw_word_count} words · ${sample.candidate_relation_count} candidates</span></span><span class="sample-status ${escapeHtml(sample.draft_status)}">${escapeHtml(sample.draft_status)}</span></button>`).join('') || '<p class="helper-text" style="padding:16px">Không tìm thấy sample.</p>';
-  $('sample-list').querySelectorAll('[data-sample-id]').forEach((button) => button.addEventListener('click', () => loadSample(button.dataset.sampleId)));
+  list.innerHTML = visible.length
+    ? `<div class="virtual-spacer" style="height:${topSpacer}px" aria-hidden="true"></div>${rows.map((sample) => `<button class="sample-item" type="button" role="option" aria-selected="${state.current?.sample_id === sample.sample_id}" data-sample-id="${escapeHtml(sample.sample_id)}"><span class="sample-item-marker" aria-hidden="true"></span><span><span class="sample-id">${escapeHtml(sample.sample_id)}</span><span class="sample-meta">${sample.raw_word_count} words · ${sample.candidate_relation_count} candidates</span></span><span class="sample-status ${escapeHtml(sample.draft_status)}">${escapeHtml(sample.draft_status)}</span></button>`).join('')}<div class="virtual-spacer" style="height:${bottomSpacer}px" aria-hidden="true"></div>`
+    : '<p class="helper-text" style="padding:16px">Không tìm thấy sample.</p>';
+  list.querySelectorAll('[data-sample-id]').forEach((button) => button.addEventListener('click', () => loadSample(button.dataset.sampleId)));
+}
+
+async function confirmDiscard() {
+  if (!state.dirty) return true;
+  return window.confirm('Mẫu hiện tại có thay đổi chưa lưu. Bạn muốn rời mẫu và bỏ thay đổi này không?');
 }
 
 async function loadSample(id) {
   const index = state.samples.findIndex((sample) => sample.sample_id === id);
   if (index < 0) return;
+  if (state.current?.sample_id === id) return;
+  if (!(await confirmDiscard())) return;
   const payload = await api(`/api/annotation/samples/${encodeURIComponent(id)}?annotator=${encodeURIComponent(state.annotator)}`);
   state.currentIndex = index;
   state.current = payload;
@@ -245,7 +327,7 @@ async function loadSample(id) {
   $('sample-title').textContent = payload.sample_id;
   $('new-entity-text').value = '';
   const image = new Image();
-  image.onload = () => { state.image = image; drawCanvas(); };
+  image.onload = () => { state.image = image; drawCanvas(); fitCanvas(); };
   image.onerror = () => setStatus('Không tải được ảnh sample.', 'error');
   image.src = `${payload.image_url}?t=${Date.now()}`;
   loadWorkingState(payload);
@@ -257,7 +339,15 @@ async function loadSample(id) {
 function moveSample(delta) {
   if (!state.samples.length) return;
   const next = Math.max(0, Math.min(state.samples.length - 1, state.currentIndex + delta));
-  loadSample(state.samples[next].sample_id);
+  return loadSample(state.samples[next].sample_id);
+}
+
+async function loadNextPending() {
+  const start = state.currentIndex >= 0 ? state.currentIndex + 1 : 0;
+  const ordered = [...state.samples.slice(start), ...state.samples.slice(0, start)];
+  const next = ordered.find((sample) => draftStatus(sample) !== 'complete');
+  if (!next) return setStatus('Không còn sample cần review.', 'success');
+  await loadSample(next.sample_id);
 }
 
 function addEntity() {
@@ -308,32 +398,55 @@ function recordForSave() {
 }
 
 async function saveAnnotation() {
-  if (!state.current) return;
+  if (!state.current || state.saving) return;
+  state.saving = true;
+  $('save-button').disabled = true;
+  $('save-button').textContent = 'Đang lưu…';
   const record = recordForSave();
   setStatus('Đang lưu…');
   try {
     const result = await api(`/api/annotation/samples/${encodeURIComponent(state.current.sample_id)}`, { method: 'PUT', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ annotator: state.annotator, record }) });
     state.dirty = false;
     $('dirty-badge').textContent = 'Saved';
+    $('dirty-badge').className = 'draft-badge saved';
     setStatus(`Đã lưu · ${result.validation.warnings.length} warning`, 'success');
     await loadSamples();
     renderSampleList();
   } catch (error) {
     setStatus(error.message, 'error');
+  } finally {
+    state.saving = false;
+    $('save-button').disabled = false;
+    $('save-button').textContent = 'Lưu annotation';
   }
 }
 
 function setupEvents() {
   $('annotator-select').value = state.annotator;
   $('annotator-select').addEventListener('change', async (event) => {
+    if (!(await confirmDiscard())) {
+      event.target.value = state.annotator;
+      return;
+    }
     state.annotator = event.target.value;
     localStorage.setItem('medicare-annotator', state.annotator);
     await loadSamples();
-    if (state.current) await loadSample(state.current.sample_id);
+    if (state.current) {
+      const currentId = state.current.sample_id;
+      state.current = null;
+      state.image = null;
+      await loadSample(currentId);
+    }
   });
   $('sample-search').addEventListener('input', renderSampleList);
+  $('sample-filter').addEventListener('change', renderSampleList);
+  $('sample-list').addEventListener('scroll', renderSampleWindow, { passive: true });
+  $('next-pending-button').addEventListener('click', loadNextPending);
   $('previous-button').addEventListener('click', () => moveSample(-1));
   $('next-button').addEventListener('click', () => moveSample(1));
+  $('zoom-out-button').addEventListener('click', () => adjustZoom(-0.2));
+  $('zoom-in-button').addEventListener('click', () => adjustZoom(0.2));
+  $('fit-button').addEventListener('click', fitCanvas);
   $('add-entity-button').addEventListener('click', addEntity);
   $('add-relation-button').addEventListener('click', addRelation);
   $('relation-type').innerHTML = optionHtml(RELATION_TYPES, 'HAS_STRENGTH');
@@ -344,6 +457,14 @@ function setupEvents() {
     if (event.target.matches('input, textarea, select')) return;
     if (event.key === 'ArrowLeft') moveSample(-1);
     if (event.key === 'ArrowRight') moveSample(1);
+  });
+  window.addEventListener('beforeunload', (event) => {
+    if (!state.dirty) return;
+    event.preventDefault();
+    event.returnValue = '';
+  });
+  window.addEventListener('resize', () => {
+    if (state.zoomMode === 'fit') fitCanvas();
   });
 }
 

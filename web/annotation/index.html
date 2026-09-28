@@ -48,6 +48,18 @@
           <span><strong id="saved-count">0</strong> đã lưu</span>
           <span><strong id="relation-count">0</strong> relations</span>
         </div>
+        <div class="queue-tools">
+          <label class="filter-field" for="sample-filter">
+            <span class="sr-only">Lọc trạng thái sample</span>
+            <select id="sample-filter" aria-label="Lọc trạng thái sample">
+              <option value="all">Tất cả sample</option>
+              <option value="unreviewed">Chưa bắt đầu</option>
+              <option value="needs_review">Đang review</option>
+              <option value="complete">Đã hoàn tất</option>
+            </select>
+          </label>
+          <button id="next-pending-button" class="button button-secondary" type="button">Mẫu tiếp theo cần làm</button>
+        </div>
         <div id="sample-list" class="sample-list" role="listbox" aria-label="Samples"></div>
       </aside>
 
@@ -68,10 +80,19 @@
             <h3>Chọn mẫu để bắt đầu</h3>
             <p>Chọn một sample ở bên trái để xem ảnh, entity candidates và relations.</p>
           </div>
-          <canvas id="prescription-canvas" class="prescription-canvas" aria-label="Ảnh đơn thuốc với các bounding box"></canvas>
+          <div id="canvas-viewport" class="canvas-viewport" hidden>
+            <canvas id="prescription-canvas" class="prescription-canvas" aria-label="Ảnh đơn thuốc với các bounding box"></canvas>
+          </div>
+          <div class="canvas-controls" aria-label="Điều khiển hiển thị ảnh">
+            <button id="zoom-out-button" class="icon-button" type="button" aria-label="Thu nhỏ ảnh" disabled>−</button>
+            <span id="zoom-label" aria-live="polite">Fit</span>
+            <button id="zoom-in-button" class="icon-button" type="button" aria-label="Phóng to ảnh" disabled>+</button>
+            <button id="fit-button" class="button button-quiet fit-button" type="button" disabled>Vừa khung</button>
+          </div>
           <div id="canvas-legend" class="canvas-legend" hidden>
             <span><i class="legend-swatch source"></i>OCR source</span>
             <span><i class="legend-swatch entity"></i>Entity đang review</span>
+            <span><i class="legend-swatch selected"></i>Entity đang chọn</span>
           </div>
         </div>
         <details class="raw-words-details">
@@ -97,7 +118,7 @@
         <div id="inspector-content" hidden>
           <section class="inspector-section">
             <div class="section-title-row"><h3>Entities</h3><span id="entity-count" class="subtle-count">0</span></div>
-            <p class="helper-text">Candidate chỉ là gợi ý. Kiểm tra text và bbox trên ảnh trước khi giữ lại.</p>
+            <p class="helper-text">Candidate chỉ là gợi ý. Bấm <strong>◎</strong> để soi entity trên ảnh, rồi kiểm tra text và bbox trước khi giữ lại.</p>
             <div id="entity-list" class="entity-list"></div>
             <div class="add-entity-box">
               <h4>Thêm entity từ word box</h4>
