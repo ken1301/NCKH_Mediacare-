@@ -159,6 +159,45 @@ Các quan hệ được chấp nhận gồm `DRUG → HAS_STRENGTH/DOSE/FORM/ROU
 
 Kết quả chạy trên VAIPE-P conversion hiện tại: `1.173/1.173` record hợp lệ về cấu trúc sau legacy compatibility; có `6.838` entity gồm `2.844 DRUG` và `3.994 INSTRUCTION`, nhưng có `0` relation và `0` record complete. Vì vậy dataset này hiện chỉ đủ cho P0/P1 exploratory và kiểm thử pipeline; chưa đủ làm gold label cho Medication NER/Relation Extraction.
 
+## P0/P1 error analysis
+
+Chạy phân tích lỗi định lượng trên cùng test split:
+
+```powershell
+npm run analyze:baseline-errors -- `
+  --metadata dataset/metadata/vaipe-p-baseline `
+  --input dataset/external/vaipe-p `
+  --output dataset/metadata/vaipe-p-baseline/error-analysis.json
+```
+
+Report bao gồm phân bố OCR F1, phân bố linking recall, over/under-detection và kiểm tra lệch chuỗi chữ số sau khi ghép box theo IoU. Numeric check chỉ là **diagnostic proxy**, không phải Clinically Critical Error Rate và không thay thế annotation medication.
+
+## P2/P3 preprocessing scaffold
+
+Khung chuyển word boxes + entity boxes sang BIO token tags và evaluator relation triples nằm tại `src/dataset/ner-relation.mjs`. Chạy thử trên conversion local:
+
+```powershell
+npm run build:medication-bio -- `
+  --input dataset/external/vaipe-p-medicare-annotations `
+  --output dataset/metadata/vaipe-p-baseline/medication-bio.jsonl
+```
+
+Nếu annotation không có `ocr_words`, script chỉ dùng entity box fallback để kiểm tra contract và đánh dấu `ready_for_training=false`; không được dùng output fallback làm gold training data. Relation evaluator chỉ tính triple chính xác theo `type + source + target` khi đã có annotation relation.
+
+Quy tắc gán nhãn và adjudication nằm tại [`docs/10_ANNOTATION_GUIDELINE.md`](10_ANNOTATION_GUIDELINE.md).
+
+## Experiment gate
+
+Trước khi huấn luyện P2/P3, chạy gate:
+
+```powershell
+npm run prepare:medication-experiment -- `
+  --input dataset/external/vaipe-p-medicare-annotations `
+  --output dataset/metadata/vaipe-p-baseline/medication-experiment-readiness.json
+```
+
+Gate chỉ cho phép sample có `annotation_status=complete`, privacy đã review, được approved cho research và có ít nhất một relation. Không có sample đủ điều kiện thì trạng thái là `blocked`; không tạo split/train metric.
+
 ## Pending cho các phase tiếp theo
 
 - `P2 — Medication NER đầy đủ`: chờ annotation riêng cho `STRENGTH`, `DOSE`, `FREQUENCY`, `DURATION`, `TIMING`.
