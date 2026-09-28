@@ -5,6 +5,7 @@ import {
   scheduleMedication,
   verifyMedicationFields
 } from "./domain/medication-plan.mjs";
+import { buildMedicationDraft } from "./pipeline/medication-understanding.mjs";
 
 const store = createPlanStore();
 const port = Number(process.env.PORT ?? 3000);
@@ -37,6 +38,22 @@ const server = createServer(async (request, response) => {
 
     if (request.method === "GET" && parts.length === 1 && parts[0] === "health") {
       return sendJson(response, 200, { status: "ok", service: "medicare-backend" });
+    }
+
+    if (request.method === "POST" && parts.length === 2 && parts[0] === "prescriptions" && parts[1] === "from-ocr") {
+      const body = await readJson(request);
+      const draft = buildMedicationDraft({
+        prescriptionId: body.prescription_id,
+        ocrWords: body.ocr_words,
+        catalog: body.drug_catalog ?? [],
+        catalogIsTrusted: body.catalog_is_trusted === true,
+        linkOptions: body.link_options ?? {}
+      });
+      if (draft.plan.medications.length === 0) {
+        return sendJson(response, 422, { error: "Chưa đủ bằng chứng để tạo medication draft.", extraction_notes: draft.extraction_notes });
+      }
+      const plan = store.create(createMedicationPlan(draft.plan));
+      return sendJson(response, 201, { plan, extraction_notes: draft.extraction_notes });
     }
 
     if (request.method === "POST" && parts.length === 1 && parts[0] === "prescriptions") {
@@ -75,4 +92,3 @@ const server = createServer(async (request, response) => {
 server.listen(port, () => {
   console.log(`MediCare backend listening on http://localhost:${port}`);
 });
-

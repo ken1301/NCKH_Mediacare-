@@ -53,9 +53,10 @@ Không có ứng viên đủ điểm hoặc tên quá ngắn/không xác định
 
 Repository hiện chỉ dùng fixture trong test để kiểm thử thuật toán. Chưa đưa dữ liệu thuốc thật vào repo cho đến khi có nguồn và quyền sử dụng rõ ràng.
 
+VAIPE-P hiện được dùng để tạo `candidate-only catalog` từ train split nhằm benchmark exploratory. Đây không phải trusted drug database: không có hoạt chất/đăng ký thuốc đầy đủ, không được dùng cho production hoặc công bố chính thức.
+
 ## Chạy kiểm thử
 
 ```bash
 npm test
 ```
-

@@ -119,6 +119,45 @@ export function evaluateEntities(goldEntities, predictedEntities, { iouThreshold
   return result;
 }
 
+export function evaluateOcrWords(goldWords, predictedWords, { iouThreshold = 0.5 } = {}) {
+  const gold = Array.isArray(goldWords) ? goldWords : [];
+  const predicted = Array.isArray(predictedWords) ? predictedWords : [];
+  const candidates = [];
+  for (let goldIndex = 0; goldIndex < gold.length; goldIndex += 1) {
+    for (let predictedIndex = 0; predictedIndex < predicted.length; predictedIndex += 1) {
+      const iou = boxIoU(gold[goldIndex].bbox ?? gold[goldIndex].box, predicted[predictedIndex].bbox ?? predicted[predictedIndex].box);
+      if (iou >= iouThreshold) candidates.push({ goldIndex, predictedIndex, iou });
+    }
+  }
+  candidates.sort((left, right) => right.iou - left.iou);
+  const usedGold = new Set();
+  const usedPredicted = new Set();
+  const matches = [];
+  for (const candidate of candidates) {
+    if (usedGold.has(candidate.goldIndex) || usedPredicted.has(candidate.predictedIndex)) continue;
+    usedGold.add(candidate.goldIndex);
+    usedPredicted.add(candidate.predictedIndex);
+    matches.push(candidate);
+  }
+  const precision = predicted.length === 0 ? (gold.length === 0 ? 1 : 0) : matches.length / predicted.length;
+  const recall = gold.length === 0 ? (predicted.length === 0 ? 1 : 0) : matches.length / gold.length;
+  const textPairs = matches.map(({ goldIndex, predictedIndex }) => ({
+    gold: gold[goldIndex].text ?? '',
+    predicted: predicted[predictedIndex].text ?? ''
+  }));
+  return {
+    gold_count: gold.length,
+    predicted_count: predicted.length,
+    matched_count: matches.length,
+    precision,
+    recall,
+    f1: f1(precision, recall),
+    text_exact_accuracy: textPairs.length === 0 ? 0 : textPairs.filter((pair) => normalizeOcrText(pair.gold) === normalizeOcrText(pair.predicted)).length / textPairs.length,
+    mean_cer: textPairs.length === 0 ? 0 : textPairs.reduce((sum, pair) => sum + characterErrorRate(pair.gold, pair.predicted), 0) / textPairs.length,
+    mean_wer: textPairs.length === 0 ? 0 : textPairs.reduce((sum, pair) => sum + wordErrorRate(pair.gold, pair.predicted), 0) / textPairs.length
+  };
+}
+
 function evaluateEntitiesWithoutRecursion(gold, predicted, iouThreshold) {
   const matches = matchEntities(gold, predicted, iouThreshold);
   const precision = predicted.length === 0 ? (gold.length === 0 ? 1 : 0) : matches.length / predicted.length;

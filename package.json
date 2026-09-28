@@ -10,6 +10,9 @@
     "inspect:dataset": "node scripts/inspect-vaipe.mjs",
     "convert:dataset": "node scripts/convert-vaipe.mjs",
     "build:baseline": "node scripts/build-vaipe-baseline.mjs",
-    "evaluate:baseline": "node scripts/evaluate-vaipe-baseline.mjs"
+    "evaluate:baseline": "node scripts/evaluate-vaipe-baseline.mjs",
+    "build:drug-candidates": "node scripts/build-vaipe-drug-candidates.mjs",
+    "evaluate:drug-linking": "node scripts/evaluate-vaipe-drug-linking.mjs",
+    "build:medication-drafts": "node scripts/build-vaipe-medication-drafts.mjs"
   }
 }

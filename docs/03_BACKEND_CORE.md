@@ -31,6 +31,15 @@ Content-Type: application/json
 
 Body phải tuân theo `schemas/medication_plan.schema.json` ở mức domain tối thiểu.
 
+### Tạo medication plan từ OCR
+
+```http
+POST /prescriptions/from-ocr
+Content-Type: application/json
+```
+
+Request nhận `prescription_id`, `ocr_words` và `drug_catalog`. Mặc định catalog không được coi là trusted; với candidate catalog từ VAIPE-P phải để `catalog_is_trusted: false`. Kết quả luôn bắt đầu ở `needs_verification`.
+
 ### Xem plan
 
 ```http
@@ -67,6 +76,5 @@ Lịch nhắc chỉ được tạo khi plan và medication đã `verified`.
 
 - Store đang lưu trong bộ nhớ, restart server sẽ mất dữ liệu.
 - Chưa có authentication.
-- Chưa kết nối OCR, dataset hoặc drug database thật.
+- Chưa kết nối trusted drug database thật.
 - Đây là backend prototype, chưa dùng cho dữ liệu y tế thật.
-

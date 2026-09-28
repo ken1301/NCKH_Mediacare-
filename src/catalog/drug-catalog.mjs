@@ -45,6 +45,23 @@ export function parseStrength(value) {
   };
 }
 
+export function extractDrugNameAndStrength(rawText) {
+  const raw = String(rawText ?? '').normalize('NFKC').trim();
+  const withoutOrdinal = raw.replace(/^\s*\d+\s*[).:-]\s*/, '').trim();
+  const strengthPattern = /\d+(?:[.,]\d+)?\s*(?:mcg|µg|ug|mg|g|ml)\b/gi;
+  const strengths = [...withoutOrdinal.matchAll(strengthPattern)].map((match) => match[0].replace(/\s+/g, ' ').trim());
+  const drugName = withoutOrdinal
+    .replace(strengthPattern, ' ')
+    .replace(/[+,:;/-]+\s*$/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return {
+    raw_text: raw,
+    drug_name: drugName || withoutOrdinal,
+    strengths
+  };
+}
+
 function levenshtein(left, right) {
   const previous = Array.from({ length: right.length + 1 }, (_, index) => index);
   for (let row = 1; row <= left.length; row += 1) {

@@ -1,11 +1,20 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import {
+  extractDrugNameAndStrength,
   createDrugCatalogRepository,
   linkDrug,
   normalizeDrugText,
   parseStrength
 } from "../src/catalog/drug-catalog.mjs";
+
+test("tách tên thuốc và hàm lượng khỏi drugname word box", () => {
+  assert.deepEqual(extractDrugNameAndStrength("2) NOVOXIM-500 0,5g"), {
+    raw_text: "2) NOVOXIM-500 0,5g",
+    drug_name: "NOVOXIM-500",
+    strengths: ["0,5g"]
+  });
+});
 
 const catalog = [
   {
@@ -64,4 +73,3 @@ test("repository hỗ trợ thêm, tìm kiếm và liên kết", () => {
   assert.equal(repository.search({ drug_name: "Augmentin" })[0].drug_database_id, "test:augmentin-625");
   assert.equal(repository.link({ raw_text: "Augrnentin 625rng" }).status, "linked");
 });
-

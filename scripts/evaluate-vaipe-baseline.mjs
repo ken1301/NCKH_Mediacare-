@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { evaluateEntities } from '../src/dataset/baseline-metrics.mjs';
+import { evaluateEntities, evaluateOcrWords } from '../src/dataset/baseline-metrics.mjs';
 
 function option(name, fallback) {
   const index = process.argv.indexOf(name);
@@ -15,6 +15,10 @@ function entitiesFromWords(words) {
   }));
 }
 
+function ocrWordsFromGold(words) {
+  return words.map((word) => ({ text: word.text ?? '', bbox: word.box ?? null }));
+}
+
 async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, 'utf8'));
 }
@@ -27,20 +31,26 @@ const manifest = await readJson(manifestPath);
 const predictions = predictionsPath ? await readJson(predictionsPath) : null;
 const predictionMap = new Map();
 if (Array.isArray(predictions)) {
-  for (const item of predictions) predictionMap.set(item.sample_id, item.entities ?? item.predictions ?? []);
+  for (const item of predictions) predictionMap.set(item.sample_id, item);
 } else if (predictions && typeof predictions === 'object') {
-  for (const [sampleId, item] of Object.entries(predictions)) predictionMap.set(sampleId, item.entities ?? item.predictions ?? item);
+  for (const [sampleId, item] of Object.entries(predictions)) predictionMap.set(sampleId, item);
 }
 
 const perSample = [];
 for (const sample of manifest) {
   const goldRaw = await readJson(path.resolve(input, sample.annotation));
   const gold = entitiesFromWords(goldRaw);
+  const goldOcr = ocrWordsFromGold(goldRaw);
   if (!predictionsPath) {
     perSample.push({ sample_id: sample.sample_id, gold_entity_count: gold.length, prediction_status: 'not_provided' });
     continue;
   }
-  perSample.push({ sample_id: sample.sample_id, ...evaluateEntities(gold, predictionMap.get(sample.sample_id) ?? []) });
+  const prediction = predictionMap.get(sample.sample_id) ?? {};
+  const predictedOcr = prediction.ocr ?? prediction.words ?? prediction;
+  const predictedEntities = prediction.entities ?? [];
+  const ocr = evaluateOcrWords(goldOcr, predictedOcr);
+  const entities = predictedEntities.length > 0 ? evaluateEntities(gold, predictedEntities) : null;
+  perSample.push({ sample_id: sample.sample_id, ocr, entities });
 }
 
 const report = {
@@ -55,18 +65,23 @@ const report = {
     text_normalization: 'lowercase, remove Vietnamese diacritics, collapse non-alphanumeric whitespace'
   },
   samples: perSample.length,
-  samples_with_gold: perSample.filter((sample) => sample.gold_entity_count > 0).length,
+  samples_with_gold: perSample.filter((sample) => predictionsPath ? sample.ocr.gold_count > 0 : sample.gold_entity_count > 0).length,
   per_sample: perSample
 };
 if (predictionsPath) {
   const totals = perSample.reduce((accumulator, sample) => {
-    for (const key of ['gold_count', 'predicted_count', 'matched_count']) accumulator[key] += sample[key];
+    for (const key of ['gold_count', 'predicted_count', 'matched_count']) accumulator[key] += sample.ocr[key];
     return accumulator;
   }, { gold_count: 0, predicted_count: 0, matched_count: 0 });
   totals.precision = totals.predicted_count === 0 ? 0 : totals.matched_count / totals.predicted_count;
   totals.recall = totals.gold_count === 0 ? 0 : totals.matched_count / totals.gold_count;
   totals.f1 = totals.precision + totals.recall === 0 ? 0 : (2 * totals.precision * totals.recall) / (totals.precision + totals.recall);
   report.micro = totals;
+  report.ocr_macro = {
+    text_exact_accuracy: perSample.reduce((sum, sample) => sum + sample.ocr.text_exact_accuracy, 0) / perSample.length,
+    mean_cer: perSample.reduce((sum, sample) => sum + sample.ocr.mean_cer, 0) / perSample.length,
+    mean_wer: perSample.reduce((sum, sample) => sum + sample.ocr.mean_wer, 0) / perSample.length
+  };
 }
 await mkdir(path.dirname(output), { recursive: true });
 await writeFile(output, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
