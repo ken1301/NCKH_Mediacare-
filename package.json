@@ -6,6 +6,7 @@
   "description": "Backend lõi cho Vietnamese Prescription Understanding.",
   "scripts": {
     "start": "node src/server.mjs",
+    "annotation:studio": "node src/annotation-server.mjs",
     "test": "node --test",
     "inspect:dataset": "node scripts/inspect-vaipe.mjs",
     "convert:dataset": "node scripts/convert-vaipe.mjs",
