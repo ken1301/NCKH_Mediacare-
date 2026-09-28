@@ -35,6 +35,40 @@ dataset/working/medication-annotations/<annotator-id>/<sample-id>.json
 
 Thư mục này đã được thêm vào `.gitignore` để không commit ảnh/annotation y tế vào repository. Raw dataset và candidate JSONL cũng không bị ghi đè.
 
+## Làm việc trên nhiều máy qua private repository
+
+Mỗi máy giữ một bản `working` riêng. Chỉ export các annotation JSON đã validate vào thư mục được đồng bộ trong private repository:
+
+```powershell
+npm run annotation:export -- --annotator annotator-a
+git add dataset/annotations/incoming/annotator-a
+git commit -m "data: sync annotator-a annotations"
+git push
+```
+
+Máy khác lấy bundle về rồi import vào working local:
+
+```powershell
+git pull
+npm run annotation:import
+```
+
+Không commit raw images, raw OCR dataset hoặc thư mục `dataset/working`. Nếu dùng private repository, vẫn cần tuân thủ quyền truy cập và quy định lưu trữ dữ liệu của nhóm.
+
+## Hợp nhất và xử lý conflict
+
+Sau khi các annotator đã export:
+
+```powershell
+npm run annotation:merge
+```
+
+Lệnh này tạo `dataset/annotations/merge-report.json` và chỉ ghi `dataset/annotations/gold/` khi record từ vai trò `reviewer` thỏa tất cả điều kiện: `complete`, đã de-identify, đã review privacy, được approved cho research, có relation và mọi entity/relation đã được kiểm tra.
+
+Nếu Annotator A và B cùng làm một sample nhưng khác entity/relation, report ghi `conflict`; hệ thống không tự chọn một bên. Reviewer phải mở sample, quyết định lại rồi export thư mục `incoming/reviewer` trước khi chạy merge lần nữa.
+
+Khuyến nghị cho nghiên cứu: A và B cùng annotate một tập calibration nhỏ để đo agreement; phần còn lại có thể chia riêng. `sample_id` là khóa ổn định để tránh trộn annotation giữa các máy.
+
 ## Điều kiện để chạy P2/P3
 
 Annotation Studio chỉ tạo dữ liệu review. Pipeline thí nghiệm vẫn phải kiểm tra gate:

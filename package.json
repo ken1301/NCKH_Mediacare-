@@ -18,6 +18,9 @@
     "validate:medication-annotations": "node scripts/validate-medication-annotations.mjs",
     "build:medication-annotation-queue": "node scripts/build-medication-annotation-queue.mjs",
     "build:medication-annotation-candidates": "node scripts/build-medication-annotation-candidates.mjs",
+    "annotation:export": "node scripts/sync-medication-annotations.mjs export",
+    "annotation:import": "node scripts/sync-medication-annotations.mjs import",
+    "annotation:merge": "node scripts/sync-medication-annotations.mjs merge",
     "analyze:baseline-errors": "node scripts/build-vaipe-error-analysis.mjs",
     "build:medication-bio": "node scripts/build-medication-bio.mjs",
     "prepare:medication-experiment": "node scripts/prepare-medication-experiment.mjs"

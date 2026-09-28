@@ -6,6 +6,13 @@ dataset/metadata/vaipe-p-baseline/**
 runtime/**
 dataset/working/**
 dataset/annotations/**
+!dataset/annotations/
+!dataset/annotations/incoming/
+!dataset/annotations/incoming/**/
+!dataset/annotations/incoming/**/*.json
+!dataset/annotations/gold/
+!dataset/annotations/gold/**/*.json
+!dataset/annotations/merge-report.json
 *.zip
 *.7z
 *.rar
