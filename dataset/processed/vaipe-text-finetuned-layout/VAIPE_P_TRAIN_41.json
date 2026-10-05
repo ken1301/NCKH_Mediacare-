@@ -1,0 +1,515 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_41",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_41.png",
+  "text": "1/1 MN c người 5bnh\nPK Số 2 [Nội] Số phiếu 46676/2019\nTOA THUỐC BHYT\nNm N\nThu bặo hiếhám y tuế HT 960 09913\nMạch: lần/phút Huyt áp: MmmHgHg T Thân nhiệt: c\nCận lâm sàng:\nCânhần okno: E78- Ri 1oạn chuyến hoá lipoproưtin à tinh t ạng tăng ipi máu khác\n1) FIBROFIN-145 145mg SL: 31 Viên\nGhi chú Ug: Tối 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/07/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khKhám ịin mang tho onđ, knt nghinhm phikam (ônhếui cá)\n01/01/2022 15:17:33",
+  "lines": [
+    {
+      "text": "1/1 MN c người 5bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        717.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9997511506080627
+        },
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 46676/2019",
+      "bbox": [
+        22.0,
+        98.0,
+        548.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            98.0,
+            133.0,
+            136.0
+          ],
+          "confidence": 0.9924848079681396
+        },
+        {
+          "text": "Số phiếu 46676/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            548.0,
+            138.0
+          ],
+          "confidence": 0.9606148600578308
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        136.0,
+        511.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            136.0,
+            511.0,
+            173.0
+          ],
+          "confidence": 0.9940500259399414
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu bặo hiếhám y tuế HT 960 09913",
+      "bbox": [
+        24.0,
+        219.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặo hiếhám y tuế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.7868243455886841
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            177.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8586163520812988
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.832676112651825
+        },
+        {
+          "text": "09913",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.8953680992126465
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmmHgHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MmmHgHg",
+          "bbox": [
+            448.0,
+            247.0,
+            510.0,
+            273.0
+          ],
+          "confidence": 0.8082634806632996
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: E78- Ri 1oạn chuyến hoá lipoproưtin à tinh t ạng tăng ipi máu khác",
+      "bbox": [
+        24.0,
+        286.0,
+        596.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: E78- Ri 1oạn chuyến hoá lipoproưtin à tinh t ạng tăng ipi máu khác",
+          "bbox": [
+            24.0,
+            286.0,
+            596.0,
+            312.0
+          ],
+          "confidence": 0.8122852444648743
+        }
+      ]
+    },
+    {
+      "text": "1) FIBROFIN-145 145mg SL: 31 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        712.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) FIBROFIN-145 145mg",
+          "bbox": [
+            38.0,
+            396.0,
+            300.0,
+            434.0
+          ],
+          "confidence": 0.9726685285568237
+        },
+        {
+          "text": "SL: 31 Viên",
+          "bbox": [
+            591.0,
+            399.0,
+            712.0,
+            431.0
+          ],
+          "confidence": 0.9884742498397827
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Ug: Tối 1 Viên",
+      "bbox": [
+        32.0,
+        424.0,
+        707.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            428.0,
+            166.0,
+            457.0
+          ],
+          "confidence": 0.7398409843444824
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            619.0,
+            424.0,
+            707.0,
+            456.0
+          ],
+          "confidence": 0.9891794323921204
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        30.0,
+        457.0,
+        201.0,
+        484.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            30.0,
+            457.0,
+            201.0,
+            484.0
+          ],
+          "confidence": 0.9838833212852478
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        478.0,
+        169.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            478.0,
+            169.0,
+            508.0
+          ],
+          "confidence": 0.9838947653770447
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        507.0,
+        172.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            507.0,
+            172.0,
+            535.0
+          ],
+          "confidence": 0.971271276473999
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/07/2019",
+      "bbox": [
+        483.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/07/2019",
+          "bbox": [
+            483.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.9662944674491882
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        61.0,
+        559.0,
+        617.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            61.0,
+            559.0,
+            200.0,
+            586.0
+          ],
+          "confidence": 0.9950565099716187
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            489.0,
+            566.0,
+            617.0,
+            597.0
+          ],
+          "confidence": 0.9810596108436584
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        472.0,
+        642.0,
+        622.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            472.0,
+            642.0,
+            622.0,
+            671.0
+          ],
+          "confidence": 0.972339391708374
+        }
+      ]
+    },
+    {
+      "text": "Tái khKhám ịin mang tho onđ, knt nghinhm phikam (ônhếui cá)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKhám ịin mang tho onđ, knt nghinhm phikam (ônhếui cá)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.7863039374351501
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 15:17:33",
+      "bbox": [
+        587.0,
+        741.0,
+        732.0,
+        762.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 15:17:33",
+          "bbox": [
+            587.0,
+            741.0,
+            732.0,
+            762.0
+          ],
+          "confidence": 0.9973702430725098
+        }
+      ]
+    }
+  ]
+}

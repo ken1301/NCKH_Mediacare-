@@ -1,0 +1,710 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_509",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_509.png",
+  "text": "M sc người bnh\nTYT XÃ CHÍNH LÝ\nSố phiếu 352/2021\nTOA THUỐC BHYT\nNam x Nữ\nThu ặo h êhám y tế GB 4 35 35 208\nMạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCiềuhần o knhn: 29- ám dạ dày à urầng\n1) FABAMOX 500 500mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\n2) DROMASM FORT 80mg SL: 10 Viên\nGhi chú Uống: Sáng 1 Viên Chiều 1 Viên\n3) PRAZOPRO 40mg SL: 5 Viên\nGhi chúc Uống: Sáng 1 Viên\nCộng khoản: 3 khoả n\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 22/01/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. NGUYN THỊ TH\nTá khKhám Xin mMnng thho ođm, Xknt nghinm phiám (ônếu co)\n03/06/2021 07:47:59",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        18.0,
+        716.0,
+        45.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ CHÍNH LÝ",
+      "bbox": [
+        26.0,
+        52.0,
+        176.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ CHÍNH LÝ",
+          "bbox": [
+            26.0,
+            52.0,
+            176.0,
+            78.0
+          ],
+          "confidence": 0.9107474684715271
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 352/2021",
+      "bbox": [
+        370.0,
+        90.0,
+        523.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 352/2021",
+          "bbox": [
+            370.0,
+            90.0,
+            523.0,
+            121.0
+          ],
+          "confidence": 0.9772180914878845
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9716305136680603
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 4 35 35 208",
+      "bbox": [
+        25.0,
+        203.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            205.0,
+            268.0,
+            226.0
+          ],
+          "confidence": 0.5884009003639221
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            204.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997408986091614
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            517.0,
+            254.0
+          ],
+          "confidence": 0.8726142048835754
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần o knhn: 29- ám dạ dày à urầng",
+      "bbox": [
+        25.0,
+        268.0,
+        317.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần o knhn: 29- ám dạ dày à urầng",
+          "bbox": [
+            25.0,
+            268.0,
+            317.0,
+            295.0
+          ],
+          "confidence": 0.8247830271720886
+        }
+      ]
+    },
+    {
+      "text": "1) FABAMOX 500 500mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) FABAMOX 500 500mg",
+          "bbox": [
+            41.0,
+            381.0,
+            307.0,
+            413.0
+          ],
+          "confidence": 0.9467412233352661
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        608.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            95.0,
+            435.0
+          ],
+          "confidence": 0.9835652709007263
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.7705122232437134
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9096157550811768
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            608.0,
+            435.0
+          ],
+          "confidence": 0.9936003684997559
+        }
+      ]
+    },
+    {
+      "text": "2) DROMASM FORT 80mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) DROMASM FORT 80mg",
+          "bbox": [
+            36.0,
+            432.0,
+            327.0,
+            467.0
+          ],
+          "confidence": 0.9738219380378723
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            435.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9692509174346924
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        461.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            463.0,
+            96.0,
+            487.0
+          ],
+          "confidence": 0.9050813913345337
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            462.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.9498692750930786
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            461.0,
+            609.0,
+            489.0
+          ],
+          "confidence": 0.9892168045043945
+        }
+      ]
+    },
+    {
+      "text": "3) PRAZOPRO 40mg SL: 5 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        700.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) PRAZOPRO 40mg",
+          "bbox": [
+            37.0,
+            485.0,
+            261.0,
+            518.0
+          ],
+          "confidence": 0.9384597539901733
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            592.0,
+            487.0,
+            700.0,
+            516.0
+          ],
+          "confidence": 0.952398419380188
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        513.0,
+        378.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            513.0,
+            165.0,
+            543.0
+          ],
+          "confidence": 0.8365824818611145
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            516.0,
+            378.0,
+            540.0
+          ],
+          "confidence": 0.9928264021873474
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoả n",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoả n",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9664610028266907
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9690350294113159
+        }
+      ]
+    },
+    {
+      "text": "Ngày 22/01/2021",
+      "bbox": [
+        483.0,
+        627.0,
+        623.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 22/01/2021",
+          "bbox": [
+            483.0,
+            627.0,
+            623.0,
+            654.0
+          ],
+          "confidence": 0.9884024262428284
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            658.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9909539818763733
+        }
+      ]
+    },
+    {
+      "text": "YS. NGUYN THỊ TH",
+      "bbox": [
+        450.0,
+        728.0,
+        641.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "YS. NGUYN THỊ TH",
+          "bbox": [
+            450.0,
+            728.0,
+            641.0,
+            755.0
+          ],
+          "confidence": 0.9526161551475525
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mMnng thho ođm, Xknt nghinm phiám (ônếu co)",
+      "bbox": [
+        34.0,
+        788.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mMnng thho ođm, Xknt nghinm phiám (ônếu co)",
+          "bbox": [
+            34.0,
+            788.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.8029775023460388
+        }
+      ]
+    },
+    {
+      "text": "03/06/2021 07:47:59",
+      "bbox": [
+        586.0,
+        825.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "03/06/2021 07:47:59",
+          "bbox": [
+            586.0,
+            825.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9871901273727417
+        }
+      ]
+    }
+  ]
+}

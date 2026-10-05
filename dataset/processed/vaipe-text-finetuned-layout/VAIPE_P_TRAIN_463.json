@@ -1,0 +1,525 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_463",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_463.png",
+  "text": "1/1 MMH sỐ người bnh\nPK Số 1 [Ngoại] Số phiếu 39624/2020\nTOA THUỐC BHYT\nNm N\nThu ặo h ếhám y tế BT 2 207 97941\nMạch: lần/phút Huyết áp: MmmHg T Thân nhiệt: c\nCậnlâm sàng: Siêu nnm 5bOg\nCiềhần okgnoả R10- Đau bng Và Iưng chu\n1) DROMASM FORT 80mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 23/07/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. khong dung\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n19/12/2021 12:18:39",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9997511506080627
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngoại] Số phiếu 39624/2020",
+      "bbox": [
+        22.0,
+        99.0,
+        548.0,
+        140.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngoại]",
+          "bbox": [
+            22.0,
+            99.0,
+            149.0,
+            135.0
+          ],
+          "confidence": 0.9957504272460938
+        },
+        {
+          "text": "Số phiếu 39624/2020",
+          "bbox": [
+            368.0,
+            105.0,
+            548.0,
+            140.0
+          ],
+          "confidence": 0.9984472393989563
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        510.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            510.0,
+            172.0
+          ],
+          "confidence": 0.9887161254882812
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế BT 2 207 97941",
+      "bbox": [
+        24.0,
+        219.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "BT 2",
+          "bbox": [
+            178.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.9953351616859436
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "97941",
+          "bbox": [
+            506.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9994896054267883
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmmHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            311.0,
+            275.0
+          ],
+          "confidence": 0.9881121516227722
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cậnlâm sàng: Siêu nnm 5bOg",
+      "bbox": [
+        22.0,
+        264.0,
+        240.0,
+        297.0
+      ],
+      "words": [
+        {
+          "text": "Cậnlâm sàng: Siêu nnm 5bOg",
+          "bbox": [
+            22.0,
+            264.0,
+            240.0,
+            297.0
+          ],
+          "confidence": 0.8024793267250061
+        }
+      ]
+    },
+    {
+      "text": "Ciềhần okgnoả R10- Đau bng Và Iưng chu",
+      "bbox": [
+        25.0,
+        288.0,
+        315.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Ciềhần okgnoả R10- Đau bng Và Iưng chu",
+          "bbox": [
+            25.0,
+            288.0,
+            315.0,
+            313.0
+          ],
+          "confidence": 0.7863996028900146
+        }
+      ]
+    },
+    {
+      "text": "1) DROMASM FORT 80mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        711.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) DROMASM FORT 80mg",
+          "bbox": [
+            38.0,
+            396.0,
+            327.0,
+            434.0
+          ],
+          "confidence": 0.9447120428085327
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            398.0,
+            711.0,
+            430.0
+          ],
+          "confidence": 0.9574500918388367
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        32.0,
+        424.0,
+        611.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            428.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8387137651443481
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            286.0,
+            428.0,
+            380.0,
+            456.0
+          ],
+          "confidence": 0.9818117618560791
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            509.0,
+            424.0,
+            611.0,
+            456.0
+          ],
+          "confidence": 0.9974986910820007
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        30.0,
+        457.0,
+        201.0,
+        484.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            30.0,
+            457.0,
+            201.0,
+            484.0
+          ],
+          "confidence": 0.9813075661659241
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        478.0,
+        169.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            478.0,
+            169.0,
+            508.0
+          ],
+          "confidence": 0.9838947653770447
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        507.0,
+        172.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            507.0,
+            172.0,
+            535.0
+          ],
+          "confidence": 0.971271276473999
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/07/2020",
+      "bbox": [
+        482.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/07/2020",
+          "bbox": [
+            482.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.9272485375404358
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        61.0,
+        559.0,
+        618.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            61.0,
+            559.0,
+            200.0,
+            586.0
+          ],
+          "confidence": 0.9950565099716187
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            489.0,
+            566.0,
+            618.0,
+            597.0
+          ],
+          "confidence": 0.9707998633384705
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dung",
+      "bbox": [
+        481.0,
+        642.0,
+        614.0,
+        674.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dung",
+          "bbox": [
+            481.0,
+            642.0,
+            614.0,
+            674.0
+          ],
+          "confidence": 0.9822482466697693
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.8276698589324951
+        }
+      ]
+    },
+    {
+      "text": "19/12/2021 12:18:39",
+      "bbox": [
+        588.0,
+        741.0,
+        732.0,
+        761.0
+      ],
+      "words": [
+        {
+          "text": "19/12/2021 12:18:39",
+          "bbox": [
+            588.0,
+            741.0,
+            732.0,
+            761.0
+          ],
+          "confidence": 0.9995176196098328
+        }
+      ]
+    }
+  ]
+}

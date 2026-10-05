@@ -1,0 +1,536 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1027",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1027.png",
+  "text": "1/1 MMH sỐ người bnh\nLHANG\nSố phiếu 3622/2018\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế CK 25 206 65441\nMạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCiềuhần o knh: 05 - iêhám nưứu Và bệnh nha chu\n1) NOVOXIM-500 0,5g SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 04/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n28/12/2021 23:55:23",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9994077086448669
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        150.0,
+        69.0,
+        213.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            150.0,
+            69.0,
+            213.0,
+            98.0
+          ],
+          "confidence": 0.9119308590888977
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3622/2018",
+      "bbox": [
+        369.0,
+        106.0,
+        537.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3622/2018",
+          "bbox": [
+            369.0,
+            106.0,
+            537.0,
+            139.0
+          ],
+          "confidence": 0.9949509501457214
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9821877479553223
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế CK 25 206 65441",
+      "bbox": [
+        24.0,
+        220.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "CK 25",
+          "bbox": [
+            179.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8171520233154297
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "65441",
+          "bbox": [
+            507.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9737738370895386
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần o knh: 05 - iêhám nưứu Và bệnh nha chu",
+      "bbox": [
+        25.0,
+        288.0,
+        346.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần o knh: 05 - iêhám nưứu Và bệnh nha chu",
+          "bbox": [
+            25.0,
+            288.0,
+            346.0,
+            312.0
+          ],
+          "confidence": 0.8455978035926819
+        }
+      ]
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g SL: 20 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) NOVOXIM-500 0,5g",
+          "bbox": [
+            38.0,
+            395.0,
+            285.0,
+            434.0
+          ],
+          "confidence": 0.9512191414833069
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            400.0,
+            710.0,
+            429.0
+          ],
+          "confidence": 0.9775097370147705
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        32.0,
+        426.0,
+        610.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            96.0,
+            454.0
+          ],
+          "confidence": 0.9694389700889587
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            428.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8387137651443481
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            430.0,
+            379.0,
+            455.0
+          ],
+          "confidence": 0.9861996173858643
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            426.0,
+            610.0,
+            454.0
+          ],
+          "confidence": 0.9587350487709045
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        30.0,
+        456.0,
+        200.0,
+        483.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            30.0,
+            456.0,
+            200.0,
+            483.0
+          ],
+          "confidence": 0.9753258228302002
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        481.0,
+        168.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            481.0,
+            168.0,
+            508.0
+          ],
+          "confidence": 0.9994076490402222
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        507.0,
+        172.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            507.0,
+            172.0,
+            535.0
+          ],
+          "confidence": 0.971271276473999
+        }
+      ]
+    },
+    {
+      "text": "Ngày 04/12/2018",
+      "bbox": [
+        482.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 04/12/2018",
+          "bbox": [
+            482.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.990936815738678
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        561.0,
+        617.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            561.0,
+            199.0,
+            585.0
+          ],
+          "confidence": 0.9917733669281006
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            571.0,
+            617.0,
+            597.0
+          ],
+          "confidence": 0.9924474358558655
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        459.0,
+        641.0,
+        633.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            459.0,
+            641.0,
+            633.0,
+            672.0
+          ],
+          "confidence": 0.9293949007987976
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.8276698589324951
+        }
+      ]
+    },
+    {
+      "text": "28/12/2021 23:55:23",
+      "bbox": [
+        586.0,
+        740.0,
+        730.0,
+        761.0
+      ],
+      "words": [
+        {
+          "text": "28/12/2021 23:55:23",
+          "bbox": [
+            586.0,
+            740.0,
+            730.0,
+            761.0
+          ],
+          "confidence": 0.989704430103302
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1155",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1155.png",
+  "text": "1/1 MMH sỐ người bnh\nGHĨA\nSố phiếu 260/2021\nTOA THUỐC BHYT\nN 2N\nThu ặo h ếhám y tế CB 25 208 48972\nMạch: lần/phút Huyt áp: MmHg Thân nhiệt: c\nCận lâm sàng:\nCộnhần ĩono: 502- Vim họgng cấp: (g10) Cnám côm do iruS cômám ĩđươc ĩịnh dnh khác, (U61.012.0)n\nchần [MMày ĩay dị ng\n1) AMOXICILIN 500MG 500mg SL: 20 Viên\nGhi chúK Uống\n2) TYDOL PM 500mg 4 25mg SL: 10 Viên\nGhi chú Uống\n3) SERGUROP 10mg SL: 5 Viên\nGhi chúữ Uốg\nCộng khoản: 3 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/01/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSSN. Trần Thị Hắng\nTái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)\n01/01/2022 13:46:56",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            84.0
+          ],
+          "confidence": 0.9996216893196106
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "GHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        206.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "GHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            206.0,
+            98.0
+          ],
+          "confidence": 0.9526605606079102
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 260/2021",
+      "bbox": [
+        369.0,
+        107.0,
+        524.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 260/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            524.0,
+            138.0
+          ],
+          "confidence": 0.9742799401283264
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        510.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            510.0,
+            172.0
+          ],
+          "confidence": 0.9775152802467346
+        }
+      ]
+    },
+    {
+      "text": "N 2N",
+      "bbox": [
+        613.0,
+        161.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6931097507476807
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CB 25 208 48972",
+      "bbox": [
+        24.0,
+        220.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CB 25",
+          "bbox": [
+            180.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8375412225723267
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.999579668045044
+        },
+        {
+          "text": "48972",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9995091557502747
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            598.0,
+            274.0
+          ],
+          "confidence": 0.9620281457901001
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cộnhần ĩono: 502- Vim họgng cấp: (g10) Cnám côm do iruS cômám ĩđươc ĩịnh dnh khác, (U61.012.0)n",
+      "bbox": [
+        24.0,
+        287.0,
+        715.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhần ĩono: 502- Vim họgng cấp: (g10) Cnám côm do iruS cômám ĩđươc ĩịnh dnh khác, (U61.012.0)n",
+          "bbox": [
+            24.0,
+            287.0,
+            715.0,
+            312.0
+          ],
+          "confidence": 0.7817609310150146
+        }
+      ]
+    },
+    {
+      "text": "chần [MMày ĩay dị ng",
+      "bbox": [
+        25.0,
+        309.0,
+        185.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "chần [MMày ĩay dị ng",
+          "bbox": [
+            25.0,
+            309.0,
+            185.0,
+            332.0
+          ],
+          "confidence": 0.8978840112686157
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        397.0,
+        710.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            40.0,
+            397.0,
+            366.0,
+            432.0
+          ],
+          "confidence": 0.9300310015678406
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9928701519966125
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        164.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.8434511423110962
+        }
+      ]
+    },
+    {
+      "text": "2) TYDOL PM 500mg 4 25mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        451.0,
+        710.0,
+        484.0
+      ],
+      "words": [
+        {
+          "text": "2) TYDOL PM 500mg 4 25mg",
+          "bbox": [
+            37.0,
+            451.0,
+            345.0,
+            484.0
+          ],
+          "confidence": 0.9373913407325745
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.9172347784042358
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) SERGUROP 10mg SL: 5 Viên",
+      "bbox": [
+        35.0,
+        501.0,
+        701.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) SERGUROP 10mg",
+          "bbox": [
+            35.0,
+            501.0,
+            265.0,
+            539.0
+          ],
+          "confidence": 0.9726409912109375
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            592.0,
+            504.0,
+            701.0,
+            536.0
+          ],
+          "confidence": 0.9976714849472046
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg",
+      "bbox": [
+        33.0,
+        534.0,
+        164.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            534.0,
+            164.0,
+            560.0
+          ],
+          "confidence": 0.7485406994819641
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khon",
+      "bbox": [
+        29.0,
+        559.0,
+        201.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khon",
+          "bbox": [
+            29.0,
+            559.0,
+            201.0,
+            588.0
+          ],
+          "confidence": 0.9778225421905518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9982873201370239
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 27/01/2021",
+      "bbox": [
+        482.0,
+        645.0,
+        624.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 27/01/2021",
+          "bbox": [
+            482.0,
+            645.0,
+            624.0,
+            672.0
+          ],
+          "confidence": 0.9936133027076721
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        61.0,
+        662.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            61.0,
+            662.0,
+            201.0,
+            692.0
+          ],
+          "confidence": 0.9976063966751099
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YSSN. Trần Thị Hắng",
+      "bbox": [
+        459.0,
+        745.0,
+        635.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "YSSN. Trần Thị Hắng",
+          "bbox": [
+            459.0,
+            745.0,
+            635.0,
+            776.0
+          ],
+          "confidence": 0.9414653778076172
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.7822567820549011
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 13:46:56",
+      "bbox": [
+        586.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 13:46:56",
+          "bbox": [
+            586.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.979500412940979
+        }
+      ]
+    }
+  ]
+}

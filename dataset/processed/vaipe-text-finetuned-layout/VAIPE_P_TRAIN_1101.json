@@ -1,0 +1,700 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1101",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1101.png",
+  "text": "1/1 M c ngưi bnh\nBÌNH NGHĨA\nSố phiếu 2995/2021\nTOA THUỐC BHYT\nNm 2N\nThu ặo hiếhám y tế HT 5 206 08236\nMạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c\nCận lâm sàng:\nCânhần okno: 502- Viêm ọng cp: (H81) Rối 1oạn chức năng niên ĩinh\n1) AMOXICILIN 500MG 500mg SL: 20 viên\nGhi chúK Uốg: Sáng 2 viên Tối 2 viên\n2) HOAT HUYHT DNG NO 150mg420mg SL: 20 viên\nGhi chú Uống: Sáng 2 viên Tối 2 viên\n3) PARTAMOL TAB. 500mg SL: 10 Viên\nGhi chúữ Uốg: Sáng 1 Viên Tối 1 Viên\nCộng khoản: 3 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 12/08/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Tính\nTáiá khKhám Xịin mang tho onđ, knt nghinhm phikam (ônếui cá)\n26/12/2021 23:09:22",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9996120929718018
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "bbox": [
+        150.0,
+        68.0,
+        253.0,
+        96.0
+      ],
+      "words": [
+        {
+          "text": "BÌNH NGHĨA",
+          "bbox": [
+            150.0,
+            68.0,
+            253.0,
+            96.0
+          ],
+          "confidence": 0.8796863555908203
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2995/2021",
+      "bbox": [
+        369.0,
+        107.0,
+        535.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2995/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            535.0,
+            138.0
+          ],
+          "confidence": 0.9924240112304688
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.968741774559021
+        }
+      ]
+    },
+    {
+      "text": "Nm 2N",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm 2N",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.6196097731590271
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 5 206 08236",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT 5",
+          "bbox": [
+            179.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.8616284132003784
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "08236",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9861093759536743
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        240.0,
+        681.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            250.0,
+            507.0,
+            272.0
+          ],
+          "confidence": 0.8004818558692932
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            642.0,
+            240.0,
+            681.0,
+            275.0
+          ],
+          "confidence": 0.5153880715370178
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: 502- Viêm ọng cp: (H81) Rối 1oạn chức năng niên ĩinh",
+      "bbox": [
+        25.0,
+        287.0,
+        502.0,
+        311.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: 502- Viêm ọng cp: (H81) Rối 1oạn chức năng niên ĩinh",
+          "bbox": [
+            25.0,
+            287.0,
+            502.0,
+            311.0
+          ],
+          "confidence": 0.8084508776664734
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 viên",
+      "bbox": [
+        39.0,
+        395.0,
+        705.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            39.0,
+            395.0,
+            371.0,
+            434.0
+          ],
+          "confidence": 0.960634171962738
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            592.0,
+            400.0,
+            705.0,
+            429.0
+          ],
+          "confidence": 0.9888030886650085
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        33.0,
+        426.0,
+        702.0,
+        455.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            104.0,
+            426.0,
+            164.0,
+            455.0
+          ],
+          "confidence": 0.6768808364868164
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            288.0,
+            430.0,
+            376.0,
+            454.0
+          ],
+          "confidence": 0.9786586761474609
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            620.0,
+            426.0,
+            702.0,
+            455.0
+          ],
+          "confidence": 0.9371111989021301
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYHT DNG NO 150mg420mg SL: 20 viên",
+      "bbox": [
+        36.0,
+        448.0,
+        706.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYHT DNG NO 150mg420mg",
+          "bbox": [
+            36.0,
+            448.0,
+            504.0,
+            485.0
+          ],
+          "confidence": 0.873346745967865
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            593.0,
+            453.0,
+            706.0,
+            481.0
+          ],
+          "confidence": 0.9465866684913635
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        32.0,
+        477.0,
+        703.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            482.0,
+            94.0,
+            504.0
+          ],
+          "confidence": 0.891880989074707
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            477.0,
+            166.0,
+            510.0
+          ],
+          "confidence": 0.9427443742752075
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            285.0,
+            480.0,
+            376.0,
+            507.0
+          ],
+          "confidence": 0.9880502223968506
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            619.0,
+            478.0,
+            703.0,
+            508.0
+          ],
+          "confidence": 0.9640026092529297
+        }
+      ]
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        500.0,
+        710.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) PARTAMOL TAB. 500mg",
+          "bbox": [
+            36.0,
+            500.0,
+            339.0,
+            539.0
+          ],
+          "confidence": 0.9619690179824829
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            503.0,
+            710.0,
+            534.0
+          ],
+          "confidence": 0.9524122476577759
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg: Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        530.0,
+        706.0,
+        561.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            530.0,
+            165.0,
+            561.0
+          ],
+          "confidence": 0.8203005194664001
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            286.0,
+            532.0,
+            379.0,
+            560.0
+          ],
+          "confidence": 0.9992443323135376
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            620.0,
+            530.0,
+            706.0,
+            558.0
+          ],
+          "confidence": 0.949659526348114
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khon",
+      "bbox": [
+        29.0,
+        559.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khon",
+          "bbox": [
+            29.0,
+            559.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9736800789833069
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        583.0,
+        168.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            583.0,
+            168.0,
+            612.0
+          ],
+          "confidence": 0.9972279071807861
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 12/08/2021",
+      "bbox": [
+        482.0,
+        645.0,
+        624.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 12/08/2021",
+          "bbox": [
+            482.0,
+            645.0,
+            624.0,
+            672.0
+          ],
+          "confidence": 0.9763320088386536
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        663.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            663.0,
+            200.0,
+            691.0
+          ],
+          "confidence": 0.9996464848518372
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "bbox": [
+        474.0,
+        746.0,
+        620.0,
+        774.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Tính",
+          "bbox": [
+            474.0,
+            746.0,
+            620.0,
+            774.0
+          ],
+          "confidence": 0.9793932437896729
+        }
+      ]
+    },
+    {
+      "text": "Táiá khKhám Xịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Táiá khKhám Xịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.7808096408843994
+        }
+      ]
+    },
+    {
+      "text": "26/12/2021 23:09:22",
+      "bbox": [
+        587.0,
+        845.0,
+        731.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "26/12/2021 23:09:22",
+          "bbox": [
+            587.0,
+            845.0,
+            731.0,
+            866.0
+          ],
+          "confidence": 0.9988812804222107
+        }
+      ]
+    }
+  ]
+}

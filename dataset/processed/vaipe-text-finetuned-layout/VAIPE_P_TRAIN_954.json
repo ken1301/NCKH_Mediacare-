@@ -1,0 +1,577 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_954",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_954.png",
+  "text": "1/1 ALÝ MMH sỐ người bnh\nSố phiếu 2831/2018\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế CK 25 35 90028\nMạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhần ĩokn: 502- iêm ọg cấp\n1) CEFIXI 200 200mg SL: 10 Viên\nGhi chú Uống:\n2) PARACETAMOL 500MG 500mg SL: 10 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/09/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNHS. Nguyễn Thị Nguyễn\nTái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)\n29/12/2021 22:57:27",
+  "lines": [
+    {
+      "text": "1/1 ALÝ MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            122.0,
+            85.0
+          ],
+          "confidence": 0.9996582865715027
+        },
+        {
+          "text": "ALÝ",
+          "bbox": [
+            147.0,
+            64.0,
+            198.0,
+            98.0
+          ],
+          "confidence": 0.6946747303009033
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2831/2018",
+      "bbox": [
+        369.0,
+        107.0,
+        537.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2831/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            537.0,
+            139.0
+          ],
+          "confidence": 0.9958918690681458
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9819501638412476
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế CK 25 35 90028",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "CK 25",
+          "bbox": [
+            179.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.8210810422897339
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            221.0,
+            394.0,
+            245.0
+          ],
+          "confidence": 0.9563466310501099
+        },
+        {
+          "text": "90028",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.957737147808075
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            250.0,
+            392.0,
+            270.0
+          ],
+          "confidence": 0.9859391450881958
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần ĩokn: 502- iêm ọg cấp",
+      "bbox": [
+        24.0,
+        286.0,
+        254.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần ĩokn: 502- iêm ọg cấp",
+          "bbox": [
+            24.0,
+            286.0,
+            254.0,
+            314.0
+          ],
+          "confidence": 0.8331752419471741
+        }
+      ]
+    },
+    {
+      "text": "1) CEFIXI 200 200mg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        709.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFIXI 200 200mg",
+          "bbox": [
+            38.0,
+            396.0,
+            289.0,
+            434.0
+          ],
+          "confidence": 0.9604072570800781
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            401.0,
+            709.0,
+            430.0
+          ],
+          "confidence": 0.9548276662826538
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            96.0,
+            454.0
+          ],
+          "confidence": 0.9694389700889587
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        }
+      ]
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        451.0,
+        710.0,
+        484.0
+      ],
+      "words": [
+        {
+          "text": "2) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            36.0,
+            451.0,
+            399.0,
+            484.0
+          ],
+          "confidence": 0.9452748894691467
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.9172347784042358
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        479.0,
+        165.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8365824818611145
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        30.0,
+        507.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            30.0,
+            507.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9656269550323486
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9490678310394287
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/09/2018",
+      "bbox": [
+        482.0,
+        592.0,
+        626.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/09/2018",
+          "bbox": [
+            482.0,
+            592.0,
+            626.0,
+            620.0
+          ],
+          "confidence": 0.9831661581993103
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9787870049476624
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "NHS. Nguyễn Thị Nguyễn",
+      "bbox": [
+        442.0,
+        694.0,
+        650.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "NHS. Nguyễn Thị Nguyễn",
+          "bbox": [
+            442.0,
+            694.0,
+            650.0,
+            724.0
+          ],
+          "confidence": 0.9459958672523499
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.8321014046669006
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 22:57:27",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 22:57:27",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.998192548751831
+        }
+      ]
+    }
+  ]
+}

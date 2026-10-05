@@ -1,0 +1,619 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_610",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_610.png",
+  "text": "1/1 MMH sỐ người bnh\nSố phiếu 1005/2020\nTOA THUỐC  BHYT\nNm x n2\nThu ặo h ếhám y tế CK 25 35 206\nMạch: lần/phút Huyt áp: / MmmHg Thân nhiệt: c\nCận lâm sàng:\nCânhần ĩoknoả: I10- Tăng huyế áp V căn (nguyễn phát) Chứng ề [Thoái húáa a khhp\n1) AMCARDIA-5 5mg SL: 10 viên\nGhi chú Uống:\n2) DICLOFENAC 50mg SL: 10 Viên\nGhi chú Uống\n3) PANACTOL 500mg SL: 10 Viên\nGhi chúữ Uốg\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/07/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n05/01/2022 12:37:29",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        85.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            122.0,
+            85.0
+          ],
+          "confidence": 0.999657928943634
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1005/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1005/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9768370389938354
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC  BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC  BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9472882747650146
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 25 35 206",
+      "bbox": [
+        24.0,
+        220.0,
+        473.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 25",
+          "bbox": [
+            179.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.8210810422897339
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            220.0,
+            395.0,
+            246.0
+          ],
+          "confidence": 0.9997396469116211
+        },
+        {
+          "text": "206",
+          "bbox": [
+            430.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9987580180168152
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: / MmmHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "/",
+          "bbox": [
+            372.0,
+            248.0,
+            393.0,
+            273.0
+          ],
+          "confidence": 0.9442117810249329
+        },
+        {
+          "text": "MmmHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            249.0,
+            598.0,
+            273.0
+          ],
+          "confidence": 0.9192299842834473
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần ĩoknoả: I10- Tăng huyế áp V căn (nguyễn phát) Chứng ề [Thoái húáa a khhp",
+      "bbox": [
+        24.0,
+        286.0,
+        599.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần ĩoknoả: I10- Tăng huyế áp V căn (nguyễn phát) Chứng ề [Thoái húáa a khhp",
+          "bbox": [
+            24.0,
+            286.0,
+            599.0,
+            313.0
+          ],
+          "confidence": 0.7934110164642334
+        }
+      ]
+    },
+    {
+      "text": "1) AMCARDIA-5 5mg SL: 10 viên",
+      "bbox": [
+        38.0,
+        395.0,
+        706.0,
+        435.0
+      ],
+      "words": [
+        {
+          "text": "1) AMCARDIA-5 5mg",
+          "bbox": [
+            38.0,
+            395.0,
+            276.0,
+            435.0
+          ],
+          "confidence": 0.936363697052002
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            592.0,
+            399.0,
+            706.0,
+            431.0
+          ],
+          "confidence": 0.9931545853614807
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        }
+      ]
+    },
+    {
+      "text": "2) DICLOFENAC 50mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        710.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) DICLOFENAC 50mg",
+          "bbox": [
+            36.0,
+            449.0,
+            288.0,
+            486.0
+          ],
+          "confidence": 0.9740369319915771
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.9172347784042358
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        477.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            477.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9176988005638123
+        }
+      ]
+    },
+    {
+      "text": "3) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        35.0,
+        500.0,
+        711.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) PANACTOL 500mg",
+          "bbox": [
+            35.0,
+            500.0,
+            278.0,
+            539.0
+          ],
+          "confidence": 0.953509509563446
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9838514924049377
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg",
+      "bbox": [
+        33.0,
+        534.0,
+        164.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            534.0,
+            164.0,
+            560.0
+          ],
+          "confidence": 0.7485406994819641
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        559.0,
+        201.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            559.0,
+            201.0,
+            588.0
+          ],
+          "confidence": 0.9916369915008545
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9935133457183838
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/07/2020",
+      "bbox": [
+        482.0,
+        645.0,
+        625.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/07/2020",
+          "bbox": [
+            482.0,
+            645.0,
+            625.0,
+            672.0
+          ],
+          "confidence": 0.9824910759925842
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            202.0,
+            692.0
+          ],
+          "confidence": 0.9482138156890869
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "bbox": [
+        467.0,
+        744.0,
+        625.0,
+        778.0
+      ],
+      "words": [
+        {
+          "text": "YS. Đào Thị Huyền",
+          "bbox": [
+            467.0,
+            744.0,
+            625.0,
+            778.0
+          ],
+          "confidence": 0.9923012852668762
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276700377464294
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 12:37:29",
+      "bbox": [
+        586.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 12:37:29",
+          "bbox": [
+            586.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.9862490296363831
+        }
+      ]
+    }
+  ]
+}

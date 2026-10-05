@@ -1,0 +1,577 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_244",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_244.png",
+  "text": "1/1 M sc người bnh\nLHANG\nSố phiếu 3332/2019\nTAOA CTHUC BHYBT\nNamx\nThu ặo h ếhám y tế GB 4 35 208 07327\nMạch: lần/phút Huyết áp: / MMHHg Th n n hi t: C\nCận lâm sà ng:\nCâềnhản okhnả: I10 - Tăng huyếnH áp õ căn (ônguyễn phát) : (G46) Hi ch[ng Mmạch Mmáu nOo trOng bệnh\nmạch no (160-1677) (110) Tăng huyến áp Võ cặn (1nguyễn púhát)\n1) BLOZA 50mg SL: 56 Viên\nGhi chú Uốg: Sáng 2 Viên\nCộnng kokhn: 1 khoko\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 24/12/2019\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTi khánhám Xin Mmanng th co ođn, X n nghinệm, phiram (rnếu ch)\n17/05/2021 16:16:40",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        15.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9990382194519043
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        151.0,
+        53.0,
+        211.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            151.0,
+            53.0,
+            211.0,
+            78.0
+          ],
+          "confidence": 0.886309802532196
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3332/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3332/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9675570726394653
+        }
+      ]
+    },
+    {
+      "text": "TAOA CTHUC BHYBT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TAOA CTHUC BHYBT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.904093861579895
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 208 07327",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            266.0,
+            225.0
+          ],
+          "confidence": 0.9998762607574463
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.9999196529388428
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.999660313129425
+        },
+        {
+          "text": "07327",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.961820125579834
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHHg Th n n hi t: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9615424275398254
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            250.0
+          ],
+          "confidence": 0.850374698638916
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            521.0,
+            252.0
+          ],
+          "confidence": 0.7747368216514587
+        },
+        {
+          "text": "Th n n hi t:",
+          "bbox": [
+            512.0,
+            234.0,
+            594.0,
+            252.0
+          ],
+          "confidence": 0.7798266410827637
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sà ng:",
+      "bbox": [
+        24.0,
+        250.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sà ng:",
+          "bbox": [
+            24.0,
+            250.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.9369421005249023
+        }
+      ]
+    },
+    {
+      "text": "Câềnhản okhnả: I10 - Tăng huyếnH áp õ căn (ônguyễn phát) : (G46) Hi ch[ng Mmạch Mmáu nOo trOng bệnh",
+      "bbox": [
+        26.0,
+        272.0,
+        705.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhản okhnả: I10 - Tăng huyếnH áp õ căn (ônguyễn phát) : (G46) Hi ch[ng Mmạch Mmáu nOo trOng bệnh",
+          "bbox": [
+            26.0,
+            272.0,
+            705.0,
+            292.0
+          ],
+          "confidence": 0.8025431632995605
+        }
+      ]
+    },
+    {
+      "text": "mạch no (160-1677) (110) Tăng huyến áp Võ cặn (1nguyễn púhát)",
+      "bbox": [
+        27.0,
+        293.0,
+        458.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "mạch no (160-1677) (110) Tăng huyến áp Võ cặn (1nguyễn púhát)",
+          "bbox": [
+            27.0,
+            293.0,
+            458.0,
+            313.0
+          ],
+          "confidence": 0.8687620162963867
+        }
+      ]
+    },
+    {
+      "text": "1) BLOZA 50mg SL: 56 Viên",
+      "bbox": [
+        41.0,
+        382.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) BLOZA 50mg",
+          "bbox": [
+            41.0,
+            382.0,
+            219.0,
+            413.0
+          ],
+          "confidence": 0.9368475675582886
+        },
+        {
+          "text": "SL: 56 Viên",
+          "bbox": [
+            594.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9525320529937744
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg: Sáng 2 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        378.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8569597005844116
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            101.0,
+            409.0,
+            164.0,
+            439.0
+          ],
+          "confidence": 0.8200936913490295
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        }
+      ]
+    },
+    {
+      "text": "Cộnng kokhn: 1 khoko",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộnng kokhn: 1 khoko",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.6955248117446899
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9814830422401428
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 24/12/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 24/12/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9974997043609619
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        614.0,
+        576.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.9909788370132446
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            554.0,
+            614.0,
+            576.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        463.0,
+        627.0,
+        631.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            463.0,
+            627.0,
+            631.0,
+            652.0
+          ],
+          "confidence": 0.9183305501937866
+        }
+      ]
+    },
+    {
+      "text": "Ti khánhám Xin Mmanng th co ođn, X n nghinệm, phiram (rnếu ch)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Ti khánhám Xin Mmanng th co ođn, X n nghinệm, phiram (rnếu ch)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.809903621673584
+        }
+      ]
+    },
+    {
+      "text": "17/05/2021 16:16:40",
+      "bbox": [
+        588.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "17/05/2021 16:16:40",
+          "bbox": [
+            588.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9797887206077576
+        }
+      ]
+    }
+  ]
+}

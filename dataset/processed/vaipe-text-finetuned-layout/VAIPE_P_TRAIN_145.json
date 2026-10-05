@@ -1,0 +1,619 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_145",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_145.png",
+  "text": "MMH sỐ người bnh\nKhoa Khám bệnh\nPK Số 2 [Nội] Số phiếu 81038/2018\nTOA THUỐC BHYT\nNm N\nThu ặo hiếhám y tế HT 960 09913\nMạch: lần/phút Huyt áp: MmHg Thân nhiệt: c\nCận lâm sàng:\nCậnhần okn: K76 - Bnệnh gan khác g E78) Rối 1oạn chuyến hoá ipprOtin và tinh traạng tăng ipicd máu\nkhác\n1) LIVONIC 2500mg 4400mg +500mg 485mg SL: 20 Viên\nGhi chúK Uống Sáng 1 Viên Chiều 1 Viên\n2) LENINARTO 10 10mg SL: 60 Viên\nGhi chú Uống Tối 2 Viên\nCộng khoản: 2 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)\n01/01/2022 15:16:33",
+  "lines": [
+    {
+      "text": "MMH sỐ người bnh",
+      "bbox": [
+        600.0,
+        36.0,
+        716.0,
+        62.0
+      ],
+      "words": [
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        24.0,
+        75.0,
+        157.0,
+        96.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            24.0,
+            75.0,
+            157.0,
+            96.0
+          ],
+          "confidence": 0.9407510757446289
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 81038/2018",
+      "bbox": [
+        22.0,
+        100.0,
+        548.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            100.0,
+            132.0,
+            134.0
+          ],
+          "confidence": 0.9032928943634033
+        },
+        {
+          "text": "Số phiếu 81038/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            548.0,
+            138.0
+          ],
+          "confidence": 0.9391690492630005
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.967387318611145
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 960 09913",
+      "bbox": [
+        24.0,
+        219.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            178.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.9781089425086975
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.832676112651825
+        },
+        {
+          "text": "09913",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9920088052749634
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817460179328918
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            598.0,
+            274.0
+          ],
+          "confidence": 0.9620281457901001
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần okn: K76 - Bnệnh gan khác g E78) Rối 1oạn chuyến hoá ipprOtin và tinh traạng tăng ipicd máu",
+      "bbox": [
+        23.0,
+        286.0,
+        716.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần okn: K76 - Bnệnh gan khác g E78) Rối 1oạn chuyến hoá ipprOtin và tinh traạng tăng ipicd máu",
+          "bbox": [
+            23.0,
+            286.0,
+            716.0,
+            313.0
+          ],
+          "confidence": 0.7963208556175232
+        }
+      ]
+    },
+    {
+      "text": "khác",
+      "bbox": [
+        22.0,
+        306.0,
+        67.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "khác",
+          "bbox": [
+            22.0,
+            306.0,
+            67.0,
+            332.0
+          ],
+          "confidence": 0.9442079067230225
+        }
+      ]
+    },
+    {
+      "text": "1) LIVONIC 2500mg 4400mg +500mg 485mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) LIVONIC 2500mg 4400mg +500mg 485mg",
+          "bbox": [
+            38.0,
+            396.0,
+            489.0,
+            434.0
+          ],
+          "confidence": 0.9456418752670288
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            400.0,
+            710.0,
+            429.0
+          ],
+          "confidence": 0.9495546221733093
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        426.0,
+        609.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            430.0,
+            379.0,
+            454.0
+          ],
+          "confidence": 0.9887273907661438
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            428.0,
+            609.0,
+            453.0
+          ],
+          "confidence": 0.9792261123657227
+        }
+      ]
+    },
+    {
+      "text": "2) LENINARTO 10 10mg SL: 60 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        711.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) LENINARTO 10 10mg",
+          "bbox": [
+            36.0,
+            449.0,
+            302.0,
+            486.0
+          ],
+          "confidence": 0.9687632322311401
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            591.0,
+            453.0,
+            711.0,
+            481.0
+          ],
+          "confidence": 0.9937959909439087
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Tối 2 Viên",
+      "bbox": [
+        32.0,
+        476.0,
+        707.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8920060992240906
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            618.0,
+            476.0,
+            707.0,
+            508.0
+          ],
+          "confidence": 0.9977595210075378
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoả",
+      "bbox": [
+        30.0,
+        507.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoả",
+          "bbox": [
+            30.0,
+            507.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9446412324905396
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        168.0,
+        582.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            168.0,
+            582.0
+          ],
+          "confidence": 0.9826529026031494
+        }
+      ]
+    },
+    {
+      "text": "Ngày 28/12/2018",
+      "bbox": [
+        482.0,
+        592.0,
+        626.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 28/12/2018",
+          "bbox": [
+            482.0,
+            592.0,
+            626.0,
+            620.0
+          ],
+          "confidence": 0.9582857489585876
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9740474820137024
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        471.0,
+        693.0,
+        622.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            471.0,
+            693.0,
+            622.0,
+            723.0
+          ],
+          "confidence": 0.9091564416885376
+        }
+      ]
+    },
+    {
+      "text": "Tái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8144270181655884
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 15:16:33",
+      "bbox": [
+        586.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 15:16:33",
+          "bbox": [
+            586.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9775010347366333
+        }
+      ]
+    }
+  ]
+}

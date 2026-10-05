@@ -1,0 +1,609 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_640",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_640.png",
+  "text": "1/1 MH sỐ người xbệnh\nPK Số 2 [Nội] Số phiếu 56737/2018\nTOA THUỐC BHYT\nNam x Nữ\nĐệị ạ chi\nThu bặho h hám y tut HT 35 35 208 08480\nMạch: Lần/phút Huyết áp: MMHg Thân nhiệt C\nCân 1sm Ssàng: Định 1ưng Cho1cSOo1 toàn púhn (máu), Định đưng GiucOS [MMáu), Định 1ương HDL-C\n(High dnSiuy 1ịpOprOttin Cho1SurO1) [MMáun) Định 1ưng Trigycorid (Mmáu) [MMáu)ả Siêu MMm hb tiết ninu\n(thn, tuyến thưihđng thhn, àng 9ịđuiang tiên 1int tuyến) Siêu Bnhm tuyến gicáp\nCânhn Okhnả: E78 - Ri 1OMạn chuyễến hOán 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) TD nhnh ĩái\ntháo ường thĩng phU thunc inSốu1inu ([N40) Tăng Sán tuyễến tiếun 1iniị\n1) LENINARTO 10 10mg SL: 62 Viên\nGhi chúc Uốg Tối 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơ thuốc:\nNgày hẹơ ti tháham:Thữ hNịi 15/10/2018\nNgày 14/09/2018\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTái khKkhám Xin Mmang th co ĩon, X nt nghinệm, phiram (ônếu co)\n05/05/2021 08:27:25",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        715.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 56737/2018",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            83.0,
+            130.0,
+            116.0
+          ],
+          "confidence": 0.9372678399085999
+        },
+        {
+          "text": "Số phiếu 56737/2018",
+          "bbox": [
+            371.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9568644165992737
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9486150741577148
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        87.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            87.0,
+            203.0
+          ],
+          "confidence": 0.7386474609375
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut HT 35 35 208 08480",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            184.0,
+            205.0,
+            217.0,
+            225.0
+          ],
+          "confidence": 0.9970353841781616
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999361634254456
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997485876083374
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            204.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997408986091614
+        },
+        {
+          "text": "08480",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9711964726448059
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: MMHg Thân nhiệt C",
+      "bbox": [
+        23.0,
+        217.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9966289401054382
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            230.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.964758574962616
+        },
+        {
+          "text": "MMHg Thân nhiệt",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.9116136431694031
+        },
+        {
+          "text": "C",
+          "bbox": [
+            643.0,
+            217.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.4363517761230469
+        }
+      ]
+    },
+    {
+      "text": "Cân 1sm Ssàng: Định 1ưng Cho1cSOo1 toàn púhn (máu), Định đưng GiucOS [MMáu), Định 1ương HDL-C",
+      "bbox": [
+        26.0,
+        254.0,
+        734.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1sm Ssàng: Định 1ưng Cho1cSOo1 toàn púhn (máu), Định đưng GiucOS [MMáu), Định 1ương HDL-C",
+          "bbox": [
+            26.0,
+            254.0,
+            734.0,
+            275.0
+          ],
+          "confidence": 0.8243443369865417
+        }
+      ]
+    },
+    {
+      "text": "(High dnSiuy 1ịpOprOttin Cho1SurO1) [MMáun) Định 1ưng Trigycorid (Mmáu) [MMáu)ả Siêu MMm hb tiết ninu",
+      "bbox": [
+        27.0,
+        274.0,
+        730.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "(High dnSiuy 1ịpOprOttin Cho1SurO1) [MMáun) Định 1ưng Trigycorid (Mmáu) [MMáu)ả Siêu MMm hb tiết ninu",
+          "bbox": [
+            27.0,
+            274.0,
+            730.0,
+            294.0
+          ],
+          "confidence": 0.8361074328422546
+        }
+      ]
+    },
+    {
+      "text": "(thn, tuyến thưihđng thhn, àng 9ịđuiang tiên 1int tuyến) Siêu Bnhm tuyến gicáp",
+      "bbox": [
+        26.0,
+        292.0,
+        524.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "(thn, tuyến thưihđng thhn, àng 9ịđuiang tiên 1int tuyến) Siêu Bnhm tuyến gicáp",
+          "bbox": [
+            26.0,
+            292.0,
+            524.0,
+            313.0
+          ],
+          "confidence": 0.81645268201828
+        }
+      ]
+    },
+    {
+      "text": "Cânhn Okhnả: E78 - Ri 1OMạn chuyễến hOán 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) TD nhnh ĩái",
+      "bbox": [
+        27.0,
+        312.0,
+        735.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn Okhnả: E78 - Ri 1OMạn chuyễến hOán 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) TD nhnh ĩái",
+          "bbox": [
+            27.0,
+            312.0,
+            735.0,
+            332.0
+          ],
+          "confidence": 0.7788511514663696
+        }
+      ]
+    },
+    {
+      "text": "tháo ường thĩng phU thunc inSốu1inu ([N40) Tăng Sán tuyễến tiếun 1iniị",
+      "bbox": [
+        26.0,
+        330.0,
+        484.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "tháo ường thĩng phU thunc inSốu1inu ([N40) Tăng Sán tuyễến tiếun 1iniị",
+          "bbox": [
+            26.0,
+            330.0,
+            484.0,
+            353.0
+          ],
+          "confidence": 0.8013321757316589
+        }
+      ]
+    },
+    {
+      "text": "1) LENINARTO 10 10mg SL: 62 Viên",
+      "bbox": [
+        41.0,
+        420.0,
+        709.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "1) LENINARTO 10 10mg",
+          "bbox": [
+            41.0,
+            420.0,
+            299.0,
+            452.0
+          ],
+          "confidence": 0.9680326581001282
+        },
+        {
+          "text": "SL: 62 Viên",
+          "bbox": [
+            594.0,
+            424.0,
+            709.0,
+            449.0
+          ],
+          "confidence": 0.9504833817481995
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uốg Tối 2 Viên",
+      "bbox": [
+        34.0,
+        450.0,
+        704.0,
+        476.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            452.0,
+            95.0,
+            473.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            451.0,
+            163.0,
+            476.0
+          ],
+          "confidence": 0.7876634001731873
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            623.0,
+            450.0,
+            704.0,
+            474.0
+          ],
+          "confidence": 0.9935532808303833
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        481.0,
+        198.0,
+        502.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            481.0,
+            198.0,
+            502.0
+          ],
+          "confidence": 0.9409546256065369
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ thuốc:",
+      "bbox": [
+        32.0,
+        506.0,
+        164.0,
+        526.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ thuốc:",
+          "bbox": [
+            32.0,
+            506.0,
+            164.0,
+            526.0
+          ],
+          "confidence": 0.9361571669578552
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹơ ti tháham:Thữ hNịi 15/10/2018",
+      "bbox": [
+        31.0,
+        528.0,
+        317.0,
+        553.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹơ ti tháham:Thữ hNịi 15/10/2018",
+          "bbox": [
+            31.0,
+            528.0,
+            317.0,
+            553.0
+          ],
+          "confidence": 0.8007813692092896
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/09/2018",
+      "bbox": [
+        483.0,
+        562.0,
+        624.0,
+        589.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/09/2018",
+          "bbox": [
+            483.0,
+            562.0,
+            624.0,
+            589.0
+          ],
+          "confidence": 0.9984604120254517
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        585.0,
+        614.0,
+        616.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            585.0,
+            199.0,
+            606.0
+          ],
+          "confidence": 0.9866636991500854
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            592.0,
+            614.0,
+            616.0
+          ],
+          "confidence": 0.9946430921554565
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        467.0,
+        662.0,
+        627.0,
+        692.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            467.0,
+            662.0,
+            627.0,
+            692.0
+          ],
+          "confidence": 0.9914984107017517
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xin Mmang th co ĩon, X nt nghinệm, phiram (ônếu co)",
+      "bbox": [
+        34.0,
+        722.0,
+        414.0,
+        743.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xin Mmang th co ĩon, X nt nghinệm, phiram (ônếu co)",
+          "bbox": [
+            34.0,
+            722.0,
+            414.0,
+            743.0
+          ],
+          "confidence": 0.7938359379768372
+        }
+      ]
+    },
+    {
+      "text": "05/05/2021 08:27:25",
+      "bbox": [
+        587.0,
+        763.0,
+        731.0,
+        783.0
+      ],
+      "words": [
+        {
+          "text": "05/05/2021 08:27:25",
+          "bbox": [
+            587.0,
+            763.0,
+            731.0,
+            783.0
+          ],
+          "confidence": 0.9946491718292236
+        }
+      ]
+    }
+  ]
+}

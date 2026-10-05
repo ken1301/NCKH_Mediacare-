@@ -1,0 +1,661 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_851",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_851.png",
+  "text": "1/1 M sc người bnh\nHÍNH\nSố phiếu 3132/2019\nTOA THUỐC BHYT\nNam x Nữ\nThu ặo h êhám y tế S 35 209 86954\nMạch: Lần/phút Huyết áp: MMHg Thân hiệt: C\nCận lâm sàng:\nCnhần oknhoả: M17.3 - Thokái hoá khp gci sau chếấhn thương khác g (G467) Hhi chứng mạch máu nẾo tưong\n5nh mạch nÃo (160-1677)\n1) DICLOFENAC 50mg SL: 10 Viên\nGhi chú Uốg\n2) MYPARA 500 500mg SL: 10 Vi ên\nGhi chú Uống\n3) HOẠT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chúc Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 23/07/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSDK. L Thị Anh\nTiái kháhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)\n15/05/2021 10:30:59",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            122.0,
+            64.0
+          ],
+          "confidence": 0.9998061060905457
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "HÍNH",
+      "bbox": [
+        150.0,
+        48.0,
+        205.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "HÍNH",
+          "bbox": [
+            150.0,
+            48.0,
+            205.0,
+            80.0
+          ],
+          "confidence": 0.7692667245864868
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3132/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3132/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9757272005081177
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế S 35 209 86954",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "S",
+          "bbox": [
+            181.0,
+            203.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.8698176145553589
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997860789299011
+        },
+        {
+          "text": "86954",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9012113809585571
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            78.0,
+            254.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.8456570506095886
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        24.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            24.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.9323994517326355
+        }
+      ]
+    },
+    {
+      "text": "Cnhần oknhoả: M17.3 - Thokái hoá khp gci sau chếấhn thương khác g (G467) Hhi chứng mạch máu nẾo tưong",
+      "bbox": [
+        24.0,
+        268.0,
+        729.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cnhần oknhoả: M17.3 - Thokái hoá khp gci sau chếấhn thương khác g (G467) Hhi chứng mạch máu nẾo tưong",
+          "bbox": [
+            24.0,
+            268.0,
+            729.0,
+            295.0
+          ],
+          "confidence": 0.805056631565094
+        }
+      ]
+    },
+    {
+      "text": "5nh mạch nÃo (160-1677)",
+      "bbox": [
+        27.0,
+        292.0,
+        208.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "5nh mạch nÃo (160-1677)",
+          "bbox": [
+            27.0,
+            292.0,
+            208.0,
+            313.0
+          ],
+          "confidence": 0.8727484941482544
+        }
+      ]
+    },
+    {
+      "text": "1) DICLOFENAC 50mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        710.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) DICLOFENAC 50mg",
+          "bbox": [
+            40.0,
+            379.0,
+            286.0,
+            415.0
+          ],
+          "confidence": 0.9664895534515381
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            383.0,
+            710.0,
+            411.0
+          ],
+          "confidence": 0.989056408405304
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        34.0,
+        409.0,
+        164.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            409.0,
+            164.0,
+            437.0
+          ],
+          "confidence": 0.8201684951782227
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 10 Vi ên",
+      "bbox": [
+        36.0,
+        431.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            291.0,
+            467.0
+          ],
+          "confidence": 0.9425942301750183
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            594.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9591493010520935
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        32.0,
+        462.0,
+        163.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            99.0,
+            487.0
+          ],
+          "confidence": 0.8523920774459839
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            103.0,
+            463.0,
+            163.0,
+            490.0
+          ],
+          "confidence": 0.8207264542579651
+        }
+      ]
+    },
+    {
+      "text": "3) HOẠT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        710.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) HOẠT HUYT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            37.0,
+            485.0,
+            502.0,
+            518.0
+          ],
+          "confidence": 0.9004359245300293
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            485.0,
+            710.0,
+            516.0
+          ],
+          "confidence": 0.9992110729217529
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống",
+      "bbox": [
+        34.0,
+        512.0,
+        165.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            512.0,
+            165.0,
+            543.0
+          ],
+          "confidence": 0.9477880597114563
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9813960194587708
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9690350294113159
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/07/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/07/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9885028004646301
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        648.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            648.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9535803198814392
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            654.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9714636206626892
+        }
+      ]
+    },
+    {
+      "text": "YSDK. L Thị Anh",
+      "bbox": [
+        472.0,
+        731.0,
+        622.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "YSDK. L Thị Anh",
+          "bbox": [
+            472.0,
+            731.0,
+            622.0,
+            755.0
+          ],
+          "confidence": 0.8877522349357605
+        }
+      ]
+    },
+    {
+      "text": "Tiái kháhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kháhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.8229456543922424
+        }
+      ]
+    },
+    {
+      "text": "15/05/2021 10:30:59",
+      "bbox": [
+        587.0,
+        825.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "15/05/2021 10:30:59",
+          "bbox": [
+            587.0,
+            825.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9511163830757141
+        }
+      ]
+    }
+  ]
+}

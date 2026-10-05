@@ -1,0 +1,722 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_624",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_624.png",
+  "text": "1/1 M sỐ người bệnh\nPK Số 5.1 [TĐ] Số phiếu 29794/2018\nTOA THUỐC BHYT\nNam x Nữ\nĐệị ạ chi\nTh úBo h ếhám y ềtế HT 35 25 960 06719\nMạch: Lần/phút Huyết áp: / MMHg Thân nhiệt:\nCậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1\ntAoràn phần (rmnu) Định 1ương Crêatinin (Mmánu), Định 10ương G1uCcOS [MMáun), Định đương HDL-C (High\ndunSiuy 1ịpOprOItin Cho1SurO1) [MMáu) Định 1ưđg Trig1ycorid (Mmáu) [MMáu)\nCânhn Ookhnản E78 - Ri 1OMạn chuyễến hOkn 1ipOprOntin à tinh t aạng tăng lipi Mmáhu khák (E11)TD Bnhnh ĩái\ntháo ường thĩông phU thun inSu1inu (K76) Bnệnh gan kháhc, (N17)TD Suy thnhn ckấpả (120) Vim phế ọuhn\nốcấp\n1) INGARON 200 DST 200 mg SL: 10 Vi ên\nGh chú Uống Sáng 1 Viên Chiều 1 Viên\n2) BROMHEXIN ACTAVIS 8MG 8mg SL: 20 Viên\nGhiah chú Uống Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: 0\nNgày hẹn ái khám:\nNgày 18/05/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. khong dùng\nTái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)\n05/05/2021 11:52:08",
+  "lines": [
+    {
+      "text": "1/1 M sỐ người bệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        714.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "M sỐ người bệnh",
+          "bbox": [
+            601.0,
+            20.0,
+            714.0,
+            42.0
+          ],
+          "confidence": 0.8750886917114258
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 29794/2018",
+      "bbox": [
+        23.0,
+        83.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9554377794265747
+        },
+        {
+          "text": "Số phiếu 29794/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9788215756416321
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9560674428939819
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        83.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        }
+      ]
+    },
+    {
+      "text": "Th úBo h ếhám y ềtế HT 35 25 960 06719",
+      "bbox": [
+        24.0,
+        199.0,
+        564.0,
+        230.0
+      ],
+      "words": [
+        {
+          "text": "Th úBo h ếhám y ềtế",
+          "bbox": [
+            24.0,
+            199.0,
+            155.0,
+            230.0
+          ],
+          "confidence": 0.7685942649841309
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            183.0,
+            204.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.9996548295021057
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "25",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9718888401985168
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9996899962425232
+        },
+        {
+          "text": "06719",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9535013437271118
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / MMHg Thân nhiệt:",
+      "bbox": [
+        23.0,
+        229.0,
+        596.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9966289401054382
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            230.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9670479893684387
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.9239572882652283
+        }
+      ]
+    },
+    {
+      "text": "Cậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1",
+      "bbox": [
+        27.0,
+        254.0,
+        717.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1",
+          "bbox": [
+            27.0,
+            254.0,
+            717.0,
+            275.0
+          ],
+          "confidence": 0.8028079271316528
+        }
+      ]
+    },
+    {
+      "text": "tAoràn phần (rmnu) Định 1ương Crêatinin (Mmánu), Định 10ương G1uCcOS [MMáun), Định đương HDL-C (High",
+      "bbox": [
+        26.0,
+        273.0,
+        711.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "tAoràn phần (rmnu) Định 1ương Crêatinin (Mmánu), Định 10ương G1uCcOS [MMáun), Định đương HDL-C (High",
+          "bbox": [
+            26.0,
+            273.0,
+            711.0,
+            293.0
+          ],
+          "confidence": 0.8322640061378479
+        }
+      ]
+    },
+    {
+      "text": "dunSiuy 1ịpOprOItin Cho1SurO1) [MMáu) Định 1ưđg Trig1ycorid (Mmáu) [MMáu)",
+      "bbox": [
+        27.0,
+        293.0,
+        550.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "dunSiuy 1ịpOprOItin Cho1SurO1) [MMáu) Định 1ưđg Trig1ycorid (Mmáu) [MMáu)",
+          "bbox": [
+            27.0,
+            293.0,
+            550.0,
+            313.0
+          ],
+          "confidence": 0.8048752546310425
+        }
+      ]
+    },
+    {
+      "text": "Cânhn Ookhnản E78 - Ri 1OMạn chuyễến hOkn 1ipOprOntin à tinh t aạng tăng lipi Mmáhu khák (E11)TD Bnhnh ĩái",
+      "bbox": [
+        27.0,
+        312.0,
+        736.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn Ookhnản E78 - Ri 1OMạn chuyễến hOkn 1ipOprOntin à tinh t aạng tăng lipi Mmáhu khák (E11)TD Bnhnh ĩái",
+          "bbox": [
+            27.0,
+            312.0,
+            736.0,
+            332.0
+          ],
+          "confidence": 0.7697043418884277
+        }
+      ]
+    },
+    {
+      "text": "tháo ường thĩông phU thun inSu1inu (K76) Bnệnh gan kháhc, (N17)TD Suy thnhn ckấpả (120) Vim phế ọuhn",
+      "bbox": [
+        26.0,
+        330.0,
+        737.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "tháo ường thĩông phU thun inSu1inu (K76) Bnệnh gan kháhc, (N17)TD Suy thnhn ckấpả (120) Vim phế ọuhn",
+          "bbox": [
+            26.0,
+            330.0,
+            737.0,
+            352.0
+          ],
+          "confidence": 0.7996275424957275
+        }
+      ]
+    },
+    {
+      "text": "ốcấp",
+      "bbox": [
+        21.0,
+        347.0,
+        59.0,
+        375.0
+      ],
+      "words": [
+        {
+          "text": "ốcấp",
+          "bbox": [
+            21.0,
+            347.0,
+            59.0,
+            375.0
+          ],
+          "confidence": 0.5873486399650574
+        }
+      ]
+    },
+    {
+      "text": "1) INGARON 200 DST 200 mg SL: 10 Vi ên",
+      "bbox": [
+        41.0,
+        420.0,
+        709.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "1) INGARON 200 DST 200 mg",
+          "bbox": [
+            41.0,
+            420.0,
+            351.0,
+            452.0
+          ],
+          "confidence": 0.9564065337181091
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            421.0,
+            709.0,
+            449.0
+          ],
+          "confidence": 0.9690619111061096
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        449.0,
+        608.0,
+        476.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            34.0,
+            451.0,
+            93.0,
+            472.0
+          ],
+          "confidence": 0.774796724319458
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            108.0,
+            452.0,
+            163.0,
+            476.0
+          ],
+          "confidence": 0.9118333458900452
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            451.0,
+            377.0,
+            475.0
+          ],
+          "confidence": 0.9915516376495361
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            449.0,
+            608.0,
+            473.0
+          ],
+          "confidence": 0.9955570101737976
+        }
+      ]
+    },
+    {
+      "text": "2) BROMHEXIN ACTAVIS 8MG 8mg SL: 20 Viên",
+      "bbox": [
+        39.0,
+        473.0,
+        709.0,
+        506.0
+      ],
+      "words": [
+        {
+          "text": "2) BROMHEXIN ACTAVIS 8MG 8mg",
+          "bbox": [
+            39.0,
+            473.0,
+            425.0,
+            506.0
+          ],
+          "confidence": 0.9459301829338074
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            476.0,
+            709.0,
+            501.0
+          ],
+          "confidence": 0.9762057662010193
+        }
+      ]
+    },
+    {
+      "text": "Ghiah chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        500.0,
+        610.0,
+        528.0
+      ],
+      "words": [
+        {
+          "text": "Ghiah chú",
+          "bbox": [
+            34.0,
+            506.0,
+            93.0,
+            524.0
+          ],
+          "confidence": 0.8088047504425049
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            503.0,
+            162.0,
+            528.0
+          ],
+          "confidence": 0.9400478005409241
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            289.0,
+            505.0,
+            378.0,
+            526.0
+          ],
+          "confidence": 0.9311569333076477
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            500.0,
+            610.0,
+            527.0
+          ],
+          "confidence": 0.9980618357658386
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        33.0,
+        533.0,
+        198.0,
+        554.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            33.0,
+            533.0,
+            198.0,
+            554.0
+          ],
+          "confidence": 0.9611770510673523
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc: 0",
+      "bbox": [
+        32.0,
+        557.0,
+        189.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc: 0",
+          "bbox": [
+            32.0,
+            557.0,
+            189.0,
+            578.0
+          ],
+          "confidence": 0.8772175908088684
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn ái khám:",
+      "bbox": [
+        33.0,
+        584.0,
+        168.0,
+        604.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn ái khám:",
+          "bbox": [
+            33.0,
+            584.0,
+            168.0,
+            604.0
+          ],
+          "confidence": 0.9458155632019043
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/05/2018",
+      "bbox": [
+        484.0,
+        618.0,
+        623.0,
+        639.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/05/2018",
+          "bbox": [
+            484.0,
+            618.0,
+            623.0,
+            639.0
+          ],
+          "confidence": 0.9286802411079407
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        636.0,
+        614.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            636.0,
+            198.0,
+            658.0
+          ],
+          "confidence": 0.9956632256507874
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            645.0,
+            614.0,
+            667.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dùng",
+      "bbox": [
+        483.0,
+        716.0,
+        611.0,
+        745.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dùng",
+          "bbox": [
+            483.0,
+            716.0,
+            611.0,
+            745.0
+          ],
+          "confidence": 0.9253142476081848
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+      "bbox": [
+        32.0,
+        772.0,
+        416.0,
+        797.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+          "bbox": [
+            32.0,
+            772.0,
+            416.0,
+            797.0
+          ],
+          "confidence": 0.8272868990898132
+        }
+      ]
+    },
+    {
+      "text": "05/05/2021 11:52:08",
+      "bbox": [
+        587.0,
+        817.0,
+        731.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "05/05/2021 11:52:08",
+          "bbox": [
+            587.0,
+            817.0,
+            731.0,
+            834.0
+          ],
+          "confidence": 0.8950080871582031
+        }
+      ]
+    }
+  ]
+}

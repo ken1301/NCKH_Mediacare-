@@ -1,0 +1,679 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1063",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1063.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 2306/2018\nTOA THUỐC BHYT\nNam 2 ữx\nThu ặo h ếhám y tế GB 4 35 35 206\nMạch: lần/phút Huyết áp: MMHg Thân nhi\nCộn lâm sàng:\nCânhản kn: G46 - Hni ch[ng Mmạch Mmáu no tOng nệnh mMạch nđo (160-1677) Di ứng toàn thân\n1) VACO LORATADINE 10mg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Tối 1 Viên\n2) CHORLATCYN 125mg:50mg:50mg:25mg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên Tối 1 Viên\n3) HOẠT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Tối 2 Viên\nCộng khoả: 3 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/08/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSĐK. Vũ Mạnh Lưu\nTáiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)\n16/05/2021 16:05:23",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        45.0,
+        4.0,
+        716.0,
+        70.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            45.0,
+            4.0,
+            163.0,
+            70.0
+          ],
+          "confidence": 0.9974520802497864
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2306/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        537.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2306/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            537.0,
+            121.0
+          ],
+          "confidence": 0.9988701343536377
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9137263894081116
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 35 206",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            267.0,
+            225.0
+          ],
+          "confidence": 0.9998949766159058
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999826550483704
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhi",
+      "bbox": [
+        25.0,
+        229.0,
+        595.0,
+        255.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9619219899177551
+        },
+        {
+          "text": "MMHg Thân nhi",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8767309188842773
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cânhản kn: G46 - Hni ch[ng Mmạch Mmáu no tOng nệnh mMạch nđo (160-1677) Di ứng toàn thân",
+      "bbox": [
+        27.0,
+        272.0,
+        672.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cânhản kn: G46 - Hni ch[ng Mmạch Mmáu no tOng nệnh mMạch nđo (160-1677) Di ứng toàn thân",
+          "bbox": [
+            27.0,
+            272.0,
+            672.0,
+            292.0
+          ],
+          "confidence": 0.8244186639785767
+        }
+      ]
+    },
+    {
+      "text": "1) VACO LORATADINE 10mg SL: 10 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) VACO LORATADINE 10mg",
+          "bbox": [
+            42.0,
+            381.0,
+            358.0,
+            412.0
+          ],
+          "confidence": 0.9519320130348206
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9712629914283752
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        705.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.8736915588378906
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            410.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8594629764556885
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            289.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9711282849311829
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            409.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.9955239295959473
+        }
+      ]
+    },
+    {
+      "text": "2) CHORLATCYN 125mg:50mg:50mg:25mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) CHORLATCYN 125mg:50mg:50mg:25mg",
+          "bbox": [
+            37.0,
+            433.0,
+            480.0,
+            467.0
+          ],
+          "confidence": 0.9722208976745605
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9997545480728149
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        32.0,
+        462.0,
+        706.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            95.0,
+            487.0
+          ],
+          "confidence": 0.8282133936882019
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            489.0
+          ],
+          "confidence": 0.9374353289604187
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9922634363174438
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            623.0,
+            463.0,
+            706.0,
+            487.0
+          ],
+          "confidence": 0.9828969240188599
+        }
+      ]
+    },
+    {
+      "text": "3) HOẠT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        484.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) HOẠT HUYT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            37.0,
+            484.0,
+            502.0,
+            518.0
+          ],
+          "confidence": 0.8801232576370239
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9732725024223328
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        33.0,
+        512.0,
+        705.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            94.0,
+            537.0
+          ],
+          "confidence": 0.8304785490036011
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            512.0,
+            165.0,
+            543.0
+          ],
+          "confidence": 0.9477880597114563
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            516.0,
+            379.0,
+            540.0
+          ],
+          "confidence": 0.9865562319755554
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            623.0,
+            515.0,
+            705.0,
+            539.0
+          ],
+          "confidence": 0.9935779571533203
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 3 khoả",
+      "bbox": [
+        33.0,
+        546.0,
+        199.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 3 khoả",
+          "bbox": [
+            33.0,
+            546.0,
+            199.0,
+            567.0
+          ],
+          "confidence": 0.9197971224784851
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.981297492980957
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9620001912117004
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/08/2018",
+      "bbox": [
+        483.0,
+        627.0,
+        625.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/08/2018",
+          "bbox": [
+            483.0,
+            627.0,
+            625.0,
+            654.0
+          ],
+          "confidence": 0.9668436646461487
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        614.0,
+        680.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            659.0,
+            614.0,
+            680.0
+          ],
+          "confidence": 0.941504716873169
+        }
+      ]
+    },
+    {
+      "text": "BSĐK. Vũ Mạnh Lưu",
+      "bbox": [
+        463.0,
+        734.0,
+        631.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "BSĐK. Vũ Mạnh Lưu",
+          "bbox": [
+            463.0,
+            734.0,
+            631.0,
+            755.0
+          ],
+          "confidence": 0.9267038702964783
+        }
+      ]
+    },
+    {
+      "text": "Táiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)",
+      "bbox": [
+        34.0,
+        788.0,
+        414.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Táiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)",
+          "bbox": [
+            34.0,
+            788.0,
+            414.0,
+            809.0
+          ],
+          "confidence": 0.766453742980957
+        }
+      ]
+    },
+    {
+      "text": "16/05/2021 16:05:23",
+      "bbox": [
+        587.0,
+        825.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "16/05/2021 16:05:23",
+          "bbox": [
+            587.0,
+            825.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9719460010528564
+        }
+      ]
+    }
+  ]
+}

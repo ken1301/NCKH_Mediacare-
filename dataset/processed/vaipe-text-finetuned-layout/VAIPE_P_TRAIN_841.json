@@ -1,0 +1,535 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_841",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_841.png",
+  "text": "1/1 M sc người bnh\nPK SỐ 3 [NHI] Số phiếu 77860/2018\nTOA THUỐC BHYT\nNamNx\nThu ặo h êhám y tế GB 35 35 209\nMạch: lần/phút Huyết áp: / MMHg Thân nhiệt: C\nCộn lâm sàng:\nCânuhn okhn:n G47 - R 1oMạn giến ngùm: (H81.1) Chng MmặH kịch pháH lầnh tính\n1) STACETAM 800MG 800mg SL: 20 Viên\nGhi chú Uốg Sáng 2 Viên Ciều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 14/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. khong dung\nTái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếu cá)\n14/05/2021 08:44:19",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "PK SỐ 3 [NHI] Số phiếu 77860/2018",
+      "bbox": [
+        24.0,
+        86.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK SỐ 3 [NHI]",
+          "bbox": [
+            24.0,
+            86.0,
+            135.0,
+            114.0
+          ],
+          "confidence": 0.9414145946502686
+        },
+        {
+          "text": "Số phiếu 77860/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9678826332092285
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 35 35 209",
+      "bbox": [
+        25.0,
+        203.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7737141251564026
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            226.0
+          ],
+          "confidence": 0.9995036125183105
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9996581077575684
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998081922531128
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997748732566833
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHg Thân nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            378.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.5464144349098206
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8925460577011108
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cânuhn okhn:n G47 - R 1oMạn giến ngùm: (H81.1) Chng MmặH kịch pháH lầnh tính",
+      "bbox": [
+        27.0,
+        272.0,
+        546.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhn okhn:n G47 - R 1oMạn giến ngùm: (H81.1) Chng MmặH kịch pháH lầnh tính",
+          "bbox": [
+            27.0,
+            272.0,
+            546.0,
+            292.0
+          ],
+          "confidence": 0.7895601391792297
+        }
+      ]
+    },
+    {
+      "text": "1) STACETAM 800MG 800mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) STACETAM 800MG 800mg",
+          "bbox": [
+            41.0,
+            381.0,
+            351.0,
+            412.0
+          ],
+          "confidence": 0.9692465662956238
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 2 Viên Ciều 2 Viên",
+      "bbox": [
+        32.0,
+        410.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            410.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.7620573043823242
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            410.0,
+            164.0,
+            437.0
+          ],
+          "confidence": 0.7164030075073242
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9298473596572876
+        },
+        {
+          "text": "Ciều 2 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9865385293960571
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9808337092399597
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/12/2018",
+      "bbox": [
+        482.0,
+        523.0,
+        625.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/12/2018",
+          "bbox": [
+            482.0,
+            523.0,
+            625.0,
+            549.0
+          ],
+          "confidence": 0.967278778553009
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dung",
+      "bbox": [
+        482.0,
+        624.0,
+        611.0,
+        655.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dung",
+          "bbox": [
+            482.0,
+            624.0,
+            611.0,
+            655.0
+          ],
+          "confidence": 0.9564406275749207
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.7793930172920227
+        }
+      ]
+    },
+    {
+      "text": "14/05/2021 08:44:19",
+      "bbox": [
+        588.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "14/05/2021 08:44:19",
+          "bbox": [
+            588.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9792179465293884
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1110",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1110.png",
+  "text": "1/1 MMH sỐ người bnh\nSố phiếu 837/2018\nTOA THUỐC BHYT\nNm N\nThu ặo h ếhám y tế BT 25 208 22629\nMạch: lần/phút Huyt áp: MmHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhcn okn: 502- iêm ọg cấp\n1) AMOXICILLIN 500MG 0,5g SL: 20 Viên\nGhi chúK Uống\n2) PANACTOL 500mg SL: 10 Viên\nGhi chú Uống\n3) COSYNDO B 175mg 4175mg4 125mg SL: 10 Viên\nGhi chúữ Uốg:\nCộng khoản: 3 khoản\nLời dặn đơn hu c: 0\nNgày hẹn tái khám:\nNgày 29/06/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n28/12/2021 23:23:31",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            84.0
+          ],
+          "confidence": 0.9996027946472168
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 837/2018",
+      "bbox": [
+        368.0,
+        105.0,
+        527.0,
+        140.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 837/2018",
+          "bbox": [
+            368.0,
+            105.0,
+            527.0,
+            140.0
+          ],
+          "confidence": 0.9859471321105957
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.8928547501564026
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế BT 25 208 22629",
+      "bbox": [
+        24.0,
+        219.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "BT 25",
+          "bbox": [
+            179.0,
+            219.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.8420661091804504
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9934849739074707
+        },
+        {
+          "text": "22629",
+          "bbox": [
+            506.0,
+            220.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9990736842155457
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            77.0,
+            272.0
+          ],
+          "confidence": 0.9593746066093445
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MmHg",
+          "bbox": [
+            449.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.8367569446563721
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhcn okn: 502- iêm ọg cấp",
+      "bbox": [
+        24.0,
+        286.0,
+        254.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhcn okn: 502- iêm ọg cấp",
+          "bbox": [
+            24.0,
+            286.0,
+            254.0,
+            314.0
+          ],
+          "confidence": 0.8432052135467529
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILLIN 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        709.0,
+        433.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILLIN 500MG 0,5g",
+          "bbox": [
+            38.0,
+            396.0,
+            358.0,
+            433.0
+          ],
+          "confidence": 0.9647022485733032
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            401.0,
+            709.0,
+            430.0
+          ],
+          "confidence": 0.9288318157196045
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        711.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            449.0,
+            277.0,
+            485.0
+          ],
+          "confidence": 0.8866923451423645
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9407632946968079
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) COSYNDO B 175mg 4175mg4 125mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        502.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) COSYNDO B 175mg 4175mg4 125mg",
+          "bbox": [
+            36.0,
+            503.0,
+            454.0,
+            538.0
+          ],
+          "confidence": 0.918380856513977
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9838514924049377
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg:",
+      "bbox": [
+        33.0,
+        532.0,
+        165.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            104.0,
+            532.0,
+            165.0,
+            560.0
+          ],
+          "confidence": 0.7993766069412231
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        559.0,
+        201.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            559.0,
+            201.0,
+            588.0
+          ],
+          "confidence": 0.9916369915008545
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn hu c: 0",
+      "bbox": [
+        31.0,
+        588.0,
+        189.0,
+        609.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn hu c: 0",
+          "bbox": [
+            31.0,
+            588.0,
+            189.0,
+            609.0
+          ],
+          "confidence": 0.9040898680686951
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        171.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            171.0,
+            637.0
+          ],
+          "confidence": 0.9928671717643738
+        }
+      ]
+    },
+    {
+      "text": "Ngày 29/06/2018",
+      "bbox": [
+        482.0,
+        645.0,
+        626.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 29/06/2018",
+          "bbox": [
+            482.0,
+            645.0,
+            626.0,
+            672.0
+          ],
+          "confidence": 0.9962059855461121
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            202.0,
+            692.0
+          ],
+          "confidence": 0.9482138156890869
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "bbox": [
+        455.0,
+        746.0,
+        639.0,
+        778.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Xuân Dũng",
+          "bbox": [
+            455.0,
+            746.0,
+            639.0,
+            778.0
+          ],
+          "confidence": 0.9590222239494324
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276698589324951
+        }
+      ]
+    },
+    {
+      "text": "28/12/2021 23:23:31",
+      "bbox": [
+        587.0,
+        845.0,
+        731.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "28/12/2021 23:23:31",
+          "bbox": [
+            587.0,
+            845.0,
+            731.0,
+            866.0
+          ],
+          "confidence": 0.9746818542480469
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_239",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_239.png",
+  "text": "M sc người bnh\nTYHT XÃ CONG L\nSố phiếu 2860/2019\nTAO HA C THU C BH BHYT\nNam x Nữ\nThu ặo h êhám y tế GB 4 35 35 207\nMạch: lần/phút Huyết áp: MMHg Thân hiệt C\nCận lâm1 sàng:\nCâềnhcn ongn: 10 - Cnm cứam do iưugSg cứám ươc ơịnh danh (R64) Suy Mmờn\n1) KAVASDIN 5 5mg SL: 30 viên\nGhi chú Uốg\n2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên\nGhi chú Uốg\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 14/10/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Nguyễn Văn Huy\nTi kh áhám Xin mmMnng th ho ođn, nt nghinệm phirhám (ônếu c)\n19/05/2021 09:21:10",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "TYHT XÃ CONG L",
+      "bbox": [
+        27.0,
+        55.0,
+        170.0,
+        77.0
+      ],
+      "words": [
+        {
+          "text": "TYHT XÃ CONG L",
+          "bbox": [
+            27.0,
+            55.0,
+            170.0,
+            77.0
+          ],
+          "confidence": 0.841153621673584
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2860/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2860/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9786438345909119
+        }
+      ]
+    },
+    {
+      "text": "TAO HA C THU C BH BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TAO HA C THU C BH BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.7709876894950867
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 4 35 35 207",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7739477753639221
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            226.0
+          ],
+          "confidence": 0.9996738433837891
+        },
+        {
+          "text": "4",
+          "bbox": [
+            246.0,
+            207.0,
+            268.0,
+            225.0
+          ],
+          "confidence": 0.8027942180633545
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9996625185012817
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.999746561050415
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân hiệt C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "MMHg Thân hiệt",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.880811870098114
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm1 sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm1 sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.8716052770614624
+        }
+      ]
+    },
+    {
+      "text": "Câềnhcn ongn: 10 - Cnm cứam do iưugSg cứám ươc ơịnh danh (R64) Suy Mmờn",
+      "bbox": [
+        26.0,
+        271.0,
+        529.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhcn ongn: 10 - Cnm cứam do iưugSg cứám ươc ơịnh danh (R64) Suy Mmờn",
+          "bbox": [
+            26.0,
+            271.0,
+            529.0,
+            293.0
+          ],
+          "confidence": 0.7924340963363647
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg SL: 30 viên",
+      "bbox": [
+        41.0,
+        380.0,
+        704.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 5 5mg",
+          "bbox": [
+            41.0,
+            380.0,
+            272.0,
+            415.0
+          ],
+          "confidence": 0.9687216281890869
+        },
+        {
+          "text": "SL: 30 viên",
+          "bbox": [
+            595.0,
+            385.0,
+            704.0,
+            410.0
+          ],
+          "confidence": 0.9474124908447266
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        34.0,
+        409.0,
+        164.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.8736915588378906
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            409.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.7946093082427979
+        }
+      ]
+    },
+    {
+      "text": "2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) SETBLOOD 115mg4100mg450mcg",
+          "bbox": [
+            37.0,
+            433.0,
+            420.0,
+            467.0
+          ],
+          "confidence": 0.9310213923454285
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9594852924346924
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        33.0,
+        464.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8069043755531311
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        198.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            198.0,
+            515.0
+          ],
+          "confidence": 0.9378631711006165
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9332606196403503
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9665498733520508
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/10/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/10/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9952362179756165
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "YS. Nguyễn Văn Huy",
+      "bbox": [
+        461.0,
+        676.0,
+        631.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "YS. Nguyễn Văn Huy",
+          "bbox": [
+            461.0,
+            676.0,
+            631.0,
+            706.0
+          ],
+          "confidence": 0.9417095184326172
+        }
+      ]
+    },
+    {
+      "text": "Ti kh áhám Xin mmMnng th ho ođn, nt nghinệm phirhám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        414.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Ti kh áhám Xin mmMnng th ho ođn, nt nghinệm phirhám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            414.0,
+            757.0
+          ],
+          "confidence": 0.7923471331596375
+        }
+      ]
+    },
+    {
+      "text": "19/05/2021 09:21:10",
+      "bbox": [
+        589.0,
+        777.0,
+        732.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "19/05/2021 09:21:10",
+          "bbox": [
+            589.0,
+            777.0,
+            732.0,
+            794.0
+          ],
+          "confidence": 0.9352672100067139
+        }
+      ]
+    }
+  ]
+}

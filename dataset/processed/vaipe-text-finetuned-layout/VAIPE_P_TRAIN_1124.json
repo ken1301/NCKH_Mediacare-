@@ -1,0 +1,535 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1124",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1124.png",
+  "text": "1/1 MMH sỐ người bnh\nPK Số 5.1 [TĐ] Số phiếu 28868/2020\nTOA THUỐC BHYT\nNm N\nThu ặo h ếhám y tế HT 3 35 960 09913\nMạch: lần/phút Huyết áp: MmMHg T Thân nhiệt: c\nCnln 1 smn gàng: Định 1ương GlucOSg [MMku\nCânhân okhoả E11- Bnệnh tái náo ường kõng phu thunc inSuin\n1) METFORMIN 500 500mg SL: 34 Viên\nGhi chúữ Uống sau ăn: Tối 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn á khám: Th N, 07/07/2020\nNgày 03/06/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)\n01/01/2022 15:19:19",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        716.0,
+        82.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            120.0,
+            82.0
+          ],
+          "confidence": 0.8426432013511658
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 28868/2020",
+      "bbox": [
+        22.0,
+        100.0,
+        547.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            22.0,
+            100.0,
+            142.0,
+            134.0
+          ],
+          "confidence": 0.9371328949928284
+        },
+        {
+          "text": "Số phiếu 28868/2020",
+          "bbox": [
+            369.0,
+            106.0,
+            547.0,
+            138.0
+          ],
+          "confidence": 0.9654415249824524
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        136.0,
+        511.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            136.0,
+            511.0,
+            173.0
+          ],
+          "confidence": 0.991284191608429
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế HT 3 35 960 09913",
+      "bbox": [
+        24.0,
+        221.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            182.0,
+            222.0,
+            223.0,
+            245.0
+          ],
+          "confidence": 0.9910033941268921
+        },
+        {
+          "text": "3",
+          "bbox": [
+            239.0,
+            223.0,
+            270.0,
+            244.0
+          ],
+          "confidence": 0.9998730421066284
+        },
+        {
+          "text": "35",
+          "bbox": [
+            270.0,
+            221.0,
+            330.0,
+            246.0
+          ],
+          "confidence": 0.5977095365524292
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.832676112651825
+        },
+        {
+          "text": "09913",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.8953680992126465
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmMHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            310.0,
+            273.0
+          ],
+          "confidence": 0.9937216639518738
+        },
+        {
+          "text": "MmMHg",
+          "bbox": [
+            447.0,
+            246.0,
+            509.0,
+            274.0
+          ],
+          "confidence": 0.8619194030761719
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cnln 1 smn gàng: Định 1ương GlucOSg [MMku",
+      "bbox": [
+        24.0,
+        269.0,
+        321.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cnln 1 smn gàng: Định 1ương GlucOSg [MMku",
+          "bbox": [
+            24.0,
+            269.0,
+            321.0,
+            292.0
+          ],
+          "confidence": 0.8236432671546936
+        }
+      ]
+    },
+    {
+      "text": "Cânhân okhoả E11- Bnệnh tái náo ường kõng phu thunc inSuin",
+      "bbox": [
+        25.0,
+        288.0,
+        461.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhân okhoả E11- Bnệnh tái náo ường kõng phu thunc inSuin",
+          "bbox": [
+            25.0,
+            288.0,
+            461.0,
+            312.0
+          ],
+          "confidence": 0.773022472858429
+        }
+      ]
+    },
+    {
+      "text": "1) METFORMIN 500 500mg SL: 34 Viên",
+      "bbox": [
+        39.0,
+        395.0,
+        712.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) METFORMIN 500 500mg",
+          "bbox": [
+            39.0,
+            395.0,
+            331.0,
+            434.0
+          ],
+          "confidence": 0.9499585628509521
+        },
+        {
+          "text": "SL: 34 Viên",
+          "bbox": [
+            590.0,
+            397.0,
+            712.0,
+            431.0
+          ],
+          "confidence": 0.9997508525848389
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uống sau ăn: Tối 1 Viên",
+      "bbox": [
+        33.0,
+        424.0,
+        707.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            431.0,
+            95.0,
+            453.0
+          ],
+          "confidence": 0.8597269058227539
+        },
+        {
+          "text": "Uống sau ăn:",
+          "bbox": [
+            105.0,
+            426.0,
+            237.0,
+            456.0
+          ],
+          "confidence": 0.8816308975219727
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            619.0,
+            424.0,
+            707.0,
+            456.0
+          ],
+          "confidence": 0.9889918565750122
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        31.0,
+        458.0,
+        201.0,
+        482.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            31.0,
+            458.0,
+            201.0,
+            482.0
+          ],
+          "confidence": 0.97745281457901
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        480.0,
+        167.0,
+        507.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            480.0,
+            167.0,
+            507.0
+          ],
+          "confidence": 0.9992727637290955
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn á khám: Th N, 07/07/2020",
+      "bbox": [
+        30.0,
+        506.0,
+        312.0,
+        533.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn á khám: Th N, 07/07/2020",
+          "bbox": [
+            30.0,
+            506.0,
+            312.0,
+            533.0
+          ],
+          "confidence": 0.8951089382171631
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/06/2020",
+      "bbox": [
+        483.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/06/2020",
+          "bbox": [
+            483.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.9676692485809326
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        61.0,
+        559.0,
+        617.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            61.0,
+            559.0,
+            201.0,
+            586.0
+          ],
+          "confidence": 0.9989372491836548
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            571.0,
+            617.0,
+            597.0
+          ],
+          "confidence": 0.9924474358558655
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        457.0,
+        642.0,
+        636.0,
+        673.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            457.0,
+            642.0,
+            636.0,
+            673.0
+          ],
+          "confidence": 0.9899706840515137
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.8052568435668945
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 15:19:19",
+      "bbox": [
+        587.0,
+        741.0,
+        732.0,
+        762.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 15:19:19",
+          "bbox": [
+            587.0,
+            741.0,
+            732.0,
+            762.0
+          ],
+          "confidence": 0.9970312714576721
+        }
+      ]
+    }
+  ]
+}

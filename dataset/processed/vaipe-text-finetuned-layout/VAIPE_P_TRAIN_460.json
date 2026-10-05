@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_460",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_460.png",
+  "text": "MS sỐ người bệnh\nKhoa  Khám bệnh\nBốc khám nội Số phiếu 42237/2021\nTOA THAC C  BHYT\nNam 2\nTh bặo hiêhm y t CK 2 35 35 38829\nMạch: 0 lần/phút Huyết áp: 110 mMHgHg T Thâ n nhiệt 36.5\nCn lâ nà ngng:\nCâềnhon khn: I10- nh 1 ăng h uyếnH áp\n1) ENALAPRIL 5mg SL: 60 Viên\nGhi chú uống: Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 1 khoả\nLời dặn đơ tốn c:  N  I   nM  30/9/2021\nNgày hẹn tái khám:\nNgày 30/08/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Nguyễn Văn Thự\nTáiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)\n04/01/2022 21:50:40",
+  "lines": [
+    {
+      "text": "MS sỐ người bệnh",
+      "bbox": [
+        896.0,
+        43.0,
+        1065.0,
+        74.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐ người bệnh",
+          "bbox": [
+            896.0,
+            43.0,
+            1065.0,
+            74.0
+          ],
+          "confidence": 0.8335763216018677
+        }
+      ]
+    },
+    {
+      "text": "Khoa  Khám bệnh",
+      "bbox": [
+        37.0,
+        98.0,
+        222.0,
+        126.0
+      ],
+      "words": [
+        {
+          "text": "Khoa  Khám bệnh",
+          "bbox": [
+            37.0,
+            98.0,
+            222.0,
+            126.0
+          ],
+          "confidence": 0.947486937046051
+        }
+      ]
+    },
+    {
+      "text": "Bốc khám nội Số phiếu 42237/2021",
+      "bbox": [
+        34.0,
+        145.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bốc khám nội",
+          "bbox": [
+            34.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.9299769401550293
+        },
+        {
+          "text": "Số phiếu 42237/2021",
+          "bbox": [
+            551.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9675881266593933
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC C  BHYT",
+      "bbox": [
+        383.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC C  BHYT",
+          "bbox": [
+            383.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8384047746658325
+        }
+      ]
+    },
+    {
+      "text": "Nam 2",
+      "bbox": [
+        919.0,
+        234.0,
+        1099.0,
+        283.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2",
+          "bbox": [
+            919.0,
+            234.0,
+            1099.0,
+            283.0
+          ],
+          "confidence": 0.7944045662879944
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiêhm y t CK 2 35 35 38829",
+      "bbox": [
+        35.0,
+        318.0,
+        839.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiêhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7792321443557739
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            270.0,
+            318.0,
+            332.0,
+            352.0
+          ],
+          "confidence": 0.8228510618209839
+        },
+        {
+          "text": "2",
+          "bbox": [
+            357.0,
+            318.0,
+            427.0,
+            352.0
+          ],
+          "confidence": 0.999935507774353
+        },
+        {
+          "text": "35",
+          "bbox": [
+            438.0,
+            319.0,
+            485.0,
+            351.0
+          ],
+          "confidence": 0.999907910823822
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9655016660690308
+        },
+        {
+          "text": "38829",
+          "bbox": [
+            759.0,
+            319.0,
+            839.0,
+            352.0
+          ],
+          "confidence": 0.9516273736953735
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 0 lần/phút Huyết áp: 110 mMHgHg T Thâ n nhiệt 36.5",
+      "bbox": [
+        34.0,
+        356.0,
+        954.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 0",
+          "bbox": [
+            34.0,
+            358.0,
+            166.0,
+            390.0
+          ],
+          "confidence": 0.9186583757400513
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            458.0,
+            393.0
+          ],
+          "confidence": 0.9742215275764465
+        },
+        {
+          "text": "110",
+          "bbox": [
+            491.0,
+            359.0,
+            547.0,
+            389.0
+          ],
+          "confidence": 0.8718701004981995
+        },
+        {
+          "text": "mMHgHg",
+          "bbox": [
+            673.0,
+            361.0,
+            756.0,
+            389.0
+          ],
+          "confidence": 0.7607488632202148
+        },
+        {
+          "text": "T Thâ n nhiệt 36.5",
+          "bbox": [
+            761.0,
+            358.0,
+            954.0,
+            389.0
+          ],
+          "confidence": 0.8814952373504639
+        }
+      ]
+    },
+    {
+      "text": "Cn lâ nà ngng:",
+      "bbox": [
+        35.0,
+        392.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâ nà ngng:",
+          "bbox": [
+            35.0,
+            392.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.7199134826660156
+        }
+      ]
+    },
+    {
+      "text": "Câềnhon khn: I10- nh 1 ăng h uyếnH áp",
+      "bbox": [
+        35.0,
+        418.0,
+        437.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhon khn: I10- nh 1 ăng h uyếnH áp",
+          "bbox": [
+            35.0,
+            418.0,
+            437.0,
+            453.0
+          ],
+          "confidence": 0.7692286968231201
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 60 Viên",
+      "bbox": [
+        62.0,
+        588.0,
+        1055.0,
+        630.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            62.0,
+            588.0,
+            380.0,
+            630.0
+          ],
+          "confidence": 0.8858131170272827
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1055.0,
+            625.0
+          ],
+          "confidence": 0.9986317157745361
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        44.0,
+        624.0,
+        906.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            44.0,
+            624.0,
+            244.0,
+            667.0
+          ],
+          "confidence": 0.9740160703659058
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            632.0,
+            560.0,
+            663.0
+          ],
+          "confidence": 0.9971345663070679
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            628.0,
+            906.0,
+            661.0
+          ],
+          "confidence": 0.9808928966522217
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoả",
+      "bbox": [
+        43.0,
+        673.0,
+        293.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoả",
+          "bbox": [
+            43.0,
+            673.0,
+            293.0,
+            706.0
+          ],
+          "confidence": 0.9094867706298828
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ tốn c:  N  I   nM  30/9/2021",
+      "bbox": [
+        41.0,
+        710.0,
+        557.0,
+        741.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ tốn c:  N  I   nM  30/9/2021",
+          "bbox": [
+            41.0,
+            710.0,
+            557.0,
+            741.0
+          ],
+          "confidence": 0.8290050029754639
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        752.0,
+        247.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            752.0,
+            247.0,
+            780.0
+          ],
+          "confidence": 0.8895183205604553
+        }
+      ]
+    },
+    {
+      "text": "Ngày 30/08/2021",
+      "bbox": [
+        721.0,
+        801.0,
+        927.0,
+        835.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 30/08/2021",
+          "bbox": [
+            721.0,
+            801.0,
+            927.0,
+            835.0
+          ],
+          "confidence": 0.9645394086837769
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        828.0,
+        913.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            91.0,
+            828.0,
+            293.0,
+            862.0
+          ],
+          "confidence": 0.9286905527114868
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            913.0,
+            874.0
+          ],
+          "confidence": 0.9662958979606628
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "bbox": [
+        666.0,
+        950.0,
+        964.0,
+        990.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Văn Thự",
+          "bbox": [
+            666.0,
+            950.0,
+            964.0,
+            990.0
+          ],
+          "confidence": 0.9678636193275452
+        }
+      ]
+    },
+    {
+      "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+      "bbox": [
+        46.0,
+        1038.0,
+        616.0,
+        1068.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+          "bbox": [
+            46.0,
+            1038.0,
+            616.0,
+            1068.0
+          ],
+          "confidence": 0.7803428769111633
+        }
+      ]
+    },
+    {
+      "text": "04/01/2022 21:50:40",
+      "bbox": [
+        877.0,
+        1097.0,
+        1090.0,
+        1124.0
+      ],
+      "words": [
+        {
+          "text": "04/01/2022 21:50:40",
+          "bbox": [
+            877.0,
+            1097.0,
+            1090.0,
+            1124.0
+          ],
+          "confidence": 0.9788970947265625
+        }
+      ]
+    }
+  ]
+}

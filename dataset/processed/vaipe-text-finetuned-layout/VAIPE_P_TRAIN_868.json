@@ -1,0 +1,681 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_868",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_868.png",
+  "text": "MS áỐc người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 132/2022\nTOA THỐC BHYT\nNam 2 ữx\nThau tho hi ếễhm y tuế CK 2 35 35 93957\nMạch: 0 lần/phút Huyết áp: 150 mmMHHg T Thâ n hiệt: 37n C\nCộậnln 1 sàmn gng: Ság u nmnm uygếgn giáp\nCânuhần okgn: I10 - Bnh , n ăng huyếnH áp: (D34) gU 1ầnh cùa uyến gicápả (K21) nh trào ngươc dạ dày\nthHhc 9uhnm (125) nnh tirm thiếu máu ôọc  mMạ\n1) HANGITOR PLUS 40mg412,5mg SL:30 viên\nGhi chú uống Sáng 1 viên\n2) ATORIS 20MG 20mg SL: 15 Viên\nGhi chú uống Tối 1/2 Viên\n3) KAGASDINE 20mg SL: 10 Viên\nGhi chú uống: Sáng 1 Viên\nCộng khoản: 3 khoả\nLời dặn đ t  đốn c: HEN Tt Hn 7/2/2021\nNgày hẹn tái khám:\nNgày 04/01/2022\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. Đào Thị Bích Thủy\nTi ktháKkhám Xin mang thco ĩođn, Xđát nghinệhm phim (ôniếui c)\n04/01/2022 21:47:50",
+  "lines": [
+    {
+      "text": "MS áỐc người bệnh",
+      "bbox": [
+        895.0,
+        42.0,
+        1065.0,
+        75.0
+      ],
+      "words": [
+        {
+          "text": "MS áỐc người bệnh",
+          "bbox": [
+            895.0,
+            42.0,
+            1065.0,
+            75.0
+          ],
+          "confidence": 0.8279184103012085
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        219.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            219.0,
+            128.0
+          ],
+          "confidence": 0.880998969078064
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 132/2022",
+      "bbox": [
+        35.0,
+        145.0,
+        780.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 132/2022",
+          "bbox": [
+            551.0,
+            150.0,
+            780.0,
+            192.0
+          ],
+          "confidence": 0.9516424536705017
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        384.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            384.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8695691823959351
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        921.0,
+        236.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            921.0,
+            236.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.8270161151885986
+        }
+      ]
+    },
+    {
+      "text": "Thau tho hi ếễhm y tuế CK 2 35 35 93957",
+      "bbox": [
+        37.0,
+        318.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Thau tho hi ếễhm y tuế",
+          "bbox": [
+            37.0,
+            320.0,
+            240.0,
+            351.0
+          ],
+          "confidence": 0.7028728127479553
+        },
+        {
+          "text": "CK 2",
+          "bbox": [
+            267.0,
+            318.0,
+            439.0,
+            353.0
+          ],
+          "confidence": 0.7184669971466064
+        },
+        {
+          "text": "35",
+          "bbox": [
+            429.0,
+            319.0,
+            485.0,
+            350.0
+          ],
+          "confidence": 0.9992194771766663
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            582.0,
+            351.0
+          ],
+          "confidence": 0.9997913837432861
+        },
+        {
+          "text": "93957",
+          "bbox": [
+            759.0,
+            319.0,
+            839.0,
+            352.0
+          ],
+          "confidence": 0.9682666659355164
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 0 lần/phút Huyết áp: 150 mmMHHg T Thâ n hiệt: 37n C",
+      "bbox": [
+        35.0,
+        350.0,
+        1012.0,
+        391.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 0",
+          "bbox": [
+            35.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9104100465774536
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            247.0,
+            357.0,
+            460.0,
+            391.0
+          ],
+          "confidence": 0.9585883617401123
+        },
+        {
+          "text": "150",
+          "bbox": [
+            489.0,
+            359.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9996545910835266
+        },
+        {
+          "text": "mmMHHg",
+          "bbox": [
+            672.0,
+            360.0,
+            753.0,
+            390.0
+          ],
+          "confidence": 0.8378939628601074
+        },
+        {
+          "text": "T Thâ n hiệt: 37n",
+          "bbox": [
+            760.0,
+            358.0,
+            935.0,
+            391.0
+          ],
+          "confidence": 0.8663358092308044
+        },
+        {
+          "text": "C",
+          "bbox": [
+            967.0,
+            350.0,
+            1012.0,
+            391.0
+          ],
+          "confidence": 0.48938849568367004
+        }
+      ]
+    },
+    {
+      "text": "Cộậnln 1 sàmn gng: Ság u nmnm uygếgn giáp",
+      "bbox": [
+        34.0,
+        389.0,
+        385.0,
+        424.0
+      ],
+      "words": [
+        {
+          "text": "Cộậnln 1 sàmn gng: Ság u nmnm uygếgn giáp",
+          "bbox": [
+            34.0,
+            389.0,
+            385.0,
+            424.0
+          ],
+          "confidence": 0.7649437785148621
+        }
+      ]
+    },
+    {
+      "text": "Cânuhần okgn: I10 - Bnh , n ăng huyếnH áp: (D34) gU 1ầnh cùa uyến gicápả (K21) nh trào ngươc dạ dày",
+      "bbox": [
+        35.0,
+        420.0,
+        1075.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhần okgn: I10 - Bnh , n ăng huyếnH áp: (D34) gU 1ầnh cùa uyến gicápả (K21) nh trào ngươc dạ dày",
+          "bbox": [
+            35.0,
+            420.0,
+            1075.0,
+            452.0
+          ],
+          "confidence": 0.8007752895355225
+        }
+      ]
+    },
+    {
+      "text": "thHhc 9uhnm (125) nnh tirm thiếu máu ôọc  mMạ",
+      "bbox": [
+        37.0,
+        453.0,
+        531.0,
+        480.0
+      ],
+      "words": [
+        {
+          "text": "thHhc 9uhnm (125) nnh tirm thiếu máu ôọc  mMạ",
+          "bbox": [
+            37.0,
+            453.0,
+            531.0,
+            480.0
+          ],
+          "confidence": 0.7500288486480713
+        }
+      ]
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg412,5mg SL:30 viên",
+      "bbox": [
+        63.0,
+        588.0,
+        1047.0,
+        631.0
+      ],
+      "words": [
+        {
+          "text": "1) HANGITOR PLUS 40mg412,5mg",
+          "bbox": [
+            63.0,
+            588.0,
+            595.0,
+            631.0
+          ],
+          "confidence": 0.9010979533195496
+        },
+        {
+          "text": "SL:30 viên",
+          "bbox": [
+            887.0,
+            590.0,
+            1047.0,
+            625.0
+          ],
+          "confidence": 0.9110704660415649
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 viên",
+      "bbox": [
+        46.0,
+        626.0,
+        556.0,
+        665.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            626.0,
+            242.0,
+            665.0
+          ],
+          "confidence": 0.9461855292320251
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            429.0,
+            632.0,
+            556.0,
+            663.0
+          ],
+          "confidence": 0.9863094091415405
+        }
+      ]
+    },
+    {
+      "text": "2) ATORIS 20MG 20mg SL: 15 Viên",
+      "bbox": [
+        58.0,
+        666.0,
+        1056.0,
+        708.0
+      ],
+      "words": [
+        {
+          "text": "2) ATORIS 20MG 20mg",
+          "bbox": [
+            58.0,
+            666.0,
+            427.0,
+            708.0
+          ],
+          "confidence": 0.9834725260734558
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            886.0,
+            668.0,
+            1056.0,
+            702.0
+          ],
+          "confidence": 0.97538161277771
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Tối 1/2 Viên",
+      "bbox": [
+        46.0,
+        704.0,
+        1068.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            704.0,
+            239.0,
+            744.0
+          ],
+          "confidence": 0.8660950660705566
+        },
+        {
+          "text": "Tối 1/2 Viên",
+          "bbox": [
+            930.0,
+            705.0,
+            1068.0,
+            740.0
+          ],
+          "confidence": 0.9489366412162781
+        }
+      ]
+    },
+    {
+      "text": "3) KAGASDINE 20mg SL: 10 Viên",
+      "bbox": [
+        58.0,
+        744.0,
+        1057.0,
+        786.0
+      ],
+      "words": [
+        {
+          "text": "3) KAGASDINE 20mg",
+          "bbox": [
+            58.0,
+            744.0,
+            406.0,
+            786.0
+          ],
+          "confidence": 0.9573690891265869
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            886.0,
+            745.0,
+            1057.0,
+            782.0
+          ],
+          "confidence": 0.994921088218689
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 Viên",
+      "bbox": [
+        44.0,
+        782.0,
+        561.0,
+        824.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            44.0,
+            782.0,
+            241.0,
+            824.0
+          ],
+          "confidence": 0.9866803884506226
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            789.0,
+            561.0,
+            820.0
+          ],
+          "confidence": 0.9962759613990784
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoả",
+      "bbox": [
+        45.0,
+        831.0,
+        291.0,
+        861.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoả",
+          "bbox": [
+            45.0,
+            831.0,
+            291.0,
+            861.0
+          ],
+          "confidence": 0.9090011119842529
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đ t  đốn c: HEN Tt Hn 7/2/2021",
+      "bbox": [
+        43.0,
+        867.0,
+        537.0,
+        896.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đ t  đốn c: HEN Tt Hn 7/2/2021",
+          "bbox": [
+            43.0,
+            867.0,
+            537.0,
+            896.0
+          ],
+          "confidence": 0.8264973759651184
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        908.0,
+        248.0,
+        936.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            908.0,
+            248.0,
+            936.0
+          ],
+          "confidence": 0.9174404144287109
+        }
+      ]
+    },
+    {
+      "text": "Ngày 04/01/2022",
+      "bbox": [
+        721.0,
+        956.0,
+        928.0,
+        991.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 04/01/2022",
+          "bbox": [
+            721.0,
+            956.0,
+            928.0,
+            991.0
+          ],
+          "confidence": 0.9343494772911072
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        92.0,
+        987.0,
+        914.0,
+        1031.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            92.0,
+            987.0,
+            291.0,
+            1018.0
+          ],
+          "confidence": 0.8969024419784546
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            736.0,
+            998.0,
+            914.0,
+            1031.0
+          ],
+          "confidence": 0.9197371006011963
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "bbox": [
+        679.0,
+        1108.0,
+        952.0,
+        1146.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Thị Bích Thủy",
+          "bbox": [
+            679.0,
+            1108.0,
+            952.0,
+            1146.0
+          ],
+          "confidence": 0.967653751373291
+        }
+      ]
+    },
+    {
+      "text": "Ti ktháKkhám Xin mang thco ĩođn, Xđát nghinệhm phim (ôniếui c)",
+      "bbox": [
+        44.0,
+        1191.0,
+        616.0,
+        1224.0
+      ],
+      "words": [
+        {
+          "text": "Ti ktháKkhám Xin mang thco ĩođn, Xđát nghinệhm phim (ôniếui c)",
+          "bbox": [
+            44.0,
+            1191.0,
+            616.0,
+            1224.0
+          ],
+          "confidence": 0.7672247886657715
+        }
+      ]
+    },
+    {
+      "text": "04/01/2022 21:47:50",
+      "bbox": [
+        877.0,
+        1254.0,
+        1091.0,
+        1281.0
+      ],
+      "words": [
+        {
+          "text": "04/01/2022 21:47:50",
+          "bbox": [
+            877.0,
+            1254.0,
+            1091.0,
+            1281.0
+          ],
+          "confidence": 0.977544367313385
+        }
+      ]
+    }
+  ]
+}

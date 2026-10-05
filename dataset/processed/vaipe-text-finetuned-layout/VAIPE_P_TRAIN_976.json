@@ -1,0 +1,692 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_976",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_976.png",
+  "text": "MN số người bệnh\nKhoa Khám bệnh\nBệốc khám nội Số phiếu 44323/2021\nTOA THUỐC BHYT\nNam 2ữ\nTha ặo hi hm y tuế HT 3 35 970 01561\nMạch: 75 lần/phút Huyết áp: 110 mHg Th ân n nhiệ 36.7\nCân 1shm ásàng: Tng phân tch nưnc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong\nmáy ếm 1aạSCr), Định 1ương Acid Uric [MMáun), Định 1ương Cho1SurO1 toàn phon (máu) Định hương\nGiucOS [MMáu) Định 1ương HDL-C (High dânSiưuy lipOprOtin Cho1SuCrO1) [MMáu) Định 1ương\nTrigycri d (máu) [MMáu, Đo hOoMạt  ALT (GPT) [MMáu), Đo hOMạt  AST (GOT) [MMáu), Định 1ương\nCâr cá  inin (Mm u), Đ nhin gihi Ốầ [Nan, K, C1) [MMáu\nCânuhần okghn: I10- Bnh 1 tăng huyếnH áp (E78.1) Tăng trig1ycêưri máu on thuần\n1) ENALAPRIL 5mg SL:120 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n2) PAMLONOR 5mg SL:120 Vin\nGhi chú uống: Sáng 1 Viên Chiều 1 Viên\nCộngg khn: 2  kho\nLời dặn Cn t utốn c: HEN KHn LA 14/11/2021\nNgày hẹn tái khám:\nNgày 14/09/2021\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBSCKI. Trần Minh Tuđấn\nTáiái kháhm Xin mang thho hđm, Xá nghinhm phim (êngếu co)\n05/01/2022 22:21:55",
+  "lines": [
+    {
+      "text": "MN số người bệnh",
+      "bbox": [
+        897.0,
+        45.0,
+        1064.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "MN số người bệnh",
+          "bbox": [
+            897.0,
+            45.0,
+            1064.0,
+            73.0
+          ],
+          "confidence": 0.8150376081466675
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        220.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            220.0,
+            128.0
+          ],
+          "confidence": 0.9402561783790588
+        }
+      ]
+    },
+    {
+      "text": "Bệốc khám nội Số phiếu 44323/2021",
+      "bbox": [
+        35.0,
+        146.0,
+        811.0,
+        191.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc khám nội",
+          "bbox": [
+            35.0,
+            146.0,
+            189.0,
+            180.0
+          ],
+          "confidence": 0.834570050239563
+        },
+        {
+          "text": "Số phiếu 44323/2021",
+          "bbox": [
+            552.0,
+            151.0,
+            811.0,
+            191.0
+          ],
+          "confidence": 0.8993493914604187
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        196.0,
+        757.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            196.0,
+            757.0,
+            243.0
+          ],
+          "confidence": 0.9586363434791565
+        }
+      ]
+    },
+    {
+      "text": "Nam 2ữ",
+      "bbox": [
+        920.0,
+        235.0,
+        1098.0,
+        283.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2ữ",
+          "bbox": [
+            920.0,
+            235.0,
+            1098.0,
+            283.0
+          ],
+          "confidence": 0.8803059458732605
+        }
+      ]
+    },
+    {
+      "text": "Tha ặo hi hm y tuế HT 3 35 970 01561",
+      "bbox": [
+        36.0,
+        319.0,
+        838.0,
+        351.0
+      ],
+      "words": [
+        {
+          "text": "Tha ặo hi hm y tuế",
+          "bbox": [
+            36.0,
+            320.0,
+            226.0,
+            351.0
+          ],
+          "confidence": 0.7429571747779846
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            271.0,
+            320.0,
+            321.0,
+            351.0
+          ],
+          "confidence": 0.8628047108650208
+        },
+        {
+          "text": "3",
+          "bbox": [
+            365.0,
+            321.0,
+            393.0,
+            350.0
+          ],
+          "confidence": 0.9999326467514038
+        },
+        {
+          "text": "35",
+          "bbox": [
+            439.0,
+            319.0,
+            484.0,
+            351.0
+          ],
+          "confidence": 0.9999451041221619
+        },
+        {
+          "text": "970",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.9996529221534729
+        },
+        {
+          "text": "01561",
+          "bbox": [
+            759.0,
+            319.0,
+            838.0,
+            351.0
+          ],
+          "confidence": 0.9998618364334106
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 75 lần/phút Huyết áp: 110 mHg Th ân n nhiệ 36.7",
+      "bbox": [
+        35.0,
+        357.0,
+        954.0,
+        392.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 75",
+          "bbox": [
+            35.0,
+            358.0,
+            165.0,
+            389.0
+          ],
+          "confidence": 0.8708094358444214
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            247.0,
+            357.0,
+            462.0,
+            392.0
+          ],
+          "confidence": 0.9622330069541931
+        },
+        {
+          "text": "110",
+          "bbox": [
+            490.0,
+            360.0,
+            615.0,
+            388.0
+          ],
+          "confidence": 0.9999701380729675
+        },
+        {
+          "text": "mHg Th ân n nhiệ 36.7",
+          "bbox": [
+            671.0,
+            358.0,
+            954.0,
+            390.0
+          ],
+          "confidence": 0.8624858856201172
+        }
+      ]
+    },
+    {
+      "text": "Cân 1shm ásàng: Tng phân tch nưnc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong",
+      "bbox": [
+        36.0,
+        393.0,
+        1084.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1shm ásàng: Tng phân tch nưnc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong",
+          "bbox": [
+            36.0,
+            393.0,
+            1084.0,
+            423.0
+          ],
+          "confidence": 0.8011869192123413
+        }
+      ]
+    },
+    {
+      "text": "máy ếm 1aạSCr), Định 1ương Acid Uric [MMáun), Định 1ương Cho1SurO1 toàn phon (máu) Định hương",
+      "bbox": [
+        34.0,
+        420.0,
+        1048.0,
+        454.0
+      ],
+      "words": [
+        {
+          "text": "máy ếm 1aạSCr), Định 1ương Acid Uric [MMáun), Định 1ương Cho1SurO1 toàn phon (máu) Định hương",
+          "bbox": [
+            34.0,
+            420.0,
+            1048.0,
+            454.0
+          ],
+          "confidence": 0.8478446006774902
+        }
+      ]
+    },
+    {
+      "text": "GiucOS [MMáu) Định 1ương HDL-C (High dânSiưuy lipOprOtin Cho1SuCrO1) [MMáu) Định 1ương",
+      "bbox": [
+        35.0,
+        449.0,
+        993.0,
+        483.0
+      ],
+      "words": [
+        {
+          "text": "GiucOS [MMáu) Định 1ương HDL-C (High dânSiưuy lipOprOtin Cho1SuCrO1) [MMáu) Định 1ương",
+          "bbox": [
+            35.0,
+            449.0,
+            993.0,
+            483.0
+          ],
+          "confidence": 0.8503473997116089
+        }
+      ]
+    },
+    {
+      "text": "Trigycri d (máu) [MMáu, Đo hOoMạt  ALT (GPT) [MMáu), Đo hOMạt  AST (GOT) [MMáu), Định 1ương",
+      "bbox": [
+        35.0,
+        479.0,
+        1057.0,
+        512.0
+      ],
+      "words": [
+        {
+          "text": "Trigycri d (máu) [MMáu, Đo hOoMạt  ALT (GPT) [MMáu), Đo hOMạt  AST (GOT) [MMáu), Định 1ương",
+          "bbox": [
+            35.0,
+            479.0,
+            1057.0,
+            512.0
+          ],
+          "confidence": 0.8556895852088928
+        }
+      ]
+    },
+    {
+      "text": "Câr cá  inin (Mm u), Đ nhin gihi Ốầ [Nan, K, C1) [MMáu",
+      "bbox": [
+        36.0,
+        507.0,
+        532.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Câr cá  inin (Mm u), Đ nhin gihi Ốầ [Nan, K, C1) [MMáu",
+          "bbox": [
+            36.0,
+            507.0,
+            532.0,
+            538.0
+          ],
+          "confidence": 0.7460766434669495
+        }
+      ]
+    },
+    {
+      "text": "Cânuhần okghn: I10- Bnh 1 tăng huyếnH áp (E78.1) Tăng trig1ycêưri máu on thuần",
+      "bbox": [
+        35.0,
+        534.0,
+        858.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhần okghn: I10- Bnh 1 tăng huyếnH áp (E78.1) Tăng trig1ycêưri máu on thuần",
+          "bbox": [
+            35.0,
+            534.0,
+            858.0,
+            566.0
+          ],
+          "confidence": 0.79146409034729
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL:120 Viên",
+      "bbox": [
+        63.0,
+        702.0,
+        1070.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            63.0,
+            702.0,
+            380.0,
+            744.0
+          ],
+          "confidence": 0.9693500399589539
+        },
+        {
+          "text": "SL:120 Viên",
+          "bbox": [
+            888.0,
+            706.0,
+            1070.0,
+            737.0
+          ],
+          "confidence": 0.9008873105049133
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        47.0,
+        741.0,
+        905.0,
+        781.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            47.0,
+            741.0,
+            239.0,
+            781.0
+          ],
+          "confidence": 0.9192445278167725
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            430.0,
+            749.0,
+            559.0,
+            777.0
+          ],
+          "confidence": 0.9957714080810547
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            766.0,
+            745.0,
+            905.0,
+            775.0
+          ],
+          "confidence": 0.9941861033439636
+        }
+      ]
+    },
+    {
+      "text": "2) PAMLONOR 5mg SL:120 Vin",
+      "bbox": [
+        59.0,
+        781.0,
+        1071.0,
+        823.0
+      ],
+      "words": [
+        {
+          "text": "2) PAMLONOR 5mg",
+          "bbox": [
+            59.0,
+            781.0,
+            381.0,
+            823.0
+          ],
+          "confidence": 0.917397677898407
+        },
+        {
+          "text": "SL:120 Vin",
+          "bbox": [
+            887.0,
+            785.0,
+            1071.0,
+            816.0
+          ],
+          "confidence": 0.8722179532051086
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        45.0,
+        818.0,
+        905.0,
+        859.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            45.0,
+            818.0,
+            242.0,
+            859.0
+          ],
+          "confidence": 0.8951011896133423
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            825.0,
+            560.0,
+            856.0
+          ],
+          "confidence": 0.9971345663070679
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            766.0,
+            822.0,
+            905.0,
+            853.0
+          ],
+          "confidence": 0.9767221808433533
+        }
+      ]
+    },
+    {
+      "text": "Cộngg khn: 2  kho",
+      "bbox": [
+        46.0,
+        869.0,
+        291.0,
+        896.0
+      ],
+      "words": [
+        {
+          "text": "Cộngg khn: 2  kho",
+          "bbox": [
+            46.0,
+            869.0,
+            291.0,
+            896.0
+          ],
+          "confidence": 0.7755099534988403
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn Cn t utốn c: HEN KHn LA 14/11/2021",
+      "bbox": [
+        44.0,
+        905.0,
+        561.0,
+        932.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn Cn t utốn c: HEN KHn LA 14/11/2021",
+          "bbox": [
+            44.0,
+            905.0,
+            561.0,
+            932.0
+          ],
+          "confidence": 0.8214228749275208
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        43.0,
+        943.0,
+        246.0,
+        973.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            43.0,
+            943.0,
+            246.0,
+            973.0
+          ],
+          "confidence": 0.9174256920814514
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/09/2021",
+      "bbox": [
+        722.0,
+        995.0,
+        924.0,
+        1025.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/09/2021",
+          "bbox": [
+            722.0,
+            995.0,
+            924.0,
+            1025.0
+          ],
+          "confidence": 0.9636448621749878
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        1021.0,
+        913.0,
+        1067.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            91.0,
+            1021.0,
+            293.0,
+            1054.0
+          ],
+          "confidence": 0.980633020401001
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            738.0,
+            1036.0,
+            913.0,
+            1067.0
+          ],
+          "confidence": 0.9592254161834717
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuđấn",
+      "bbox": [
+        671.0,
+        1141.0,
+        957.0,
+        1180.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Trần Minh Tuđấn",
+          "bbox": [
+            671.0,
+            1141.0,
+            957.0,
+            1180.0
+          ],
+          "confidence": 0.9346069693565369
+        }
+      ]
+    },
+    {
+      "text": "Táiái kháhm Xin mang thho hđm, Xá nghinhm phim (êngếu co)",
+      "bbox": [
+        46.0,
+        1231.0,
+        615.0,
+        1261.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kháhm Xin mang thho hđm, Xá nghinhm phim (êngếu co)",
+          "bbox": [
+            46.0,
+            1231.0,
+            615.0,
+            1261.0
+          ],
+          "confidence": 0.8086957931518555
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 22:21:55",
+      "bbox": [
+        877.0,
+        1291.0,
+        1089.0,
+        1315.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 22:21:55",
+          "bbox": [
+            877.0,
+            1291.0,
+            1089.0,
+            1315.0
+          ],
+          "confidence": 0.9509031176567078
+        }
+      ]
+    }
+  ]
+}

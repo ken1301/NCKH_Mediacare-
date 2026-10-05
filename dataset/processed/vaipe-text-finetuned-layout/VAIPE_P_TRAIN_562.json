@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_562",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_562.png",
+  "text": "MẾ sỐ người bệnh\nTRẠM Y TẾ XÃ ĐỒN X\nSố phiếu 899/2021\nTOA THAC  H C H BHT\nNam 2 ữx\nThu to hi am y tế CB 2 35 205 22059\nMạch: lần/phút Huyết áp: mHHg Th n n hiệt: C\nCân lâ n ngng:\nCânhản okngn: K05 - Vi hm nườu Và bệnh nha chu (H81) Ri 1o ạn chức năng tin ĩđinh\n1) AMOXICILIN 500MG 500mg SL: 20 viên\nGhi chú uống Sáng 2 viên Ciều 2 viên\n2) HOAT HUYÊT DUNG NÃO 150mgc20mg SL: 20 viên\nGhi chú uống Sáng 2 viên Chiều 2 viên\nCộng khoản: 2 khoản\nLời dặn đơ th c:\nNgày hẹn tái khám:\nNgày 12/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đ Công Tuấn\nTái kháhám Xin mang thho hn, Xkt nghinệhm, phiám (nhếu ch)\n31/12/2021 18:26:29",
+  "lines": [
+    {
+      "text": "MẾ sỐ người bệnh",
+      "bbox": [
+        896.0,
+        44.0,
+        1065.0,
+        75.0
+      ],
+      "words": [
+        {
+          "text": "MẾ sỐ người bệnh",
+          "bbox": [
+            896.0,
+            44.0,
+            1065.0,
+            75.0
+          ],
+          "confidence": 0.857620894908905
+        }
+      ]
+    },
+    {
+      "text": "TRẠM Y TẾ XÃ ĐỒN X",
+      "bbox": [
+        37.0,
+        91.0,
+        321.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "TRẠM Y TẾ XÃ ĐỒN X",
+          "bbox": [
+            37.0,
+            91.0,
+            321.0,
+            129.0
+          ],
+          "confidence": 0.9123727083206177
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 899/2021",
+      "bbox": [
+        551.0,
+        150.0,
+        778.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 899/2021",
+          "bbox": [
+            551.0,
+            150.0,
+            778.0,
+            192.0
+          ],
+          "confidence": 0.9267685413360596
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC  H C H BHT",
+      "bbox": [
+        384.0,
+        195.0,
+        756.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC  H C H BHT",
+          "bbox": [
+            384.0,
+            195.0,
+            756.0,
+            242.0
+          ],
+          "confidence": 0.8311020135879517
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        921.0,
+        236.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            921.0,
+            236.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.8270161151885986
+        }
+      ]
+    },
+    {
+      "text": "Thu to hi am y tế CB 2 35 205 22059",
+      "bbox": [
+        37.0,
+        319.0,
+        839.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Thu to hi am y tế",
+          "bbox": [
+            37.0,
+            321.0,
+            228.0,
+            349.0
+          ],
+          "confidence": 0.787757396697998
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            270.0,
+            320.0,
+            321.0,
+            351.0
+          ],
+          "confidence": 0.9962700605392456
+        },
+        {
+          "text": "2",
+          "bbox": [
+            352.0,
+            319.0,
+            430.0,
+            352.0
+          ],
+          "confidence": 0.9999747276306152
+        },
+        {
+          "text": "35",
+          "bbox": [
+            440.0,
+            319.0,
+            483.0,
+            351.0
+          ],
+          "confidence": 0.9998490810394287
+        },
+        {
+          "text": "205",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.8566368222236633
+        },
+        {
+          "text": "22059",
+          "bbox": [
+            758.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.9293503761291504
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: mHHg Th n n hiệt: C",
+      "bbox": [
+        34.0,
+        345.0,
+        1018.0,
+        397.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            34.0,
+            360.0,
+            107.0,
+            390.0
+          ],
+          "confidence": 0.8958864212036133
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            456.0,
+            394.0
+          ],
+          "confidence": 0.9374077320098877
+        },
+        {
+          "text": "mHHg",
+          "bbox": [
+            672.0,
+            360.0,
+            753.0,
+            391.0
+          ],
+          "confidence": 0.9051772356033325
+        },
+        {
+          "text": "Th n n hiệt:",
+          "bbox": [
+            762.0,
+            361.0,
+            887.0,
+            389.0
+          ],
+          "confidence": 0.8710781931877136
+        },
+        {
+          "text": "C",
+          "bbox": [
+            959.0,
+            345.0,
+            1018.0,
+            397.0
+          ],
+          "confidence": 0.5188326239585876
+        }
+      ]
+    },
+    {
+      "text": "Cân lâ n ngng:",
+      "bbox": [
+        35.0,
+        392.0,
+        187.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cân lâ n ngng:",
+          "bbox": [
+            35.0,
+            392.0,
+            187.0,
+            423.0
+          ],
+          "confidence": 0.7671979665756226
+        }
+      ]
+    },
+    {
+      "text": "Cânhản okngn: K05 - Vi hm nườu Và bệnh nha chu (H81) Ri 1o ạn chức năng tin ĩđinh",
+      "bbox": [
+        35.0,
+        418.0,
+        887.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "Cânhản okngn: K05 - Vi hm nườu Và bệnh nha chu (H81) Ri 1o ạn chức năng tin ĩđinh",
+          "bbox": [
+            35.0,
+            418.0,
+            887.0,
+            452.0
+          ],
+          "confidence": 0.8325813412666321
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 viên",
+      "bbox": [
+        63.0,
+        588.0,
+        1048.0,
+        630.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            63.0,
+            588.0,
+            544.0,
+            630.0
+          ],
+          "confidence": 0.9414223432540894
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1048.0,
+            625.0
+          ],
+          "confidence": 0.9709869623184204
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 viên Ciều 2 viên",
+      "bbox": [
+        46.0,
+        626.0,
+        900.0,
+        665.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            626.0,
+            243.0,
+            665.0
+          ],
+          "confidence": 0.9509068131446838
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            429.0,
+            631.0,
+            554.0,
+            662.0
+          ],
+          "confidence": 0.9862788915634155
+        },
+        {
+          "text": "Ciều 2 viên",
+          "bbox": [
+            766.0,
+            630.0,
+            900.0,
+            661.0
+          ],
+          "confidence": 0.964714765548706
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYÊT DUNG NÃO 150mgc20mg SL: 20 viên",
+      "bbox": [
+        55.0,
+        660.0,
+        1048.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYÊT DUNG NÃO 150mgc20mg",
+          "bbox": [
+            55.0,
+            660.0,
+            752.0,
+            711.0
+          ],
+          "confidence": 0.8806797862052917
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            886.0,
+            668.0,
+            1048.0,
+            703.0
+          ],
+          "confidence": 0.9710737466812134
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 viên Chiều 2 viên",
+      "bbox": [
+        45.0,
+        705.0,
+        901.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            705.0,
+            242.0,
+            744.0
+          ],
+          "confidence": 0.921853244304657
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            429.0,
+            709.0,
+            555.0,
+            740.0
+          ],
+          "confidence": 0.9794121384620667
+        },
+        {
+          "text": "Chiều 2 viên",
+          "bbox": [
+            765.0,
+            708.0,
+            901.0,
+            739.0
+          ],
+          "confidence": 0.9962461590766907
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        45.0,
+        753.0,
+        290.0,
+        783.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            45.0,
+            753.0,
+            290.0,
+            783.0
+          ],
+          "confidence": 0.9771578907966614
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ th c:",
+      "bbox": [
+        43.0,
+        790.0,
+        242.0,
+        818.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ th c:",
+          "bbox": [
+            43.0,
+            790.0,
+            242.0,
+            818.0
+          ],
+          "confidence": 0.9079315662384033
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        830.0,
+        246.0,
+        858.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            830.0,
+            246.0,
+            858.0
+          ],
+          "confidence": 0.9043234586715698
+        }
+      ]
+    },
+    {
+      "text": "Ngày 12/07/2021",
+      "bbox": [
+        721.0,
+        879.0,
+        927.0,
+        913.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 12/07/2021",
+          "bbox": [
+            721.0,
+            879.0,
+            927.0,
+            913.0
+          ],
+          "confidence": 0.9650796055793762
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        93.0,
+        910.0,
+        914.0,
+        953.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            93.0,
+            910.0,
+            290.0,
+            938.0
+          ],
+          "confidence": 0.8746838569641113
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            922.0,
+            914.0,
+            953.0
+          ],
+          "confidence": 0.9432898759841919
+        }
+      ]
+    },
+    {
+      "text": "BS. Đ Công Tuấn",
+      "bbox": [
+        704.0,
+        1029.0,
+        925.0,
+        1067.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đ Công Tuấn",
+          "bbox": [
+            704.0,
+            1029.0,
+            925.0,
+            1067.0
+          ],
+          "confidence": 0.9505327343940735
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin mang thho hn, Xkt nghinệhm, phiám (nhếu ch)",
+      "bbox": [
+        44.0,
+        1114.0,
+        616.0,
+        1146.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin mang thho hn, Xkt nghinệhm, phiám (nhếu ch)",
+          "bbox": [
+            44.0,
+            1114.0,
+            616.0,
+            1146.0
+          ],
+          "confidence": 0.7941594123840332
+        }
+      ]
+    },
+    {
+      "text": "31/12/2021 18:26:29",
+      "bbox": [
+        877.0,
+        1178.0,
+        1089.0,
+        1202.0
+      ],
+      "words": [
+        {
+          "text": "31/12/2021 18:26:29",
+          "bbox": [
+            877.0,
+            1178.0,
+            1089.0,
+            1202.0
+          ],
+          "confidence": 0.9242593050003052
+        }
+      ]
+    }
+  ]
+}

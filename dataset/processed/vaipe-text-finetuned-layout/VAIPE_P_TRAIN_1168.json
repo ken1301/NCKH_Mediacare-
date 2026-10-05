@@ -1,0 +1,649 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1168",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1168.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1651/2018\nTAO HA C THU C B H BHYT\nNam x Nữ\nThu bặho h hám y tut HT 2 35 205 86508\nMạch: lần/phút Huyết áp: / MMIHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp\n1) CARDILOPIN 5mg SL: 10 Viên\nGhi chú Uống:\n2) CEFACYL 500 0,5g SL: 20 Viên\nGhi chú Uốg\n3) PARACETAMOL 500MG 500mg SL: 10 Viên\nGhi chúc Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 07/08/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTáiá khKhám Xin mang th ho ĩođm, Xknt nghinm phiám (ônếui co)\n03/05/2021 17:58:48",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        15.0,
+        716.0,
+        66.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            15.0,
+            124.0,
+            66.0
+          ],
+          "confidence": 0.9390694499015808
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1651/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1651/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9688684940338135
+        }
+      ]
+    },
+    {
+      "text": "TAO HA C THU C B H BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TAO HA C THU C B H BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.7782803177833557
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut HT 2 35 205 86508",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            183.0,
+            204.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.9996861219406128
+        },
+        {
+          "text": "2",
+          "bbox": [
+            245.0,
+            207.0,
+            264.0,
+            225.0
+          ],
+          "confidence": 0.7922866940498352
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "205",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998909831047058
+        },
+        {
+          "text": "86508",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9943536520004272
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMIHHg Th Th n nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            253.0
+          ],
+          "confidence": 0.9856986403465271
+        },
+        {
+          "text": "MMIHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            506.0,
+            252.0
+          ],
+          "confidence": 0.7429587841033936
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp",
+      "bbox": [
+        25.0,
+        268.0,
+        544.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp",
+          "bbox": [
+            25.0,
+            268.0,
+            544.0,
+            294.0
+          ],
+          "confidence": 0.8420326709747314
+        }
+      ]
+    },
+    {
+      "text": "1) CARDILOPIN 5mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CARDILOPIN 5mg",
+          "bbox": [
+            40.0,
+            380.0,
+            268.0,
+            415.0
+          ],
+          "confidence": 0.9657729864120483
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9654455780982971
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        34.0,
+        409.0,
+        164.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            95.0,
+            435.0
+          ],
+          "confidence": 0.8860936760902405
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            409.0,
+            164.0,
+            437.0
+          ],
+          "confidence": 0.8415011167526245
+        }
+      ]
+    },
+    {
+      "text": "2) CEFACYL 500 0,5g SL: 20 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) CEFACYL 500 0,5g",
+          "bbox": [
+            36.0,
+            431.0,
+            275.0,
+            467.0
+          ],
+          "confidence": 0.9575837850570679
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.974269449710846
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        34.0,
+        463.0,
+        162.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.9423311948776245
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        }
+      ]
+    },
+    {
+      "text": "3) PARACETAMOL 500MG 500mg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            38.0,
+            485.0,
+            397.0,
+            518.0
+          ],
+          "confidence": 0.9623091816902161
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9997174739837646
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống",
+      "bbox": [
+        34.0,
+        515.0,
+        163.0,
+        540.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            515.0,
+            163.0,
+            540.0
+          ],
+          "confidence": 0.8485453128814697
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        546.0,
+        199.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            546.0,
+            199.0,
+            567.0
+          ],
+          "confidence": 0.9723315238952637
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9562608003616333
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9473885297775269
+        }
+      ]
+    },
+    {
+      "text": "Ngày 07/08/2018",
+      "bbox": [
+        483.0,
+        627.0,
+        625.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 07/08/2018",
+          "bbox": [
+            483.0,
+            627.0,
+            625.0,
+            654.0
+          ],
+          "confidence": 0.9533981680870056
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            658.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9909539818763733
+        }
+      ]
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "bbox": [
+        469.0,
+        730.0,
+        624.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "YS. Đào Thị Huyền",
+          "bbox": [
+            469.0,
+            730.0,
+            624.0,
+            757.0
+          ],
+          "confidence": 0.9599964022636414
+        }
+      ]
+    },
+    {
+      "text": "Táiá khKhám Xin mang th ho ĩođm, Xknt nghinm phiám (ônếui co)",
+      "bbox": [
+        34.0,
+        788.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Táiá khKhám Xin mang th ho ĩođm, Xknt nghinm phiám (ônếui co)",
+          "bbox": [
+            34.0,
+            788.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.787335991859436
+        }
+      ]
+    },
+    {
+      "text": "03/05/2021 17:58:48",
+      "bbox": [
+        587.0,
+        828.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "03/05/2021 17:58:48",
+          "bbox": [
+            587.0,
+            828.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9821040630340576
+        }
+      ]
+    }
+  ]
+}

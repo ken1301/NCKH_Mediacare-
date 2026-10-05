@@ -5,8 +5,10 @@ import json
 import os
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[1]
 os.environ.setdefault("FLAGS_enable_pir_api", "0")
 os.environ.setdefault("FLAGS_use_mkldnn", "0")
+os.environ.setdefault("PADDLE_PDX_CACHE_HOME", str(ROOT / "runtime/paddlex-cache"))
 
 from paddleocr import PaddleOCR
 
@@ -65,29 +67,50 @@ def group_lines(words):
     prepared = []
     for word in words:
         x1, y1, x2, y2 = word["bbox"]
-        prepared.append({**word, "center_y": (y1 + y2) / 2, "height": max(1, y2 - y1)})
+        prepared.append({
+            **word,
+            "center_y": (y1 + y2) / 2,
+            "height": max(1, y2 - y1),
+        })
     prepared.sort(key=lambda word: (word["center_y"], word["bbox"][0]))
     lines = []
     for word in prepared:
-        line = lines[-1] if lines else None
-        tolerance = max(10, min(30, word["height"] * 0.65))
-        if line is None or abs(word["center_y"] - line["center_y"]) > tolerance:
-            line = {"center_y": word["center_y"], "words": []}
+        wx1, wy1, wx2, wy2 = word["bbox"]
+        best_line = None
+        best_score = -1
+        for line in lines:
+            lx1, ly1, lx2, ly2 = line["bbox"]
+            overlap = max(0, min(wy2, ly2) - max(wy1, ly1))
+            overlap_ratio = overlap / max(1, min(word["height"], line["height"]))
+            center_distance = abs(word["center_y"] - line["center_y"])
+            center_tolerance = max(8, min(28, min(word["height"], line["height"]) * 0.55))
+            close_center = center_distance <= center_tolerance
+            strong_overlap = overlap_ratio >= 0.55 and center_distance <= max(center_tolerance, line["height"] * 0.45)
+            if close_center or strong_overlap:
+                score = overlap_ratio - (center_distance / max(1, line["height"])) * 0.1
+                if score > best_score:
+                    best_score = score
+                    best_line = line
+        line = best_line
+        if line is None:
+            line = {"bbox": [wx1, wy1, wx2, wy2], "center_y": word["center_y"], "height": word["height"], "words": []}
             lines.append(line)
         line["words"].append(word)
-        line["center_y"] = sum(item["center_y"] for item in line["words"]) / len(line["words"])
+        line["bbox"] = [
+            min(item["bbox"][0] for item in line["words"]),
+            min(item["bbox"][1] for item in line["words"]),
+            max(item["bbox"][2] for item in line["words"]),
+            max(item["bbox"][3] for item in line["words"]),
+        ]
+        line["center_y"] = (line["bbox"][1] + line["bbox"][3]) / 2
+        line["height"] = max(1, line["bbox"][3] - line["bbox"][1])
 
     result = []
-    for line in lines:
+    for line in sorted(lines, key=lambda line: (line["bbox"][1], line["bbox"][0])):
         line["words"].sort(key=lambda word: word["bbox"][0])
         result.append({
             "text": " ".join(word["text"] for word in line["words"]),
-            "bbox": [
-                min(word["bbox"][0] for word in line["words"]),
-                min(word["bbox"][1] for word in line["words"]),
-                max(word["bbox"][2] for word in line["words"]),
-                max(word["bbox"][3] for word in line["words"]),
-            ],
+            "bbox": line["bbox"],
             "words": [
                 {key: word[key] for key in ("text", "bbox", "confidence")}
                 for word in line["words"]

@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_226",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_226.png",
+  "text": "1/1 MMH sỐ người bnh\n5\nSố phiếu 4606/2018\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế HT 207 61931\nMạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCânhần okno: I10 - T ăng huyếH áp õ ăn (nguyễn púhát)\n1) SAVI LOSARTAN 50 50mg SL: 30 Viên\nGhi chú Uống: Sáng 1 Viên\n2) HOẠT HUYHT DNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\nCộng khoả: 2 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 22/08/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYN ĐK. Trần Thị Hoài\nTái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)\n26/12/2021 23:30:41",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            84.0
+          ],
+          "confidence": 0.9995712637901306
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "5",
+      "bbox": [
+        151.0,
+        70.0,
+        173.0,
+        96.0
+      ],
+      "words": [
+        {
+          "text": "5",
+          "bbox": [
+            151.0,
+            70.0,
+            173.0,
+            96.0
+          ],
+          "confidence": 0.48094823956489563
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 4606/2018",
+      "bbox": [
+        369.0,
+        107.0,
+        537.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 4606/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            537.0,
+            139.0
+          ],
+          "confidence": 0.9846368432044983
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9528335332870483
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 207 61931",
+      "bbox": [
+        24.0,
+        219.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            177.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8586163520812988
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "61931",
+          "bbox": [
+            507.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.8562328219413757
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            507.0,
+            273.0
+          ],
+          "confidence": 0.8438245058059692
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: I10 - T ăng huyếH áp õ ăn (nguyễn púhát)",
+      "bbox": [
+        24.0,
+        286.0,
+        390.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: I10 - T ăng huyếH áp õ ăn (nguyễn púhát)",
+          "bbox": [
+            24.0,
+            286.0,
+            390.0,
+            313.0
+          ],
+          "confidence": 0.807759165763855
+        }
+      ]
+    },
+    {
+      "text": "1) SAVI LOSARTAN 50 50mg SL: 30 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        709.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) SAVI LOSARTAN 50 50mg",
+          "bbox": [
+            38.0,
+            396.0,
+            354.0,
+            434.0
+          ],
+          "confidence": 0.9887804985046387
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            592.0,
+            401.0,
+            709.0,
+            430.0
+          ],
+          "confidence": 0.9992104172706604
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        426.0,
+        379.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            430.0,
+            95.0,
+            452.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.8913564682006836
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            429.0,
+            379.0,
+            454.0
+          ],
+          "confidence": 0.9581837058067322
+        }
+      ]
+    },
+    {
+      "text": "2) HOẠT HUYHT DNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        448.0,
+        710.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) HOẠT HUYHT DNG NÃO 150mg 20mg",
+          "bbox": [
+            35.0,
+            448.0,
+            504.0,
+            485.0
+          ],
+          "confidence": 0.9513899087905884
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            453.0,
+            710.0,
+            481.0
+          ],
+          "confidence": 0.9995365142822266
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        32.0,
+        476.0,
+        611.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            479.0,
+            166.0,
+            509.0
+          ],
+          "confidence": 0.8763774037361145
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            285.0,
+            478.0,
+            381.0,
+            509.0
+          ],
+          "confidence": 0.9860002398490906
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            509.0,
+            476.0,
+            611.0,
+            507.0
+          ],
+          "confidence": 0.9986470341682434
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 2 khoả",
+      "bbox": [
+        30.0,
+        507.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 2 khoả",
+          "bbox": [
+            30.0,
+            507.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9572305083274841
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 22/08/2018",
+      "bbox": [
+        482.0,
+        592.0,
+        626.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 22/08/2018",
+          "bbox": [
+            482.0,
+            592.0,
+            626.0,
+            620.0
+          ],
+          "confidence": 0.9633445143699646
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9740474820137024
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "YN ĐK. Trần Thị Hoài",
+      "bbox": [
+        459.0,
+        697.0,
+        634.0,
+        721.0
+      ],
+      "words": [
+        {
+          "text": "YN ĐK. Trần Thị Hoài",
+          "bbox": [
+            459.0,
+            697.0,
+            634.0,
+            721.0
+          ],
+          "confidence": 0.8790191411972046
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8299689888954163
+        }
+      ]
+    },
+    {
+      "text": "26/12/2021 23:30:41",
+      "bbox": [
+        587.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "26/12/2021 23:30:41",
+          "bbox": [
+            587.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9872339367866516
+        }
+      ]
+    }
+  ]
+}

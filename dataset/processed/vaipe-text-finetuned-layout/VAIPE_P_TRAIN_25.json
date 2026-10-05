@@ -1,0 +1,806 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_25",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_25.png",
+  "text": "MS sỐc người bệnh\nKhoa Khám bệnh\nBệốc Khám Ti u ường 1 Số phiếu 36604/2021\nTOA THUỐC BHYT\nNam 2 Nữx\nTh bặo hiếhám y t GB 35 35 206 37903\nMạch: lần/phút Huyết áp: 120 mMHg g Thâ n nhiệt: 3C\nCân 1sôhm ásàng: Ting phân tich nưinc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong\nmáy ĩếm 1 aSr), Định 1ương Acid Uric [MMáun, Định 1ương Cho1SurO1 toàn phon (máu) Định 1ương\nGiluCcOS [MMáu) Định 1ương HA1c [Mmáu, Định 1ương HDL-C (High dênSiuy 1ipOprOHin Cho1SgốCrO1)\n([MMu), Định 1ương TrigyCcrid (máu) [MMu), Đo hOMạ  ALT (GPT) [MMáu), Đo hOMạN  AST (GOT)\n([MMáu), Định 1ương Crcáatinin (máu), Đinhn giải ĩầ ([NaN, K, C1) [MMáuni Đinhin tim thường\nCâềnhần o knhn: E11- Bnh ĩkái tháO ường khng phU thunc inSáuin , (110) nhnh 1 ặng huyến áp\n1) MEGLUCON 1000 1000 mg SL: 60 Viên\nGhi chú uống Tối 1 Viên\n2) PYME DIAPRO MR 30mg SL:120 Vin\nGhi chú uốngUống trưc khi ăn Sáng 2 Viên\n3) HANGITOR PLUS 40mg412,5mg SL: 60 viên\nGhi chú uống Sáng 1 viên\n4) KAVASDIN 5 5mg SL: 60 Viên\nGhi chú uống Chiều 1 Viên\nCộng khoả: 4 khoản\nLời dặn đơ tg c: E N H  27/9/2021\nNgày hẹn n tái khám:\nNgày 26/07/2021\nBệnh nhân ký nhận Y, Bác sĩ đi ều trị\nBS. Bùi Mạnh Hà\nTi khákhm Xin manng tho đn, Xk nghinệhm phim (nếu c)\n04/01/202222:48:15",
+  "lines": [
+    {
+      "text": "MS sỐc người bệnh",
+      "bbox": [
+        895.0,
+        43.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐc người bệnh",
+          "bbox": [
+            895.0,
+            43.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.7839536666870117
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        37.0,
+        100.0,
+        220.0,
+        127.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            37.0,
+            100.0,
+            220.0,
+            127.0
+          ],
+          "confidence": 0.8894339203834534
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Khám Ti u ường 1 Số phiếu 36604/2021",
+      "bbox": [
+        35.0,
+        145.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Khám Ti u ường 1",
+          "bbox": [
+            35.0,
+            145.0,
+            286.0,
+            182.0
+          ],
+          "confidence": 0.8557155132293701
+        },
+        {
+          "text": "Số phiếu 36604/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9658728241920471
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        196.0,
+        757.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            196.0,
+            757.0,
+            243.0
+          ],
+          "confidence": 0.9584009051322937
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 Nữx",
+      "bbox": [
+        921.0,
+        237.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 Nữx",
+          "bbox": [
+            921.0,
+            237.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.7599480152130127
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiếhám y t GB 35 35 206 37903",
+      "bbox": [
+        36.0,
+        318.0,
+        839.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiếhám y t",
+          "bbox": [
+            36.0,
+            318.0,
+            226.0,
+            352.0
+          ],
+          "confidence": 0.7310593724250793
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            272.0,
+            320.0,
+            320.0,
+            351.0
+          ],
+          "confidence": 0.9992433786392212
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            318.0,
+            484.0,
+            351.0
+          ],
+          "confidence": 0.9116467237472534
+        },
+        {
+          "text": "35",
+          "bbox": [
+            540.0,
+            319.0,
+            582.0,
+            352.0
+          ],
+          "confidence": 0.9999170303344727
+        },
+        {
+          "text": "206",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.9999747276306152
+        },
+        {
+          "text": "37903",
+          "bbox": [
+            759.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.964847207069397
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 120 mMHg g Thâ n nhiệt: 3C",
+      "bbox": [
+        35.0,
+        346.0,
+        1018.0,
+        396.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            35.0,
+            360.0,
+            106.0,
+            389.0
+          ],
+          "confidence": 0.8891041874885559
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            247.0,
+            357.0,
+            458.0,
+            393.0
+          ],
+          "confidence": 0.9544789791107178
+        },
+        {
+          "text": "120",
+          "bbox": [
+            492.0,
+            361.0,
+            540.0,
+            388.0
+          ],
+          "confidence": 0.9928613305091858
+        },
+        {
+          "text": "mMHg g Thâ n nhiệt:",
+          "bbox": [
+            673.0,
+            362.0,
+            888.0,
+            390.0
+          ],
+          "confidence": 0.8338916301727295
+        },
+        {
+          "text": "3C",
+          "bbox": [
+            960.0,
+            346.0,
+            1018.0,
+            396.0
+          ],
+          "confidence": 0.5249146223068237
+        }
+      ]
+    },
+    {
+      "text": "Cân 1sôhm ásàng: Ting phân tich nưinc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong",
+      "bbox": [
+        36.0,
+        393.0,
+        1084.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1sôhm ásàng: Ting phân tich nưinc tiếu (Bong máhy tiư nng), Ting phân tich tuế ào máui ngoatại Bri (ong",
+          "bbox": [
+            36.0,
+            393.0,
+            1084.0,
+            423.0
+          ],
+          "confidence": 0.7898119688034058
+        }
+      ]
+    },
+    {
+      "text": "máy ĩếm 1 aSr), Định 1ương Acid Uric [MMáun, Định 1ương Cho1SurO1 toàn phon (máu) Định 1ương",
+      "bbox": [
+        35.0,
+        421.0,
+        1049.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "máy ĩếm 1 aSr), Định 1ương Acid Uric [MMáun, Định 1ương Cho1SurO1 toàn phon (máu) Định 1ương",
+          "bbox": [
+            35.0,
+            421.0,
+            1049.0,
+            453.0
+          ],
+          "confidence": 0.8338920474052429
+        }
+      ]
+    },
+    {
+      "text": "GiluCcOS [MMáu) Định 1ương HA1c [Mmáu, Định 1ương HDL-C (High dênSiuy 1ipOprOHin Cho1SgốCrO1)",
+      "bbox": [
+        37.0,
+        453.0,
+        1066.0,
+        480.0
+      ],
+      "words": [
+        {
+          "text": "GiluCcOS [MMáu) Định 1ương HA1c [Mmáu, Định 1ương HDL-C (High dênSiuy 1ipOprOHin Cho1SgốCrO1)",
+          "bbox": [
+            37.0,
+            453.0,
+            1066.0,
+            480.0
+          ],
+          "confidence": 0.7959344387054443
+        }
+      ]
+    },
+    {
+      "text": "([MMu), Định 1ương TrigyCcrid (máu) [MMu), Đo hOMạ  ALT (GPT) [MMáu), Đo hOMạN  AST (GOT)",
+      "bbox": [
+        37.0,
+        482.0,
+        1057.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "([MMu), Định 1ương TrigyCcrid (máu) [MMu), Đo hOMạ  ALT (GPT) [MMáu), Đo hOMạN  AST (GOT)",
+          "bbox": [
+            37.0,
+            482.0,
+            1057.0,
+            509.0
+          ],
+          "confidence": 0.8657281994819641
+        }
+      ]
+    },
+    {
+      "text": "([MMáu), Định 1ương Crcáatinin (máu), Đinhn giải ĩầ ([NaN, K, C1) [MMáuni Đinhin tim thường",
+      "bbox": [
+        36.0,
+        508.0,
+        904.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "([MMáu), Định 1ương Crcáatinin (máu), Đinhn giải ĩầ ([NaN, K, C1) [MMáuni Đinhin tim thường",
+          "bbox": [
+            36.0,
+            508.0,
+            904.0,
+            539.0
+          ],
+          "confidence": 0.8221112489700317
+        }
+      ]
+    },
+    {
+      "text": "Câềnhần o knhn: E11- Bnh ĩkái tháO ường khng phU thunc inSáuin , (110) nhnh 1 ặng huyến áp",
+      "bbox": [
+        35.0,
+        535.0,
+        990.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhần o knhn: E11- Bnh ĩkái tháO ường khng phU thunc inSáuin , (110) nhnh 1 ặng huyến áp",
+          "bbox": [
+            35.0,
+            535.0,
+            990.0,
+            567.0
+          ],
+          "confidence": 0.7490553259849548
+        }
+      ]
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000 mg SL: 60 Viên",
+      "bbox": [
+        63.0,
+        702.0,
+        1055.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "1) MEGLUCON 1000 1000 mg",
+          "bbox": [
+            63.0,
+            702.0,
+            517.0,
+            744.0
+          ],
+          "confidence": 0.9552297592163086
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            887.0,
+            705.0,
+            1055.0,
+            739.0
+          ],
+          "confidence": 0.9914254546165466
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Tối 1 Viên",
+      "bbox": [
+        47.0,
+        742.0,
+        1047.0,
+        781.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            47.0,
+            742.0,
+            240.0,
+            781.0
+          ],
+          "confidence": 0.9513158798217773
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            930.0,
+            743.0,
+            1047.0,
+            776.0
+          ],
+          "confidence": 0.997627854347229
+        }
+      ]
+    },
+    {
+      "text": "2) PYME DIAPRO MR 30mg SL:120 Vin",
+      "bbox": [
+        59.0,
+        782.0,
+        1070.0,
+        822.0
+      ],
+      "words": [
+        {
+          "text": "2) PYME DIAPRO MR 30mg",
+          "bbox": [
+            59.0,
+            782.0,
+            497.0,
+            822.0
+          ],
+          "confidence": 0.9383592009544373
+        },
+        {
+          "text": "SL:120 Vin",
+          "bbox": [
+            888.0,
+            785.0,
+            1070.0,
+            816.0
+          ],
+          "confidence": 0.9891965985298157
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uốngUống trưc khi ăn Sáng 2 Viên",
+      "bbox": [
+        49.0,
+        825.0,
+        559.0,
+        855.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uốngUống trưc khi ăn",
+          "bbox": [
+            49.0,
+            825.0,
+            368.0,
+            855.0
+          ],
+          "confidence": 0.7908039093017578
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            430.0,
+            827.0,
+            559.0,
+            855.0
+          ],
+          "confidence": 0.991720974445343
+        }
+      ]
+    },
+    {
+      "text": "3) HANGITOR PLUS 40mg412,5mg SL: 60 viên",
+      "bbox": [
+        58.0,
+        858.0,
+        1047.0,
+        903.0
+      ],
+      "words": [
+        {
+          "text": "3) HANGITOR PLUS 40mg412,5mg",
+          "bbox": [
+            58.0,
+            858.0,
+            596.0,
+            903.0
+          ],
+          "confidence": 0.9287792444229126
+        },
+        {
+          "text": "SL: 60 viên",
+          "bbox": [
+            887.0,
+            861.0,
+            1047.0,
+            895.0
+          ],
+          "confidence": 0.991517961025238
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 viên",
+      "bbox": [
+        46.0,
+        898.0,
+        554.0,
+        937.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            898.0,
+            240.0,
+            937.0
+          ],
+          "confidence": 0.97031170129776
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            429.0,
+            903.0,
+            554.0,
+            934.0
+          ],
+          "confidence": 0.9878844618797302
+        }
+      ]
+    },
+    {
+      "text": "4) KAVASDIN 5 5mg SL: 60 Viên",
+      "bbox": [
+        58.0,
+        937.0,
+        1055.0,
+        979.0
+      ],
+      "words": [
+        {
+          "text": "4) KAVASDIN 5 5mg",
+          "bbox": [
+            58.0,
+            937.0,
+            401.0,
+            979.0
+          ],
+          "confidence": 0.9526991844177246
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            887.0,
+            939.0,
+            1055.0,
+            973.0
+          ],
+          "confidence": 0.9835595488548279
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Chiều 1 Viên",
+      "bbox": [
+        45.0,
+        975.0,
+        906.0,
+        1015.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            975.0,
+            240.0,
+            1015.0
+          ],
+          "confidence": 0.9492126107215881
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            977.0,
+            906.0,
+            1010.0
+          ],
+          "confidence": 0.9808928966522217
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 4 khoản",
+      "bbox": [
+        46.0,
+        1025.0,
+        290.0,
+        1052.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 4 khoản",
+          "bbox": [
+            46.0,
+            1025.0,
+            290.0,
+            1052.0
+          ],
+          "confidence": 0.8388726711273193
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ tg c: E N H  27/9/2021",
+      "bbox": [
+        44.0,
+        1059.0,
+        501.0,
+        1090.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ tg c: E N H  27/9/2021",
+          "bbox": [
+            44.0,
+            1059.0,
+            501.0,
+            1090.0
+          ],
+          "confidence": 0.885774552822113
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn n tái khám:",
+      "bbox": [
+        43.0,
+        1098.0,
+        246.0,
+        1128.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn n tái khám:",
+          "bbox": [
+            43.0,
+            1098.0,
+            246.0,
+            1128.0
+          ],
+          "confidence": 0.9081667065620422
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/07/2021",
+      "bbox": [
+        721.0,
+        1150.0,
+        927.0,
+        1184.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/07/2021",
+          "bbox": [
+            721.0,
+            1150.0,
+            927.0,
+            1184.0
+          ],
+          "confidence": 0.9737539887428284
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ đi ều trị",
+      "bbox": [
+        91.0,
+        1178.0,
+        912.0,
+        1222.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            91.0,
+            1178.0,
+            292.0,
+            1211.0
+          ],
+          "confidence": 0.9635260105133057
+        },
+        {
+          "text": "Y, Bác sĩ đi ều trị",
+          "bbox": [
+            739.0,
+            1194.0,
+            912.0,
+            1222.0
+          ],
+          "confidence": 0.9077998995780945
+        }
+      ]
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "bbox": [
+        714.0,
+        1306.0,
+        917.0,
+        1334.0
+      ],
+      "words": [
+        {
+          "text": "BS. Bùi Mạnh Hà",
+          "bbox": [
+            714.0,
+            1306.0,
+            917.0,
+            1334.0
+          ],
+          "confidence": 0.8990976810455322
+        }
+      ]
+    },
+    {
+      "text": "Ti khákhm Xin manng tho đn, Xk nghinệhm phim (nếu c)",
+      "bbox": [
+        45.0,
+        1387.0,
+        616.0,
+        1417.0
+      ],
+      "words": [
+        {
+          "text": "Ti khákhm Xin manng tho đn, Xk nghinệhm phim (nếu c)",
+          "bbox": [
+            45.0,
+            1387.0,
+            616.0,
+            1417.0
+          ],
+          "confidence": 0.8591960668563843
+        }
+      ]
+    },
+    {
+      "text": "04/01/202222:48:15",
+      "bbox": [
+        877.0,
+        1448.0,
+        1090.0,
+        1472.0
+      ],
+      "words": [
+        {
+          "text": "04/01/202222:48:15",
+          "bbox": [
+            877.0,
+            1448.0,
+            1090.0,
+            1472.0
+          ],
+          "confidence": 0.9637860059738159
+        }
+      ]
+    }
+  ]
+}

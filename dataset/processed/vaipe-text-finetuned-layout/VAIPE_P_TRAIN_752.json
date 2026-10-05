@@ -1,0 +1,577 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_752",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_752.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1046/2020\nTOA THỐC  BHYT\nNamNx\nThu baho h hm y tuế 1 35 35 211 86077\nMạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCiềnhần okn: L20 - m d c ị ạ ứng\n1) CLORPHENIRAMIN 4mg SL: 5 Viên\nGhi chú Uống\n2) B2 GAN P/H 125mg4100mg425mg SL: 20 Viên\nGhi chúK Ug:\nCộng khoản: 2 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 04/05/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNV. Đặng Thị THu Huyền\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n09/05/2021 19:19:18",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995567202568054
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1046/2020",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1046/2020",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9732564091682434
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8849057555198669
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu baho h hm y tuế 1 35 35 211 86077",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu baho h hm y tuế",
+          "bbox": [
+            26.0,
+            204.0,
+            153.0,
+            225.0
+          ],
+          "confidence": 0.7485628128051758
+        },
+        {
+          "text": "1",
+          "bbox": [
+            248.0,
+            208.0,
+            263.0,
+            223.0
+          ],
+          "confidence": 0.9950238466262817
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            327.0,
+            228.0
+          ],
+          "confidence": 0.9998732805252075
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.999746561050415
+        },
+        {
+          "text": "211",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997768402099609
+        },
+        {
+          "text": "86077",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9964011907577515
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Ciềnhần okn: L20 - m d c ị ạ ứng",
+      "bbox": [
+        24.0,
+        268.0,
+        303.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Ciềnhần okn: L20 - m d c ị ạ ứng",
+          "bbox": [
+            24.0,
+            268.0,
+            303.0,
+            295.0
+          ],
+          "confidence": 0.7540469169616699
+        }
+      ]
+    },
+    {
+      "text": "1) CLORPHENIRAMIN 4mg SL: 5 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        697.0,
+        414.0
+      ],
+      "words": [
+        {
+          "text": "1) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            42.0,
+            381.0,
+            333.0,
+            414.0
+          ],
+          "confidence": 0.9263529777526855
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            697.0,
+            410.0
+          ],
+          "confidence": 0.9569875001907349
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        411.0,
+        162.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            434.0
+          ],
+          "confidence": 0.8669964671134949
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8809618949890137
+        }
+      ]
+    },
+    {
+      "text": "2) B2 GAN P/H 125mg4100mg425mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        432.0,
+        707.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) B2 GAN P/H 125mg4100mg425mg",
+          "bbox": [
+            37.0,
+            432.0,
+            418.0,
+            467.0
+          ],
+          "confidence": 0.9422221779823303
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            707.0,
+            462.0
+          ],
+          "confidence": 0.9198526740074158
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Ug:",
+      "bbox": [
+        33.0,
+        462.0,
+        165.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            464.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            462.0,
+            165.0,
+            490.0
+          ],
+          "confidence": 0.7330722808837891
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoả",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoả",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.939460039138794
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        515.0,
+        165.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            515.0,
+            165.0,
+            539.0
+          ],
+          "confidence": 0.976679801940918
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9655009508132935
+        }
+      ]
+    },
+    {
+      "text": "Ngày 04/05/2020",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 04/05/2020",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9937282204627991
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        596.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            596.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9514329433441162
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "NV. Đặng Thị THu Huyền",
+      "bbox": [
+        443.0,
+        678.0,
+        649.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "NV. Đặng Thị THu Huyền",
+          "bbox": [
+            443.0,
+            678.0,
+            649.0,
+            705.0
+          ],
+          "confidence": 0.9223350286483765
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        735.0,
+        416.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            735.0,
+            416.0,
+            758.0
+          ],
+          "confidence": 0.8488333821296692
+        }
+      ]
+    },
+    {
+      "text": "09/05/2021 19:19:18",
+      "bbox": [
+        587.0,
+        775.0,
+        733.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "09/05/2021 19:19:18",
+          "bbox": [
+            587.0,
+            775.0,
+            733.0,
+            795.0
+          ],
+          "confidence": 0.9746432900428772
+        }
+      ]
+    }
+  ]
+}

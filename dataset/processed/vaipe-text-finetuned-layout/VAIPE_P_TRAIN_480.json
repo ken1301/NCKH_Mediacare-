@@ -1,0 +1,599 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_480",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_480.png",
+  "text": "1/1 MMH sỐ người bnh\nLHANG\nSố phiếu 1489/2019\nTOA AUCTHU  C BH BHYT\nNm x n2\nThu ặo h ếhám y tế CK 25 206 65441\nMạch: lần/phút Huyt áp: MMHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhn okno: I10- Tăng huyếnt áp ố căn (nguyến phát): (G467) Hi chứng mạch máu não trong bnh\nmmạch não (160-1677)\n1) RENAPRIL 5MG 5mg SL: 28 Viên\nGhi chúK Uống\n2) HOẠT HUYHT DNNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/06/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)\n28/12/2021 23:56:17",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        85.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            122.0,
+            85.0
+          ],
+          "confidence": 0.9996566772460938
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        150.0,
+        68.0,
+        213.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            150.0,
+            68.0,
+            213.0,
+            98.0
+          ],
+          "confidence": 0.9542919993400574
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1489/2019",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1489/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9710570573806763
+        }
+      ]
+    },
+    {
+      "text": "TOA AUCTHU  C BH BHYT",
+      "bbox": [
+        257.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA AUCTHU  C BH BHYT",
+          "bbox": [
+            257.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.769687294960022
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 25 206 65441",
+      "bbox": [
+        24.0,
+        220.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 25",
+          "bbox": [
+            179.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8171520233154297
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "65441",
+          "bbox": [
+            507.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9737738370895386
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MMHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MMHg",
+          "bbox": [
+            449.0,
+            247.0,
+            517.0,
+            274.0
+          ],
+          "confidence": 0.8123849630355835
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            505.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327245950698853
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhn okno: I10- Tăng huyếnt áp ố căn (nguyến phát): (G467) Hi chứng mạch máu não trong bnh",
+      "bbox": [
+        25.0,
+        286.0,
+        704.0,
+        311.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhn okno: I10- Tăng huyếnt áp ố căn (nguyến phát): (G467) Hi chứng mạch máu não trong bnh",
+          "bbox": [
+            25.0,
+            286.0,
+            704.0,
+            311.0
+          ],
+          "confidence": 0.8423253297805786
+        }
+      ]
+    },
+    {
+      "text": "mmạch não (160-1677)",
+      "bbox": [
+        25.0,
+        311.0,
+        170.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "mmạch não (160-1677)",
+          "bbox": [
+            25.0,
+            311.0,
+            170.0,
+            332.0
+          ],
+          "confidence": 0.893452525138855
+        }
+      ]
+    },
+    {
+      "text": "1) RENAPRIL 5MG 5mg SL: 28 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) RENAPRIL 5MG 5mg",
+          "bbox": [
+            38.0,
+            395.0,
+            298.0,
+            434.0
+          ],
+          "confidence": 0.955449640750885
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.996208906173706
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) HOẠT HUYHT DNNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        448.0,
+        711.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) HOẠT HUYHT DNNG NÃO 150mg 20mg",
+          "bbox": [
+            35.0,
+            448.0,
+            502.0,
+            486.0
+          ],
+          "confidence": 0.911523163318634
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9787601828575134
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        479.0,
+        165.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8327895402908325
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9771854877471924
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        168.0,
+        582.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            168.0,
+            582.0
+          ],
+          "confidence": 0.9871582388877869
+        }
+      ]
+    },
+    {
+      "text": "Ngày 11/06/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 11/06/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9797230958938599
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9576668739318848
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        460.0,
+        696.0,
+        633.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            460.0,
+            696.0,
+            633.0,
+            723.0
+          ],
+          "confidence": 0.9745052456855774
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8188815712928772
+        }
+      ]
+    },
+    {
+      "text": "28/12/2021 23:56:17",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "28/12/2021 23:56:17",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9973889589309692
+        }
+      ]
+    }
+  ]
+}

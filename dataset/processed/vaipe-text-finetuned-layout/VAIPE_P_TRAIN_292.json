@@ -1,0 +1,691 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_292",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_292.png",
+  "text": "1/1 MH sỐ người xbệnh\nPK Số 5.2 [TĐ] Số phiếu 19061/2021\nTOA THUỐC BHYT\nNam 2ữx\nĐệị ạ chi\nThu ặo h ếhám y tế HT 35 25 960 12199\nMạch: Lần/pút Huyết áp: MMHg Thân hiệt: C\nCân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1\ntAoàn phần (Mmnu) Định 1ương GiuCcOS  [MM u) Định 1ương HDL-C (High donSiIuy 1ipOprOIin Cho1SCrO1)\n([MMáu) Định 1ương Trigycorid (mnu) [MMáu) Tống phân tich nưc tiu (Bng Mmáky t ĩnng)\nCânhn Ookhnản E78 - Ri 1O ạn chuyễến h a 1ipOprOn tin à tinh t aạng tăng 1ipi d Mmáhu khákc (E11) nhnh ĩái\ntháo ường thõông phU thun inSu1inế: (Ký76) Bnh gann kháhch: (N34) Viêm ninu MạO à hi chứng ninu M\n1) ATORIS 20MG 20mg SL: 35 Viên\nGhih chú Uống Tối 1 Viên\n2) METRONIDAZOL 250 250 mg SL: 20 Viên\nGhiah chú Uốg Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 2 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 01/04/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khKkhám Xịin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)\n14/05/2021 08:38:03",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        715.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.2 [TĐ] Số phiếu 19061/2021",
+      "bbox": [
+        23.0,
+        83.0,
+        545.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.2 [TĐ]",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9627687335014343
+        },
+        {
+          "text": "Số phiếu 19061/2021",
+          "bbox": [
+            370.0,
+            90.0,
+            545.0,
+            121.0
+          ],
+          "confidence": 0.974062979221344
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9498972296714783
+        }
+      ]
+    },
+    {
+      "text": "Nam 2ữx",
+      "bbox": [
+        617.0,
+        148.0,
+        739.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2ữx",
+          "bbox": [
+            617.0,
+            148.0,
+            739.0,
+            180.0
+          ],
+          "confidence": 0.8396940231323242
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        179.0,
+        82.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            179.0,
+            82.0,
+            202.0
+          ],
+          "confidence": 0.7594336271286011
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế HT 35 25 960 12199",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            183.0,
+            204.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.9996548295021057
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "25",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9718888401985168
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.8747512698173523
+        },
+        {
+          "text": "12199",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9997658729553223
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9966289401054382
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9113634824752808
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.908063530921936
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1",
+      "bbox": [
+        26.0,
+        254.0,
+        717.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1",
+          "bbox": [
+            26.0,
+            254.0,
+            717.0,
+            275.0
+          ],
+          "confidence": 0.8121902346611023
+        }
+      ]
+    },
+    {
+      "text": "tAoàn phần (Mmnu) Định 1ương GiuCcOS  [MM u) Định 1ương HDL-C (High donSiIuy 1ipOprOIin Cho1SCrO1)",
+      "bbox": [
+        26.0,
+        274.0,
+        732.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "tAoàn phần (Mmnu) Định 1ương GiuCcOS  [MM u) Định 1ương HDL-C (High donSiIuy 1ipOprOIin Cho1SCrO1)",
+          "bbox": [
+            26.0,
+            274.0,
+            732.0,
+            294.0
+          ],
+          "confidence": 0.8209187984466553
+        }
+      ]
+    },
+    {
+      "text": "([MMáu) Định 1ương Trigycorid (mnu) [MMáu) Tống phân tich nưc tiu (Bng Mmáky t ĩnng)",
+      "bbox": [
+        26.0,
+        292.0,
+        649.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "([MMáu) Định 1ương Trigycorid (mnu) [MMáu) Tống phân tich nưc tiu (Bng Mmáky t ĩnng)",
+          "bbox": [
+            26.0,
+            292.0,
+            649.0,
+            313.0
+          ],
+          "confidence": 0.8174220323562622
+        }
+      ]
+    },
+    {
+      "text": "Cânhn Ookhnản E78 - Ri 1O ạn chuyễến h a 1ipOprOn tin à tinh t aạng tăng 1ipi d Mmáhu khákc (E11) nhnh ĩái",
+      "bbox": [
+        27.0,
+        312.0,
+        710.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn Ookhnản E78 - Ri 1O ạn chuyễến h a 1ipOprOn tin à tinh t aạng tăng 1ipi d Mmáhu khákc (E11) nhnh ĩái",
+          "bbox": [
+            27.0,
+            312.0,
+            710.0,
+            332.0
+          ],
+          "confidence": 0.7687857151031494
+        }
+      ]
+    },
+    {
+      "text": "tháo ường thõông phU thun inSu1inế: (Ký76) Bnh gann kháhch: (N34) Viêm ninu MạO à hi chứng ninu M",
+      "bbox": [
+        26.0,
+        330.0,
+        737.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "tháo ường thõông phU thun inSu1inế: (Ký76) Bnh gann kháhch: (N34) Viêm ninu MạO à hi chứng ninu M",
+          "bbox": [
+            26.0,
+            330.0,
+            737.0,
+            352.0
+          ],
+          "confidence": 0.8197061419487
+        }
+      ]
+    },
+    {
+      "text": "1) ATORIS 20MG 20mg SL: 35 Viên",
+      "bbox": [
+        41.0,
+        420.0,
+        709.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "1) ATORIS 20MG 20mg",
+          "bbox": [
+            41.0,
+            420.0,
+            289.0,
+            452.0
+          ],
+          "confidence": 0.96401447057724
+        },
+        {
+          "text": "SL: 35 Viên",
+          "bbox": [
+            594.0,
+            424.0,
+            709.0,
+            449.0
+          ],
+          "confidence": 0.9955671429634094
+        }
+      ]
+    },
+    {
+      "text": "Ghih chú Uống Tối 1 Viên",
+      "bbox": [
+        35.0,
+        449.0,
+        705.0,
+        477.0
+      ],
+      "words": [
+        {
+          "text": "Ghih chú",
+          "bbox": [
+            35.0,
+            452.0,
+            94.0,
+            473.0
+          ],
+          "confidence": 0.8607674837112427
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            449.0,
+            163.0,
+            477.0
+          ],
+          "confidence": 0.9702358841896057
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            622.0,
+            450.0,
+            705.0,
+            474.0
+          ],
+          "confidence": 0.9554374814033508
+        }
+      ]
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250 mg SL: 20 Viên",
+      "bbox": [
+        39.0,
+        472.0,
+        709.0,
+        506.0
+      ],
+      "words": [
+        {
+          "text": "2) METRONIDAZOL 250 250 mg",
+          "bbox": [
+            39.0,
+            472.0,
+            377.0,
+            506.0
+          ],
+          "confidence": 0.9517549872398376
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            475.0,
+            709.0,
+            501.0
+          ],
+          "confidence": 0.9097309112548828
+        }
+      ]
+    },
+    {
+      "text": "Ghiah chú Uốg Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        500.0,
+        609.0,
+        528.0
+      ],
+      "words": [
+        {
+          "text": "Ghiah chú",
+          "bbox": [
+            34.0,
+            506.0,
+            93.0,
+            524.0
+          ],
+          "confidence": 0.8088047504425049
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            503.0,
+            162.0,
+            528.0
+          ],
+          "confidence": 0.8433260917663574
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            501.0,
+            378.0,
+            528.0
+          ],
+          "confidence": 0.9983232617378235
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            500.0,
+            609.0,
+            527.0
+          ],
+          "confidence": 0.9987018704414368
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoả",
+      "bbox": [
+        33.0,
+        533.0,
+        198.0,
+        554.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoả",
+          "bbox": [
+            33.0,
+            533.0,
+            198.0,
+            554.0
+          ],
+          "confidence": 0.9552212953567505
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        557.0,
+        165.0,
+        579.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            557.0,
+            165.0,
+            579.0
+          ],
+          "confidence": 0.9304463863372803
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        583.0,
+        167.0,
+        603.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            583.0,
+            167.0,
+            603.0
+          ],
+          "confidence": 0.9551565647125244
+        }
+      ]
+    },
+    {
+      "text": "Ngày 01/04/2021",
+      "bbox": [
+        483.0,
+        616.0,
+        622.0,
+        639.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 01/04/2021",
+          "bbox": [
+            483.0,
+            616.0,
+            622.0,
+            639.0
+          ],
+          "confidence": 0.9798980355262756
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        636.0,
+        614.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            636.0,
+            198.0,
+            658.0
+          ],
+          "confidence": 0.9843742251396179
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            645.0,
+            614.0,
+            667.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        473.0,
+        717.0,
+        620.0,
+        742.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            473.0,
+            717.0,
+            620.0,
+            742.0
+          ],
+          "confidence": 0.9864824414253235
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+      "bbox": [
+        32.0,
+        772.0,
+        416.0,
+        797.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+          "bbox": [
+            32.0,
+            772.0,
+            416.0,
+            797.0
+          ],
+          "confidence": 0.8190121650695801
+        }
+      ]
+    },
+    {
+      "text": "14/05/2021 08:38:03",
+      "bbox": [
+        589.0,
+        817.0,
+        730.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "14/05/2021 08:38:03",
+          "bbox": [
+            589.0,
+            817.0,
+            730.0,
+            834.0
+          ],
+          "confidence": 0.9757547974586487
+        }
+      ]
+    }
+  ]
+}

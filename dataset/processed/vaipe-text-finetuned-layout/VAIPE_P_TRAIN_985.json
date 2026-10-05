@@ -1,0 +1,660 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_985",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_985.png",
+  "text": "M sc người bnh\nTYT XÃ VÃN LÝ\nSố phiếu 2545/2018\nTOA THUỐC BHYT\nNamx\nThu ặo h êhám y tế GB 4 35 35 207\nMạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCiềuhần ĩokn: 02- iêm ọng cấp\n1) AMOXICILIN 500MG 0,5g SL: 20 Viên\nGh chú Uốg\n2) PARACETAMOL 500MG 500mg SL: 10 Viên\nGhi chú Uốg\n3) C1000 FLOODE 1g SL: 5 Viên\nGhi chú Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn ái khám:\nNgày 30/07/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Nguyễn Hồng Phong\nTái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)\n06/05/2021 10:55:13",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        598.0,
+        17.0,
+        716.0,
+        46.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ VÃN LÝ",
+      "bbox": [
+        25.0,
+        52.0,
+        160.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ VÃN LÝ",
+          "bbox": [
+            25.0,
+            52.0,
+            160.0,
+            78.0
+          ],
+          "confidence": 0.9260929822921753
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2545/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2545/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9920302629470825
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9770539402961731
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 4 35 35 207",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            205.0,
+            268.0,
+            226.0
+          ],
+          "confidence": 0.5884009003639221
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9177933931350708
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            517.0,
+            254.0
+          ],
+          "confidence": 0.8726142048835754
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần ĩokn: 02- iêm ọng cấp",
+      "bbox": [
+        24.0,
+        268.0,
+        252.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần ĩokn: 02- iêm ọng cấp",
+          "bbox": [
+            24.0,
+            268.0,
+            252.0,
+            294.0
+          ],
+          "confidence": 0.7293401956558228
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 0,5g",
+          "bbox": [
+            40.0,
+            380.0,
+            357.0,
+            415.0
+          ],
+          "confidence": 0.9621647000312805
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốg",
+      "bbox": [
+        35.0,
+        410.0,
+        162.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            96.0,
+            433.0
+          ],
+          "confidence": 0.9186660647392273
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            162.0,
+            437.0
+          ],
+          "confidence": 0.8064370155334473
+        }
+      ]
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            37.0,
+            432.0,
+            398.0,
+            467.0
+          ],
+          "confidence": 0.9564052820205688
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9646921157836914
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        32.0,
+        462.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.8278717994689941
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8423901200294495
+        }
+      ]
+    },
+    {
+      "text": "3) C1000 FLOODE 1g SL: 5 Viên",
+      "bbox": [
+        36.0,
+        484.0,
+        698.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) C1000 FLOODE 1g",
+          "bbox": [
+            36.0,
+            484.0,
+            271.0,
+            519.0
+          ],
+          "confidence": 0.9540039896965027
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            698.0,
+            515.0
+          ],
+          "confidence": 0.8049267530441284
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        513.0,
+        165.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            513.0,
+            165.0,
+            543.0
+          ],
+          "confidence": 0.8365824818611145
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9813960194587708
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        569.0,
+        164.0,
+        590.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            569.0,
+            164.0,
+            590.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn ái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn ái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9687075018882751
+        }
+      ]
+    },
+    {
+      "text": "Ngày 30/07/2018",
+      "bbox": [
+        483.0,
+        627.0,
+        625.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 30/07/2018",
+          "bbox": [
+            483.0,
+            627.0,
+            625.0,
+            654.0
+          ],
+          "confidence": 0.9491513967514038
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        648.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            648.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9535803198814392
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "YS. Nguyễn Hồng Phong",
+      "bbox": [
+        448.0,
+        727.0,
+        646.0,
+        759.0
+      ],
+      "words": [
+        {
+          "text": "YS. Nguyễn Hồng Phong",
+          "bbox": [
+            448.0,
+            727.0,
+            646.0,
+            759.0
+          ],
+          "confidence": 0.9901114106178284
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.863033652305603
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 10:55:13",
+      "bbox": [
+        587.0,
+        827.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 10:55:13",
+          "bbox": [
+            587.0,
+            827.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.999667227268219
+        }
+      ]
+    }
+  ]
+}

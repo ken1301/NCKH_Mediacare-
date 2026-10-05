@@ -1,0 +1,556 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_255",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_255.png",
+  "text": "MS số người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 48390/2021\nTOA THUỐC BHYT\nNam x ữ2\nTh bặo hiêhm y t HT 35 35 206 32969\nMạch: 0 lần/phút Huyết áp: 90 2860 mmHmHgố Thân nh nhệ 36.7 C\nCộn lâm sàngng:\nCânhân kgn: G46G - Hi chứng mMạCch mnu nO Ong bnnh mMạch nO (160-1677)\n1) HOAT HUYT DUNG NO 150mg420mg SL: 40 viên\nGhi chú uống Sáng 2 viên Chiều 2 viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/10/2021\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBSCKI. Nguyễn Văn Thự\nTái kh áhm Xin mang th ho hđn, Xká nghinhm, phim (êngếu ch)\n05/01/2022 19:09:45",
+  "lines": [
+    {
+      "text": "MS số người bệnh",
+      "bbox": [
+        895.0,
+        42.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS số người bệnh",
+          "bbox": [
+            895.0,
+            42.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.8516242504119873
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        35.0,
+        98.0,
+        220.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            35.0,
+            98.0,
+            220.0,
+            129.0
+          ],
+          "confidence": 0.9677100777626038
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 48390/2021",
+      "bbox": [
+        35.0,
+        145.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 48390/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9692519307136536
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        383.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            383.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.9545232057571411
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        920.0,
+        234.0,
+        1101.0,
+        283.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            920.0,
+            234.0,
+            1101.0,
+            283.0
+          ],
+          "confidence": 0.8762688636779785
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiêhm y t HT 35 35 206 32969",
+      "bbox": [
+        35.0,
+        318.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiêhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7792321443557739
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            270.0,
+            318.0,
+            322.0,
+            353.0
+          ],
+          "confidence": 0.9991637468338013
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            318.0,
+            487.0,
+            352.0
+          ],
+          "confidence": 0.999889612197876
+        },
+        {
+          "text": "35",
+          "bbox": [
+            539.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9998891353607178
+        },
+        {
+          "text": "206",
+          "bbox": [
+            645.0,
+            318.0,
+            702.0,
+            352.0
+          ],
+          "confidence": 0.8704506754875183
+        },
+        {
+          "text": "32969",
+          "bbox": [
+            758.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.994979202747345
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 0 lần/phút Huyết áp: 90 2860 mmHmHgố Thân nh nhệ 36.7 C",
+      "bbox": [
+        34.0,
+        348.0,
+        1015.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 0",
+          "bbox": [
+            34.0,
+            358.0,
+            166.0,
+            390.0
+          ],
+          "confidence": 0.9186583757400513
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            463.0,
+            393.0
+          ],
+          "confidence": 0.9705736637115479
+        },
+        {
+          "text": "90",
+          "bbox": [
+            488.0,
+            361.0,
+            531.0,
+            389.0
+          ],
+          "confidence": 0.7734535336494446
+        },
+        {
+          "text": "2860",
+          "bbox": [
+            530.0,
+            360.0,
+            616.0,
+            389.0
+          ],
+          "confidence": 0.5088073015213013
+        },
+        {
+          "text": "mmHmHgố Thân nh nhệ 36.7",
+          "bbox": [
+            671.0,
+            357.0,
+            954.0,
+            391.0
+          ],
+          "confidence": 0.7482516765594482
+        },
+        {
+          "text": "C",
+          "bbox": [
+            963.0,
+            348.0,
+            1015.0,
+            393.0
+          ],
+          "confidence": 0.552646815776825
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàngng:",
+      "bbox": [
+        35.0,
+        391.0,
+        186.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàngng:",
+          "bbox": [
+            35.0,
+            391.0,
+            186.0,
+            423.0
+          ],
+          "confidence": 0.82137531042099
+        }
+      ]
+    },
+    {
+      "text": "Cânhân kgn: G46G - Hi chứng mMạCch mnu nO Ong bnnh mMạch nO (160-1677)",
+      "bbox": [
+        36.0,
+        420.0,
+        827.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "Cânhân kgn: G46G - Hi chứng mMạCch mnu nO Ong bnnh mMạch nO (160-1677)",
+          "bbox": [
+            36.0,
+            420.0,
+            827.0,
+            452.0
+          ],
+          "confidence": 0.8183825612068176
+        }
+      ]
+    },
+    {
+      "text": "1) HOAT HUYT DUNG NO 150mg420mg SL: 40 viên",
+      "bbox": [
+        61.0,
+        584.0,
+        1048.0,
+        632.0
+      ],
+      "words": [
+        {
+          "text": "1) HOAT HUYT DUNG NO 150mg420mg",
+          "bbox": [
+            61.0,
+            584.0,
+            751.0,
+            632.0
+          ],
+          "confidence": 0.9488669037818909
+        },
+        {
+          "text": "SL: 40 viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1048.0,
+            625.0
+          ],
+          "confidence": 0.9637167453765869
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 viên Chiều 2 viên",
+      "bbox": [
+        45.0,
+        625.0,
+        901.0,
+        666.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            625.0,
+            244.0,
+            666.0
+          ],
+          "confidence": 0.9875470995903015
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            429.0,
+            632.0,
+            555.0,
+            663.0
+          ],
+          "confidence": 0.9741520285606384
+        },
+        {
+          "text": "Chiều 2 viên",
+          "bbox": [
+            765.0,
+            628.0,
+            901.0,
+            662.0
+          ],
+          "confidence": 0.9843066334724426
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        44.0,
+        674.0,
+        290.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            44.0,
+            674.0,
+            290.0,
+            704.0
+          ],
+          "confidence": 0.9243035316467285
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        42.0,
+        710.0,
+        242.0,
+        741.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            42.0,
+            710.0,
+            242.0,
+            741.0
+          ],
+          "confidence": 0.9761738181114197
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        42.0,
+        749.0,
+        247.0,
+        782.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            42.0,
+            749.0,
+            247.0,
+            782.0
+          ],
+          "confidence": 0.9583804607391357
+        }
+      ]
+    },
+    {
+      "text": "Ngày 13/10/2021",
+      "bbox": [
+        722.0,
+        802.0,
+        925.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 13/10/2021",
+          "bbox": [
+            722.0,
+            802.0,
+            925.0,
+            834.0
+          ],
+          "confidence": 0.9694964289665222
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        92.0,
+        830.0,
+        913.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            92.0,
+            830.0,
+            292.0,
+            861.0
+          ],
+          "confidence": 0.9461972713470459
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            913.0,
+            874.0
+          ],
+          "confidence": 0.9662958979606628
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "bbox": [
+        666.0,
+        950.0,
+        964.0,
+        990.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Văn Thự",
+          "bbox": [
+            666.0,
+            950.0,
+            964.0,
+            990.0
+          ],
+          "confidence": 0.9424245953559875
+        }
+      ]
+    },
+    {
+      "text": "Tái kh áhm Xin mang th ho hđn, Xká nghinhm, phim (êngếu ch)",
+      "bbox": [
+        46.0,
+        1038.0,
+        616.0,
+        1068.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh áhm Xin mang th ho hđn, Xká nghinhm, phim (êngếu ch)",
+          "bbox": [
+            46.0,
+            1038.0,
+            616.0,
+            1068.0
+          ],
+          "confidence": 0.7781496047973633
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 19:09:45",
+      "bbox": [
+        877.0,
+        1097.0,
+        1090.0,
+        1124.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 19:09:45",
+          "bbox": [
+            877.0,
+            1097.0,
+            1090.0,
+            1124.0
+          ],
+          "confidence": 0.9773624539375305
+        }
+      ]
+    }
+  ]
+}

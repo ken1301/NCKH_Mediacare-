@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_806",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_806.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng 23 nam x Nữ\nCộnhắn ongn: N30 - Viêm àng 9uang : (L03) Vi m mô ào: (L23.9) Viêm da d\nứng tiếp Xđức, nguyễn nhân khâng sĩdặc hinu\nThu ốc điều trị:\n1)C ràotXium (ýFirátuictXin 500) 0,5g\nSL: 10 Viên Uống : Sáng 1 Vi TốỐI 1 Viên\n2)thy1 prcádniáOo1ođ ([Mhthy1prtdniácO1omn 4) 4mg\nSL: 10 Viên Uống : SnNg 2 Viên\n3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg\nSL: 10 Viên Uống : Sng 1 Vi TốI 1 Viên\nLời dặn:\nNgày 22 nghng 12 năam 2021\nBác sỹ/Y sỹ khaám bệnh\n(Ký, ghi rõ họ tên)\nBS CK. Lưu Min h TMn\n-Kh hám 1hại Xi mnng t O n này.\n-Tần ố hặc Mmh cđan tráõ hoặc người sĩa tráõ ến kááhHm bệnh, chũan bnh",
+  "lines": [
+    {
+      "text": "Điện thoại:",
+      "bbox": [
+        39.0,
+        99.0,
+        197.0,
+        140.0
+      ],
+      "words": [
+        {
+          "text": "Điện thoại:",
+          "bbox": [
+            39.0,
+            99.0,
+            197.0,
+            140.0
+          ],
+          "confidence": 0.9808065295219421
+        }
+      ]
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "bbox": [
+        395.0,
+        145.0,
+        751.0,
+        195.0
+      ],
+      "words": [
+        {
+          "text": "ĐƠN THUỐC BHYT",
+          "bbox": [
+            395.0,
+            145.0,
+            751.0,
+            195.0
+          ],
+          "confidence": 0.916635274887085
+        }
+      ]
+    },
+    {
+      "text": "Cân nặng 23 nam x Nữ",
+      "bbox": [
+        696.0,
+        196.0,
+        1101.0,
+        253.0
+      ],
+      "words": [
+        {
+          "text": "Cân nặng 23 nam x Nữ",
+          "bbox": [
+            696.0,
+            196.0,
+            1101.0,
+            253.0
+          ],
+          "confidence": 0.937515914440155
+        }
+      ]
+    },
+    {
+      "text": "Cộnhắn ongn: N30 - Viêm àng 9uang : (L03) Vi m mô ào: (L23.9) Viêm da d",
+      "bbox": [
+        35.0,
+        345.0,
+        1096.0,
+        391.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhắn ongn: N30 - Viêm àng 9uang : (L03) Vi m mô ào: (L23.9) Viêm da d",
+          "bbox": [
+            35.0,
+            345.0,
+            1096.0,
+            391.0
+          ],
+          "confidence": 0.8246299028396606
+        }
+      ]
+    },
+    {
+      "text": "ứng tiếp Xđức, nguyễn nhân khâng sĩdặc hinu",
+      "bbox": [
+        35.0,
+        387.0,
+        621.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "ứng tiếp Xđức, nguyễn nhân khâng sĩdặc hinu",
+          "bbox": [
+            35.0,
+            387.0,
+            621.0,
+            432.0
+          ],
+          "confidence": 0.8363454341888428
+        }
+      ]
+    },
+    {
+      "text": "Thu ốc điều trị:",
+      "bbox": [
+        35.0,
+        427.0,
+        243.0,
+        469.0
+      ],
+      "words": [
+        {
+          "text": "Thu ốc điều trị:",
+          "bbox": [
+            35.0,
+            427.0,
+            243.0,
+            469.0
+          ],
+          "confidence": 0.8548927307128906
+        }
+      ]
+    },
+    {
+      "text": "1)C ràotXium (ýFirátuictXin 500) 0,5g",
+      "bbox": [
+        34.0,
+        474.0,
+        512.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "1)C ràotXium (ýFirátuictXin 500) 0,5g",
+          "bbox": [
+            34.0,
+            474.0,
+            512.0,
+            518.0
+          ],
+          "confidence": 0.7322841286659241
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên Uống : Sáng 1 Vi TốỐI 1 Viên",
+      "bbox": [
+        40.0,
+        541.0,
+        716.0,
+        584.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            40.0,
+            544.0,
+            199.0,
+            581.0
+          ],
+          "confidence": 0.9888426065444946
+        },
+        {
+          "text": "Uống : Sáng 1 Vi TốỐI 1 Viên",
+          "bbox": [
+            277.0,
+            541.0,
+            716.0,
+            584.0
+          ],
+          "confidence": 0.8793027997016907
+        }
+      ]
+    },
+    {
+      "text": "2)thy1 prcádniáOo1ođ ([Mhthy1prtdniácO1omn 4) 4mg",
+      "bbox": [
+        32.0,
+        601.0,
+        739.0,
+        647.0
+      ],
+      "words": [
+        {
+          "text": "2)thy1 prcádniáOo1ođ ([Mhthy1prtdniácO1omn 4) 4mg",
+          "bbox": [
+            32.0,
+            601.0,
+            739.0,
+            647.0
+          ],
+          "confidence": 0.7754949331283569
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên Uống : SnNg 2 Viên",
+      "bbox": [
+        40.0,
+        669.0,
+        551.0,
+        714.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            40.0,
+            672.0,
+            199.0,
+            709.0
+          ],
+          "confidence": 0.9859046936035156
+        },
+        {
+          "text": "Uống : SnNg 2 Viên",
+          "bbox": [
+            277.0,
+            669.0,
+            551.0,
+            714.0
+          ],
+          "confidence": 0.8645210862159729
+        }
+      ]
+    },
+    {
+      "text": "3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg",
+      "bbox": [
+        33.0,
+        733.0,
+        583.0,
+        774.0
+      ],
+      "words": [
+        {
+          "text": "3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg",
+          "bbox": [
+            33.0,
+            733.0,
+            583.0,
+            774.0
+          ],
+          "confidence": 0.7279244065284729
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên Uống : Sng 1 Vi TốI 1 Viên",
+      "bbox": [
+        41.0,
+        800.0,
+        715.0,
+        837.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            41.0,
+            803.0,
+            199.0,
+            837.0
+          ],
+          "confidence": 0.9598093628883362
+        },
+        {
+          "text": "Uống : Sng 1 Vi TốI 1 Viên",
+          "bbox": [
+            280.0,
+            800.0,
+            715.0,
+            837.0
+          ],
+          "confidence": 0.8301531672477722
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn:",
+      "bbox": [
+        36.0,
+        863.0,
+        161.0,
+        903.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn:",
+          "bbox": [
+            36.0,
+            863.0,
+            161.0,
+            903.0
+          ],
+          "confidence": 0.9802340269088745
+        }
+      ]
+    },
+    {
+      "text": "Ngày 22 nghng 12 năam 2021",
+      "bbox": [
+        644.0,
+        910.0,
+        1027.0,
+        950.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 22 nghng 12 năam 2021",
+          "bbox": [
+            644.0,
+            910.0,
+            1027.0,
+            950.0
+          ],
+          "confidence": 0.824528157711029
+        }
+      ]
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khaám bệnh",
+      "bbox": [
+        677.0,
+        958.0,
+        999.0,
+        994.0
+      ],
+      "words": [
+        {
+          "text": "Bác sỹ/Y sỹ khaám bệnh",
+          "bbox": [
+            677.0,
+            958.0,
+            999.0,
+            994.0
+          ],
+          "confidence": 0.8390132784843445
+        }
+      ]
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "bbox": [
+        714.0,
+        1004.0,
+        968.0,
+        1042.0
+      ],
+      "words": [
+        {
+          "text": "(Ký, ghi rõ họ tên)",
+          "bbox": [
+            714.0,
+            1004.0,
+            968.0,
+            1042.0
+          ],
+          "confidence": 0.9204869270324707
+        }
+      ]
+    },
+    {
+      "text": "BS CK. Lưu Min h TMn",
+      "bbox": [
+        683.0,
+        1150.0,
+        995.0,
+        1181.0
+      ],
+      "words": [
+        {
+          "text": "BS CK. Lưu Min h TMn",
+          "bbox": [
+            683.0,
+            1150.0,
+            995.0,
+            1181.0
+          ],
+          "confidence": 0.8387829065322876
+        }
+      ]
+    },
+    {
+      "text": "-Kh hám 1hại Xi mnng t O n này.",
+      "bbox": [
+        40.0,
+        1192.0,
+        510.0,
+        1232.0
+      ],
+      "words": [
+        {
+          "text": "-Kh hám 1hại Xi mnng t O n này.",
+          "bbox": [
+            40.0,
+            1192.0,
+            510.0,
+            1232.0
+          ],
+          "confidence": 0.7928080558776855
+        }
+      ]
+    },
+    {
+      "text": "-Tần ố hặc Mmh cđan tráõ hoặc người sĩa tráõ ến kááhHm bệnh, chũan bnh",
+      "bbox": [
+        40.0,
+        1240.0,
+        1007.0,
+        1280.0
+      ],
+      "words": [
+        {
+          "text": "-Tần ố hặc Mmh cđan tráõ hoặc người sĩa tráõ ến kááhHm bệnh, chũan bnh",
+          "bbox": [
+            40.0,
+            1240.0,
+            1007.0,
+            1280.0
+          ],
+          "confidence": 0.7490929961204529
+        }
+      ]
+    }
+  ]
+}

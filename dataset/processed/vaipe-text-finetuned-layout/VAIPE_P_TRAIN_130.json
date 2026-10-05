@@ -1,0 +1,609 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_130",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_130.png",
+  "text": "MMH sỐ người bnh\nTYT XÃ NGUYN LÝ\nSố phiếu 2869/2019\nTOA AỐC THU C BH BHYT\nN xN2\nThu ặo hiếhám y tế CK 2 35 65403\nMạch: lần/phút Huyết áp: / MMHg Thân nhiệt c\nCận 1 smngng: Xn nghinm đường Mmáu maạo mạch tuạ giường (mn:i lsn)\nCiềhần ĩokhoả: E11- Bnệnh ĩái tháo ĩường kthĩng phu thunyc inSuinả: (I10) Tăng huyếH áp v căn (nguyễn\nphát)\n1) GLUCOFAST 500 500mg SL: 60 Viên\nGhi chúK Uống\n2) KAVASDIN 5 5mg SL: 30 viên\nGhi chú Uống Sáng 1 viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/11/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNHS. Nguyễn Thị Nguyễn\nTái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui co)\n25/12/2021 23:54:50",
+  "lines": [
+    {
+      "text": "MMH sỐ người bnh",
+      "bbox": [
+        600.0,
+        36.0,
+        716.0,
+        62.0
+      ],
+      "words": [
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ NGUYN LÝ",
+      "bbox": [
+        25.0,
+        70.0,
+        196.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ NGUYN LÝ",
+          "bbox": [
+            25.0,
+            70.0,
+            196.0,
+            97.0
+          ],
+          "confidence": 0.955977737903595
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2869/2019",
+      "bbox": [
+        369.0,
+        107.0,
+        537.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2869/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            537.0,
+            138.0
+          ],
+          "confidence": 0.9815822243690491
+        }
+      ]
+    },
+    {
+      "text": "TOA AỐC THU C BH BHYT",
+      "bbox": [
+        256.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA AỐC THU C BH BHYT",
+          "bbox": [
+            256.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.8168022632598877
+        }
+      ]
+    },
+    {
+      "text": "N xN2",
+      "bbox": [
+        613.0,
+        161.0,
+        740.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N xN2",
+          "bbox": [
+            613.0,
+            161.0,
+            740.0,
+            201.0
+          ],
+          "confidence": 0.791196346282959
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế CK 2 35 65403",
+      "bbox": [
+        24.0,
+        221.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            182.0,
+            221.0,
+            240.0,
+            246.0
+          ],
+          "confidence": 0.8861044645309448
+        },
+        {
+          "text": "2",
+          "bbox": [
+            232.0,
+            221.0,
+            330.0,
+            246.0
+          ],
+          "confidence": 0.9996403455734253
+        },
+        {
+          "text": "35",
+          "bbox": [
+            358.0,
+            221.0,
+            394.0,
+            246.0
+          ],
+          "confidence": 0.999809980392456
+        },
+        {
+          "text": "65403",
+          "bbox": [
+            507.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9519436955451965
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHg Thân nhiệt c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        273.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            245.0,
+            308.0,
+            273.0
+          ],
+          "confidence": 0.9669764637947083
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            250.0,
+            392.0,
+            268.0
+          ],
+          "confidence": 0.9598775506019592
+        },
+        {
+          "text": "MMHg Thân nhiệt",
+          "bbox": [
+            449.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9663690328598022
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận 1 smngng: Xn nghinm đường Mmáu maạo mạch tuạ giường (mn:i lsn)",
+      "bbox": [
+        24.0,
+        269.0,
+        508.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1 smngng: Xn nghinm đường Mmáu maạo mạch tuạ giường (mn:i lsn)",
+          "bbox": [
+            24.0,
+            269.0,
+            508.0,
+            292.0
+          ],
+          "confidence": 0.8643805384635925
+        }
+      ]
+    },
+    {
+      "text": "Ciềhần ĩokhoả: E11- Bnệnh ĩái tháo ĩường kthĩng phu thunyc inSuinả: (I10) Tăng huyếH áp v căn (nguyễn",
+      "bbox": [
+        24.0,
+        288.0,
+        714.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Ciềhần ĩokhoả: E11- Bnệnh ĩái tháo ĩường kthĩng phu thunyc inSuinả: (I10) Tăng huyếH áp v căn (nguyễn",
+          "bbox": [
+            24.0,
+            288.0,
+            714.0,
+            313.0
+          ],
+          "confidence": 0.8099616765975952
+        }
+      ]
+    },
+    {
+      "text": "phát)",
+      "bbox": [
+        22.0,
+        305.0,
+        70.0,
+        335.0
+      ],
+      "words": [
+        {
+          "text": "phát)",
+          "bbox": [
+            22.0,
+            305.0,
+            70.0,
+            335.0
+          ],
+          "confidence": 0.9813461303710938
+        }
+      ]
+    },
+    {
+      "text": "1) GLUCOFAST 500 500mg SL: 60 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) GLUCOFAST 500 500mg",
+          "bbox": [
+            38.0,
+            396.0,
+            328.0,
+            434.0
+          ],
+          "confidence": 0.987999677658081
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            591.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9623558521270752
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) KAVASDIN 5 5mg SL: 30 viên",
+      "bbox": [
+        35.0,
+        449.0,
+        706.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) KAVASDIN 5 5mg",
+          "bbox": [
+            35.0,
+            449.0,
+            276.0,
+            486.0
+          ],
+          "confidence": 0.9507814049720764
+        },
+        {
+          "text": "SL: 30 viên",
+          "bbox": [
+            592.0,
+            452.0,
+            706.0,
+            483.0
+          ],
+          "confidence": 0.9806636571884155
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 viên",
+      "bbox": [
+        32.0,
+        479.0,
+        375.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8920060992240906
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            287.0,
+            480.0,
+            375.0,
+            509.0
+          ],
+          "confidence": 0.9433179497718811
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        30.0,
+        507.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            30.0,
+            507.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9403396248817444
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/11/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/11/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9966093897819519
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9740474820137024
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "NHS. Nguyễn Thị Nguyễn",
+      "bbox": [
+        442.0,
+        694.0,
+        650.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "NHS. Nguyễn Thị Nguyễn",
+          "bbox": [
+            442.0,
+            694.0,
+            650.0,
+            724.0
+          ],
+          "confidence": 0.9477342963218689
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui co)",
+      "bbox": [
+        33.0,
+        752.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui co)",
+          "bbox": [
+            33.0,
+            752.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.8165303468704224
+        }
+      ]
+    },
+    {
+      "text": "25/12/2021 23:54:50",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "25/12/2021 23:54:50",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9780389070510864
+        }
+      ]
+    }
+  ]
+}

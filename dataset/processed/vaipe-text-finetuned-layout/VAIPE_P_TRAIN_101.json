@@ -1,0 +1,681 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_101",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_101.png",
+  "text": "MMH sỐ người bnh\nKhoa Khám bệnh\nPK Số 2 [Nội] Số phiếu 73105/2018\nTOA THUỐC BHYT\nNm x n2\nThu ặo h ếhám y tế CK 235 206 74614\nMạch: lần/phút Huyt áp: MmHg Thân nhiệt:\nCận lâm sàng:\nCânhần okno: I10 - Tăng huyế p ô căn (nguyến phát): (E78) Ri 1oạn chuyễến hoá ipOprơựcin à tinh\ntrạng tĩăng 1ipid máu khác\n1) TROYSAR AM 5mg +50mg SL: 30 Viên\nGhi chúK Uống: Sáng 1 Viên\n2) LENINARTO 10 10mg SL: 30 Viên\nGhi chú Uống: Sáng 1 Viên\n3) STACETAM 800MG 800mg SL: 20 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹơn i tái khám: Th áu, 21/12/2018\nNgày 21/11/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n27/12/2021 23:26:17",
+  "lines": [
+    {
+      "text": "MMH sỐ người bnh",
+      "bbox": [
+        600.0,
+        36.0,
+        716.0,
+        62.0
+      ],
+      "words": [
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        23.0,
+        74.0,
+        158.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            23.0,
+            74.0,
+            158.0,
+            97.0
+          ],
+          "confidence": 0.9226967692375183
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 73105/2018",
+      "bbox": [
+        22.0,
+        100.0,
+        548.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            100.0,
+            132.0,
+            134.0
+          ],
+          "confidence": 0.9032928943634033
+        },
+        {
+          "text": "Số phiếu 73105/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            548.0,
+            138.0
+          ],
+          "confidence": 0.9746270179748535
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9819501638412476
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 235 206 74614",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 235",
+          "bbox": [
+            180.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8471100926399231
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999744296073914
+        },
+        {
+          "text": "74614",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9993193745613098
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg Thân nhiệt:",
+      "bbox": [
+        23.0,
+        244.0,
+        598.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            449.0,
+            249.0,
+            598.0,
+            273.0
+          ],
+          "confidence": 0.9319049119949341
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: I10 - Tăng huyế p ô căn (nguyến phát): (E78) Ri 1oạn chuyễến hoá ipOprơựcin à tinh",
+      "bbox": [
+        24.0,
+        286.0,
+        712.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: I10 - Tăng huyế p ô căn (nguyến phát): (E78) Ri 1oạn chuyễến hoá ipOprơựcin à tinh",
+          "bbox": [
+            24.0,
+            286.0,
+            712.0,
+            312.0
+          ],
+          "confidence": 0.7964105606079102
+        }
+      ]
+    },
+    {
+      "text": "trạng tĩăng 1ipid máu khác",
+      "bbox": [
+        25.0,
+        310.0,
+        203.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "trạng tĩăng 1ipid máu khác",
+          "bbox": [
+            25.0,
+            310.0,
+            203.0,
+            332.0
+          ],
+          "confidence": 0.8290103077888489
+        }
+      ]
+    },
+    {
+      "text": "1) TROYSAR AM 5mg +50mg SL: 30 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) TROYSAR AM 5mg +50mg",
+          "bbox": [
+            38.0,
+            396.0,
+            353.0,
+            434.0
+          ],
+          "confidence": 0.8937310576438904
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            401.0,
+            710.0,
+            430.0
+          ],
+          "confidence": 0.943359375
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống: Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        426.0,
+        380.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            285.0,
+            426.0,
+            380.0,
+            457.0
+          ],
+          "confidence": 0.9546754360198975
+        }
+      ]
+    },
+    {
+      "text": "2) LENINARTO 10 10mg SL: 30 Viên",
+      "bbox": [
+        37.0,
+        448.0,
+        711.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) LENINARTO 10 10mg",
+          "bbox": [
+            37.0,
+            448.0,
+            305.0,
+            486.0
+          ],
+          "confidence": 0.9859346151351929
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9398959875106812
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        478.0,
+        380.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            478.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8638598322868347
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            284.0,
+            479.0,
+            380.0,
+            509.0
+          ],
+          "confidence": 0.955449640750885
+        }
+      ]
+    },
+    {
+      "text": "3) STACETAM 800MG 800mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        500.0,
+        710.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) STACETAM 800MG 800mg",
+          "bbox": [
+            35.0,
+            500.0,
+            356.0,
+            539.0
+          ],
+          "confidence": 0.9796848893165588
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            503.0,
+            710.0,
+            534.0
+          ],
+          "confidence": 0.9983794689178467
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        530.0,
+        610.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            534.0,
+            95.0,
+            556.0
+          ],
+          "confidence": 0.9652646780014038
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            531.0,
+            165.0,
+            560.0
+          ],
+          "confidence": 0.8134517073631287
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            534.0,
+            379.0,
+            559.0
+          ],
+          "confidence": 0.9582645893096924
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            530.0,
+            610.0,
+            558.0
+          ],
+          "confidence": 0.9965059757232666
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        30.0,
+        561.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            30.0,
+            561.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9751823544502258
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        586.0,
+        167.0,
+        610.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            586.0,
+            167.0,
+            610.0
+          ],
+          "confidence": 0.9451558589935303
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹơn i tái khám: Th áu, 21/12/2018",
+      "bbox": [
+        29.0,
+        610.0,
+        318.0,
+        636.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹơn i tái khám: Th áu, 21/12/2018",
+          "bbox": [
+            29.0,
+            610.0,
+            318.0,
+            636.0
+          ],
+          "confidence": 0.8486312627792358
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/11/2018",
+      "bbox": [
+        483.0,
+        647.0,
+        626.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/11/2018",
+          "bbox": [
+            483.0,
+            647.0,
+            626.0,
+            672.0
+          ],
+          "confidence": 0.9713340401649475
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        663.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            663.0,
+            201.0,
+            691.0
+          ],
+          "confidence": 0.9996492862701416
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        455.0,
+        746.0,
+        640.0,
+        774.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            455.0,
+            746.0,
+            640.0,
+            774.0
+          ],
+          "confidence": 0.9250854253768921
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276700377464294
+        }
+      ]
+    },
+    {
+      "text": "27/12/2021 23:26:17",
+      "bbox": [
+        587.0,
+        845.0,
+        732.0,
+        865.0
+      ],
+      "words": [
+        {
+          "text": "27/12/2021 23:26:17",
+          "bbox": [
+            587.0,
+            845.0,
+            732.0,
+            865.0
+          ],
+          "confidence": 0.9987499713897705
+        }
+      ]
+    }
+  ]
+}

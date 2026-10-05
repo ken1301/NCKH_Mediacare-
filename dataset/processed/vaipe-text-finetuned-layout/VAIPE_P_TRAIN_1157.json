@@ -1,0 +1,618 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1157",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1157.png",
+  "text": "1/1 26 M sc người bnh\nSố phiếu 502/2019\nTOA THUỐC BHYT\nNa Nx\nĐệiị N chi\nThu o hiếhám y tế 35 35 207\nMạch: lần/phút Huyết áp: MMHg Thân hiệt C\nCộn lâm sàng:\nCânhn okngnả: /02 - V iêm ọng cđp (H81) Rối 1oMạn chức năng iên ĩinh\n1) XITORAN 0,5g SL: 20 Viên\nGhi chúK Uống Sáng 2 Viên Chiều 2 Viên\n2) HOẠT HUYT DNG NO 150mg 20mg SL: 20 Viên\nGhi chú Uống Sáng 2 Chiều 2\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 20/02/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSĐK. Nguyễn Thế Anh\nTi kh áhám Xin mmMnng th o ođn, nt nghinm phirhám (ônếu c)\n09/05/202109:31:58",
+  "lines": [
+    {
+      "text": "1/1 26 M sc người bnh",
+      "bbox": [
+        44.0,
+        5.0,
+        716.0,
+        72.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            44.0,
+            5.0,
+            162.0,
+            72.0
+          ],
+          "confidence": 0.9962566494941711
+        },
+        {
+          "text": "26",
+          "bbox": [
+            104.0,
+            26.0,
+            123.0,
+            53.0
+          ],
+          "confidence": 0.2958759069442749
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 502/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        524.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 502/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            524.0,
+            122.0
+          ],
+          "confidence": 0.976711630821228
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9830551147460938
+        }
+      ]
+    },
+    {
+      "text": "Na Nx",
+      "bbox": [
+        615.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Na Nx",
+          "bbox": [
+            615.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.7224327325820923
+        }
+      ]
+    },
+    {
+      "text": "Đệiị N chi",
+      "bbox": [
+        25.0,
+        180.0,
+        85.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệiị N chi",
+          "bbox": [
+            25.0,
+            180.0,
+            85.0,
+            203.0
+          ],
+          "confidence": 0.7460786700248718
+        }
+      ]
+    },
+    {
+      "text": "Thu o hiếhám y tế 35 35 207",
+      "bbox": [
+        24.0,
+        202.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu o hiếhám y tế",
+          "bbox": [
+            24.0,
+            202.0,
+            155.0,
+            228.0
+          ],
+          "confidence": 0.8241913914680481
+        },
+        {
+          "text": "35",
+          "bbox": [
+            295.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.999908983707428
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997485876083374
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9995951652526855
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân hiệt C",
+      "bbox": [
+        25.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9589642286300659
+        },
+        {
+          "text": "MMHg Thân hiệt",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8554104566574097
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okngnả: /02 - V iêm ọng cđp (H81) Rối 1oMạn chức năng iên ĩinh",
+      "bbox": [
+        27.0,
+        272.0,
+        503.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okngnả: /02 - V iêm ọng cđp (H81) Rối 1oMạn chức năng iên ĩinh",
+          "bbox": [
+            27.0,
+            272.0,
+            503.0,
+            292.0
+          ],
+          "confidence": 0.782861053943634
+        }
+      ]
+    },
+    {
+      "text": "1) XITORAN 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) XITORAN 0,5g",
+          "bbox": [
+            40.0,
+            380.0,
+            235.0,
+            415.0
+          ],
+          "confidence": 0.9488723874092102
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            103.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.802707850933075
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            411.0,
+            378.0,
+            436.0
+          ],
+          "confidence": 0.9802934527397156
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9879171252250671
+        }
+      ]
+    },
+    {
+      "text": "2) HOẠT HUYT DNG NO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) HOẠT HUYT DNG NO 150mg 20mg",
+          "bbox": [
+            36.0,
+            432.0,
+            506.0,
+            467.0
+          ],
+          "confidence": 0.9478681087493896
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9167513251304626
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Chiều 2",
+      "bbox": [
+        34.0,
+        462.0,
+        573.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.9423311948776245
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.90324866771698
+        },
+        {
+          "text": "Sáng 2",
+          "bbox": [
+            287.0,
+            464.0,
+            343.0,
+            489.0
+          ],
+          "confidence": 0.9942439198493958
+        },
+        {
+          "text": "Chiều 2",
+          "bbox": [
+            511.0,
+            462.0,
+            573.0,
+            488.0
+          ],
+          "confidence": 0.973258376121521
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.948065996170044
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9697772264480591
+        }
+      ]
+    },
+    {
+      "text": "Ngày 20/02/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 20/02/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9909999966621399
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BSĐK. Nguyễn Thế Anh",
+      "bbox": [
+        450.0,
+        679.0,
+        642.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "BSĐK. Nguyễn Thế Anh",
+          "bbox": [
+            450.0,
+            679.0,
+            642.0,
+            703.0
+          ],
+          "confidence": 0.9374092221260071
+        }
+      ]
+    },
+    {
+      "text": "Ti kh áhám Xin mmMnng th o ođn, nt nghinm phirhám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        414.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Ti kh áhám Xin mmMnng th o ođn, nt nghinm phirhám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            414.0,
+            757.0
+          ],
+          "confidence": 0.8007549047470093
+        }
+      ]
+    },
+    {
+      "text": "09/05/202109:31:58",
+      "bbox": [
+        588.0,
+        777.0,
+        731.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "09/05/202109:31:58",
+          "bbox": [
+            588.0,
+            777.0,
+            731.0,
+            794.0
+          ],
+          "confidence": 0.9982482194900513
+        }
+      ]
+    }
+  ]
+}

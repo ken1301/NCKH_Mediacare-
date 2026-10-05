@@ -1,0 +1,619 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_471",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_471.png",
+  "text": "1/1 MMH sỐ người bnh\nSố phiếu 159/2019\nTOA THUỐC BHYT\nNm x n2\nThu ặo h ếhám y tế CK 25 35 206\nMạch: lần/phút Huyết áp: / MmHg Thân nhiệt: c\nCận lâm sàng:\nCậhần okno: I10- Tăng huyến áp ô căn (nguyễn phát) (H81) Rci 1oạn chức năng iên ĩinh\n1) NIFEDIPIN HASAN 20 RETARD 20mg SL: 10 Viên\nGhi chú Uống\n2) PANACTOL 500mg SL: 10 Viên\nGhi chú Uống\n3) HOAT HUYHT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uốg:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 24/01/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n05/01/2022 12:36:42",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        85.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            122.0,
+            85.0
+          ],
+          "confidence": 0.999657928943634
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 159/2019",
+      "bbox": [
+        369.0,
+        107.0,
+        525.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 159/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            525.0,
+            138.0
+          ],
+          "confidence": 0.9774718284606934
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        510.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            510.0,
+            172.0
+          ],
+          "confidence": 0.9479468464851379
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 25 35 206",
+      "bbox": [
+        24.0,
+        219.0,
+        473.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 25",
+          "bbox": [
+            179.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.8210810422897339
+        },
+        {
+          "text": "35",
+          "bbox": [
+            359.0,
+            219.0,
+            396.0,
+            247.0
+          ],
+          "confidence": 0.9996837973594666
+        },
+        {
+          "text": "206",
+          "bbox": [
+            430.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9987580180168152
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MmHg Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            164.0,
+            245.0,
+            310.0,
+            274.0
+          ],
+          "confidence": 0.9635613560676575
+        },
+        {
+          "text": "/",
+          "bbox": [
+            372.0,
+            248.0,
+            393.0,
+            272.0
+          ],
+          "confidence": 0.9573152661323547
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            598.0,
+            274.0
+          ],
+          "confidence": 0.9620281457901001
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậhần okno: I10- Tăng huyến áp ô căn (nguyễn phát) (H81) Rci 1oạn chức năng iên ĩinh",
+      "bbox": [
+        26.0,
+        287.0,
+        642.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cậhần okno: I10- Tăng huyến áp ô căn (nguyễn phát) (H81) Rci 1oạn chức năng iên ĩinh",
+          "bbox": [
+            26.0,
+            287.0,
+            642.0,
+            312.0
+          ],
+          "confidence": 0.8315464854240417
+        }
+      ]
+    },
+    {
+      "text": "1) NIFEDIPIN HASAN 20 RETARD 20mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        399.0,
+        711.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) NIFEDIPIN HASAN 20 RETARD 20mg",
+          "bbox": [
+            40.0,
+            399.0,
+            458.0,
+            432.0
+          ],
+          "confidence": 0.9622191786766052
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            399.0,
+            711.0,
+            431.0
+          ],
+          "confidence": 0.9844018816947937
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        35.0,
+        448.0,
+        711.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            35.0,
+            448.0,
+            277.0,
+            487.0
+          ],
+          "confidence": 0.9339016675949097
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9407632946968079
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) HOAT HUYHT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        499.0,
+        711.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) HOAT HUYHT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            35.0,
+            499.0,
+            503.0,
+            539.0
+          ],
+          "confidence": 0.9386377334594727
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9476974606513977
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg:",
+      "bbox": [
+        32.0,
+        530.0,
+        165.0,
+        561.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            534.0,
+            95.0,
+            556.0
+          ],
+          "confidence": 0.9652646780014038
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            530.0,
+            165.0,
+            561.0
+          ],
+          "confidence": 0.8282371163368225
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        559.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            559.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9897149801254272
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9935133457183838
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 24/01/2019",
+      "bbox": [
+        482.0,
+        645.0,
+        625.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 24/01/2019",
+          "bbox": [
+            482.0,
+            645.0,
+            625.0,
+            672.0
+          ],
+          "confidence": 0.991544783115387
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            201.0,
+            692.0
+          ],
+          "confidence": 0.9732676148414612
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "bbox": [
+        470.0,
+        746.0,
+        624.0,
+        775.0
+      ],
+      "words": [
+        {
+          "text": "YS. Đào Thị Huyền",
+          "bbox": [
+            470.0,
+            746.0,
+            624.0,
+            775.0
+          ],
+          "confidence": 0.9311723709106445
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276700377464294
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 12:36:42",
+      "bbox": [
+        587.0,
+        845.0,
+        731.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 12:36:42",
+          "bbox": [
+            587.0,
+            845.0,
+            731.0,
+            866.0
+          ],
+          "confidence": 0.9490810036659241
+        }
+      ]
+    }
+  ]
+}

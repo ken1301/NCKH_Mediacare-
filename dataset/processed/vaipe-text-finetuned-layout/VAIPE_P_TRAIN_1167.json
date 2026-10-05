@@ -1,0 +1,771 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1167",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1167.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 214/2018\nTOA THUỐC BHYT\nNam x Nữ\nThu ặho h hám y tuế CCK 2 35 206 88380\nMạch: lần/phút Huyết áp: MmMHHg Ta â n hit: C\nCộn lâm sàng:\nCộềuhần okno:n520 - êm phế ịuin cấp\n1) CEFACYL 500 0,5g SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Tối 2 Viên\n2) BROMHEXIN ACTAVIS 8MG 8mg SL: 20 Viên\nGhi chúc Uống Sáng 2 Viên Tối 2 Viên\n3) MENISON 16MG 16mg SL: 10 Vi ên\nGhi chú Uống Sáng 1 Viên Tối 1 Viên\n4) COSYNDO B 175mg 4175mg4 125mcg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên Tối 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 23/01/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSĐK. Vũ Mạnh Lưu\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n10/05/2021 09:46:17",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        15.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            15.0,
+            122.0,
+            64.0
+          ],
+          "confidence": 0.9988344311714172
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 214/2018",
+      "bbox": [
+        370.0,
+        89.0,
+        525.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 214/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            525.0,
+            122.0
+          ],
+          "confidence": 0.9890612363815308
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9550060033798218
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặho h hám y tuế CCK 2 35 206 88380",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7746310830116272
+        },
+        {
+          "text": "CCK 2",
+          "bbox": [
+            183.0,
+            205.0,
+            267.0,
+            226.0
+          ],
+          "confidence": 0.8223263025283813
+        },
+        {
+          "text": "35",
+          "bbox": [
+            363.0,
+            205.0,
+            392.0,
+            226.0
+          ],
+          "confidence": 0.9997488260269165
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999820590019226
+        },
+        {
+          "text": "88380",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9922441244125366
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmMHHg Ta â n hit: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9589642286300659
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            505.0,
+            254.0
+          ],
+          "confidence": 0.7304987907409668
+        },
+        {
+          "text": "Ta â n hit:",
+          "bbox": [
+            514.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8296377658843994
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộềuhần okno:n520 - êm phế ịuin cấp",
+      "bbox": [
+        25.0,
+        268.0,
+        279.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cộềuhần okno:n520 - êm phế ịuin cấp",
+          "bbox": [
+            25.0,
+            268.0,
+            279.0,
+            294.0
+          ],
+          "confidence": 0.7561320662498474
+        }
+      ]
+    },
+    {
+      "text": "1) CEFACYL 500 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFACYL 500 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            275.0,
+            415.0
+          ],
+          "confidence": 0.9389925599098206
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9694065451622009
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        705.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            95.0,
+            435.0
+          ],
+          "confidence": 0.8860936760902405
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.7705122232437134
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9096157550811768
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            621.0,
+            409.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.9963922500610352
+        }
+      ]
+    },
+    {
+      "text": "2) BROMHEXIN ACTAVIS 8MG 8mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        430.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) BROMHEXIN ACTAVIS 8MG 8mg",
+          "bbox": [
+            36.0,
+            430.0,
+            426.0,
+            468.0
+          ],
+          "confidence": 0.953350841999054
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9167513251304626
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        34.0,
+        463.0,
+        706.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8480509519577026
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9865562319755554
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            623.0,
+            463.0,
+            706.0,
+            487.0
+          ],
+          "confidence": 0.9937646985054016
+        }
+      ]
+    },
+    {
+      "text": "3) MENISON 16MG 16mg SL: 10 Vi ên",
+      "bbox": [
+        36.0,
+        484.0,
+        709.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) MENISON 16MG 16mg",
+          "bbox": [
+            36.0,
+            484.0,
+            313.0,
+            519.0
+          ],
+          "confidence": 0.9469609260559082
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            487.0,
+            709.0,
+            515.0
+          ],
+          "confidence": 0.9671938419342041
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        34.0,
+        514.0,
+        705.0,
+        541.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            517.0,
+            94.0,
+            538.0
+          ],
+          "confidence": 0.837203860282898
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            515.0,
+            164.0,
+            541.0
+          ],
+          "confidence": 0.9634959697723389
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            516.0,
+            377.0,
+            540.0
+          ],
+          "confidence": 0.9915401935577393
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            514.0,
+            705.0,
+            540.0
+          ],
+          "confidence": 0.9957371950149536
+        }
+      ]
+    },
+    {
+      "text": "4) COSYNDO B 175mg 4175mg4 125mcg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        537.0,
+        709.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "4) COSYNDO B 175mg 4175mg4 125mcg",
+          "bbox": [
+            38.0,
+            537.0,
+            453.0,
+            572.0
+          ],
+          "confidence": 0.8889997601509094
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            539.0,
+            709.0,
+            567.0
+          ],
+          "confidence": 0.9994485378265381
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        34.0,
+        566.0,
+        704.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.767109215259552
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            566.0,
+            378.0,
+            593.0
+          ],
+          "confidence": 0.9973304271697998
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            623.0,
+            566.0,
+            704.0,
+            592.0
+          ],
+          "confidence": 0.9660685658454895
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9502821564674377
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.9819413423538208
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        648.0,
+        168.0,
+        670.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            648.0,
+            168.0,
+            670.0
+          ],
+          "confidence": 0.9629708528518677
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/01/2018",
+      "bbox": [
+        484.0,
+        684.0,
+        623.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/01/2018",
+          "bbox": [
+            484.0,
+            684.0,
+            623.0,
+            705.0
+          ],
+          "confidence": 0.9469265341758728
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        702.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            702.0,
+            199.0,
+            723.0
+          ],
+          "confidence": 0.9607533812522888
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9960330128669739
+        }
+      ]
+    },
+    {
+      "text": "BSĐK. Vũ Mạnh Lưu",
+      "bbox": [
+        461.0,
+        782.0,
+        633.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "BSĐK. Vũ Mạnh Lưu",
+          "bbox": [
+            461.0,
+            782.0,
+            633.0,
+            809.0
+          ],
+          "confidence": 0.9629648923873901
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        839.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            839.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.8488335013389587
+        }
+      ]
+    },
+    {
+      "text": "10/05/2021 09:46:17",
+      "bbox": [
+        588.0,
+        880.0,
+        731.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "10/05/2021 09:46:17",
+          "bbox": [
+            588.0,
+            880.0,
+            731.0,
+            900.0
+          ],
+          "confidence": 0.9996092915534973
+        }
+      ]
+    }
+  ]
+}

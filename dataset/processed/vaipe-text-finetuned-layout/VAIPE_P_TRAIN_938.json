@@ -1,0 +1,556 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_938",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_938.png",
+  "text": "M sc người bnh\nKhoa Khám bệnh\nPK Số 4 [Sản] Số phiếu 22144/2021\nTOA THỐC T C  H BHYT\nNamx\nThu ặo h ếhám y tế DN 4 35 35 150\nMạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCộnuhcấn Okng: N76 - Cộn i hám ác côaạ m Mạo Và m hn\n1) FABAMOX 500 500mg SL: 10 Viên\nGhi chú Uống Chiều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/04/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Vũ Thị Hiên\nTái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)\n06/05/2021 10:42:49",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        26.0,
+        57.0,
+        151.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            26.0,
+            57.0,
+            151.0,
+            78.0
+          ],
+          "confidence": 0.9821143746376038
+        }
+      ]
+    },
+    {
+      "text": "PK Số 4 [Sản] Số phiếu 22144/2021",
+      "bbox": [
+        23.0,
+        84.0,
+        544.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 4 [Sản]",
+          "bbox": [
+            23.0,
+            84.0,
+            131.0,
+            116.0
+          ],
+          "confidence": 0.9243372678756714
+        },
+        {
+          "text": "Số phiếu 22144/2021",
+          "bbox": [
+            370.0,
+            89.0,
+            544.0,
+            122.0
+          ],
+          "confidence": 0.9697598814964294
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC T C  H BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC T C  H BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8032464981079102
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        616.0,
+        147.0,
+        740.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            616.0,
+            147.0,
+            740.0,
+            182.0
+          ],
+          "confidence": 0.7627466320991516
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế DN 4 35 35 150",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "DN",
+          "bbox": [
+            181.0,
+            203.0,
+            224.0,
+            226.0
+          ],
+          "confidence": 0.9988265037536621
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            205.0,
+            268.0,
+            226.0
+          ],
+          "confidence": 0.5884009003639221
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "150",
+          "bbox": [
+            433.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.8638237118721008
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / MmMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9632040858268738
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            252.0
+          ],
+          "confidence": 0.9859391450881958
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            517.0,
+            254.0
+          ],
+          "confidence": 0.8726142048835754
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộnuhcấn Okng: N76 - Cộn i hám ác côaạ m Mạo Và m hn",
+      "bbox": [
+        25.0,
+        271.0,
+        401.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cộnuhcấn Okng: N76 - Cộn i hám ác côaạ m Mạo Và m hn",
+          "bbox": [
+            25.0,
+            271.0,
+            401.0,
+            293.0
+          ],
+          "confidence": 0.7372755408287048
+        }
+      ]
+    },
+    {
+      "text": "1) FABAMOX 500 500mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) FABAMOX 500 500mg",
+          "bbox": [
+            40.0,
+            379.0,
+            307.0,
+            415.0
+          ],
+          "confidence": 0.973555862903595
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            409.0,
+            164.0,
+            439.0
+          ],
+          "confidence": 0.912422776222229
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            437.0
+          ],
+          "confidence": 0.9988322257995605
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9306565523147583
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9562608003616333
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 13/04/2021",
+      "bbox": [
+        483.0,
+        523.0,
+        623.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 13/04/2021",
+          "bbox": [
+            483.0,
+            523.0,
+            623.0,
+            549.0
+          ],
+          "confidence": 0.9847597479820251
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. Vũ Thị Hiên",
+      "bbox": [
+        480.0,
+        625.0,
+        614.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Vũ Thị Hiên",
+          "bbox": [
+            480.0,
+            625.0,
+            614.0,
+            652.0
+          ],
+          "confidence": 0.9274269342422485
+        }
+      ]
+    },
+    {
+      "text": "Tái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.7893362641334534
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 10:42:49",
+      "bbox": [
+        587.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 10:42:49",
+          "bbox": [
+            587.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9901465177536011
+        }
+      ]
+    }
+  ]
+}

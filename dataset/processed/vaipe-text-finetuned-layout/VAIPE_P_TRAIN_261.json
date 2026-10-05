@@ -1,0 +1,567 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_261",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_261.png",
+  "text": "1/1 MH sỐ người xbệnh\nLHANG\nSố phiếu 497/2019\nTOAOHA C THU C BH YBHT\nNamx\nThu ặo h ếhám y tế CN 35 35 207 50985\nMạch: lần/phút Huyết áp: MMHg Thân nhi C\nCận lâm sà ng:\nCânhắn oknả: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (G461) Hni chứng mạch máu não trong bệnh\nmmạch nâo (160-1677)\n1) HOẠAT HUYT DNNG NÃO 150mg 20mg SL: 40 Viên\nGhi chú ốn Uống Sáng 4 Chiều 4\nCộnng k okhn: 1 kokho\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/02/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTáiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)\n04/05/2021 20:03:33",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        48.0,
+        15.0,
+        715.0,
+        66.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            122.0,
+            66.0
+          ],
+          "confidence": 0.9997780919075012
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        151.0,
+        53.0,
+        211.0,
+        77.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            151.0,
+            53.0,
+            211.0,
+            77.0
+          ],
+          "confidence": 0.9480034708976746
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 497/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        524.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 497/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            524.0,
+            121.0
+          ],
+          "confidence": 0.9890350103378296
+        }
+      ]
+    },
+    {
+      "text": "TOAOHA C THU C BH YBHT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOAOHA C THU C BH YBHT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.7685143947601318
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CN 35 35 207 50985",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CN",
+          "bbox": [
+            183.0,
+            203.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.7836483716964722
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999125003814697
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9996578097343445
+        },
+        {
+          "text": "50985",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9987646341323853
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhi C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9723103046417236
+        },
+        {
+          "text": "MMHg Thân nhi",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.930378794670105
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sà ng:",
+      "bbox": [
+        24.0,
+        250.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sà ng:",
+          "bbox": [
+            24.0,
+            250.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.9369421005249023
+        }
+      ]
+    },
+    {
+      "text": "Cânhắn oknả: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (G461) Hni chứng mạch máu não trong bệnh",
+      "bbox": [
+        25.0,
+        271.0,
+        706.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhắn oknả: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (G461) Hni chứng mạch máu não trong bệnh",
+          "bbox": [
+            25.0,
+            271.0,
+            706.0,
+            294.0
+          ],
+          "confidence": 0.8287961483001709
+        }
+      ]
+    },
+    {
+      "text": "mmạch nâo (160-1677)",
+      "bbox": [
+        24.0,
+        289.0,
+        172.0,
+        315.0
+      ],
+      "words": [
+        {
+          "text": "mmạch nâo (160-1677)",
+          "bbox": [
+            24.0,
+            289.0,
+            172.0,
+            315.0
+          ],
+          "confidence": 0.9386342167854309
+        }
+      ]
+    },
+    {
+      "text": "1) HOẠAT HUYT DNNG NÃO 150mg 20mg SL: 40 Viên",
+      "bbox": [
+        41.0,
+        377.0,
+        709.0,
+        414.0
+      ],
+      "words": [
+        {
+          "text": "1) HOẠAT HUYT DNNG NÃO 150mg 20mg",
+          "bbox": [
+            41.0,
+            377.0,
+            505.0,
+            414.0
+          ],
+          "confidence": 0.8692644238471985
+        },
+        {
+          "text": "SL: 40 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9991589188575745
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú ốn Uống Sáng 4 Chiều 4",
+      "bbox": [
+        34.0,
+        409.0,
+        572.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú ốn",
+          "bbox": [
+            34.0,
+            412.0,
+            114.0,
+            434.0
+          ],
+          "confidence": 0.849676787853241
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            103.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.9424306154251099
+        },
+        {
+          "text": "Sáng 4",
+          "bbox": [
+            285.0,
+            410.0,
+            345.0,
+            439.0
+          ],
+          "confidence": 0.9985887408256531
+        },
+        {
+          "text": "Chiều 4",
+          "bbox": [
+            510.0,
+            409.0,
+            572.0,
+            436.0
+          ],
+          "confidence": 0.9963318705558777
+        }
+      ]
+    },
+    {
+      "text": "Cộnng k okhn: 1 kokho",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộnng k okhn: 1 kokho",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.7492815852165222
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9552252292633057
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 19/02/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 19/02/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9907352924346924
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        614.0,
+        576.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.983154296875
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            554.0,
+            614.0,
+            576.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        463.0,
+        627.0,
+        631.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            463.0,
+            627.0,
+            631.0,
+            652.0
+          ],
+          "confidence": 0.9218758940696716
+        }
+      ]
+    },
+    {
+      "text": "Táiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Táiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.7872094511985779
+        }
+      ]
+    },
+    {
+      "text": "04/05/2021 20:03:33",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "04/05/2021 20:03:33",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.999091625213623
+        }
+      ]
+    }
+  ]
+}

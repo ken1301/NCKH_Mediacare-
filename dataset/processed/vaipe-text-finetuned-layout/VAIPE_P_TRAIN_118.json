@@ -1,0 +1,638 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_118",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_118.png",
+  "text": "M sc người bnh\nKhoa Khám bệnh\nPK Số 5.1 [TĐ] Số phiếu 39691/2018\nTOA THUỐC BHYT\nNamx\nThu ặho h hám y tuế GB 4 35 35 206\nMạch: lần/phút Huyết áp: 25 mMHHg T Thâ n hit: C\nCânln 1sn gsàng: Định 1ương G1uCcOSgố [MMáun\nCânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả\n1) MEGLUCON TAB 850MG 3X10S 850mg SL: 60 Viên\nGhu chúốn Uống Sau hi ăn: Sáng 1 Viên Tối 1 Viên\n2) GLUZITOP MR 60 60mg SL: 30 Viên\nGhi chúc Uống áau kh ặn: Sáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơ thuốc: 0\nNgày hẹn hámn: Thứ áu 03/08/2018\nNgày 04/07/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTáiái kh áKhám Xin Mmang th o ođm, Xkn nghinệm phiram (rnếu co)\n21/05/2021 17:07:23",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        26.0,
+        57.0,
+        151.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            26.0,
+            57.0,
+            151.0,
+            78.0
+          ],
+          "confidence": 0.9818729758262634
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 39691/2018",
+      "bbox": [
+        23.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            84.0,
+            140.0,
+            116.0
+          ],
+          "confidence": 0.9745019674301147
+        },
+        {
+          "text": "Số phiếu 39691/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9798392057418823
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9423327445983887
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        740.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            740.0,
+            184.0
+          ],
+          "confidence": 0.929460346698761
+        }
+      ]
+    },
+    {
+      "text": "Thu ặho h hám y tuế GB 4 35 35 206",
+      "bbox": [
+        26.0,
+        204.0,
+        471.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7847933769226074
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            185.0,
+            205.0,
+            218.0,
+            225.0
+          ],
+          "confidence": 0.9990787506103516
+        },
+        {
+          "text": "4",
+          "bbox": [
+            247.0,
+            208.0,
+            268.0,
+            224.0
+          ],
+          "confidence": 0.8945649862289429
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            206.0,
+            325.0,
+            226.0
+          ],
+          "confidence": 0.9999005198478699
+        },
+        {
+          "text": "35",
+          "bbox": [
+            363.0,
+            205.0,
+            392.0,
+            226.0
+          ],
+          "confidence": 0.9997488260269165
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999820590019226
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 25 mMHHg T Thâ n hit: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            310.0,
+            254.0
+          ],
+          "confidence": 0.9704062938690186
+        },
+        {
+          "text": "25",
+          "bbox": [
+            375.0,
+            231.0,
+            390.0,
+            251.0
+          ],
+          "confidence": 0.4857156276702881
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            232.0,
+            516.0,
+            253.0
+          ],
+          "confidence": 0.8641647100448608
+        },
+        {
+          "text": "T Thâ n hit:",
+          "bbox": [
+            510.0,
+            231.0,
+            595.0,
+            255.0
+          ],
+          "confidence": 0.8736618161201477
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cânln 1sn gsàng: Định 1ương G1uCcOSgố [MMáun",
+      "bbox": [
+        26.0,
+        253.0,
+        317.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Cânln 1sn gsàng: Định 1ương G1uCcOSgố [MMáun",
+          "bbox": [
+            26.0,
+            253.0,
+            317.0,
+            274.0
+          ],
+          "confidence": 0.8083193302154541
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+      "bbox": [
+        27.0,
+        273.0,
+        460.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+          "bbox": [
+            27.0,
+            273.0,
+            460.0,
+            293.0
+          ],
+          "confidence": 0.7796816229820251
+        }
+      ]
+    },
+    {
+      "text": "1) MEGLUCON TAB 850MG 3X10S 850mg SL: 60 Viên",
+      "bbox": [
+        43.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) MEGLUCON TAB 850MG 3X10S 850mg",
+          "bbox": [
+            43.0,
+            381.0,
+            479.0,
+            413.0
+          ],
+          "confidence": 0.930789589881897
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.969814658164978
+        }
+      ]
+    },
+    {
+      "text": "Ghu chúốn Uống Sau hi ăn: Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        705.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghu chúốn",
+          "bbox": [
+            34.0,
+            414.0,
+            111.0,
+            433.0
+          ],
+          "confidence": 0.7846359014511108
+        },
+        {
+          "text": "Uống Sau hi ăn:",
+          "bbox": [
+            107.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.8260429501533508
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9991088509559631
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            409.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.9955239295959473
+        }
+      ]
+    },
+    {
+      "text": "2) GLUZITOP MR 60 60mg SL: 30 Viên",
+      "bbox": [
+        36.0,
+        430.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) GLUZITOP MR 60 60mg",
+          "bbox": [
+            36.0,
+            430.0,
+            326.0,
+            467.0
+          ],
+          "confidence": 0.9636557102203369
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9961348176002502
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống áau kh ặn: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        464.0,
+        378.0,
+        488.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống áau kh ặn:",
+          "bbox": [
+            107.0,
+            465.0,
+            235.0,
+            486.0
+          ],
+          "confidence": 0.8416075110435486
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.9924852848052979
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        198.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            198.0,
+            515.0
+          ],
+          "confidence": 0.8990882039070129
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ thuốc: 0",
+      "bbox": [
+        32.0,
+        518.0,
+        189.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ thuốc: 0",
+          "bbox": [
+            32.0,
+            518.0,
+            189.0,
+            539.0
+          ],
+          "confidence": 0.9105522036552429
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn hámn: Thứ áu 03/08/2018",
+      "bbox": [
+        31.0,
+        541.0,
+        318.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn hámn: Thứ áu 03/08/2018",
+          "bbox": [
+            31.0,
+            541.0,
+            318.0,
+            566.0
+          ],
+          "confidence": 0.8806809186935425
+        }
+      ]
+    },
+    {
+      "text": "Ngày 04/07/2018",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 04/07/2018",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9936733841896057
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        614.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            605.0,
+            614.0,
+            629.0
+          ],
+          "confidence": 0.9946459531784058
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        458.0,
+        679.0,
+        633.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            458.0,
+            679.0,
+            633.0,
+            705.0
+          ],
+          "confidence": 0.944571316242218
+        }
+      ]
+    },
+    {
+      "text": "Táiái kh áKhám Xin Mmang th o ođm, Xkn nghinệm phiram (rnếu co)",
+      "bbox": [
+        34.0,
+        737.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kh áKhám Xin Mmang th o ođm, Xkn nghinệm phiram (rnếu co)",
+          "bbox": [
+            34.0,
+            737.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.7613749504089355
+        }
+      ]
+    },
+    {
+      "text": "21/05/2021 17:07:23",
+      "bbox": [
+        588.0,
+        777.0,
+        730.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "21/05/2021 17:07:23",
+          "bbox": [
+            588.0,
+            777.0,
+            730.0,
+            794.0
+          ],
+          "confidence": 0.9784002900123596
+        }
+      ]
+    }
+  ]
+}

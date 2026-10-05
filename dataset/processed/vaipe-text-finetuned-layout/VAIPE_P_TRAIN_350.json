@@ -1,0 +1,650 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_350",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_350.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 2 [Nội] Số phiếu 78767/2018\nTOA THAC  BHYT\nNm 2N\nThuh ko h hám y ềuế HT 3 960 09913\nMạch: lần/phút Huyết áp: MMHg Thân nhiệ\nCn 1sm ásàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu), Định đương Cho1SI rưo1\ntuoàn phần (máu), Định 1ưng GlucOS [MMáun) Định đương HDL-C (High dnSiựuy lịpoprAOựtin ChocS rưo1)\n([MMáu) Định 1ương Triguycơrid (mku) [MM áu)\nCậnhần oknoả: E78 - Ri 1otạhn chuyến hoká ipoprOutin Ià tnh tr ạng tăng lipi máu khác (E11) TD nh ĩái\ntháo ĩường không phu thunc inSuhinm (Ký76) Bnh gann khác\n1) LIVONIC 2500mg 400mg +500mg 485mg SL: 20 Viên\nGhi chú Uống Sáng 1 Viên Chiều 1 Viên\n2) LENINARTO 10 10mg SL: 10 Viên\nGhi chú Uốg: Tối 1 Viên\nCộng khản 2 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)\n01/01/2022 15:16:26",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        51.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9944257140159607
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 78767/2018",
+      "bbox": [
+        23.0,
+        101.0,
+        548.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            101.0,
+            131.0,
+            133.0
+          ],
+          "confidence": 0.9528663158416748
+        },
+        {
+          "text": "Số phiếu 78767/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            548.0,
+            139.0
+          ],
+          "confidence": 0.989391028881073
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC  BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        507.0,
+        169.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC  BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            507.0,
+            169.0
+          ],
+          "confidence": 0.8890066742897034
+        }
+      ]
+    },
+    {
+      "text": "Nm 2N",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm 2N",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.6196097731590271
+        }
+      ]
+    },
+    {
+      "text": "Thuh ko h hám y ềuế HT 3 960 09913",
+      "bbox": [
+        25.0,
+        219.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thuh ko h hám y ềuế",
+          "bbox": [
+            25.0,
+            223.0,
+            155.0,
+            244.0
+          ],
+          "confidence": 0.7186896204948425
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            181.0,
+            219.0,
+            233.0,
+            247.0
+          ],
+          "confidence": 0.9975094795227051
+        },
+        {
+          "text": "3",
+          "bbox": [
+            238.0,
+            223.0,
+            269.0,
+            244.0
+          ],
+          "confidence": 0.9997758269309998
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            222.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9996899962425232
+        },
+        {
+          "text": "09913",
+          "bbox": [
+            507.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9001227617263794
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệ",
+      "bbox": [
+        24.0,
+        246.0,
+        596.0,
+        272.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            249.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.9869147539138794
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            246.0,
+            308.0,
+            272.0
+          ],
+          "confidence": 0.9741938710212708
+        },
+        {
+          "text": "MMHg Thân nhiệ",
+          "bbox": [
+            450.0,
+            250.0,
+            596.0,
+            271.0
+          ],
+          "confidence": 0.8331155776977539
+        }
+      ]
+    },
+    {
+      "text": "Cn 1sm ásàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu), Định đương Cho1SI rưo1",
+      "bbox": [
+        24.0,
+        270.0,
+        720.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cn 1sm ásàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu), Định đương Cho1SI rưo1",
+          "bbox": [
+            24.0,
+            270.0,
+            720.0,
+            293.0
+          ],
+          "confidence": 0.8385291695594788
+        }
+      ]
+    },
+    {
+      "text": "tuoàn phần (máu), Định 1ưng GlucOS [MMáun) Định đương HDL-C (High dnSiựuy lịpoprAOựtin ChocS rưo1)",
+      "bbox": [
+        25.0,
+        290.0,
+        734.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "tuoàn phần (máu), Định 1ưng GlucOS [MMáun) Định đương HDL-C (High dnSiựuy lịpoprAOựtin ChocS rưo1)",
+          "bbox": [
+            25.0,
+            290.0,
+            734.0,
+            314.0
+          ],
+          "confidence": 0.798444390296936
+        }
+      ]
+    },
+    {
+      "text": "([MMáu) Định 1ương Triguycơrid (mku) [MM áu)",
+      "bbox": [
+        27.0,
+        311.0,
+        333.0,
+        331.0
+      ],
+      "words": [
+        {
+          "text": "([MMáu) Định 1ương Triguycơrid (mku) [MM áu)",
+          "bbox": [
+            27.0,
+            311.0,
+            333.0,
+            331.0
+          ],
+          "confidence": 0.8087396025657654
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần oknoả: E78 - Ri 1otạhn chuyến hoká ipoprOutin Ià tnh tr ạng tăng lipi máu khác (E11) TD nh ĩái",
+      "bbox": [
+        26.0,
+        329.0,
+        737.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần oknoả: E78 - Ri 1otạhn chuyến hoká ipoprOutin Ià tnh tr ạng tăng lipi máu khác (E11) TD nh ĩái",
+          "bbox": [
+            26.0,
+            329.0,
+            737.0,
+            352.0
+          ],
+          "confidence": 0.8145989775657654
+        }
+      ]
+    },
+    {
+      "text": "tháo ĩường không phu thunc inSuhinm (Ký76) Bnh gann khác",
+      "bbox": [
+        25.0,
+        348.0,
+        427.0,
+        370.0
+      ],
+      "words": [
+        {
+          "text": "tháo ĩường không phu thunc inSuhinm (Ký76) Bnh gann khác",
+          "bbox": [
+            25.0,
+            348.0,
+            427.0,
+            370.0
+          ],
+          "confidence": 0.8701421022415161
+        }
+      ]
+    },
+    {
+      "text": "1) LIVONIC 2500mg 400mg +500mg 485mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        438.0,
+        710.0,
+        472.0
+      ],
+      "words": [
+        {
+          "text": "1) LIVONIC 2500mg 400mg +500mg 485mg",
+          "bbox": [
+            41.0,
+            438.0,
+            488.0,
+            472.0
+          ],
+          "confidence": 0.9475340247154236
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            438.0,
+            710.0,
+            469.0
+          ],
+          "confidence": 0.9988815784454346
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        467.0,
+        611.0,
+        495.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            470.0,
+            96.0,
+            491.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            467.0,
+            164.0,
+            495.0
+          ],
+          "confidence": 0.8240070343017578
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            468.0,
+            378.0,
+            494.0
+          ],
+          "confidence": 0.9814435839653015
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            468.0,
+            611.0,
+            492.0
+          ],
+          "confidence": 0.9998590350151062
+        }
+      ]
+    },
+    {
+      "text": "2) LENINARTO 10 10mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        488.0,
+        710.0,
+        525.0
+      ],
+      "words": [
+        {
+          "text": "2) LENINARTO 10 10mg",
+          "bbox": [
+            37.0,
+            488.0,
+            302.0,
+            525.0
+          ],
+          "confidence": 0.9490817785263062
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            492.0,
+            710.0,
+            520.0
+          ],
+          "confidence": 0.9545738697052002
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg: Tối 1 Viên",
+      "bbox": [
+        33.0,
+        517.0,
+        705.0,
+        548.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            521.0,
+            98.0,
+            544.0
+          ],
+          "confidence": 0.8520937561988831
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            518.0,
+            166.0,
+            548.0
+          ],
+          "confidence": 0.7524337768554688
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            619.0,
+            517.0,
+            705.0,
+            546.0
+          ],
+          "confidence": 0.9769892692565918
+        }
+      ]
+    },
+    {
+      "text": "Cộng khản 2 khon",
+      "bbox": [
+        32.0,
+        551.0,
+        199.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khản 2 khon",
+          "bbox": [
+            32.0,
+            551.0,
+            199.0,
+            572.0
+          ],
+          "confidence": 0.9095660448074341
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        574.0,
+        166.0,
+        598.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            574.0,
+            166.0,
+            598.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        601.0,
+        169.0,
+        622.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            601.0,
+            169.0,
+            622.0
+          ],
+          "confidence": 0.9550797939300537
+        }
+      ]
+    },
+    {
+      "text": "Ngày 19/12/2018",
+      "bbox": [
+        483.0,
+        632.0,
+        625.0,
+        659.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 19/12/2018",
+          "bbox": [
+            483.0,
+            632.0,
+            625.0,
+            659.0
+          ],
+          "confidence": 0.9743282794952393
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        651.0,
+        615.0,
+        686.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            651.0,
+            201.0,
+            678.0
+          ],
+          "confidence": 0.9667296409606934
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            662.0,
+            615.0,
+            686.0
+          ],
+          "confidence": 0.9849533438682556
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        472.0,
+        734.0,
+        622.0,
+        761.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            472.0,
+            734.0,
+            622.0,
+            761.0
+          ],
+          "confidence": 0.966690182685852
+        }
+      ]
+    },
+    {
+      "text": "Tá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)",
+      "bbox": [
+        32.0,
+        792.0,
+        415.0,
+        815.0
+      ],
+      "words": [
+        {
+          "text": "Tá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)",
+          "bbox": [
+            32.0,
+            792.0,
+            415.0,
+            815.0
+          ],
+          "confidence": 0.8132336735725403
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 15:16:26",
+      "bbox": [
+        587.0,
+        832.0,
+        732.0,
+        852.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 15:16:26",
+          "bbox": [
+            587.0,
+            832.0,
+            732.0,
+            852.0
+          ],
+          "confidence": 0.9964768290519714
+        }
+      ]
+    }
+  ]
+}

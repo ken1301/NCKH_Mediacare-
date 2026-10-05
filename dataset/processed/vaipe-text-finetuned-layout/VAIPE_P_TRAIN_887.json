@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_887",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_887.png",
+  "text": "MS số người bệnh\nKhoa Khám bệnh\nBệốc khám nội Số phiếu 718/2022\nTOA THỐC BHYT\nNam x ữ2\nTh bặo hiêhm y t BT 35 35 206 12069\nMạch: 82 lần/phút Huyết áp: 140 mHHg T h â n hiệt 37n C\nCộn lâm sàngng:\nCâềnhn ngn: I10 - nh 1s ăng h uyến áp\n1) HANGITOR PLUS 40mg412, 5mg SL: 34 viên\nGhi chú uống: Sáng 1 viên\nCộng khoả: 1 khoậ\nLời dặn đ thn ốc: TA Ht 07/02/2022\nNgày hẹ tái khám:\nNgày 05/01/2022\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Thị Bích Thủy\nTáiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)\n05/01/2022 22:45:03",
+  "lines": [
+    {
+      "text": "MS số người bệnh",
+      "bbox": [
+        895.0,
+        42.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS số người bệnh",
+          "bbox": [
+            895.0,
+            42.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.8516242504119873
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        35.0,
+        98.0,
+        220.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            35.0,
+            98.0,
+            220.0,
+            129.0
+          ],
+          "confidence": 0.9340782761573792
+        }
+      ]
+    },
+    {
+      "text": "Bệốc khám nội Số phiếu 718/2022",
+      "bbox": [
+        34.0,
+        144.0,
+        781.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc khám nội",
+          "bbox": [
+            34.0,
+            144.0,
+            191.0,
+            182.0
+          ],
+          "confidence": 0.9441325068473816
+        },
+        {
+          "text": "Số phiếu 718/2022",
+          "bbox": [
+            551.0,
+            150.0,
+            781.0,
+            192.0
+          ],
+          "confidence": 0.9455479979515076
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        384.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            384.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8568419218063354
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1100.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1100.0,
+            282.0
+          ],
+          "confidence": 0.8793792724609375
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiêhm y t BT 35 35 206 12069",
+      "bbox": [
+        35.0,
+        317.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiêhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7792321443557739
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            270.0,
+            318.0,
+            322.0,
+            353.0
+          ],
+          "confidence": 0.8906950950622559
+        },
+        {
+          "text": "35",
+          "bbox": [
+            440.0,
+            318.0,
+            485.0,
+            352.0
+          ],
+          "confidence": 0.8916524648666382
+        },
+        {
+          "text": "35",
+          "bbox": [
+            540.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9999237656593323
+        },
+        {
+          "text": "206",
+          "bbox": [
+            645.0,
+            317.0,
+            701.0,
+            352.0
+          ],
+          "confidence": 0.8602321743965149
+        },
+        {
+          "text": "12069",
+          "bbox": [
+            760.0,
+            318.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.9988951683044434
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 82 lần/phút Huyết áp: 140 mHHg T h â n hiệt 37n C",
+      "bbox": [
+        33.0,
+        346.0,
+        1018.0,
+        396.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 82",
+          "bbox": [
+            33.0,
+            357.0,
+            167.0,
+            392.0
+          ],
+          "confidence": 0.9223446249961853
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            458.0,
+            393.0
+          ],
+          "confidence": 0.9740771055221558
+        },
+        {
+          "text": "140",
+          "bbox": [
+            491.0,
+            358.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9310286045074463
+        },
+        {
+          "text": "mHHg",
+          "bbox": [
+            672.0,
+            360.0,
+            753.0,
+            391.0
+          ],
+          "confidence": 0.9051772356033325
+        },
+        {
+          "text": "T h â n hiệt 37n",
+          "bbox": [
+            762.0,
+            358.0,
+            935.0,
+            391.0
+          ],
+          "confidence": 0.8378582000732422
+        },
+        {
+          "text": "C",
+          "bbox": [
+            960.0,
+            346.0,
+            1018.0,
+            396.0
+          ],
+          "confidence": 0.4192139208316803
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàngng:",
+      "bbox": [
+        35.0,
+        391.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàngng:",
+          "bbox": [
+            35.0,
+            391.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.8159593939781189
+        }
+      ]
+    },
+    {
+      "text": "Câềnhn ngn: I10 - nh 1s ăng h uyến áp",
+      "bbox": [
+        35.0,
+        418.0,
+        437.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhn ngn: I10 - nh 1s ăng h uyến áp",
+          "bbox": [
+            35.0,
+            418.0,
+            437.0,
+            453.0
+          ],
+          "confidence": 0.737587034702301
+        }
+      ]
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg412, 5mg SL: 34 viên",
+      "bbox": [
+        62.0,
+        587.0,
+        1049.0,
+        631.0
+      ],
+      "words": [
+        {
+          "text": "1) HANGITOR PLUS 40mg412, 5mg",
+          "bbox": [
+            62.0,
+            588.0,
+            595.0,
+            631.0
+          ],
+          "confidence": 0.884779155254364
+        },
+        {
+          "text": "SL: 34 viên",
+          "bbox": [
+            884.0,
+            587.0,
+            1049.0,
+            627.0
+          ],
+          "confidence": 0.9835352301597595
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 viên",
+      "bbox": [
+        43.0,
+        623.0,
+        556.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            43.0,
+            623.0,
+            244.0,
+            667.0
+          ],
+          "confidence": 0.9059943556785583
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            429.0,
+            632.0,
+            556.0,
+            663.0
+          ],
+          "confidence": 0.9863094091415405
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoậ",
+      "bbox": [
+        43.0,
+        673.0,
+        293.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoậ",
+          "bbox": [
+            43.0,
+            673.0,
+            293.0,
+            706.0
+          ],
+          "confidence": 0.9109737873077393
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đ thn ốc: TA Ht 07/02/2022",
+      "bbox": [
+        42.0,
+        710.0,
+        506.0,
+        740.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đ thn ốc: TA Ht 07/02/2022",
+          "bbox": [
+            42.0,
+            710.0,
+            506.0,
+            740.0
+          ],
+          "confidence": 0.870921790599823
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹ tái khám:",
+      "bbox": [
+        44.0,
+        752.0,
+        246.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹ tái khám:",
+          "bbox": [
+            44.0,
+            752.0,
+            246.0,
+            780.0
+          ],
+          "confidence": 0.7946850657463074
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/01/2022",
+      "bbox": [
+        721.0,
+        801.0,
+        929.0,
+        835.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/01/2022",
+          "bbox": [
+            721.0,
+            801.0,
+            929.0,
+            835.0
+          ],
+          "confidence": 0.9726625680923462
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        828.0,
+        914.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            91.0,
+            828.0,
+            293.0,
+            862.0
+          ],
+          "confidence": 0.9274598360061646
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            914.0,
+            874.0
+          ],
+          "confidence": 0.9422031044960022
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "bbox": [
+        678.0,
+        951.0,
+        952.0,
+        990.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Thị Bích Thủy",
+          "bbox": [
+            678.0,
+            951.0,
+            952.0,
+            990.0
+          ],
+          "confidence": 0.9171845316886902
+        }
+      ]
+    },
+    {
+      "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+      "bbox": [
+        46.0,
+        1038.0,
+        616.0,
+        1068.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+          "bbox": [
+            46.0,
+            1038.0,
+            616.0,
+            1068.0
+          ],
+          "confidence": 0.7803428769111633
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 22:45:03",
+      "bbox": [
+        877.0,
+        1097.0,
+        1089.0,
+        1124.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 22:45:03",
+          "bbox": [
+            877.0,
+            1097.0,
+            1089.0,
+            1124.0
+          ],
+          "confidence": 0.9758647084236145
+        }
+      ]
+    }
+  ]
+}

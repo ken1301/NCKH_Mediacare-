@@ -1,0 +1,668 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_948",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_948.png",
+  "text": "MẾ sỐ người bệnh\nKhoa Khám bệnh\nBệốc Kkhám Ng goi Số phiếu 36926/2021\nTOA THUỐC BHYT\nNam 2 ữx\nTh bặOo hi êhám y tế CB 2 35 205 22059\nMạch: 5 lần/phút Huyết áp: 120 mMHmHg T Thâ n hiệt 36.2 C\nCân m sm sỐàng: Định đương GlucOoSg [MMu)is Chăp Xọuang khp gcgi hong, nghiêng hoặc chếuch\nCâềnhân okhnả: M13 - Cnc êm p h c c (E11)TD Bnệnh ĩái tháo đường hông ph nhunc inSáuđino\n1) MEZAFEN 60mg SL: 20 Viên\nGhai chú 4 Uống Sáng 1 Viên Tối 1 Viên\n2) FABAMOX 500 500mg SL: 20 Viên\nGhi chú 8 Uống Sáng 2 Viên Tối 2 Viên\nCộnng k okhn:2 oko\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/07/2021\nBệnh nhân ký nhận Y, Bác sĩ đi ềur trị\nBSCK. Lưu Minh Tâ\nTiái khákhm Xin mang th ho đn, Xkt nghinệhm, phiám (nếu c)\n31/12/2021 18:26:57",
+  "lines": [
+    {
+      "text": "MẾ sỐ người bệnh",
+      "bbox": [
+        896.0,
+        44.0,
+        1065.0,
+        75.0
+      ],
+      "words": [
+        {
+          "text": "MẾ sỐ người bệnh",
+          "bbox": [
+            896.0,
+            44.0,
+            1065.0,
+            75.0
+          ],
+          "confidence": 0.857620894908905
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        220.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            220.0,
+            128.0
+          ],
+          "confidence": 0.9647076725959778
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám Ng goi Số phiếu 36926/2021",
+      "bbox": [
+        34.0,
+        145.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám Ng goi",
+          "bbox": [
+            34.0,
+            145.0,
+            215.0,
+            183.0
+          ],
+          "confidence": 0.8492106199264526
+        },
+        {
+          "text": "Số phiếu 36926/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9433846473693848
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        383.0,
+        196.0,
+        758.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            383.0,
+            196.0,
+            758.0,
+            243.0
+          ],
+          "confidence": 0.9229137301445007
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        921.0,
+        236.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            921.0,
+            236.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.8270161151885986
+        }
+      ]
+    },
+    {
+      "text": "Th bặOo hi êhám y tế CB 2 35 205 22059",
+      "bbox": [
+        35.0,
+        317.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặOo hi êhám y tế",
+          "bbox": [
+            35.0,
+            317.0,
+            228.0,
+            353.0
+          ],
+          "confidence": 0.7284033894538879
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            270.0,
+            320.0,
+            320.0,
+            351.0
+          ],
+          "confidence": 0.994075357913971
+        },
+        {
+          "text": "2",
+          "bbox": [
+            361.0,
+            318.0,
+            416.0,
+            353.0
+          ],
+          "confidence": 0.9984753727912903
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            319.0,
+            484.0,
+            351.0
+          ],
+          "confidence": 0.9997165203094482
+        },
+        {
+          "text": "205",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.8566368222236633
+        },
+        {
+          "text": "22059",
+          "bbox": [
+            758.0,
+            318.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.8866440653800964
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 5 lần/phút Huyết áp: 120 mMHmHg T Thâ n hiệt 36.2 C",
+      "bbox": [
+        34.0,
+        350.0,
+        1013.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 5",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9327207803726196
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            462.0,
+            393.0
+          ],
+          "confidence": 0.9766991138458252
+        },
+        {
+          "text": "120",
+          "bbox": [
+            491.0,
+            359.0,
+            616.0,
+            390.0
+          ],
+          "confidence": 0.9999721646308899
+        },
+        {
+          "text": "mMHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            753.0,
+            390.0
+          ],
+          "confidence": 0.8122696876525879
+        },
+        {
+          "text": "T Thâ n hiệt 36.2",
+          "bbox": [
+            763.0,
+            360.0,
+            954.0,
+            388.0
+          ],
+          "confidence": 0.7941699624061584
+        },
+        {
+          "text": "C",
+          "bbox": [
+            964.0,
+            350.0,
+            1013.0,
+            391.0
+          ],
+          "confidence": 0.45510953664779663
+        }
+      ]
+    },
+    {
+      "text": "Cân m sm sỐàng: Định đương GlucOoSg [MMu)is Chăp Xọuang khp gcgi hong, nghiêng hoặc chếuch",
+      "bbox": [
+        33.0,
+        389.0,
+        989.0,
+        424.0
+      ],
+      "words": [
+        {
+          "text": "Cân m sm sỐàng: Định đương GlucOoSg [MMu)is Chăp Xọuang khp gcgi hong, nghiêng hoặc chếuch",
+          "bbox": [
+            33.0,
+            389.0,
+            989.0,
+            424.0
+          ],
+          "confidence": 0.8302879333496094
+        }
+      ]
+    },
+    {
+      "text": "Câềnhân okhnả: M13 - Cnc êm p h c c (E11)TD Bnệnh ĩái tháo đường hông ph nhunc inSáuđino",
+      "bbox": [
+        35.0,
+        420.0,
+        1024.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhân okhnả: M13 - Cnc êm p h c c (E11)TD Bnệnh ĩái tháo đường hông ph nhunc inSáuđino",
+          "bbox": [
+            35.0,
+            420.0,
+            1024.0,
+            452.0
+          ],
+          "confidence": 0.7639458179473877
+        }
+      ]
+    },
+    {
+      "text": "1) MEZAFEN 60mg SL: 20 Viên",
+      "bbox": [
+        62.0,
+        586.0,
+        1056.0,
+        632.0
+      ],
+      "words": [
+        {
+          "text": "1) MEZAFEN 60mg",
+          "bbox": [
+            62.0,
+            586.0,
+            371.0,
+            632.0
+          ],
+          "confidence": 0.9627216458320618
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            886.0,
+            591.0,
+            1056.0,
+            625.0
+          ],
+          "confidence": 0.9221311807632446
+        }
+      ]
+    },
+    {
+      "text": "Ghai chú 4 Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        49.0,
+        625.0,
+        1049.0,
+        664.0
+      ],
+      "words": [
+        {
+          "text": "Ghai chú",
+          "bbox": [
+            49.0,
+            631.0,
+            142.0,
+            660.0
+          ],
+          "confidence": 0.7607783079147339
+        },
+        {
+          "text": "4",
+          "bbox": [
+            131.0,
+            637.0,
+            166.0,
+            657.0
+          ],
+          "confidence": 0.21573376655578613
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            152.0,
+            630.0,
+            239.0,
+            664.0
+          ],
+          "confidence": 0.8932483196258545
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            631.0,
+            561.0,
+            662.0
+          ],
+          "confidence": 0.9956665635108948
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            928.0,
+            625.0,
+            1049.0,
+            663.0
+          ],
+          "confidence": 0.9808816909790039
+        }
+      ]
+    },
+    {
+      "text": "2) FABAMOX 500 500mg SL: 20 Viên",
+      "bbox": [
+        58.0,
+        666.0,
+        1056.0,
+        708.0
+      ],
+      "words": [
+        {
+          "text": "2) FABAMOX 500 500mg",
+          "bbox": [
+            58.0,
+            666.0,
+            455.0,
+            708.0
+          ],
+          "confidence": 0.9124220013618469
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            886.0,
+            669.0,
+            1056.0,
+            704.0
+          ],
+          "confidence": 0.9941801428794861
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú 8 Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        48.0,
+        704.0,
+        1049.0,
+        743.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            48.0,
+            710.0,
+            138.0,
+            738.0
+          ],
+          "confidence": 0.9314450025558472
+        },
+        {
+          "text": "8",
+          "bbox": [
+            140.0,
+            719.0,
+            159.0,
+            732.0
+          ],
+          "confidence": 0.3080715537071228
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            153.0,
+            709.0,
+            239.0,
+            743.0
+          ],
+          "confidence": 0.8685648441314697
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            428.0,
+            710.0,
+            561.0,
+            742.0
+          ],
+          "confidence": 0.9536691904067993
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            929.0,
+            704.0,
+            1049.0,
+            741.0
+          ],
+          "confidence": 0.9806824922561646
+        }
+      ]
+    },
+    {
+      "text": "Cộnng k okhn:2 oko",
+      "bbox": [
+        45.0,
+        753.0,
+        291.0,
+        783.0
+      ],
+      "words": [
+        {
+          "text": "Cộnng k okhn:2 oko",
+          "bbox": [
+            45.0,
+            753.0,
+            291.0,
+            783.0
+          ],
+          "confidence": 0.688567042350769
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        42.0,
+        789.0,
+        243.0,
+        820.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            42.0,
+            789.0,
+            243.0,
+            820.0
+          ],
+          "confidence": 0.9497147798538208
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        830.0,
+        245.0,
+        858.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            830.0,
+            245.0,
+            858.0
+          ],
+          "confidence": 0.9255891442298889
+        }
+      ]
+    },
+    {
+      "text": "Ngày 27/07/2021",
+      "bbox": [
+        721.0,
+        879.0,
+        927.0,
+        913.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 27/07/2021",
+          "bbox": [
+            721.0,
+            879.0,
+            927.0,
+            913.0
+          ],
+          "confidence": 0.9830873012542725
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ đi ềur trị",
+      "bbox": [
+        93.0,
+        910.0,
+        913.0,
+        952.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            93.0,
+            910.0,
+            291.0,
+            938.0
+          ],
+          "confidence": 0.9463090300559998
+        },
+        {
+          "text": "Y, Bác sĩ đi ềur trị",
+          "bbox": [
+            738.0,
+            924.0,
+            913.0,
+            952.0
+          ],
+          "confidence": 0.9067765474319458
+        }
+      ]
+    },
+    {
+      "text": "BSCK. Lưu Minh Tâ",
+      "bbox": [
+        683.0,
+        1034.0,
+        945.0,
+        1061.0
+      ],
+      "words": [
+        {
+          "text": "BSCK. Lưu Minh Tâ",
+          "bbox": [
+            683.0,
+            1034.0,
+            945.0,
+            1061.0
+          ],
+          "confidence": 0.8981056213378906
+        }
+      ]
+    },
+    {
+      "text": "Tiái khákhm Xin mang th ho đn, Xkt nghinệhm, phiám (nếu c)",
+      "bbox": [
+        44.0,
+        1114.0,
+        616.0,
+        1146.0
+      ],
+      "words": [
+        {
+          "text": "Tiái khákhm Xin mang th ho đn, Xkt nghinệhm, phiám (nếu c)",
+          "bbox": [
+            44.0,
+            1114.0,
+            616.0,
+            1146.0
+          ],
+          "confidence": 0.7960943579673767
+        }
+      ]
+    },
+    {
+      "text": "31/12/2021 18:26:57",
+      "bbox": [
+        877.0,
+        1178.0,
+        1089.0,
+        1202.0
+      ],
+      "words": [
+        {
+          "text": "31/12/2021 18:26:57",
+          "bbox": [
+            877.0,
+            1178.0,
+            1089.0,
+            1202.0
+          ],
+          "confidence": 0.9559069275856018
+        }
+      ]
+    }
+  ]
+}

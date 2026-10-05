@@ -1,0 +1,556 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_680",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_680.png",
+  "text": "1/1 M sc người bnh\nLƯNG ĐẠO\nSố phiếu 3335/2018\nTOA THAỐC BHYT\nNam x Nữ\nThu ặo h ếhám y tế CK 35 35 206 82688\nMạch: Lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCâềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)\n1) KAVASDIN 5 5mg SL: 13 Viên\nGhi chú Uốg: Sáng 1 Viên\nCộng khoả: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 18/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Đào Minh Dũng\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n15/05/2021 10:37:27",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            121.0,
+            63.0
+          ],
+          "confidence": 0.9679173827171326
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "LƯNG ĐẠO",
+      "bbox": [
+        149.0,
+        49.0,
+        239.0,
+        82.0
+      ],
+      "words": [
+        {
+          "text": "LƯNG ĐẠO",
+          "bbox": [
+            149.0,
+            49.0,
+            239.0,
+            82.0
+          ],
+          "confidence": 0.8616617918014526
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3335/2018",
+      "bbox": [
+        369.0,
+        89.0,
+        537.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3335/2018",
+          "bbox": [
+            369.0,
+            89.0,
+            537.0,
+            121.0
+          ],
+          "confidence": 0.9625878930091858
+        }
+      ]
+    },
+    {
+      "text": "TOA THAỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8363628387451172
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 35 35 206 82688",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            203.0,
+            223.0,
+            227.0
+          ],
+          "confidence": 0.8793904781341553
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999125003814697
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999765753746033
+        },
+        {
+          "text": "82688",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9953187704086304
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9566369652748108
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            253.0
+          ],
+          "confidence": 0.9914495348930359
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+      "bbox": [
+        26.0,
+        271.0,
+        391.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+          "bbox": [
+            26.0,
+            271.0,
+            391.0,
+            294.0
+          ],
+          "confidence": 0.8390089869499207
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg SL: 13 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 5 5mg",
+          "bbox": [
+            40.0,
+            379.0,
+            273.0,
+            415.0
+          ],
+          "confidence": 0.9640397429466248
+        },
+        {
+          "text": "SL: 13 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9995512366294861
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        378.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            409.0,
+            165.0,
+            439.0
+          ],
+          "confidence": 0.8634210824966431
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoả",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoả",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9384719729423523
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9569759368896484
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/12/2018",
+      "bbox": [
+        483.0,
+        523.0,
+        625.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/12/2018",
+          "bbox": [
+            483.0,
+            523.0,
+            625.0,
+            549.0
+          ],
+          "confidence": 0.9860461950302124
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        541.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            541.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9919265508651733
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "YS. Đào Minh Dũng",
+      "bbox": [
+        467.0,
+        624.0,
+        627.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "YS. Đào Minh Dũng",
+          "bbox": [
+            467.0,
+            624.0,
+            627.0,
+            653.0
+          ],
+          "confidence": 0.9634386897087097
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488333225250244
+        }
+      ]
+    },
+    {
+      "text": "15/05/2021 10:37:27",
+      "bbox": [
+        588.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "15/05/2021 10:37:27",
+          "bbox": [
+            588.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9927707314491272
+        }
+      ]
+    }
+  ]
+}

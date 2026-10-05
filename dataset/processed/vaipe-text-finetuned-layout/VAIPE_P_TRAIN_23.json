@@ -1,0 +1,672 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_23",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_23.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 1 [Ngogoại] Số phiếu 54122/2021\nTOAOAC THU C BH YBHYT\nN mxữ2\nThu to h hám y ut 206 98845\nMạch: lần/phút Huyết áp: MMHg Thân nhiệ\nCn 1sm ásàng: Định 1ương Acid Uric [MMáu) Đo hoạ ĩ ALT (GPT) [MMKu) Đo hoạ ĩn AST GOT)\n(MMáu) Định 1ương Cho1cSuirO1 toàn phần (máu) Định 1ương HDL-C (High dnSiưuy lipOprOt itịin\nCaho1cSốrO) [MMáun), Định ươũng Trigycrid (Mmáu) [Máu)ả Siêu sMm hb tiếnt ninu (thhn, tuyến thương thhn\n,àng ịđuang tiên 1ịint tuyốếvn)\nCâềnhần okhnản N40 - Tng ágn uyến t ên linHux: (MM10) GinH (thng phOng)h  (E78) Ri 1otạn chuyễn ha\nlipOprOtin Và tinh trạng tăng lipid Mmáu khác: (K76) Bnệnh gan khách ([N39.0) Nhiếễm huhễn hn tiết ninu, ốot\ntur khĩng Xác ịônh\n1) CARUDXAN 2mg SL: 7 Viên\nGhi chú Uống Sáng 1 Viên\n2) METRONIDAZOL 250 250mg SL: 28 Viên\nGhi chúữ Uống Sáng 2 Viên Chiều 2 Viên\nCộng k  okhn 2 okhoậ\nLời dặn đơ thuốc:\nNgày hẹn tái khám:\nNgày 01/12/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Đức Hùng\nTiá khákhám Xin manng thco ĩođn, Xết nghinệm phiám (nếui c)\n20/12/2021 00:03:05",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        51.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9944257140159607
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 54122/2021",
+      "bbox": [
+        23.0,
+        102.0,
+        545.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            23.0,
+            102.0,
+            147.0,
+            133.0
+          ],
+          "confidence": 0.9340851306915283
+        },
+        {
+          "text": "Số phiếu 54122/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            545.0,
+            138.0
+          ],
+          "confidence": 0.9404754638671875
+        }
+      ]
+    },
+    {
+      "text": "TOAOAC THU C BH YBHYT",
+      "bbox": [
+        258.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOAOAC THU C BH YBHYT",
+          "bbox": [
+            258.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.7921186089515686
+        }
+      ]
+    },
+    {
+      "text": "N mxữ2",
+      "bbox": [
+        615.0,
+        164.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N mxữ2",
+          "bbox": [
+            615.0,
+            164.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6911265850067139
+        }
+      ]
+    },
+    {
+      "text": "Thu to h hám y ut 206 98845",
+      "bbox": [
+        25.0,
+        221.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu to h hám y ut",
+          "bbox": [
+            25.0,
+            223.0,
+            155.0,
+            244.0
+          ],
+          "confidence": 0.6986752152442932
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "98845",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9994961023330688
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệ",
+      "bbox": [
+        24.0,
+        247.0,
+        596.0,
+        271.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            249.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.9869147539138794
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            247.0,
+            307.0,
+            271.0
+          ],
+          "confidence": 0.9770338535308838
+        },
+        {
+          "text": "MMHg Thân nhiệ",
+          "bbox": [
+            450.0,
+            250.0,
+            596.0,
+            271.0
+          ],
+          "confidence": 0.8783867955207825
+        }
+      ]
+    },
+    {
+      "text": "Cn 1sm ásàng: Định 1ương Acid Uric [MMáu) Đo hoạ ĩ ALT (GPT) [MMKu) Đo hoạ ĩn AST GOT)",
+      "bbox": [
+        24.0,
+        269.0,
+        707.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cn 1sm ásàng: Định 1ương Acid Uric [MMáu) Đo hoạ ĩ ALT (GPT) [MMKu) Đo hoạ ĩn AST GOT)",
+          "bbox": [
+            24.0,
+            269.0,
+            707.0,
+            292.0
+          ],
+          "confidence": 0.8486918210983276
+        }
+      ]
+    },
+    {
+      "text": "(MMáu) Định 1ương Cho1cSuirO1 toàn phần (máu) Định 1ương HDL-C (High dnSiưuy lipOprOt itịin",
+      "bbox": [
+        26.0,
+        291.0,
+        669.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "(MMáu) Định 1ương Cho1cSuirO1 toàn phần (máu) Định 1ương HDL-C (High dnSiưuy lipOprOt itịin",
+          "bbox": [
+            26.0,
+            291.0,
+            669.0,
+            312.0
+          ],
+          "confidence": 0.8121314644813538
+        }
+      ]
+    },
+    {
+      "text": "Caho1cSốrO) [MMáun), Định ươũng Trigycrid (Mmáu) [Máu)ả Siêu sMm hb tiếnt ninu (thhn, tuyến thương thhn",
+      "bbox": [
+        26.0,
+        310.0,
+        728.0,
+        330.0
+      ],
+      "words": [
+        {
+          "text": "Caho1cSốrO) [MMáun), Định ươũng Trigycrid (Mmáu) [Máu)ả Siêu sMm hb tiếnt ninu (thhn, tuyến thương thhn",
+          "bbox": [
+            26.0,
+            310.0,
+            728.0,
+            330.0
+          ],
+          "confidence": 0.8162145018577576
+        }
+      ]
+    },
+    {
+      "text": ",àng ịđuang tiên 1ịint tuyốếvn)",
+      "bbox": [
+        26.0,
+        330.0,
+        216.0,
+        350.0
+      ],
+      "words": [
+        {
+          "text": ",àng ịđuang tiên 1ịint tuyốếvn)",
+          "bbox": [
+            26.0,
+            330.0,
+            216.0,
+            350.0
+          ],
+          "confidence": 0.7180675268173218
+        }
+      ]
+    },
+    {
+      "text": "Câềnhần okhnản N40 - Tng ágn uyến t ên linHux: (MM10) GinH (thng phOng)h  (E78) Ri 1otạn chuyễn ha",
+      "bbox": [
+        26.0,
+        348.0,
+        696.0,
+        368.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhần okhnản N40 - Tng ágn uyến t ên linHux: (MM10) GinH (thng phOng)h  (E78) Ri 1otạn chuyễn ha",
+          "bbox": [
+            26.0,
+            348.0,
+            696.0,
+            368.0
+          ],
+          "confidence": 0.7757344245910645
+        }
+      ]
+    },
+    {
+      "text": "lipOprOtin Và tinh trạng tăng lipid Mmáu khác: (K76) Bnệnh gan khách ([N39.0) Nhiếễm huhễn hn tiết ninu, ốot",
+      "bbox": [
+        25.0,
+        366.0,
+        740.0,
+        389.0
+      ],
+      "words": [
+        {
+          "text": "lipOprOtin Và tinh trạng tăng lipid Mmáu khác: (K76) Bnệnh gan khách ([N39.0) Nhiếễm huhễn hn tiết ninu, ốot",
+          "bbox": [
+            25.0,
+            366.0,
+            740.0,
+            389.0
+          ],
+          "confidence": 0.8200335502624512
+        }
+      ]
+    },
+    {
+      "text": "tur khĩng Xác ịônh",
+      "bbox": [
+        24.0,
+        384.0,
+        156.0,
+        411.0
+      ],
+      "words": [
+        {
+          "text": "tur khĩng Xác ịônh",
+          "bbox": [
+            24.0,
+            384.0,
+            156.0,
+            411.0
+          ],
+          "confidence": 0.7699004411697388
+        }
+      ]
+    },
+    {
+      "text": "1) CARUDXAN 2mg SL: 7 Viên",
+      "bbox": [
+        40.0,
+        455.0,
+        699.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "1) CARUDXAN 2mg",
+          "bbox": [
+            40.0,
+            455.0,
+            262.0,
+            490.0
+          ],
+          "confidence": 0.9691393375396729
+        },
+        {
+          "text": "SL: 7 Viên",
+          "bbox": [
+            594.0,
+            460.0,
+            699.0,
+            485.0
+          ],
+          "confidence": 0.9747878313064575
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        483.0,
+        379.0,
+        514.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            488.0,
+            95.0,
+            509.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            483.0,
+            165.0,
+            514.0
+          ],
+          "confidence": 0.9559473991394043
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            487.0,
+            379.0,
+            511.0
+          ],
+          "confidence": 0.9887273907661438
+        }
+      ]
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg SL: 28 Viên",
+      "bbox": [
+        37.0,
+        507.0,
+        709.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "2) METRONIDAZOL 250 250mg",
+          "bbox": [
+            37.0,
+            507.0,
+            380.0,
+            543.0
+          ],
+          "confidence": 0.9435317516326904
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            591.0,
+            509.0,
+            709.0,
+            538.0
+          ],
+          "confidence": 0.974677324295044
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        535.0,
+        609.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            540.0,
+            96.0,
+            562.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            536.0,
+            165.0,
+            566.0
+          ],
+          "confidence": 0.8920060992240906
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            540.0,
+            379.0,
+            564.0
+          ],
+          "confidence": 0.9973365664482117
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            535.0,
+            609.0,
+            563.0
+          ],
+          "confidence": 0.9879562854766846
+        }
+      ]
+    },
+    {
+      "text": "Cộng k  okhn 2 okhoậ",
+      "bbox": [
+        32.0,
+        569.0,
+        199.0,
+        590.0
+      ],
+      "words": [
+        {
+          "text": "Cộng k  okhn 2 okhoậ",
+          "bbox": [
+            32.0,
+            569.0,
+            199.0,
+            590.0
+          ],
+          "confidence": 0.6821485757827759
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ thuốc:",
+      "bbox": [
+        31.0,
+        594.0,
+        165.0,
+        615.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ thuốc:",
+          "bbox": [
+            31.0,
+            594.0,
+            165.0,
+            615.0
+          ],
+          "confidence": 0.9582868218421936
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        619.0,
+        168.0,
+        640.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            619.0,
+            168.0,
+            640.0
+          ],
+          "confidence": 0.9714899063110352
+        }
+      ]
+    },
+    {
+      "text": "Ngày 01/12/2021",
+      "bbox": [
+        482.0,
+        651.0,
+        623.0,
+        678.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 01/12/2021",
+          "bbox": [
+            482.0,
+            651.0,
+            623.0,
+            678.0
+          ],
+          "confidence": 0.9856391549110413
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        672.0,
+        616.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            672.0,
+            201.0,
+            696.0
+          ],
+          "confidence": 0.9724595546722412
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            681.0,
+            616.0,
+            705.0
+          ],
+          "confidence": 0.9865530729293823
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Đức Hùng",
+      "bbox": [
+        459.0,
+        753.0,
+        633.0,
+        781.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Đức Hùng",
+          "bbox": [
+            459.0,
+            753.0,
+            633.0,
+            781.0
+          ],
+          "confidence": 0.9577533006668091
+        }
+      ]
+    },
+    {
+      "text": "Tiá khákhám Xin manng thco ĩođn, Xết nghinệm phiám (nếui c)",
+      "bbox": [
+        32.0,
+        811.0,
+        416.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "Tiá khákhám Xin manng thco ĩođn, Xết nghinệm phiám (nếui c)",
+          "bbox": [
+            32.0,
+            811.0,
+            416.0,
+            834.0
+          ],
+          "confidence": 0.8185880184173584
+        }
+      ]
+    },
+    {
+      "text": "20/12/2021 00:03:05",
+      "bbox": [
+        587.0,
+        851.0,
+        731.0,
+        871.0
+      ],
+      "words": [
+        {
+          "text": "20/12/2021 00:03:05",
+          "bbox": [
+            587.0,
+            851.0,
+            731.0,
+            871.0
+          ],
+          "confidence": 0.9812279939651489
+        }
+      ]
+    }
+  ]
+}

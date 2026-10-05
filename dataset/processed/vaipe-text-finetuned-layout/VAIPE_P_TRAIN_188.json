@@ -1,0 +1,618 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_188",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_188.png",
+  "text": "1/1 MMH sỐ người bnh\nPK Số 2 [Nội] Số phiếu 63913/2019\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế GB 4 205 34075\nMạch: lần/phút Huyt áp: MmMHg T Thân nhiệt: c\nCận lâm sàng:\nCâhần ĩoknả: I10- Tăng huyế áp Võ căn (nguyến phát), G467) Hải chứng mạch máu não trờng bệnh\nmmạch nâo (160-1677)\n1) NIFEDIPIN CT20 STADA RETARD 20mg SL: 32 Viên\nGhi chú Uống: Sáng 1 Viên\n2) BLOZA 50mg SL: 32 Viên\nGhi chú Ug: Sáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khámản: Thứ Niạ 11/11/2019\nNgày 10/10/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trần Thị Hoa\nTái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)\n01/01/2022 21:14:33",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9997511506080627
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 63913/2019",
+      "bbox": [
+        22.0,
+        100.0,
+        548.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            100.0,
+            133.0,
+            134.0
+          ],
+          "confidence": 0.9317030310630798
+        },
+        {
+          "text": "Số phiếu 63913/2019",
+          "bbox": [
+            369.0,
+            106.0,
+            548.0,
+            138.0
+          ],
+          "confidence": 0.9748716950416565
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9099751710891724
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế GB 4 205 34075",
+      "bbox": [
+        24.0,
+        217.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            182.0,
+            222.0,
+            223.0,
+            245.0
+          ],
+          "confidence": 0.9963135719299316
+        },
+        {
+          "text": "4",
+          "bbox": [
+            229.0,
+            217.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.999271810054779
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9999454617500305
+        },
+        {
+          "text": "34075",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9997523427009583
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmMHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmMHg",
+          "bbox": [
+            448.0,
+            247.0,
+            518.0,
+            274.0
+          ],
+          "confidence": 0.8392276763916016
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            505.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327245950698853
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        130.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            130.0,
+            294.0
+          ],
+          "confidence": 0.9549980163574219
+        }
+      ]
+    },
+    {
+      "text": "Câhần ĩoknả: I10- Tăng huyế áp Võ căn (nguyến phát), G467) Hải chứng mạch máu não trờng bệnh",
+      "bbox": [
+        24.0,
+        286.0,
+        705.0,
+        311.0
+      ],
+      "words": [
+        {
+          "text": "Câhần ĩoknả: I10- Tăng huyế áp Võ căn (nguyến phát), G467) Hải chứng mạch máu não trờng bệnh",
+          "bbox": [
+            24.0,
+            286.0,
+            705.0,
+            311.0
+          ],
+          "confidence": 0.82892906665802
+        }
+      ]
+    },
+    {
+      "text": "mmạch nâo (160-1677)",
+      "bbox": [
+        23.0,
+        306.0,
+        172.0,
+        333.0
+      ],
+      "words": [
+        {
+          "text": "mmạch nâo (160-1677)",
+          "bbox": [
+            23.0,
+            306.0,
+            172.0,
+            333.0
+          ],
+          "confidence": 0.9740578532218933
+        }
+      ]
+    },
+    {
+      "text": "1) NIFEDIPIN CT20 STADA RETARD 20mg SL: 32 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        711.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) NIFEDIPIN CT20 STADA RETARD 20mg",
+          "bbox": [
+            38.0,
+            395.0,
+            477.0,
+            434.0
+          ],
+          "confidence": 0.98594731092453
+        },
+        {
+          "text": "SL: 32 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            711.0,
+            431.0
+          ],
+          "confidence": 0.9921581745147705
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên",
+      "bbox": [
+        32.0,
+        428.0,
+        379.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            428.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8387137651443481
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            430.0,
+            379.0,
+            455.0
+          ],
+          "confidence": 0.9582645893096924
+        }
+      ]
+    },
+    {
+      "text": "2) BLOZA 50mg SL: 32 Viên",
+      "bbox": [
+        35.0,
+        449.0,
+        710.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "2) BLOZA 50mg",
+          "bbox": [
+            35.0,
+            449.0,
+            222.0,
+            487.0
+          ],
+          "confidence": 0.948949933052063
+        },
+        {
+          "text": "SL: 32 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.9990612268447876
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Ug: Sáng 1 Viên",
+      "bbox": [
+        32.0,
+        478.0,
+        379.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            480.0,
+            166.0,
+            509.0
+          ],
+          "confidence": 0.7398409843444824
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            478.0,
+            379.0,
+            508.0
+          ],
+          "confidence": 0.9957746267318726
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        30.0,
+        507.0,
+        201.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            30.0,
+            507.0,
+            201.0,
+            535.0
+          ],
+          "confidence": 0.951549232006073
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khámản: Thứ Niạ 11/11/2019",
+      "bbox": [
+        30.0,
+        558.0,
+        317.0,
+        584.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khámản: Thứ Niạ 11/11/2019",
+          "bbox": [
+            30.0,
+            558.0,
+            317.0,
+            584.0
+          ],
+          "confidence": 0.8653324842453003
+        }
+      ]
+    },
+    {
+      "text": "Ngày 10/10/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 10/10/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9735413193702698
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9740474820137024
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "YS. Trần Thị Hoa",
+      "bbox": [
+        475.0,
+        693.0,
+        620.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trần Thị Hoa",
+          "bbox": [
+            475.0,
+            693.0,
+            620.0,
+            723.0
+          ],
+          "confidence": 0.9479394555091858
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8174545764923096
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 21:14:33",
+      "bbox": [
+        587.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 21:14:33",
+          "bbox": [
+            587.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9500025510787964
+        }
+      ]
+    }
+  ]
+}

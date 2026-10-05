@@ -3,8 +3,15 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const input = path.join(root, "dataset", "processed", "vaipe-text-finetuned", "all.json");
-const outputDir = path.join(root, "dataset", "processed", "vaipe-text-finetuned");
+const args = process.argv.slice(2);
+
+function option(name, fallback) {
+  const index = args.indexOf(name);
+  return index >= 0 && args[index + 1] ? args[index + 1] : fallback;
+}
+
+const input = path.resolve(option("--input", path.join(root, "dataset", "processed", "vaipe-text-finetuned", "all.json")));
+const outputDir = path.resolve(option("--output-dir", path.dirname(input)));
 const records = JSON.parse(await fs.readFile(input, "utf8"));
 
 const quantityPattern = /\bSL\s*:\s*([\d.,]+)\s*([^\d\s,;]+)/i;

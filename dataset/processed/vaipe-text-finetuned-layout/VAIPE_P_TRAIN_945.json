@@ -1,0 +1,771 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_945",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_945.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 2549/2018\nTOA THUỐC BHYT\nNam 2 ữx\nThu ặo h ếhám y tế GB 4 35 35 206\nMạch: lần/phút Huyết áp: MMHg Thân nhi C\nCộn lâm sàng:\nCânhắn okn: 02- Viêm họng cấp rci 1oạn tuđn hoàn no, Sguy nhươc co thế\n1) AMOXICILLIN 500MG 0,5g SL: 20 Viên\nGh chú Uốg Sáng 2 Viên Ciều 2 Viên\n2) PARACETAMOL 500MG 500mg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\n3) HOAT HUYHT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\n4) COSYNDO B 175mg 4175mg4 125mcg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/08/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nDDTH. NGUYN CTHỊ THẾ\nTái khKkhám Xịin mang tho onđ, knt nghinhm phikam (ônếu cá)\n06/05/2021 10:10:17",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        18.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            121.0,
+            63.0
+          ],
+          "confidence": 0.9709053039550781
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8645161390304565
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2549/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2549/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9826177954673767
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        120.0,
+        509.0,
+        154.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            120.0,
+            509.0,
+            154.0
+          ],
+          "confidence": 0.9220225214958191
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 35 206",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            267.0,
+            225.0
+          ],
+          "confidence": 0.9998949766159058
+        },
+        {
+          "text": "35",
+          "bbox": [
+            298.0,
+            204.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9998285174369812
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999826550483704
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhi C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9619219899177551
+        },
+        {
+          "text": "MMHg Thân nhi",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8767309188842773
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhắn okn: 02- Viêm họng cấp rci 1oạn tuđn hoàn no, Sguy nhươc co thế",
+      "bbox": [
+        25.0,
+        268.0,
+        528.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhắn okn: 02- Viêm họng cấp rci 1oạn tuđn hoàn no, Sguy nhươc co thế",
+          "bbox": [
+            25.0,
+            268.0,
+            528.0,
+            294.0
+          ],
+          "confidence": 0.8150638937950134
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILLIN 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILLIN 500MG 0,5g",
+          "bbox": [
+            42.0,
+            381.0,
+            357.0,
+            412.0
+          ],
+          "confidence": 0.9241853356361389
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            383.0,
+            709.0,
+            411.0
+          ],
+          "confidence": 0.9553844332695007
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốg Sáng 2 Viên Ciều 2 Viên",
+      "bbox": [
+        35.0,
+        410.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            162.0,
+            437.0
+          ],
+          "confidence": 0.8064370155334473
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            289.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9613832831382751
+        },
+        {
+          "text": "Ciều 2 Viên",
+          "bbox": [
+            513.0,
+            410.0,
+            609.0,
+            435.0
+          ],
+          "confidence": 0.9695844650268555
+        }
+      ]
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        429.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            36.0,
+            429.0,
+            401.0,
+            468.0
+          ],
+          "confidence": 0.9603166580200195
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            435.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9692509174346924
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        461.0,
+        610.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            95.0,
+            487.0
+          ],
+          "confidence": 0.8282133936882019
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9922634363174438
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            461.0,
+            610.0,
+            489.0
+          ],
+          "confidence": 0.9586630463600159
+        }
+      ]
+    },
+    {
+      "text": "3) HOAT HUYHT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        481.0,
+        709.0,
+        520.0
+      ],
+      "words": [
+        {
+          "text": "3) HOAT HUYHT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            37.0,
+            481.0,
+            505.0,
+            520.0
+          ],
+          "confidence": 0.9339545965194702
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            488.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9235668778419495
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        512.0,
+        608.0,
+        544.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            517.0,
+            94.0,
+            538.0
+          ],
+          "confidence": 0.837203860282898
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            512.0,
+            164.0,
+            544.0
+          ],
+          "confidence": 0.9290151596069336
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            518.0,
+            377.0,
+            539.0
+          ],
+          "confidence": 0.994210958480835
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            514.0,
+            608.0,
+            538.0
+          ],
+          "confidence": 0.9539660811424255
+        }
+      ]
+    },
+    {
+      "text": "4) COSYNDO B 175mg 4175mg4 125mcg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        536.0,
+        709.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "4) COSYNDO B 175mg 4175mg4 125mcg",
+          "bbox": [
+            38.0,
+            536.0,
+            454.0,
+            572.0
+          ],
+          "confidence": 0.9241881966590881
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            539.0,
+            709.0,
+            567.0
+          ],
+          "confidence": 0.9919277429580688
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        565.0,
+        610.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            107.0,
+            568.0,
+            162.0,
+            593.0
+          ],
+          "confidence": 0.6947662830352783
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            568.0,
+            378.0,
+            592.0
+          ],
+          "confidence": 0.9992327094078064
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            565.0,
+            610.0,
+            592.0
+          ],
+          "confidence": 0.9899975657463074
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9352107048034668
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.981297492980957
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        648.0,
+        168.0,
+        670.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            648.0,
+            168.0,
+            670.0
+          ],
+          "confidence": 0.9581643342971802
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/08/2018",
+      "bbox": [
+        483.0,
+        682.0,
+        624.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/08/2018",
+          "bbox": [
+            483.0,
+            682.0,
+            624.0,
+            705.0
+          ],
+          "confidence": 0.9892381429672241
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        702.0,
+        614.0,
+        733.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            702.0,
+            199.0,
+            723.0
+          ],
+          "confidence": 0.9498194456100464
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            494.0,
+            711.0,
+            614.0,
+            733.0
+          ],
+          "confidence": 0.9417948126792908
+        }
+      ]
+    },
+    {
+      "text": "DDTH. NGUYN CTHỊ THẾ",
+      "bbox": [
+        436.0,
+        782.0,
+        656.0,
+        807.0
+      ],
+      "words": [
+        {
+          "text": "DDTH. NGUYN CTHỊ THẾ",
+          "bbox": [
+            436.0,
+            782.0,
+            656.0,
+            807.0
+          ],
+          "confidence": 0.8967162370681763
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phikam (ônếu cá)",
+      "bbox": [
+        33.0,
+        839.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phikam (ônếu cá)",
+          "bbox": [
+            33.0,
+            839.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.7766755223274231
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 10:10:17",
+      "bbox": [
+        587.0,
+        880.0,
+        731.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 10:10:17",
+          "bbox": [
+            587.0,
+            880.0,
+            731.0,
+            900.0
+          ],
+          "confidence": 0.9732004404067993
+        }
+      ]
+    }
+  ]
+}

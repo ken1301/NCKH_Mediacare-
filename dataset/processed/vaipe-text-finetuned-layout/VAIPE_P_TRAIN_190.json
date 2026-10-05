@@ -1,0 +1,825 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_190",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_190.png",
+  "text": "MN số người bệnh\nKhoa Khám bệnh\nBệốc khám hi Số phiếu 710/2022\nTOA THUỐC BHYT\nNamx ữ2\nTha kho hi ế hm y tu HC 35 18 030 00766\nMạch: 80 Lần/phút Huyết áp: mHmgHg Thn n nhiệ 37 C\nCân m sm ásàng: Cềhp Xọuang nghc nhong Đinhẹn imám thường Siu m ugng (gan mnhu tọy, 1 8ch ththn,\n,àng ọuang)\nCânhân okhn: G 58.0 - Bnệnh dy hần kinh liên ácườnm (Ký75) nệnh m gan h c, (E53) Th ế u ckc i utmHmiv\nnhốm B hác,: (150.1) Dày thân tráhin (K21) Bnệnh tràO ngưc dạ dày - thHưc ọunm (Ký74) GMan X h/a Và X\ngni\n1) ELOXICAM 7,5mg SL: 10 viên\nGhi chú uốngốg gau ăn Sáng 1 viên Chiều 1 viên\n2) SAVI 3B 100mg4100mg40,15mg SL:30 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Vi n Tối 1 Viên\n3) KAGASDINE 20mg SL:10 Viên\nGhi chúốngUốngng trưcc hi ăn Sáng 1 Viên Chiều 1 Viên\n4) CHORLATCYN 125mg450mg450mg425mg SL:30 viên\nGhi chú uống Sáng 1 viên Chiều 1 viên Tối 1 viên\nCộng khoả: 4 khoả\nLời dặn đơ n đthuốc:\nNgày hẹn tái khám:\nNgày 05/01/2022\nBệnh nhân ký nhậ Y, Bác sĩ đi ềur trị\nBS. Nguyễn Trung Đức\nTi kháhm Xin mMnng thho đn, đt nghinhm, phim (1nếu ch)\n05/01/2022 19:11:34",
+  "lines": [
+    {
+      "text": "MN số người bệnh",
+      "bbox": [
+        897.0,
+        45.0,
+        1064.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "MN số người bệnh",
+          "bbox": [
+            897.0,
+            45.0,
+            1064.0,
+            73.0
+          ],
+          "confidence": 0.8146724700927734
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        37.0,
+        100.0,
+        220.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            37.0,
+            100.0,
+            220.0,
+            128.0
+          ],
+          "confidence": 0.9745224118232727
+        }
+      ]
+    },
+    {
+      "text": "Bệốc khám hi Số phiếu 710/2022",
+      "bbox": [
+        35.0,
+        146.0,
+        780.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc khám hi",
+          "bbox": [
+            35.0,
+            146.0,
+            189.0,
+            179.0
+          ],
+          "confidence": 0.8176457285881042
+        },
+        {
+          "text": "Số phiếu 710/2022",
+          "bbox": [
+            552.0,
+            151.0,
+            780.0,
+            192.0
+          ],
+          "confidence": 0.9814238548278809
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        195.0,
+        756.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            195.0,
+            756.0,
+            242.0
+          ],
+          "confidence": 0.9168629050254822
+        }
+      ]
+    },
+    {
+      "text": "Namx ữ2",
+      "bbox": [
+        921.0,
+        237.0,
+        1099.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Namx ữ2",
+          "bbox": [
+            921.0,
+            237.0,
+            1099.0,
+            282.0
+          ],
+          "confidence": 0.7705361247062683
+        }
+      ]
+    },
+    {
+      "text": "Tha kho hi ế hm y tu HC 35 18 030 00766",
+      "bbox": [
+        37.0,
+        318.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Tha kho hi ế hm y tu",
+          "bbox": [
+            37.0,
+            320.0,
+            226.0,
+            351.0
+          ],
+          "confidence": 0.6986609697341919
+        },
+        {
+          "text": "HC",
+          "bbox": [
+            270.0,
+            318.0,
+            322.0,
+            353.0
+          ],
+          "confidence": 0.9111959934234619
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            319.0,
+            484.0,
+            351.0
+          ],
+          "confidence": 0.9997165203094482
+        },
+        {
+          "text": "18",
+          "bbox": [
+            541.0,
+            319.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9995955228805542
+        },
+        {
+          "text": "030",
+          "bbox": [
+            647.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.9999086260795593
+        },
+        {
+          "text": "00766",
+          "bbox": [
+            761.0,
+            321.0,
+            839.0,
+            350.0
+          ],
+          "confidence": 0.9998539686203003
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 80 Lần/phút Huyết áp: mHmgHg Thn n nhiệ 37 C",
+      "bbox": [
+        35.0,
+        348.0,
+        1015.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 80",
+          "bbox": [
+            35.0,
+            359.0,
+            163.0,
+            387.0
+          ],
+          "confidence": 0.8879440426826477
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            247.0,
+            358.0,
+            461.0,
+            392.0
+          ],
+          "confidence": 0.9320434927940369
+        },
+        {
+          "text": "mHmgHg Thn n nhiệ 37",
+          "bbox": [
+            672.0,
+            360.0,
+            935.0,
+            390.0
+          ],
+          "confidence": 0.7802551984786987
+        },
+        {
+          "text": "C",
+          "bbox": [
+            962.0,
+            348.0,
+            1015.0,
+            393.0
+          ],
+          "confidence": 0.4997270405292511
+        }
+      ]
+    },
+    {
+      "text": "Cân m sm ásàng: Cềhp Xọuang nghc nhong Đinhẹn imám thường Siu m ugng (gan mnhu tọy, 1 8ch ththn,",
+      "bbox": [
+        34.0,
+        390.0,
+        1053.0,
+        425.0
+      ],
+      "words": [
+        {
+          "text": "Cân m sm ásàng: Cềhp Xọuang nghc nhong Đinhẹn imám thường Siu m ugng (gan mnhu tọy, 1 8ch ththn,",
+          "bbox": [
+            34.0,
+            390.0,
+            1053.0,
+            425.0
+          ],
+          "confidence": 0.8166570663452148
+        }
+      ]
+    },
+    {
+      "text": ",àng ọuang)",
+      "bbox": [
+        34.0,
+        422.0,
+        166.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": ",àng ọuang)",
+          "bbox": [
+            34.0,
+            422.0,
+            166.0,
+            453.0
+          ],
+          "confidence": 0.7115000486373901
+        }
+      ]
+    },
+    {
+      "text": "Cânhân okhn: G 58.0 - Bnệnh dy hần kinh liên ácườnm (Ký75) nệnh m gan h c, (E53) Th ế u ckc i utmHmiv",
+      "bbox": [
+        35.0,
+        449.0,
+        1088.0,
+        479.0
+      ],
+      "words": [
+        {
+          "text": "Cânhân okhn: G 58.0 - Bnệnh dy hần kinh liên ácườnm (Ký75) nệnh m gan h c, (E53) Th ế u ckc i utmHmiv",
+          "bbox": [
+            35.0,
+            449.0,
+            1088.0,
+            479.0
+          ],
+          "confidence": 0.7723738551139832
+        }
+      ]
+    },
+    {
+      "text": "nhốm B hác,: (150.1) Dày thân tráhin (K21) Bnệnh tràO ngưc dạ dày - thHưc ọunm (Ký74) GMan X h/a Và X",
+      "bbox": [
+        36.0,
+        481.0,
+        1085.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "nhốm B hác,: (150.1) Dày thân tráhin (K21) Bnệnh tràO ngưc dạ dày - thHưc ọunm (Ký74) GMan X h/a Và X",
+          "bbox": [
+            36.0,
+            481.0,
+            1085.0,
+            508.0
+          ],
+          "confidence": 0.8073773384094238
+        }
+      ]
+    },
+    {
+      "text": "gni",
+      "bbox": [
+        33.0,
+        511.0,
+        81.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "gni",
+          "bbox": [
+            33.0,
+            511.0,
+            81.0,
+            543.0
+          ],
+          "confidence": 0.5336475968360901
+        }
+      ]
+    },
+    {
+      "text": "1) ELOXICAM 7,5mg SL: 10 viên",
+      "bbox": [
+        63.0,
+        616.0,
+        1047.0,
+        658.0
+      ],
+      "words": [
+        {
+          "text": "1) ELOXICAM 7,5mg",
+          "bbox": [
+            63.0,
+            616.0,
+            425.0,
+            658.0
+          ],
+          "confidence": 0.9236227869987488
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            887.0,
+            618.0,
+            1047.0,
+            652.0
+          ],
+          "confidence": 0.9665365815162659
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uốngốg gau ăn Sáng 1 viên Chiều 1 viên",
+      "bbox": [
+        48.0,
+        656.0,
+        902.0,
+        691.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uốngốg gau ăn",
+          "bbox": [
+            48.0,
+            658.0,
+            307.0,
+            691.0
+          ],
+          "confidence": 0.8242621421813965
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            430.0,
+            661.0,
+            554.0,
+            689.0
+          ],
+          "confidence": 0.9802286624908447
+        },
+        {
+          "text": "Chiều 1 viên",
+          "bbox": [
+            765.0,
+            656.0,
+            902.0,
+            689.0
+          ],
+          "confidence": 0.961200475692749
+        }
+      ]
+    },
+    {
+      "text": "2) SAVI 3B 100mg4100mg40,15mg SL:30 Viên",
+      "bbox": [
+        59.0,
+        694.0,
+        1055.0,
+        737.0
+      ],
+      "words": [
+        {
+          "text": "2) SAVI 3B 100mg4100mg40,15mg",
+          "bbox": [
+            59.0,
+            694.0,
+            584.0,
+            737.0
+          ],
+          "confidence": 0.9378352761268616
+        },
+        {
+          "text": "SL:30 Viên",
+          "bbox": [
+            887.0,
+            698.0,
+            1055.0,
+            729.0
+          ],
+          "confidence": 0.9328457117080688
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Vi n Tối 1 Viên",
+      "bbox": [
+        46.0,
+        735.0,
+        1048.0,
+        771.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            735.0,
+            240.0,
+            771.0
+          ],
+          "confidence": 0.946159839630127
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            428.0,
+            737.0,
+            561.0,
+            770.0
+          ],
+          "confidence": 0.9753218293190002
+        },
+        {
+          "text": "Chiều 1 Vi n Tối 1 Viên",
+          "bbox": [
+            766.0,
+            735.0,
+            1048.0,
+            767.0
+          ],
+          "confidence": 0.8669266104698181
+        }
+      ]
+    },
+    {
+      "text": "3) KAGASDINE 20mg SL:10 Viên",
+      "bbox": [
+        59.0,
+        772.0,
+        1054.0,
+        815.0
+      ],
+      "words": [
+        {
+          "text": "3) KAGASDINE 20mg",
+          "bbox": [
+            59.0,
+            772.0,
+            406.0,
+            815.0
+          ],
+          "confidence": 0.9721733331680298
+        },
+        {
+          "text": "SL:10 Viên",
+          "bbox": [
+            886.0,
+            776.0,
+            1054.0,
+            807.0
+          ],
+          "confidence": 0.9049603343009949
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúốngUốngng trưcc hi ăn Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        47.0,
+        815.0,
+        906.0,
+        849.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúốngUốngng trưcc hi ăn",
+          "bbox": [
+            47.0,
+            816.0,
+            365.0,
+            849.0
+          ],
+          "confidence": 0.8017140030860901
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            428.0,
+            815.0,
+            561.0,
+            849.0
+          ],
+          "confidence": 0.9912350177764893
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            766.0,
+            815.0,
+            906.0,
+            845.0
+          ],
+          "confidence": 0.9944038987159729
+        }
+      ]
+    },
+    {
+      "text": "4) CHORLATCYN 125mg450mg450mg425mg SL:30 viên",
+      "bbox": [
+        58.0,
+        852.0,
+        1047.0,
+        893.0
+      ],
+      "words": [
+        {
+          "text": "4) CHORLATCYN 125mg450mg450mg425mg",
+          "bbox": [
+            58.0,
+            852.0,
+            740.0,
+            893.0
+          ],
+          "confidence": 0.9002044796943665
+        },
+        {
+          "text": "SL:30 viên",
+          "bbox": [
+            887.0,
+            855.0,
+            1047.0,
+            886.0
+          ],
+          "confidence": 0.9476094245910645
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 viên Chiều 1 viên Tối 1 viên",
+      "bbox": [
+        45.0,
+        890.0,
+        1042.0,
+        928.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            892.0,
+            242.0,
+            928.0
+          ],
+          "confidence": 0.9641735553741455
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            428.0,
+            894.0,
+            555.0,
+            927.0
+          ],
+          "confidence": 0.9844377636909485
+        },
+        {
+          "text": "Chiều 1 viên",
+          "bbox": [
+            766.0,
+            896.0,
+            902.0,
+            923.0
+          ],
+          "confidence": 0.9769282937049866
+        },
+        {
+          "text": "Tối 1 viên",
+          "bbox": [
+            929.0,
+            890.0,
+            1042.0,
+            925.0
+          ],
+          "confidence": 0.9734689593315125
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 4 khoả",
+      "bbox": [
+        46.0,
+        939.0,
+        289.0,
+        966.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 4 khoả",
+          "bbox": [
+            46.0,
+            939.0,
+            289.0,
+            966.0
+          ],
+          "confidence": 0.8409614562988281
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ n đthuốc:",
+      "bbox": [
+        44.0,
+        974.0,
+        241.0,
+        1002.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ n đthuốc:",
+          "bbox": [
+            44.0,
+            974.0,
+            241.0,
+            1002.0
+          ],
+          "confidence": 0.9228498339653015
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        43.0,
+        1013.0,
+        245.0,
+        1043.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            43.0,
+            1013.0,
+            245.0,
+            1043.0
+          ],
+          "confidence": 0.943192183971405
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/01/2022",
+      "bbox": [
+        721.0,
+        1063.0,
+        928.0,
+        1096.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/01/2022",
+          "bbox": [
+            721.0,
+            1063.0,
+            928.0,
+            1096.0
+          ],
+          "confidence": 0.9972208738327026
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ đi ềur trị",
+      "bbox": [
+        92.0,
+        1092.0,
+        913.0,
+        1136.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            92.0,
+            1092.0,
+            292.0,
+            1122.0
+          ],
+          "confidence": 0.9723290205001831
+        },
+        {
+          "text": "Y, Bác sĩ đi ềur trị",
+          "bbox": [
+            738.0,
+            1108.0,
+            913.0,
+            1136.0
+          ],
+          "confidence": 0.9067765474319458
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "bbox": [
+        681.0,
+        1219.0,
+        949.0,
+        1250.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Trung Đức",
+          "bbox": [
+            681.0,
+            1219.0,
+            949.0,
+            1250.0
+          ],
+          "confidence": 0.9156708717346191
+        }
+      ]
+    },
+    {
+      "text": "Ti kháhm Xin mMnng thho đn, đt nghinhm, phim (1nếu ch)",
+      "bbox": [
+        45.0,
+        1298.0,
+        617.0,
+        1330.0
+      ],
+      "words": [
+        {
+          "text": "Ti kháhm Xin mMnng thho đn, đt nghinhm, phim (1nếu ch)",
+          "bbox": [
+            45.0,
+            1298.0,
+            617.0,
+            1330.0
+          ],
+          "confidence": 0.8195831775665283
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 19:11:34",
+      "bbox": [
+        876.0,
+        1358.0,
+        1090.0,
+        1387.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 19:11:34",
+          "bbox": [
+            876.0,
+            1358.0,
+            1090.0,
+            1387.0
+          ],
+          "confidence": 0.9900797605514526
+        }
+      ]
+    }
+  ]
+}

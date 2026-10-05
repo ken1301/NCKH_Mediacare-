@@ -1,0 +1,700 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_165",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_165.png",
+  "text": "1/1 M c ngưi bnh\nÌNH NGHĨA\nSố phiếu 4483/2020\nTOA THUỐC BHYT\nN 2N\nThu ặo hiếhám y tế GB 4 208 42368\nMạch: lần/phút Huyt áp: MMHHg T Thân nhiệt:\nCận lâm sàng:\nCộnhần ĩonho: 531 - Viêm mi iêm mơi họg iêm họng mhn\n1) AMOXICILIN 500MG 500mg SL: 20 viên\nGhi chú Uống: Sáng 2 viên Tối 2 viên\n2) CLORPHENIRAMIN 4mg SL: 10 Vi ên\nGhi chú Uống: Sáng 1 Viên Tối 1 Viên\n3) PANACTOL 500mg SL: 10 Viên\nGhi chúữ Uốg Sáng 1 Viên Tối 1 Viên\nCộng khoản: 3 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/10/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Tính\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n29/12/2021 23:31:10",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9996120929718018
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        254.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            254.0,
+            98.0
+          ],
+          "confidence": 0.9205553531646729
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 4483/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 4483/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.9624274373054504
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9794470071792603
+        }
+      ]
+    },
+    {
+      "text": "N 2N",
+      "bbox": [
+        613.0,
+        161.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6931097507476807
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế GB 4 208 42368",
+      "bbox": [
+        24.0,
+        221.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            182.0,
+            222.0,
+            222.0,
+            245.0
+          ],
+          "confidence": 0.9967376589775085
+        },
+        {
+          "text": "4",
+          "bbox": [
+            238.0,
+            223.0,
+            270.0,
+            243.0
+          ],
+          "confidence": 0.5350959300994873
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9936301708221436
+        },
+        {
+          "text": "42368",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9995021820068359
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MMHHg T Thân nhiệt:",
+      "bbox": [
+        24.0,
+        244.0,
+        598.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            250.0,
+            506.0,
+            272.0
+          ],
+          "confidence": 0.7419663071632385
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            510.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327919483184814
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cộnhần ĩonho: 531 - Viêm mi iêm mơi họg iêm họng mhn",
+      "bbox": [
+        24.0,
+        285.0,
+        440.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhần ĩonho: 531 - Viêm mi iêm mơi họg iêm họng mhn",
+          "bbox": [
+            24.0,
+            285.0,
+            440.0,
+            314.0
+          ],
+          "confidence": 0.7595214247703552
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 viên",
+      "bbox": [
+        40.0,
+        397.0,
+        706.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            40.0,
+            397.0,
+            369.0,
+            432.0
+          ],
+          "confidence": 0.9450789093971252
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            593.0,
+            400.0,
+            706.0,
+            429.0
+          ],
+          "confidence": 0.9757196307182312
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        33.0,
+        426.0,
+        703.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.8913564682006836
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            287.0,
+            429.0,
+            376.0,
+            454.0
+          ],
+          "confidence": 0.9719881415367126
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            620.0,
+            426.0,
+            703.0,
+            455.0
+          ],
+          "confidence": 0.9778227806091309
+        }
+      ]
+    },
+    {
+      "text": "2) CLORPHENIRAMIN 4mg SL: 10 Vi ên",
+      "bbox": [
+        37.0,
+        450.0,
+        710.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            37.0,
+            450.0,
+            338.0,
+            485.0
+          ],
+          "confidence": 0.9373235106468201
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            594.0,
+            455.0,
+            710.0,
+            480.0
+          ],
+          "confidence": 0.9880358576774597
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        477.0,
+        707.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            478.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8698654174804688
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            481.0,
+            379.0,
+            506.0
+          ],
+          "confidence": 0.9805418252944946
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            618.0,
+            477.0,
+            707.0,
+            509.0
+          ],
+          "confidence": 0.9960859417915344
+        }
+      ]
+    },
+    {
+      "text": "3) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        502.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            502.0,
+            278.0,
+            538.0
+          ],
+          "confidence": 0.9456186890602112
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            503.0,
+            711.0,
+            534.0
+          ],
+          "confidence": 0.9791561365127563
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        530.0,
+        706.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            534.0,
+            164.0,
+            560.0
+          ],
+          "confidence": 0.7485406994819641
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            534.0,
+            379.0,
+            559.0
+          ],
+          "confidence": 0.9582645893096924
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            620.0,
+            530.0,
+            706.0,
+            560.0
+          ],
+          "confidence": 0.9953085780143738
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khon",
+      "bbox": [
+        29.0,
+        559.0,
+        201.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khon",
+          "bbox": [
+            29.0,
+            559.0,
+            201.0,
+            588.0
+          ],
+          "confidence": 0.9911165237426758
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        583.0,
+        168.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            583.0,
+            168.0,
+            612.0
+          ],
+          "confidence": 0.9972279071807861
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9593573808670044
+        }
+      ]
+    },
+    {
+      "text": "Ngày 29/10/2020",
+      "bbox": [
+        482.0,
+        645.0,
+        625.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 29/10/2020",
+          "bbox": [
+            482.0,
+            645.0,
+            625.0,
+            672.0
+          ],
+          "confidence": 0.978362500667572
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        663.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            663.0,
+            200.0,
+            691.0
+          ],
+          "confidence": 0.9996464848518372
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "bbox": [
+        474.0,
+        746.0,
+        620.0,
+        774.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Tính",
+          "bbox": [
+            474.0,
+            746.0,
+            620.0,
+            774.0
+          ],
+          "confidence": 0.9793932437896729
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276698589324951
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 23:31:10",
+      "bbox": [
+        587.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 23:31:10",
+          "bbox": [
+            587.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.997675359249115
+        }
+      ]
+    }
+  ]
+}

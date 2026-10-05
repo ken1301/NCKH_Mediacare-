@@ -1,0 +1,762 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1.png",
+  "text": "M sc người bnh\nKhoa Khám bệnh\nPK Số 5.1 [TĐ] Số phiếu 58661/2019\nTAOA CTHU C BH BT\nNam x Nữ\nĐệị ạ chi\nThu ặo hiếhám y tuế CK 35 35 208 08643\nMạch: lần/phút Huyết áp: / MmMHHg Ta n n hi:t: C\nCn lâm sàng:\nCnhn okn: E11- Bnnh ĩái tháo ĩường khĩng phu thunyc inSuinm I10) Tăng huyến áp õ căn (ônguyễn\nphát)\n1) GLUCOFAST 850 850mg SL: 60 Viên\nGh chú 8 Uống Sau hi ăn: Sáng 1 Viên Ciều 1 Viên\n2) DIAMICRON MR TAB 30MG 60S 30mg SL: 30 Vi ên\nCGh chúhú ốn Uống trưic khi ăn: Sáng 1 Viên\n3) ENALAPRIL 5mg SL: 30 Viên\nGhi chúc Uống trưc khi ăn: Sáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hhẹn tái tái kaám:Thc á3u, 18/10/2019\nNgày 18/09/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTiái khákhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)\n13/05/2021 15:39:38",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        26.0,
+        57.0,
+        151.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            26.0,
+            57.0,
+            151.0,
+            78.0
+          ],
+          "confidence": 0.9851694107055664
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 58661/2019",
+      "bbox": [
+        23.0,
+        84.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            84.0,
+            140.0,
+            116.0
+          ],
+          "confidence": 0.9745019674301147
+        },
+        {
+          "text": "Số phiếu 58661/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9935725331306458
+        }
+      ]
+    },
+    {
+      "text": "TAOA CTHU C BH BT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TAOA CTHU C BH BT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8202357292175293
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        179.0,
+        82.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            179.0,
+            82.0,
+            202.0
+          ],
+          "confidence": 0.7594336271286011
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tuế CK 35 35 208 08643",
+      "bbox": [
+        24.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tuế",
+          "bbox": [
+            24.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7904236316680908
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            203.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.8771856427192688
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997953772544861
+        },
+        {
+          "text": "08643",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9776566624641418
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MmMHHg Ta n n hi:t: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            78.0,
+            254.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666517972946167
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            449.0,
+            231.0,
+            517.0,
+            255.0
+          ],
+          "confidence": 0.8227885365486145
+        },
+        {
+          "text": "Ta n n hi:t:",
+          "bbox": [
+            513.0,
+            234.0,
+            594.0,
+            252.0
+          ],
+          "confidence": 0.8096258640289307
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cn lâm sàng:",
+      "bbox": [
+        24.0,
+        250.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâm sàng:",
+          "bbox": [
+            24.0,
+            250.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.8927610516548157
+        }
+      ]
+    },
+    {
+      "text": "Cnhn okn: E11- Bnnh ĩái tháo ĩường khĩng phu thunyc inSuinm I10) Tăng huyến áp õ căn (ônguyễn",
+      "bbox": [
+        24.0,
+        271.0,
+        713.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhn okn: E11- Bnnh ĩái tháo ĩường khĩng phu thunyc inSuinm I10) Tăng huyến áp õ căn (ônguyễn",
+          "bbox": [
+            24.0,
+            271.0,
+            713.0,
+            294.0
+          ],
+          "confidence": 0.8357166647911072
+        }
+      ]
+    },
+    {
+      "text": "phát)",
+      "bbox": [
+        23.0,
+        290.0,
+        69.0,
+        317.0
+      ],
+      "words": [
+        {
+          "text": "phát)",
+          "bbox": [
+            23.0,
+            290.0,
+            69.0,
+            317.0
+          ],
+          "confidence": 0.9929988980293274
+        }
+      ]
+    },
+    {
+      "text": "1) GLUCOFAST 850 850mg SL: 60 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) GLUCOFAST 850 850mg",
+          "bbox": [
+            42.0,
+            381.0,
+            326.0,
+            412.0
+          ],
+          "confidence": 0.9735639691352844
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9997401833534241
+        }
+      ]
+    },
+    {
+      "text": "Gh chú 8 Uống Sau hi ăn: Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        35.0,
+        410.0,
+        609.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "8",
+          "bbox": [
+            92.0,
+            417.0,
+            111.0,
+            430.0
+          ],
+          "confidence": 0.3080715537071228
+        },
+        {
+          "text": "Uống Sau hi ăn:",
+          "bbox": [
+            107.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.8260429501533508
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            289.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9711282849311829
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "2) DIAMICRON MR TAB 30MG 60S 30mg SL: 30 Vi ên",
+      "bbox": [
+        36.0,
+        430.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) DIAMICRON MR TAB 30MG 60S 30mg",
+          "bbox": [
+            36.0,
+            430.0,
+            474.0,
+            468.0
+          ],
+          "confidence": 0.969055712223053
+        },
+        {
+          "text": "SL: 30 Vi ên",
+          "bbox": [
+            593.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9656065106391907
+        }
+      ]
+    },
+    {
+      "text": "CGh chúhú ốn Uống trưic khi ăn: Sáng 1 Viên",
+      "bbox": [
+        35.0,
+        464.0,
+        379.0,
+        488.0
+      ],
+      "words": [
+        {
+          "text": "CGh chúhú ốn",
+          "bbox": [
+            35.0,
+            466.0,
+            115.0,
+            484.0
+          ],
+          "confidence": 0.8022207617759705
+        },
+        {
+          "text": "Uống trưic khi ăn:",
+          "bbox": [
+            106.0,
+            465.0,
+            248.0,
+            486.0
+          ],
+          "confidence": 0.83303302526474
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9887273907661438
+        }
+      ]
+    },
+    {
+      "text": "3) ENALAPRIL 5mg SL: 30 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) ENALAPRIL 5mg",
+          "bbox": [
+            37.0,
+            485.0,
+            258.0,
+            518.0
+          ],
+          "confidence": 0.9314659833908081
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            515.0
+          ],
+          "confidence": 0.9346565008163452
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống trưc khi ăn: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        515.0,
+        378.0,
+        541.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống trưc khi ăn:",
+          "bbox": [
+            106.0,
+            515.0,
+            249.0,
+            541.0
+          ],
+          "confidence": 0.8159629702568054
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            516.0,
+            378.0,
+            540.0
+          ],
+          "confidence": 0.9924852848052979
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        546.0,
+        198.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            546.0,
+            198.0,
+            567.0
+          ],
+          "confidence": 0.9732545614242554
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        164.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            164.0,
+            591.0
+          ],
+          "confidence": 0.9837544560432434
+        }
+      ]
+    },
+    {
+      "text": "Ngày hhẹn tái tái kaám:Thc á3u, 18/10/2019",
+      "bbox": [
+        30.0,
+        593.0,
+        318.0,
+        618.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hhẹn tái tái kaám:Thc á3u, 18/10/2019",
+          "bbox": [
+            30.0,
+            593.0,
+            318.0,
+            618.0
+          ],
+          "confidence": 0.8248610496520996
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/09/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/09/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9860621094703674
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        648.0,
+        614.0,
+        681.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            648.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9535803198814392
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            656.0,
+            614.0,
+            681.0
+          ],
+          "confidence": 0.9852588176727295
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        459.0,
+        729.0,
+        633.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            459.0,
+            729.0,
+            633.0,
+            758.0
+          ],
+          "confidence": 0.9592588543891907
+        }
+      ]
+    },
+    {
+      "text": "Tiái khákhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tiái khákhám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.8252269625663757
+        }
+      ]
+    },
+    {
+      "text": "13/05/2021 15:39:38",
+      "bbox": [
+        587.0,
+        825.0,
+        732.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "13/05/2021 15:39:38",
+          "bbox": [
+            587.0,
+            825.0,
+            732.0,
+            848.0
+          ],
+          "confidence": 0.9762606620788574
+        }
+      ]
+    }
+  ]
+}

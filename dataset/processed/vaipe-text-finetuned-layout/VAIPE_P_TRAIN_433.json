@@ -1,0 +1,781 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_433",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_433.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngoại] Số phiếu 27448/2018\nTOA THUỐC BHYT\nNam x ữ\nThu bặho h hám y tut CK 35 35 206 98657\nMạch: lần/phút Huyết áp: 25 MmMHHg Ta n n hi:t:\nCộn lâm sàng:\nCânuhần okno: L08 - Nhiễm khuễn khu ưrú khác cưa d Và mõ dười d: L20) Viêm dạ co ĩịa d ứnmg\n1) CEFADROXIL 500MG 500mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\n2) MYPARA 500 500mg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\n3) MENISON 16MG 16mg SL: 10 Viên\nGhi chú Uống Sáng 2 Viên\n4) VACO LORATADINE 10mg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơ thu ốc: 0\nNgày hẹn tái khám:\nNgày 08/05/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTái khKhám Xin Mmang tho ĩon, Xct nghinệm phiam (ônếui c)\n10/05/202114:34:28",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        51.0,
+        18.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.994290828704834
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngoại] Số phiếu 27448/2018",
+      "bbox": [
+        23.0,
+        83.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngoại]",
+          "bbox": [
+            23.0,
+            83.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9641628861427307
+        },
+        {
+          "text": "Số phiếu 27448/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9808336496353149
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9486150741577148
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ",
+      "bbox": [
+        617.0,
+        149.0,
+        737.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ",
+          "bbox": [
+            617.0,
+            149.0,
+            737.0,
+            181.0
+          ],
+          "confidence": 0.9457990527153015
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut CK 35 35 206 98657",
+      "bbox": [
+        26.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7528957724571228
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            184.0,
+            204.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9222486019134521
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999361634254456
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998081922531128
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.965299665927887
+        },
+        {
+          "text": "98657",
+          "bbox": [
+            507.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9492109417915344
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 25 MmMHHg Ta n n hi:t:",
+      "bbox": [
+        25.0,
+        229.0,
+        594.0,
+        255.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9623290300369263
+        },
+        {
+          "text": "25",
+          "bbox": [
+            375.0,
+            231.0,
+            390.0,
+            251.0
+          ],
+          "confidence": 0.4857156276702881
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            507.0,
+            254.0
+          ],
+          "confidence": 0.7860726714134216
+        },
+        {
+          "text": "Ta n n hi:t:",
+          "bbox": [
+            513.0,
+            234.0,
+            594.0,
+            252.0
+          ],
+          "confidence": 0.8096258640289307
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cânuhần okno: L08 - Nhiễm khuễn khu ưrú khác cưa d Và mõ dười d: L20) Viêm dạ co ĩịa d ứnmg",
+      "bbox": [
+        25.0,
+        268.0,
+        686.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhần okno: L08 - Nhiễm khuễn khu ưrú khác cưa d Và mõ dười d: L20) Viêm dạ co ĩịa d ứnmg",
+          "bbox": [
+            25.0,
+            268.0,
+            686.0,
+            295.0
+          ],
+          "confidence": 0.7806085348129272
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        379.0,
+        708.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 500mg",
+          "bbox": [
+            41.0,
+            379.0,
+            374.0,
+            415.0
+          ],
+          "confidence": 0.9671006798744202
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            384.0,
+            708.0,
+            409.0
+          ],
+          "confidence": 0.9975361227989197
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            95.0,
+            435.0
+          ],
+          "confidence": 0.8860936760902405
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.784771203994751
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            286.0,
+            412.0,
+            377.0,
+            437.0
+          ],
+          "confidence": 0.999018669128418
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9824240803718567
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        466.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            36.0,
+            432.0,
+            293.0,
+            466.0
+          ],
+          "confidence": 0.9637418985366821
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            435.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9692509174346924
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        462.0,
+        610.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.8278717994689941
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9922634363174438
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            512.0,
+            462.0,
+            610.0,
+            487.0
+          ],
+          "confidence": 0.9953281283378601
+        }
+      ]
+    },
+    {
+      "text": "3) MENISON 16MG 16mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        484.0,
+        710.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) MENISON 16MG 16mg",
+          "bbox": [
+            36.0,
+            484.0,
+            313.0,
+            519.0
+          ],
+          "confidence": 0.9498831033706665
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            485.0,
+            710.0,
+            516.0
+          ],
+          "confidence": 0.9724414944648743
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên",
+      "bbox": [
+        33.0,
+        514.0,
+        377.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            93.0,
+            537.0
+          ],
+          "confidence": 0.787915825843811
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            514.0,
+            163.0,
+            543.0
+          ],
+          "confidence": 0.9836124181747437
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            286.0,
+            515.0,
+            377.0,
+            539.0
+          ],
+          "confidence": 0.9913333654403687
+        }
+      ]
+    },
+    {
+      "text": "4) VACO LORATADINE 10mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        536.0,
+        709.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "4) VACO LORATADINE 10mg",
+          "bbox": [
+            37.0,
+            536.0,
+            359.0,
+            572.0
+          ],
+          "confidence": 0.936780571937561
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            539.0,
+            709.0,
+            567.0
+          ],
+          "confidence": 0.9994485378265381
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        565.0,
+        610.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.767109215259552
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            570.0,
+            377.0,
+            592.0
+          ],
+          "confidence": 0.9990644454956055
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            565.0,
+            610.0,
+            592.0
+          ],
+          "confidence": 0.9899975657463074
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9651411175727844
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ thu ốc: 0",
+      "bbox": [
+        32.0,
+        623.0,
+        189.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ thu ốc: 0",
+          "bbox": [
+            32.0,
+            623.0,
+            189.0,
+            643.0
+          ],
+          "confidence": 0.8862738609313965
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        646.0,
+        168.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            646.0,
+            168.0,
+            671.0
+          ],
+          "confidence": 0.9595922827720642
+        }
+      ]
+    },
+    {
+      "text": "Ngày 08/05/2018",
+      "bbox": [
+        483.0,
+        682.0,
+        624.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 08/05/2018",
+          "bbox": [
+            483.0,
+            682.0,
+            624.0,
+            705.0
+          ],
+          "confidence": 0.9909349679946899
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        702.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            702.0,
+            199.0,
+            723.0
+          ],
+          "confidence": 0.9294226765632629
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9960330128669739
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        779.0,
+        628.0,
+        811.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            779.0,
+            628.0,
+            811.0
+          ],
+          "confidence": 0.9761654734611511
+        }
+      ]
+    },
+    {
+      "text": "Tái khKhám Xin Mmang tho ĩon, Xct nghinệm phiam (ônếui c)",
+      "bbox": [
+        32.0,
+        837.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKhám Xin Mmang tho ĩon, Xct nghinệm phiam (ônếui c)",
+          "bbox": [
+            32.0,
+            837.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.8303582668304443
+        }
+      ]
+    },
+    {
+      "text": "10/05/202114:34:28",
+      "bbox": [
+        589.0,
+        882.0,
+        731.0,
+        899.0
+      ],
+      "words": [
+        {
+          "text": "10/05/202114:34:28",
+          "bbox": [
+            589.0,
+            882.0,
+            731.0,
+            899.0
+          ],
+          "confidence": 0.9697166085243225
+        }
+      ]
+    }
+  ]
+}

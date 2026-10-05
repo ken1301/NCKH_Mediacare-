@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_4",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_4.png",
+  "text": "1/1 M sc người bnh\nTRÀNG AN\nSố phiếu 683/2021\nTOA THUỐC BHYT\nNam x Nữ\nThu bặho h hm y tuế GB 35 35 205\nMạch: lần/phút Huyết áp: / MMHg Thân hiệt: C\nCộn lâm sàng:\nCộnhần oknho: K58.0- Hi chứng runđ kịch thích c tiêu ch,y\n1) NORMAGUT 250mg SL: 10 viên\nGhi chú Uống: Sáng 1 viên Chiều 1 viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/02/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)\n30/05/2021 09:52:12",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        17.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            17.0,
+            122.0,
+            65.0
+          ],
+          "confidence": 0.9997892379760742
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        243.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            243.0,
+            80.0
+          ],
+          "confidence": 0.8946899771690369
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 683/2021",
+      "bbox": [
+        369.0,
+        89.0,
+        523.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 683/2021",
+          "bbox": [
+            369.0,
+            89.0,
+            523.0,
+            122.0
+          ],
+          "confidence": 0.9710179567337036
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hm y tuế GB 35 35 205",
+      "bbox": [
+        26.0,
+        199.0,
+        473.0,
+        229.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hm y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7481600642204285
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            184.0,
+            205.0,
+            220.0,
+            225.0
+          ],
+          "confidence": 0.9904986619949341
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999734163284302
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997738599777222
+        },
+        {
+          "text": "205",
+          "bbox": [
+            430.0,
+            199.0,
+            473.0,
+            229.0
+          ],
+          "confidence": 0.9998640418052673
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            250.0
+          ],
+          "confidence": 0.850374698638916
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8164698481559753
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cộnhần oknho: K58.0- Hi chứng runđ kịch thích c tiêu ch,y",
+      "bbox": [
+        25.0,
+        268.0,
+        429.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhần oknho: K58.0- Hi chứng runđ kịch thích c tiêu ch,y",
+          "bbox": [
+            25.0,
+            268.0,
+            429.0,
+            295.0
+          ],
+          "confidence": 0.8218570947647095
+        }
+      ]
+    },
+    {
+      "text": "1) NORMAGUT 250mg SL: 10 viên",
+      "bbox": [
+        41.0,
+        381.0,
+        703.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) NORMAGUT 250mg",
+          "bbox": [
+            41.0,
+            381.0,
+            285.0,
+            413.0
+          ],
+          "confidence": 0.9898638129234314
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            593.0,
+            384.0,
+            703.0,
+            409.0
+          ],
+          "confidence": 0.9756702780723572
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 viên Chiều 1 viên",
+      "bbox": [
+        34.0,
+        408.0,
+        605.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            410.0,
+            165.0,
+            438.0
+          ],
+          "confidence": 0.7422334551811218
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            288.0,
+            412.0,
+            375.0,
+            437.0
+          ],
+          "confidence": 0.9849070906639099
+        },
+        {
+          "text": "Chiều 1 viên",
+          "bbox": [
+            510.0,
+            408.0,
+            605.0,
+            437.0
+          ],
+          "confidence": 0.9976449012756348
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9808337092399597
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/02/2021",
+      "bbox": [
+        483.0,
+        523.0,
+        623.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/02/2021",
+          "bbox": [
+            483.0,
+            523.0,
+            623.0,
+            549.0
+          ],
+          "confidence": 0.9888597130775452
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        477.0,
+        626.0,
+        618.0,
+        651.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            477.0,
+            626.0,
+            618.0,
+            651.0
+          ],
+          "confidence": 0.991966962814331
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8408706188201904
+        }
+      ]
+    },
+    {
+      "text": "30/05/2021 09:52:12",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "30/05/2021 09:52:12",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9952690601348877
+        }
+      ]
+    }
+  ]
+}

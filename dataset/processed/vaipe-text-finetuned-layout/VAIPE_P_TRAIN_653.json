@@ -1,0 +1,701 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_653",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_653.png",
+  "text": "MN số người bệnh\nKhoa Khám bệnh\nBệốc Kkhám Ng goi Số phiếu 53091/2021\nTOA THUỐC BHYT\nNam 2 Nữx\nTha ặo hi hm y tut HN 35 35 10349\nMạch: 85 lần/phút Huyết áp: 120 mHHg T Tn n nhiệt: 36.8\nCânn 1 sm gàng: Sn u nm  uHng (gann mnhH, y, 1 ngch, hnn, àng 9umang)\nCânuhn okngn: R10.4 - Đau Mng khng Xác ĩịnh à au ng khác  : (K52) Viêm dạ dày-ưuni Và im ạ\ntràng kháhc khõng nhinhm trưing kháhc\n1) METRONIDAZOL 250 250 mg SL:20 Viên\nGhi chú uống Sáng 2 Viên Chiều 2 Viên\n2) DROMASM FORT 80mg SL: 10 Vi ên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n3) FABAMOX 500 500mg SL: 20 Viên\nGhi chú uống Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 3 khoả\nLời dặn đơ th c:\nNgày hẹn tái khám:\nNgày 12/11/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Nguyễn Ngọc Tri\nTái kháKhám Xin mMnng thho ohđ, nt nghinệhm phihám (ngếu co)\n05/01/202223:30:10",
+  "lines": [
+    {
+      "text": "MN số người bệnh",
+      "bbox": [
+        897.0,
+        45.0,
+        1064.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "MN số người bệnh",
+          "bbox": [
+            897.0,
+            45.0,
+            1064.0,
+            73.0
+          ],
+          "confidence": 0.8146724700927734
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        219.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            219.0,
+            128.0
+          ],
+          "confidence": 0.9265929460525513
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám Ng goi Số phiếu 53091/2021",
+      "bbox": [
+        34.0,
+        145.0,
+        811.0,
+        191.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám Ng goi",
+          "bbox": [
+            34.0,
+            145.0,
+            214.0,
+            183.0
+          ],
+          "confidence": 0.8585797548294067
+        },
+        {
+          "text": "Số phiếu 53091/2021",
+          "bbox": [
+            552.0,
+            151.0,
+            811.0,
+            191.0
+          ],
+          "confidence": 0.9527875185012817
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        196.0,
+        757.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            196.0,
+            757.0,
+            243.0
+          ],
+          "confidence": 0.9606279730796814
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 Nữx",
+      "bbox": [
+        921.0,
+        237.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 Nữx",
+          "bbox": [
+            921.0,
+            237.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.7599480152130127
+        }
+      ]
+    },
+    {
+      "text": "Tha ặo hi hm y tut HN 35 35 10349",
+      "bbox": [
+        36.0,
+        316.0,
+        839.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Tha ặo hi hm y tut",
+          "bbox": [
+            36.0,
+            320.0,
+            227.0,
+            351.0
+          ],
+          "confidence": 0.7725460529327393
+        },
+        {
+          "text": "HN",
+          "bbox": [
+            271.0,
+            320.0,
+            323.0,
+            351.0
+          ],
+          "confidence": 0.995850682258606
+        },
+        {
+          "text": "35",
+          "bbox": [
+            440.0,
+            316.0,
+            486.0,
+            352.0
+          ],
+          "confidence": 0.9963103532791138
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            583.0,
+            351.0
+          ],
+          "confidence": 0.9998605251312256
+        },
+        {
+          "text": "10349",
+          "bbox": [
+            760.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.9379013180732727
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 85 lần/phút Huyết áp: 120 mHHg T Tn n nhiệt: 36.8",
+      "bbox": [
+        35.0,
+        357.0,
+        954.0,
+        392.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 85",
+          "bbox": [
+            35.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.8613019585609436
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            247.0,
+            357.0,
+            461.0,
+            392.0
+          ],
+          "confidence": 0.9466960430145264
+        },
+        {
+          "text": "120",
+          "bbox": [
+            489.0,
+            359.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9954916834831238
+        },
+        {
+          "text": "mHHg",
+          "bbox": [
+            673.0,
+            362.0,
+            751.0,
+            387.0
+          ],
+          "confidence": 0.8999794125556946
+        },
+        {
+          "text": "T Tn n nhiệt: 36.8",
+          "bbox": [
+            763.0,
+            358.0,
+            954.0,
+            389.0
+          ],
+          "confidence": 0.8719184398651123
+        }
+      ]
+    },
+    {
+      "text": "Cânn 1 sm gàng: Sn u nm  uHng (gann mnhH, y, 1 ngch, hnn, àng 9umang)",
+      "bbox": [
+        35.0,
+        393.0,
+        736.0,
+        422.0
+      ],
+      "words": [
+        {
+          "text": "Cânn 1 sm gàng: Sn u nm  uHng (gann mnhH, y, 1 ngch, hnn, àng 9umang)",
+          "bbox": [
+            35.0,
+            393.0,
+            736.0,
+            422.0
+          ],
+          "confidence": 0.749652087688446
+        }
+      ]
+    },
+    {
+      "text": "Cânuhn okngn: R10.4 - Đau Mng khng Xác ĩịnh à au ng khác  : (K52) Viêm dạ dày-ưuni Và im ạ",
+      "bbox": [
+        36.0,
+        422.0,
+        1070.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhn okngn: R10.4 - Đau Mng khng Xác ĩịnh à au ng khác  : (K52) Viêm dạ dày-ưuni Và im ạ",
+          "bbox": [
+            36.0,
+            422.0,
+            1070.0,
+            452.0
+          ],
+          "confidence": 0.811924934387207
+        }
+      ]
+    },
+    {
+      "text": "tràng kháhc khõng nhinhm trưing kháhc",
+      "bbox": [
+        38.0,
+        454.0,
+        396.0,
+        478.0
+      ],
+      "words": [
+        {
+          "text": "tràng kháhc khõng nhinhm trưing kháhc",
+          "bbox": [
+            38.0,
+            454.0,
+            396.0,
+            478.0
+          ],
+          "confidence": 0.7768880128860474
+        }
+      ]
+    },
+    {
+      "text": "1) METRONIDAZOL 250 250 mg SL:20 Viên",
+      "bbox": [
+        62.0,
+        586.0,
+        1054.0,
+        632.0
+      ],
+      "words": [
+        {
+          "text": "1) METRONIDAZOL 250 250 mg",
+          "bbox": [
+            62.0,
+            586.0,
+            562.0,
+            632.0
+          ],
+          "confidence": 0.9372128248214722
+        },
+        {
+          "text": "SL:20 Viên",
+          "bbox": [
+            887.0,
+            592.0,
+            1054.0,
+            623.0
+          ],
+          "confidence": 0.9720536470413208
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        46.0,
+        625.0,
+        906.0,
+        666.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            625.0,
+            240.0,
+            666.0
+          ],
+          "confidence": 0.8784937858581543
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            429.0,
+            633.0,
+            560.0,
+            664.0
+          ],
+          "confidence": 0.9985735416412354
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            765.0,
+            628.0,
+            906.0,
+            661.0
+          ],
+          "confidence": 0.9980857968330383
+        }
+      ]
+    },
+    {
+      "text": "2) DROMASM FORT 80mg SL: 10 Vi ên",
+      "bbox": [
+        58.0,
+        666.0,
+        1055.0,
+        708.0
+      ],
+      "words": [
+        {
+          "text": "2) DROMASM FORT 80mg",
+          "bbox": [
+            58.0,
+            666.0,
+            479.0,
+            708.0
+          ],
+          "confidence": 0.9460916519165039
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            886.0,
+            668.0,
+            1055.0,
+            702.0
+          ],
+          "confidence": 0.9581586718559265
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        46.0,
+        706.0,
+        907.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            706.0,
+            239.0,
+            744.0
+          ],
+          "confidence": 0.9557562470436096
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            710.0,
+            561.0,
+            742.0
+          ],
+          "confidence": 0.9620307683944702
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            764.0,
+            706.0,
+            907.0,
+            740.0
+          ],
+          "confidence": 0.9765916466712952
+        }
+      ]
+    },
+    {
+      "text": "3) FABAMOX 500 500mg SL: 20 Viên",
+      "bbox": [
+        58.0,
+        742.0,
+        1055.0,
+        788.0
+      ],
+      "words": [
+        {
+          "text": "3) FABAMOX 500 500mg",
+          "bbox": [
+            58.0,
+            742.0,
+            456.0,
+            788.0
+          ],
+          "confidence": 0.9529865384101868
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            886.0,
+            747.0,
+            1055.0,
+            781.0
+          ],
+          "confidence": 0.9043392539024353
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        45.0,
+        783.0,
+        907.0,
+        823.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            783.0,
+            240.0,
+            823.0
+          ],
+          "confidence": 0.9505174160003662
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            428.0,
+            789.0,
+            561.0,
+            820.0
+          ],
+          "confidence": 0.9645636081695557
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            765.0,
+            785.0,
+            907.0,
+            818.0
+          ],
+          "confidence": 0.9987789988517761
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoả",
+      "bbox": [
+        45.0,
+        831.0,
+        290.0,
+        861.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoả",
+          "bbox": [
+            45.0,
+            831.0,
+            290.0,
+            861.0
+          ],
+          "confidence": 0.9727089405059814
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ th c:",
+      "bbox": [
+        43.0,
+        868.0,
+        241.0,
+        896.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ th c:",
+          "bbox": [
+            43.0,
+            868.0,
+            241.0,
+            896.0
+          ],
+          "confidence": 0.9547940492630005
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        908.0,
+        246.0,
+        936.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            908.0,
+            246.0,
+            936.0
+          ],
+          "confidence": 0.8891635537147522
+        }
+      ]
+    },
+    {
+      "text": "Ngày 12/11/2021",
+      "bbox": [
+        721.0,
+        957.0,
+        927.0,
+        992.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 12/11/2021",
+          "bbox": [
+            721.0,
+            957.0,
+            927.0,
+            992.0
+          ],
+          "confidence": 0.9577105045318604
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        92.0,
+        987.0,
+        914.0,
+        1031.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            92.0,
+            987.0,
+            291.0,
+            1018.0
+          ],
+          "confidence": 0.9152323007583618
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            736.0,
+            998.0,
+            914.0,
+            1031.0
+          ],
+          "confidence": 0.9197371006011963
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "bbox": [
+        667.0,
+        1111.0,
+        964.0,
+        1145.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Ngọc Tri",
+          "bbox": [
+            667.0,
+            1111.0,
+            964.0,
+            1145.0
+          ],
+          "confidence": 0.9202067852020264
+        }
+      ]
+    },
+    {
+      "text": "Tái kháKhám Xin mMnng thho ohđ, nt nghinệhm phihám (ngếu co)",
+      "bbox": [
+        44.0,
+        1192.0,
+        616.0,
+        1224.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháKhám Xin mMnng thho ohđ, nt nghinệhm phihám (ngếu co)",
+          "bbox": [
+            44.0,
+            1192.0,
+            616.0,
+            1224.0
+          ],
+          "confidence": 0.7988548278808594
+        }
+      ]
+    },
+    {
+      "text": "05/01/202223:30:10",
+      "bbox": [
+        877.0,
+        1255.0,
+        1090.0,
+        1279.0
+      ],
+      "words": [
+        {
+          "text": "05/01/202223:30:10",
+          "bbox": [
+            877.0,
+            1255.0,
+            1090.0,
+            1279.0
+          ],
+          "confidence": 0.9750552773475647
+        }
+      ]
+    }
+  ]
+}

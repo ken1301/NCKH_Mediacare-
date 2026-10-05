@@ -1,0 +1,587 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_926",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_926.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1859/2018\nTOA THỐC  BHYT\nNam x Nữ\nThu ặo h ếhám y tế HT 35 35 206 71282\nMạch: lần/phút Huyết áp: / mMHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCậnhần okho: H10.2- V i êhám kếịt mạ cấp h c /Suy nhưọc cđ thê\n1) CEFADROXIL 500MG 500mg SL: 20 Viên\nGhui chú Uốg\n2) COSYNDO B 175mg 4175mg4 125mCg SL: 10 Viên\nGhi chú Uốg\nCộng khoản: 2 khoản\nLời dặn đơ đthu ốc: 0\nNgày hẹn tái khám:\nNgày 02/07/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNV. Đặng Thị THu Huyền\nTái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)\n10/05/2021 09:35:37",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        15.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            15.0,
+            122.0,
+            64.0
+          ],
+          "confidence": 0.9988515973091125
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1859/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1859/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9829751253128052
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8235052824020386
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế HT 35 35 206 71282",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            182.0,
+            204.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9896416664123535
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999765753746033
+        },
+        {
+          "text": "71282",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9974206686019897
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / mMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9381685256958008
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            252.0
+          ],
+          "confidence": 0.9859391450881958
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần okho: H10.2- V i êhám kếịt mạ cấp h c /Suy nhưọc cđ thê",
+      "bbox": [
+        26.0,
+        270.0,
+        456.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần okho: H10.2- V i êhám kếịt mạ cấp h c /Suy nhưọc cđ thê",
+          "bbox": [
+            26.0,
+            270.0,
+            456.0,
+            293.0
+          ],
+          "confidence": 0.7730920910835266
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 500mg",
+          "bbox": [
+            41.0,
+            381.0,
+            372.0,
+            412.0
+          ],
+          "confidence": 0.9563069343566895
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghui chú Uốg",
+      "bbox": [
+        32.0,
+        410.0,
+        163.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghui chú",
+          "bbox": [
+            32.0,
+            411.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.779353141784668
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.8891487121582031
+        }
+      ]
+    },
+    {
+      "text": "2) COSYNDO B 175mg 4175mg4 125mCg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        434.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) COSYNDO B 175mg 4175mg4 125mCg",
+          "bbox": [
+            37.0,
+            434.0,
+            453.0,
+            467.0
+          ],
+          "confidence": 0.9034438133239746
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9646921157836914
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        33.0,
+        464.0,
+        164.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            464.0,
+            164.0,
+            489.0
+          ],
+          "confidence": 0.8037850260734558
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9442614316940308
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ đthu ốc: 0",
+      "bbox": [
+        32.0,
+        519.0,
+        189.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ đthu ốc: 0",
+          "bbox": [
+            32.0,
+            519.0,
+            189.0,
+            539.0
+          ],
+          "confidence": 0.8848705291748047
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9688589572906494
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/07/2018",
+      "bbox": [
+        483.0,
+        574.0,
+        625.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/07/2018",
+          "bbox": [
+            483.0,
+            574.0,
+            625.0,
+            602.0
+          ],
+          "confidence": 0.9934345483779907
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "NV. Đặng Thị THu Huyền",
+      "bbox": [
+        444.0,
+        678.0,
+        648.0,
+        702.0
+      ],
+      "words": [
+        {
+          "text": "NV. Đặng Thị THu Huyền",
+          "bbox": [
+            444.0,
+            678.0,
+            648.0,
+            702.0
+          ],
+          "confidence": 0.9285967350006104
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8260284066200256
+        }
+      ]
+    },
+    {
+      "text": "10/05/2021 09:35:37",
+      "bbox": [
+        589.0,
+        777.0,
+        730.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "10/05/2021 09:35:37",
+          "bbox": [
+            589.0,
+            777.0,
+            730.0,
+            794.0
+          ],
+          "confidence": 0.9861178994178772
+        }
+      ]
+    }
+  ]
+}

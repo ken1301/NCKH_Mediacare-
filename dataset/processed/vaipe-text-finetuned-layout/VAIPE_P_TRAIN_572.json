@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_572",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_572.png",
+  "text": "1/1 M c ngưi bnh\nÌNH NGHĨA\nSố phiếu 3528/2020\nTOA THUỐC BHYT\nNm N\nThu ặo hiếhám y tế HT 206 08236\nMạch: lần/phút Huyt áp: MmHg  Thân nhiệt c\nCận lâm sàng:\nCậnhkn okno: H81- Ri 1oạn chức năng tiên đinh : (F48.0) Bnệnh suy nhưọc thần kinh\n1) HOẠT HUYHT DNNG NÃO 150mg420mg SL: 20 viên\nGhi chú Uống: Sáng 2 viên Tối 2 viên\n2) COSYNDO B 175mg4175mg4125mcg SL: 10 Viên\nGhi chúK Uống Sáng 1 Viên Tối 1 Viên\nCộng khoản 2 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 25/08/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Tính\nTái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (niếui cá)\n26/12/2021 23:09:06",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9996120929718018
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        151.0,
+        69.0,
+        254.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            151.0,
+            69.0,
+            254.0,
+            97.0
+          ],
+          "confidence": 0.8502576351165771
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3528/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3528/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9810177683830261
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9642512202262878
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 206 08236",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            178.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.817112922668457
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "08236",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9861093759536743
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg  Thân nhiệt c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MmHg  Thân nhiệt",
+          "bbox": [
+            449.0,
+            249.0,
+            598.0,
+            273.0
+          ],
+          "confidence": 0.9289724826812744
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cậnhkn okno: H81- Ri 1oạn chức năng tiên đinh : (F48.0) Bnệnh suy nhưọc thần kinh",
+      "bbox": [
+        25.0,
+        287.0,
+        593.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhkn okno: H81- Ri 1oạn chức năng tiên đinh : (F48.0) Bnệnh suy nhưọc thần kinh",
+          "bbox": [
+            25.0,
+            287.0,
+            593.0,
+            312.0
+          ],
+          "confidence": 0.8418676257133484
+        }
+      ]
+    },
+    {
+      "text": "1) HOẠT HUYHT DNNG NÃO 150mg420mg SL: 20 viên",
+      "bbox": [
+        38.0,
+        394.0,
+        705.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) HOẠT HUYHT DNNG NÃO 150mg420mg",
+          "bbox": [
+            38.0,
+            394.0,
+            505.0,
+            434.0
+          ],
+          "confidence": 0.9134724736213684
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            592.0,
+            400.0,
+            705.0,
+            429.0
+          ],
+          "confidence": 0.9888030886650085
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        33.0,
+        426.0,
+        703.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8425575494766235
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            287.0,
+            429.0,
+            376.0,
+            454.0
+          ],
+          "confidence": 0.9716864228248596
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            620.0,
+            426.0,
+            703.0,
+            455.0
+          ],
+          "confidence": 0.9778227806091309
+        }
+      ]
+    },
+    {
+      "text": "2) COSYNDO B 175mg4175mg4125mcg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        451.0,
+        711.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) COSYNDO B 175mg4175mg4125mcg",
+          "bbox": [
+            36.0,
+            451.0,
+            443.0,
+            485.0
+          ],
+          "confidence": 0.9191489219665527
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            451.0,
+            711.0,
+            482.0
+          ],
+          "confidence": 0.9889095425605774
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        478.0,
+        706.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            482.0,
+            96.0,
+            504.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8920060992240906
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            285.0,
+            479.0,
+            381.0,
+            509.0
+          ],
+          "confidence": 0.9712415337562561
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            620.0,
+            478.0,
+            706.0,
+            506.0
+          ],
+          "confidence": 0.9957596063613892
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản 2 khon",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản 2 khon",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9072750210762024
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 25/08/2020",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 25/08/2020",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9637736082077026
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9576668739318848
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "bbox": [
+        474.0,
+        695.0,
+        620.0,
+        722.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Tính",
+          "bbox": [
+            474.0,
+            695.0,
+            620.0,
+            722.0
+          ],
+          "confidence": 0.9928967952728271
+        }
+      ]
+    },
+    {
+      "text": "Tái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (niếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (niếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.7965335845947266
+        }
+      ]
+    },
+    {
+      "text": "26/12/2021 23:09:06",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "26/12/2021 23:09:06",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9698746204376221
+        }
+      ]
+    }
+  ]
+}

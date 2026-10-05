@@ -1,0 +1,627 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_407",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_407.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngogoại] Số phiếu 75248/2019\nTOA THAỐC  BHYT\nNam x Nữ\nThu ặo h ếhám y tế CK 2 35 208 13814\nMạch: Lần/phút Huyết áp: / MMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCộnhkn oknoản K21 - nnh trào ngđưhc dạ dày-hHưc đuhn\n1) FAMOGAST 40mg SL: 7 Viên\nGhi chú Uống: Tối 1 Viên\n2) DROMASM FORT 80mg SL: 10 Viên\nGhi chúK Uống Sáng 1 Viên Tối 1 Viên\nCộng khoản: 2 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/12/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n14/05/2021 15:40:03",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.9244763255119324
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 75248/2019",
+      "bbox": [
+        24.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            24.0,
+            84.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9638400077819824
+        },
+        {
+          "text": "Số phiếu 75248/2019",
+          "bbox": [
+            369.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9759315848350525
+        }
+      ]
+    },
+    {
+      "text": "TOA THAỐC  BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAỐC  BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8251349925994873
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 2 35 208 13814",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            203.0,
+            224.0,
+            227.0
+          ],
+          "confidence": 0.8195087909698486
+        },
+        {
+          "text": "2",
+          "bbox": [
+            242.0,
+            205.0,
+            266.0,
+            227.0
+          ],
+          "confidence": 0.999958872795105
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.999660313129425
+        },
+        {
+          "text": "13814",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9997137188911438
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / MMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        218.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            253.0
+          ],
+          "confidence": 0.9914495348930359
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            232.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.7419663071632385
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộnhkn oknoản K21 - nnh trào ngđưhc dạ dày-hHưc đuhn",
+      "bbox": [
+        24.0,
+        270.0,
+        388.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhkn oknoản K21 - nnh trào ngđưhc dạ dày-hHưc đuhn",
+          "bbox": [
+            24.0,
+            270.0,
+            388.0,
+            294.0
+          ],
+          "confidence": 0.8028097748756409
+        }
+      ]
+    },
+    {
+      "text": "1) FAMOGAST 40mg SL: 7 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        698.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) FAMOGAST 40mg",
+          "bbox": [
+            40.0,
+            379.0,
+            268.0,
+            415.0
+          ],
+          "confidence": 0.9963244199752808
+        },
+        {
+          "text": "SL: 7 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            698.0,
+            409.0
+          ],
+          "confidence": 0.9760535359382629
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Tối 1 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        705.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            96.0,
+            435.0
+          ],
+          "confidence": 0.9775956273078918
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            408.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.8922958374023438
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            408.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.8899364471435547
+        }
+      ]
+    },
+    {
+      "text": "2) DROMASM FORT 80mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) DROMASM FORT 80mg",
+          "bbox": [
+            37.0,
+            432.0,
+            326.0,
+            467.0
+          ],
+          "confidence": 0.9730116724967957
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9997545480728149
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        462.0,
+        705.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            464.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.9211470484733582
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            622.0,
+            463.0,
+            705.0,
+            487.0
+          ],
+          "confidence": 0.9554374814033508
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoả",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoả",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.939460039138794
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9378539323806763
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9655009508132935
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/12/2019",
+      "bbox": [
+        483.0,
+        575.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/12/2019",
+          "bbox": [
+            483.0,
+            575.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9961127042770386
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        674.0,
+        628.0,
+        707.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            674.0,
+            628.0,
+            707.0
+          ],
+          "confidence": 0.9726314544677734
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            758.0
+          ],
+          "confidence": 0.8276698589324951
+        }
+      ]
+    },
+    {
+      "text": "14/05/2021 15:40:03",
+      "bbox": [
+        588.0,
+        775.0,
+        731.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "14/05/2021 15:40:03",
+          "bbox": [
+            588.0,
+            775.0,
+            731.0,
+            795.0
+          ],
+          "confidence": 0.997269868850708
+        }
+      ]
+    }
+  ]
+}

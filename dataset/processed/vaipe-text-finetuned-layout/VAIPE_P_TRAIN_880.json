@@ -1,0 +1,566 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_880",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_880.png",
+  "text": "M sc người bnh\nKhoa Khám bệnh\nPK SỐ 3 [NHI] Số phiếu 23104/2020\nTOA THAC T H C H BHT\nNam x Nữ\nThu ặo h ếhám y tế BT 35 35 205 84809\nMạch: Lần/phút Huyết áp: / mmHHg T h â n hiệt: C\nCận 1shmngsàng: Chp Xọuang Xương cv chânthắng nghing hoặc chếuch\nCiềuhn okhn: M15 - Thokái hoá a hp\n1) PANACTOL 500mg SL: 10 Viên\nGhi chúK Uốg: Sáng 1 Viên Ciều 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/05/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Nguyễn Tiến Bình\nTái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)\n08/05/2021 12:45:19",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        26.0,
+        57.0,
+        158.0,
+        77.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            26.0,
+            57.0,
+            158.0,
+            77.0
+          ],
+          "confidence": 0.8426161408424377
+        }
+      ]
+    },
+    {
+      "text": "PK SỐ 3 [NHI] Số phiếu 23104/2020",
+      "bbox": [
+        23.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK SỐ 3 [NHI]",
+          "bbox": [
+            23.0,
+            84.0,
+            135.0,
+            115.0
+          ],
+          "confidence": 0.931178629398346
+        },
+        {
+          "text": "Số phiếu 23104/2020",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.963814914226532
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC T H C H BHT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC T H C H BHT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8009883761405945
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế BT 35 35 205 84809",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            183.0,
+            204.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.8131040334701538
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999359250068665
+        },
+        {
+          "text": "84809",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9991269111633301
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mmHHg T h â n hiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9509608745574951
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "mmHHg",
+          "bbox": [
+            448.0,
+            230.0,
+            506.0,
+            255.0
+          ],
+          "confidence": 0.9242520332336426
+        },
+        {
+          "text": "T h â n hiệt:",
+          "bbox": [
+            510.0,
+            230.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.8334328532218933
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận 1shmngsàng: Chp Xọuang Xương cv chânthắng nghing hoặc chếuch",
+      "bbox": [
+        24.0,
+        250.0,
+        512.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1shmngsàng: Chp Xọuang Xương cv chânthắng nghing hoặc chếuch",
+          "bbox": [
+            24.0,
+            250.0,
+            512.0,
+            275.0
+          ],
+          "confidence": 0.8401663303375244
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhn okhn: M15 - Thokái hoá a hp",
+      "bbox": [
+        26.0,
+        270.0,
+        284.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhn okhn: M15 - Thokái hoá a hp",
+          "bbox": [
+            26.0,
+            270.0,
+            284.0,
+            294.0
+          ],
+          "confidence": 0.8112180233001709
+        }
+      ]
+    },
+    {
+      "text": "1) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) PANACTOL 500mg",
+          "bbox": [
+            41.0,
+            381.0,
+            274.0,
+            413.0
+          ],
+          "confidence": 0.9376994967460632
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        609.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            101.0,
+            409.0,
+            164.0,
+            439.0
+          ],
+          "confidence": 0.8200936913490295
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9859002828598022
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9369948506355286
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/05/2020",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/05/2020",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9932815432548523
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.9643785953521729
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Tiến Bình",
+      "bbox": [
+        443.0,
+        626.0,
+        650.0,
+        651.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Tiến Bình",
+          "bbox": [
+            443.0,
+            626.0,
+            650.0,
+            651.0
+          ],
+          "confidence": 0.9369392991065979
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.7870516180992126
+        }
+      ]
+    },
+    {
+      "text": "08/05/2021 12:45:19",
+      "bbox": [
+        587.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "08/05/2021 12:45:19",
+          "bbox": [
+            587.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9997380971908569
+        }
+      ]
+    }
+  ]
+}

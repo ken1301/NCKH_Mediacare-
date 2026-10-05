@@ -1,0 +1,671 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_222",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_222.png",
+  "text": "1/1 M c ngưi bnh\nSố phiếu 3277/2020\nTOA THUỐC BHYT\nNm x n2\nThuh ko hiêhm y tế CK 2 207 36256\nMạch: lần/phút Huyt áp: MmHg Thân nhiệt: c\nCận lâm sàng:\nCâềuhần okn: N20 - Viêm phế ựuàặn cấpm: (Ký05) Viêm nườu à bệnh nha chu\n1) AMOXICILIN 500MG 500mg SL: 20 Viên\nGhi chú Uống:\n2) METRONIDAZOL 250 250 mg SL: 20 Viên\nGhi chú Uống:\n3) TYDOL PM 500mg 4 25mg SL: 10 Viên\nGhi chú Uống:\n4) BROMHEXIN ACTAVIS 8mg SL: 20 Viên\nGhi chú Uống:\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 07/12/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNV. Đặng Thị Thu Huyền\nTái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (oiếui cá)\n29/12/2021 23:25:35",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        33.0,
+        716.0,
+        85.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            33.0,
+            122.0,
+            85.0
+          ],
+          "confidence": 0.9979090094566345
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3277/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3277/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9867000579833984
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9587287306785583
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thuh ko hiêhm y tế CK 2 207 36256",
+      "bbox": [
+        25.0,
+        221.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thuh ko hiêhm y tế",
+          "bbox": [
+            25.0,
+            223.0,
+            155.0,
+            244.0
+          ],
+          "confidence": 0.7051551342010498
+        },
+        {
+          "text": "CK 2",
+          "bbox": [
+            178.0,
+            222.0,
+            328.0,
+            246.0
+          ],
+          "confidence": 0.9873418211936951
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9997250437736511
+        },
+        {
+          "text": "36256",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9481760263442993
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            449.0,
+            249.0,
+            598.0,
+            273.0
+          ],
+          "confidence": 0.9319049119949341
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Câềuhần okn: N20 - Viêm phế ựuàặn cấpm: (Ký05) Viêm nườu à bệnh nha chu",
+      "bbox": [
+        25.0,
+        287.0,
+        526.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Câềuhần okn: N20 - Viêm phế ựuàặn cấpm: (Ký05) Viêm nườu à bệnh nha chu",
+          "bbox": [
+            25.0,
+            287.0,
+            526.0,
+            312.0
+          ],
+          "confidence": 0.7954798340797424
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        397.0,
+        708.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            40.0,
+            397.0,
+            366.0,
+            432.0
+          ],
+          "confidence": 0.9512547850608826
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            401.0,
+            708.0,
+            430.0
+          ],
+          "confidence": 0.8902598023414612
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        }
+      ]
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250 mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        450.0,
+        710.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) METRONIDAZOL 250 250 mg",
+          "bbox": [
+            37.0,
+            450.0,
+            378.0,
+            485.0
+          ],
+          "confidence": 0.9360542297363281
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.952257513999939
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        479.0,
+        165.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8443241119384766
+        }
+      ]
+    },
+    {
+      "text": "3) TYDOL PM 500mg 4 25mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        502.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) TYDOL PM 500mg 4 25mg",
+          "bbox": [
+            36.0,
+            502.0,
+            345.0,
+            538.0
+          ],
+          "confidence": 0.914661705493927
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9838514924049377
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        532.0,
+        164.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            534.0,
+            94.0,
+            555.0
+          ],
+          "confidence": 0.8701440691947937
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            532.0,
+            164.0,
+            559.0
+          ],
+          "confidence": 0.7484452128410339
+        }
+      ]
+    },
+    {
+      "text": "4) BROMHEXIN ACTAVIS 8mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        554.0,
+        710.0,
+        589.0
+      ],
+      "words": [
+        {
+          "text": "4) BROMHEXIN ACTAVIS 8mg",
+          "bbox": [
+            37.0,
+            554.0,
+            370.0,
+            589.0
+          ],
+          "confidence": 0.9891265034675598
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            558.0,
+            710.0,
+            586.0
+          ],
+          "confidence": 0.957994282245636
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        582.0,
+        166.0,
+        614.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            586.0,
+            98.0,
+            608.0
+          ],
+          "confidence": 0.8800212740898132
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            103.0,
+            582.0,
+            166.0,
+            614.0
+          ],
+          "confidence": 0.7785812020301819
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        31.0,
+        614.0,
+        201.0,
+        638.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            31.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9760612845420837
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        638.0,
+        166.0,
+        663.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            638.0,
+            166.0,
+            663.0
+          ],
+          "confidence": 0.9794078469276428
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        665.0,
+        170.0,
+        689.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            665.0,
+            170.0,
+            689.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 07/12/2020",
+      "bbox": [
+        482.0,
+        697.0,
+        625.0,
+        725.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 07/12/2020",
+          "bbox": [
+            482.0,
+            697.0,
+            625.0,
+            725.0
+          ],
+          "confidence": 0.975320041179657
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        718.0,
+        617.0,
+        753.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            718.0,
+            201.0,
+            742.0
+          ],
+          "confidence": 0.9601250886917114
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            727.0,
+            617.0,
+            753.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "NV. Đặng Thị Thu Huyền",
+      "bbox": [
+        445.0,
+        800.0,
+        648.0,
+        827.0
+      ],
+      "words": [
+        {
+          "text": "NV. Đặng Thị Thu Huyền",
+          "bbox": [
+            445.0,
+            800.0,
+            648.0,
+            827.0
+          ],
+          "confidence": 0.9670705199241638
+        }
+      ]
+    },
+    {
+      "text": "Tái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (oiếui cá)",
+      "bbox": [
+        33.0,
+        856.0,
+        416.0,
+        880.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh khám Xin mang thco ĩonđ, Xk nghinm phiám (oiếui cá)",
+          "bbox": [
+            33.0,
+            856.0,
+            416.0,
+            880.0
+          ],
+          "confidence": 0.8064213395118713
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 23:25:35",
+      "bbox": [
+        587.0,
+        897.0,
+        731.0,
+        918.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 23:25:35",
+          "bbox": [
+            587.0,
+            897.0,
+            731.0,
+            918.0
+          ],
+          "confidence": 0.9987189769744873
+        }
+      ]
+    }
+  ]
+}

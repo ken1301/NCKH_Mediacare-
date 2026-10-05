@@ -1,0 +1,588 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_575",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_575.png",
+  "text": "1/1 MN áỐ người bnh\nLHANG\nSố phiếu 3284/2019\nTOA THAỐC TH U C BH BHYT\nNm x n2\nThu ặo hiếhám y tế CK 2 206 65441\nMạch: lần/phút Huyết áp: 20 MmmHgHg Th â n nhiệt: c\nCận lâm sàng:\nCânhần okn:06- Nhiễm trưng h hấp trần cđp nhiêu ị tri Ià 2ị tr khĩng ác ịnh\n1) CEPHALEXIN 250MG 0,25g SL: 30 Viên\nGhi chú Uống:\n2) MYPARA 500 500mg SL: 10 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 18/12/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)\n28/12/2021 23:56:57",
+  "lines": [
+    {
+      "text": "1/1 MN áỐ người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        715.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9994077086448669
+        },
+        {
+          "text": "MN áỐ người bnh",
+          "bbox": [
+            599.0,
+            35.0,
+            715.0,
+            61.0
+          ],
+          "confidence": 0.708459734916687
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        150.0,
+        69.0,
+        213.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            150.0,
+            69.0,
+            213.0,
+            98.0
+          ],
+          "confidence": 0.9119308590888977
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3284/2019",
+      "bbox": [
+        369.0,
+        106.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3284/2019",
+          "bbox": [
+            369.0,
+            106.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.9914068579673767
+        }
+      ]
+    },
+    {
+      "text": "TOA THAỐC TH U C BH BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAỐC TH U C BH BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.8404855132102966
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế CK 2 206 65441",
+      "bbox": [
+        24.0,
+        219.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "CK 2",
+          "bbox": [
+            178.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.9238195419311523
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "65441",
+          "bbox": [
+            506.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9993840456008911
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 20 MmmHgHg Th â n nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            274.0
+          ],
+          "confidence": 0.9989838004112244
+        },
+        {
+          "text": "20",
+          "bbox": [
+            379.0,
+            253.0,
+            389.0,
+            268.0
+          ],
+          "confidence": 0.2824937403202057
+        },
+        {
+          "text": "MmmHgHg",
+          "bbox": [
+            448.0,
+            247.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.816861093044281
+        },
+        {
+          "text": "Th â n nhiệt:",
+          "bbox": [
+            510.0,
+            250.0,
+            597.0,
+            271.0
+          ],
+          "confidence": 0.8445543646812439
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okn:06- Nhiễm trưng h hấp trần cđp nhiêu ị tri Ià 2ị tr khĩng ác ịnh",
+      "bbox": [
+        24.0,
+        286.0,
+        598.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okn:06- Nhiễm trưng h hấp trần cđp nhiêu ị tri Ià 2ị tr khĩng ác ịnh",
+          "bbox": [
+            24.0,
+            286.0,
+            598.0,
+            312.0
+          ],
+          "confidence": 0.7965295910835266
+        }
+      ]
+    },
+    {
+      "text": "1) CEPHALEXIN 250MG 0,25g SL: 30 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        711.0,
+        433.0
+      ],
+      "words": [
+        {
+          "text": "1) CEPHALEXIN 250MG 0,25g",
+          "bbox": [
+            38.0,
+            396.0,
+            360.0,
+            433.0
+          ],
+          "confidence": 0.9896904230117798
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            711.0,
+            431.0
+          ],
+          "confidence": 0.9920735955238342
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        426.0,
+        165.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            96.0,
+            454.0
+          ],
+          "confidence": 0.9694389700889587
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8742533922195435
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 10 Viên",
+      "bbox": [
+        35.0,
+        448.0,
+        710.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            35.0,
+            448.0,
+            293.0,
+            487.0
+          ],
+          "confidence": 0.9432287812232971
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.9172347784042358
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        479.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            104.0,
+            479.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.8603283762931824
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        30.0,
+        507.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            30.0,
+            507.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9687904715538025
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9452342987060547
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/12/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/12/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.969207227230072
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9784430265426636
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        460.0,
+        696.0,
+        633.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            460.0,
+            696.0,
+            633.0,
+            723.0
+          ],
+          "confidence": 0.9745052456855774
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.8181512951850891
+        }
+      ]
+    },
+    {
+      "text": "28/12/2021 23:56:57",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "28/12/2021 23:56:57",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9959995150566101
+        }
+      ]
+    }
+  ]
+}
