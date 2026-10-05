@@ -12,6 +12,8 @@ os.environ.setdefault("PADDLE_PDX_CACHE_HOME", str(ROOT / "runtime/paddlex-cache
 
 from paddleocr import PaddleOCR
 
+MOJIBAKE_MARKERS = ("Ã", "Â", "áº", "á»", "Ä", "Æ", "Å", "�")
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -20,6 +22,26 @@ def parse_args():
     parser.add_argument("--device", default="cpu")
     parser.add_argument("--rec-model-dir", default="", help="Custom PaddleOCR recognition inference model directory")
     return parser.parse_args()
+
+
+def mojibake_score(text):
+    return sum(str(text).count(marker) for marker in MOJIBAKE_MARKERS)
+
+
+def repair_mojibake(text):
+    value = str(text)
+    best = value
+    best_score = mojibake_score(value)
+    for encoding in ("cp1252", "latin1"):
+        try:
+            candidate = value.encode(encoding).decode("utf-8")
+        except UnicodeError:
+            continue
+        score = mojibake_score(candidate)
+        if score < best_score:
+            best = candidate
+            best_score = score
+    return best
 
 
 def result_to_dict(page):
@@ -56,7 +78,7 @@ def collect_words(ocr, image_path):
             if not box or not str(text).strip():
                 continue
             words.append({
-                "text": str(text).strip(),
+                "text": repair_mojibake(str(text).strip()),
                 "bbox": box,
                 "confidence": float(scores[index]) if index < len(scores) else None,
             })
