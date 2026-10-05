@@ -1,0 +1,801 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_950",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_950.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngogoại] Số phiếu 71029/2020\nTOA THUỐC BHYT\nNam 2 ữx\nThu ặo h êhám y tế S 35 35 207 46668 C\nMạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt:\nCận 1snm gng: Chp X uang nggc nhong\nCâềuhần oknhoảnN20- Viêám phế ịuin cếp: (M15) toái h a a khop\n1) CEFADROXIL 500MG 0,5g SL: 20 Viên\nGh chú 8 Uống Sáau a ăn: Sáng 2 Viên Ciều 2 Viên\n2) DIXIREIN 375mg SL: 20 Viên\nGh chú Uống áau kh ặn: Sáng 2 Viên Chiều 2 Viên\n3) PANACTOL 500mg SL: 20 Viên\nGhi chú Uốg Sau h ăn: Sáng 2 Viên Chiều 2 Viên\n4) VIPREDNI 16MG 16mg SL: 10 Viên\nGhi chú Uống au hi ăn: Sáng 2 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/12/2020\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. khong dung\nTái khKhám in Mmang tho ĩon, Xct nghinm phiam (nếui c)\n04/05/2021 07:27:06",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        51.0,
+        18.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.994290828704834
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 71029/2020",
+      "bbox": [
+        23.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            23.0,
+            84.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9215922355651855
+        },
+        {
+          "text": "Số phiếu 71029/2020",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.967090904712677
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9711178541183472
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế S 35 35 207 46668 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "S",
+          "bbox": [
+            181.0,
+            204.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9999946355819702
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            327.0,
+            228.0
+          ],
+          "confidence": 0.999914824962616
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "46668",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9996136426925659
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt:",
+      "bbox": [
+        25.0,
+        228.0,
+        595.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9581835269927979
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            252.0
+          ],
+          "confidence": 0.9859391450881958
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        }
+      ]
+    },
+    {
+      "text": "Cận 1snm gng: Chp X uang nggc nhong",
+      "bbox": [
+        25.0,
+        252.0,
+        304.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1snm gng: Chp X uang nggc nhong",
+          "bbox": [
+            25.0,
+            252.0,
+            304.0,
+            275.0
+          ],
+          "confidence": 0.7718966603279114
+        }
+      ]
+    },
+    {
+      "text": "Câềuhần oknhoảnN20- Viêám phế ịuin cếp: (M15) toái h a a khop",
+      "bbox": [
+        25.0,
+        268.0,
+        460.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Câềuhần oknhoảnN20- Viêám phế ịuin cếp: (M15) toái h a a khop",
+          "bbox": [
+            25.0,
+            268.0,
+            460.0,
+            295.0
+          ],
+          "confidence": 0.7359538674354553
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        708.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 0,5g",
+          "bbox": [
+            42.0,
+            381.0,
+            349.0,
+            412.0
+          ],
+          "confidence": 0.9812297224998474
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            384.0,
+            708.0,
+            409.0
+          ],
+          "confidence": 0.9975361227989197
+        }
+      ]
+    },
+    {
+      "text": "Gh chú 8 Uống Sáau a ăn: Sáng 2 Viên Ciều 2 Viên",
+      "bbox": [
+        35.0,
+        412.0,
+        614.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "8",
+          "bbox": [
+            92.0,
+            417.0,
+            111.0,
+            430.0
+          ],
+          "confidence": 0.3080715537071228
+        },
+        {
+          "text": "Uống Sáau a ăn:",
+          "bbox": [
+            106.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.7983492016792297
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            382.0,
+            437.0
+          ],
+          "confidence": 0.865814208984375
+        },
+        {
+          "text": "Ciều 2 Viên",
+          "bbox": [
+            514.0,
+            412.0,
+            614.0,
+            434.0
+          ],
+          "confidence": 0.9234541058540344
+        }
+      ]
+    },
+    {
+      "text": "2) DIXIREIN 375mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        434.0,
+        709.0,
+        465.0
+      ],
+      "words": [
+        {
+          "text": "2) DIXIREIN 375mg",
+          "bbox": [
+            37.0,
+            434.0,
+            255.0,
+            465.0
+          ],
+          "confidence": 0.9265995621681213
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            435.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9608951807022095
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uống áau kh ặn: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        35.0,
+        461.0,
+        610.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            466.0,
+            98.0,
+            484.0
+          ],
+          "confidence": 0.7565373778343201
+        },
+        {
+          "text": "Uống áau kh ặn:",
+          "bbox": [
+            107.0,
+            465.0,
+            235.0,
+            486.0
+          ],
+          "confidence": 0.8268348574638367
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9865562319755554
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            461.0,
+            610.0,
+            489.0
+          ],
+          "confidence": 0.9966512322425842
+        }
+      ]
+    },
+    {
+      "text": "3) PANACTOL 500mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        484.0,
+        709.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) PANACTOL 500mg",
+          "bbox": [
+            38.0,
+            484.0,
+            275.0,
+            519.0
+          ],
+          "confidence": 0.982284426689148
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            488.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9235668778419495
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sau h ăn: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        515.0,
+        609.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            517.0,
+            94.0,
+            538.0
+          ],
+          "confidence": 0.837203860282898
+        },
+        {
+          "text": "Uốg Sau h ăn:",
+          "bbox": [
+            109.0,
+            518.0,
+            235.0,
+            539.0
+          ],
+          "confidence": 0.7274999618530273
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            286.0,
+            515.0,
+            377.0,
+            539.0
+          ],
+          "confidence": 0.9927446842193604
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            512.0,
+            515.0,
+            609.0,
+            539.0
+          ],
+          "confidence": 0.9894683957099915
+        }
+      ]
+    },
+    {
+      "text": "4) VIPREDNI 16MG 16mg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        537.0,
+        709.0,
+        571.0
+      ],
+      "words": [
+        {
+          "text": "4) VIPREDNI 16MG 16mg",
+          "bbox": [
+            38.0,
+            537.0,
+            320.0,
+            571.0
+          ],
+          "confidence": 0.9614055156707764
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            541.0,
+            709.0,
+            566.0
+          ],
+          "confidence": 0.9996906518936157
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống au hi ăn: Sáng 2 Viên",
+      "bbox": [
+        34.0,
+        568.0,
+        378.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống au hi ăn:",
+          "bbox": [
+            108.0,
+            569.0,
+            235.0,
+            591.0
+          ],
+          "confidence": 0.8620181679725647
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            568.0,
+            378.0,
+            593.0
+          ],
+          "confidence": 0.9933833479881287
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9443156719207764
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        648.0,
+        168.0,
+        670.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            648.0,
+            168.0,
+            670.0
+          ],
+          "confidence": 0.9581643342971802
+        }
+      ]
+    },
+    {
+      "text": "Ngày 17/12/2020",
+      "bbox": [
+        483.0,
+        682.0,
+        623.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 17/12/2020",
+          "bbox": [
+            483.0,
+            682.0,
+            623.0,
+            705.0
+          ],
+          "confidence": 0.9911425113677979
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        702.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            702.0,
+            199.0,
+            723.0
+          ],
+          "confidence": 0.9504585862159729
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9960330128669739
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dung",
+      "bbox": [
+        482.0,
+        781.0,
+        612.0,
+        812.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dung",
+          "bbox": [
+            482.0,
+            781.0,
+            612.0,
+            812.0
+          ],
+          "confidence": 0.9521014094352722
+        }
+      ]
+    },
+    {
+      "text": "Tái khKhám in Mmang tho ĩon, Xct nghinm phiam (nếui c)",
+      "bbox": [
+        32.0,
+        837.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKhám in Mmang tho ĩon, Xct nghinm phiam (nếui c)",
+          "bbox": [
+            32.0,
+            837.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.8391079902648926
+        }
+      ]
+    },
+    {
+      "text": "04/05/2021 07:27:06",
+      "bbox": [
+        586.0,
+        880.0,
+        732.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "04/05/2021 07:27:06",
+          "bbox": [
+            586.0,
+            880.0,
+            732.0,
+            900.0
+          ],
+          "confidence": 0.9667232036590576
+        }
+      ]
+    }
+  ]
+}

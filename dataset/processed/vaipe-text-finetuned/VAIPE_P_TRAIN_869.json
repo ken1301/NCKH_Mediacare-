@@ -1,0 +1,578 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_869",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_869.png",
+  "text": "MN c người 5bnh\nTYT XÃ NHÂN CHNH\nSố phiếu 1465/2020\nTOA THUỐC BHYT\nNm x n2\nThu úo hiếhám y tế S 2 207 97715\nMạch: lần/phút Huyết áp: MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCnhần ĩokn: L21.8- i ám d áhác\n1) CEPHALEXIN PMP 500 0,5g SL: 20 Viên\nGhi chú Uống:\n2) SERGUROP 10mg SL: 5 Viên\nGhi chú Uốg:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 04/05/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSĐK. L Thị Anh\nTái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)\n21/12/2021 23:37:53",
+  "lines": [
+    {
+      "text": "MN c người 5bnh",
+      "bbox": [
+        597.0,
+        33.0,
+        717.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ NHÂN CHNH",
+      "bbox": [
+        25.0,
+        70.0,
+        205.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ NHÂN CHNH",
+          "bbox": [
+            25.0,
+            70.0,
+            205.0,
+            97.0
+          ],
+          "confidence": 0.9262001514434814
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1465/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        537.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1465/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            537.0,
+            138.0
+          ],
+          "confidence": 0.9928925037384033
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.92198246717453
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu úo hiếhám y tế S 2 207 97715",
+      "bbox": [
+        23.0,
+        219.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu úo hiếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            156.0,
+            246.0
+          ],
+          "confidence": 0.7923290133476257
+        },
+        {
+          "text": "S",
+          "bbox": [
+            178.0,
+            220.0,
+            237.0,
+            246.0
+          ],
+          "confidence": 0.9999867677688599
+        },
+        {
+          "text": "2",
+          "bbox": [
+            238.0,
+            221.0,
+            272.0,
+            246.0
+          ],
+          "confidence": 0.970421314239502
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.999661922454834
+        },
+        {
+          "text": "97715",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9993791580200195
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            163.0,
+            243.0,
+            311.0,
+            276.0
+          ],
+          "confidence": 0.97025465965271
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        130.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            130.0,
+            294.0
+          ],
+          "confidence": 0.9549980163574219
+        }
+      ]
+    },
+    {
+      "text": "Cnhần ĩokn: L21.8- i ám d áhác",
+      "bbox": [
+        24.0,
+        286.0,
+        261.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cnhần ĩokn: L21.8- i ám d áhác",
+          "bbox": [
+            24.0,
+            286.0,
+            261.0,
+            312.0
+          ],
+          "confidence": 0.7592565417289734
+        }
+      ]
+    },
+    {
+      "text": "1) CEPHALEXIN PMP 500 0,5g SL: 20 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        711.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) CEPHALEXIN PMP 500 0,5g",
+          "bbox": [
+            38.0,
+            396.0,
+            364.0,
+            434.0
+          ],
+          "confidence": 0.9833106398582458
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            711.0,
+            431.0
+          ],
+          "confidence": 0.9940494894981384
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        428.0,
+        165.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            96.0,
+            454.0
+          ],
+          "confidence": 0.9694389700889587
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            428.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8387137651443481
+        }
+      ]
+    },
+    {
+      "text": "2) SERGUROP 10mg SL: 5 Viên",
+      "bbox": [
+        35.0,
+        449.0,
+        701.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) SERGUROP 10mg",
+          "bbox": [
+            35.0,
+            449.0,
+            265.0,
+            486.0
+          ],
+          "confidence": 0.9793137907981873
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            701.0,
+            483.0
+          ],
+          "confidence": 0.9811436533927917
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg:",
+      "bbox": [
+        32.0,
+        480.0,
+        166.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            96.0,
+            506.0
+          ],
+          "confidence": 0.9697542190551758
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            105.0,
+            480.0,
+            166.0,
+            509.0
+          ],
+          "confidence": 0.8411173820495605
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        30.0,
+        508.0,
+        202.0,
+        536.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            30.0,
+            508.0,
+            202.0,
+            536.0
+          ],
+          "confidence": 0.9911145567893982
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 04/05/2020",
+      "bbox": [
+        481.0,
+        592.0,
+        626.0,
+        621.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 04/05/2020",
+          "bbox": [
+            481.0,
+            592.0,
+            626.0,
+            621.0
+          ],
+          "confidence": 0.9956133365631104
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.973363995552063
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "YSĐK. L Thị Anh",
+      "bbox": [
+        469.0,
+        693.0,
+        624.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "YSĐK. L Thị Anh",
+          "bbox": [
+            469.0,
+            693.0,
+            624.0,
+            723.0
+          ],
+          "confidence": 0.8874670267105103
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.8321012854576111
+        }
+      ]
+    },
+    {
+      "text": "21/12/2021 23:37:53",
+      "bbox": [
+        586.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "21/12/2021 23:37:53",
+          "bbox": [
+            586.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9727586507797241
+        }
+      ]
+    }
+  ]
+}

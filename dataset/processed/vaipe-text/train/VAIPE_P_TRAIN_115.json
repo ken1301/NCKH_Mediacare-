@@ -1,0 +1,249 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_115",
+  "image": "public_train/image/VAIPE_P_TRAIN_115.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (G46?) Hội\nchứng mạch máu não trong bệnh mạch não (I60-167')\nThuốc điều trị:\n1) Metformin (Metformin 500) 500mg\nUống: TRƯA 1 Viên TỐI 1 Viên\nSL: 80 Viên\n2) Gliclazid (Golddicron) 30mg\nUống trước khi ăn: sáng 1 viên\nSL: 40 Viên\n3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn: Hẹn KHám 7/2/2022\nNgày 29 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Bùi Mạnh Hà\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (G46?) Hội",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1095,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "chứng mạch máu não trong bệnh mạch não (I60-167')",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        390,
+        765,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Metformin (Metformin 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        577,
+        520
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "Uống: TRƯA 1 Viên TỐI 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        715,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 80 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Gliclazid (Golddicron) 30mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        605,
+        487,
+        647
+      ],
+      "mapping": 42
+    },
+    {
+      "text": "Uống trước khi ăn: sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        705,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        728,
+        892,
+        777
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        737,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        190,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Hẹn KHám 7/2/2022",
+      "label": "other",
+      "bbox": [
+        42,
+        863,
+        475,
+        904
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        912,
+        1027,
+        954
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        677,
+        959,
+        1002,
+        999
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1007,
+        969,
+        1042
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        717,
+        1148,
+        962,
+        1186
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1197,
+        507,
+        1232
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1242,
+        1007,
+        1282
+      ],
+      "mapping": null
+    }
+  ]
+}

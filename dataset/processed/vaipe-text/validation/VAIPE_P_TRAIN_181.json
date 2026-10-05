@@ -1,0 +1,425 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_181",
+  "image": "public_train/image/VAIPE_P_TRAIN_181.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 8566/2021\n4699376\nTOA THUỐC BHYT\nNam\nNữ\n960\n09913\n25\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: J20 - Viêm phế quản cấp; (J30.4) Viêm mũi dị ứng, không phân loại\n1) INGARON 200 DST 200mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\nChiều 1 Viên\n2) PANACTOL 500mg\nSL: 20 Viên\nGhi chú Uống\nChiều 2 Viên\nSáng 2 Viên\n3) SERGUROP 10mg\nSL: 5 Viên\nTối 1 Viên\nGhi chú uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/02/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n01/01/2022 15:22:53",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 8566/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        532,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4699376",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "960",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "09913",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        241
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: J20 - Viêm phế quản cấp; (J30.4) Viêm mũi dị ứng, không phân loại",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        574,
+        313
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) INGARON 200 DST 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        350,
+        430
+      ],
+      "mapping": 27
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        275,
+        483
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) SERGUROP 10mg",
+      "label": "drugname",
+      "bbox": [
+        43,
+        504,
+        260,
+        537
+      ],
+      "mapping": 14
+    },
+    {
+      "text": "SL: 5 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        696,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        534,
+        701,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        162,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 05/02/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        621,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "label": "other",
+      "bbox": [
+        457,
+        752,
+        636,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "01/01/2022 15:22:53",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

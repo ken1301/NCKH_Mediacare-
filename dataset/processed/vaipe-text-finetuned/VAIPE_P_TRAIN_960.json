@@ -1,0 +1,567 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_960",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_960.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 5.1 [TĐ] Số phiếu 63949/2019\nTOA THUỐC BHYT\nNm 2N\nThu úo hiếhám y tế BT 2 135 206 16054\nMạch: lần/phút Huyết áp: 3 MMHg Thân nhiệt\nCn 1sm sàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu) Định đương Cho1Số rưo1\ntuoàn phần (máu) Định 1ương Crơêainin (máu) Định 1ương GiucOSố [MMhu), Định đưng HA1c [MMáu\nTốing phân tich nườc tiếu (Bong Mmáky tự ĩnng)\nCiềuhần okhoả: E11 - Bệnh ái tháo đường thông phu thunc ônSốuhi\n1) LAZIBET MR 60 60mg SL: 32 Viên\nGhi chú Uống trưc thi ăn: Sáng 1 Viên\nCộng khoản: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khámản: Th N, 12/11/2019\nNgày 11/10/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Tiến Bình\nTái khákhám Xin mang thco ĩođn, Xết nghinệm phimám (nếu c)\n21/12/2021 23:08:11",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        51.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9944257140159607
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 63949/2019",
+      "bbox": [
+        23.0,
+        100.0,
+        547.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            100.0,
+            141.0,
+            134.0
+          ],
+          "confidence": 0.9962543249130249
+        },
+        {
+          "text": "Số phiếu 63949/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            547.0,
+            138.0
+          ],
+          "confidence": 0.9896979928016663
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.921598494052887
+        }
+      ]
+    },
+    {
+      "text": "Nm 2N",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm 2N",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.6196097731590271
+        }
+      ]
+    },
+    {
+      "text": "Thu úo hiếhám y tế BT 2 135 206 16054",
+      "bbox": [
+        23.0,
+        219.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu úo hiếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            156.0,
+            246.0
+          ],
+          "confidence": 0.7923290133476257
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            183.0,
+            222.0,
+            223.0,
+            245.0
+          ],
+          "confidence": 0.8413075804710388
+        },
+        {
+          "text": "2",
+          "bbox": [
+            238.0,
+            221.0,
+            271.0,
+            245.0
+          ],
+          "confidence": 0.783186137676239
+        },
+        {
+          "text": "135",
+          "bbox": [
+            270.0,
+            220.0,
+            329.0,
+            246.0
+          ],
+          "confidence": 0.716916024684906
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "16054",
+          "bbox": [
+            507.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9997292757034302
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 3 MMHg Thân nhiệt",
+      "bbox": [
+        24.0,
+        246.0,
+        596.0,
+        272.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            309.0,
+            272.0
+          ],
+          "confidence": 0.95674067735672
+        },
+        {
+          "text": "3",
+          "bbox": [
+            380.0,
+            257.0,
+            386.0,
+            262.0
+          ],
+          "confidence": 0.4615916907787323
+        },
+        {
+          "text": "MMHg Thân nhiệt",
+          "bbox": [
+            450.0,
+            250.0,
+            596.0,
+            271.0
+          ],
+          "confidence": 0.8922093510627747
+        }
+      ]
+    },
+    {
+      "text": "Cn 1sm sàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu) Định đương Cho1Số rưo1",
+      "bbox": [
+        24.0,
+        270.0,
+        719.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cn 1sm sàng: Đo hoMạH ĩô ALT (GPT) [MMáu) Đo hoMạ ị AST (GOT) [MMáu) Định đương Cho1Số rưo1",
+          "bbox": [
+            24.0,
+            270.0,
+            719.0,
+            293.0
+          ],
+          "confidence": 0.8476925492286682
+        }
+      ]
+    },
+    {
+      "text": "tuoàn phần (máu) Định 1ương Crơêainin (máu) Định 1ương GiucOSố [MMhu), Định đưng HA1c [MMáu",
+      "bbox": [
+        24.0,
+        290.0,
+        718.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "tuoàn phần (máu) Định 1ương Crơêainin (máu) Định 1ương GiucOSố [MMhu), Định đưng HA1c [MMáu",
+          "bbox": [
+            24.0,
+            290.0,
+            718.0,
+            314.0
+          ],
+          "confidence": 0.8666553497314453
+        }
+      ]
+    },
+    {
+      "text": "Tốing phân tich nườc tiếu (Bong Mmáky tự ĩnng)",
+      "bbox": [
+        26.0,
+        310.0,
+        345.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Tốing phân tich nườc tiếu (Bong Mmáky tự ĩnng)",
+          "bbox": [
+            26.0,
+            310.0,
+            345.0,
+            332.0
+          ],
+          "confidence": 0.8193978071212769
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần okhoả: E11 - Bệnh ái tháo đường thông phu thunc ônSốuhi",
+      "bbox": [
+        26.0,
+        329.0,
+        461.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần okhoả: E11 - Bệnh ái tháo đường thông phu thunc ônSốuhi",
+          "bbox": [
+            26.0,
+            329.0,
+            461.0,
+            352.0
+          ],
+          "confidence": 0.7724703550338745
+        }
+      ]
+    },
+    {
+      "text": "1) LAZIBET MR 60 60mg SL: 32 Viên",
+      "bbox": [
+        40.0,
+        437.0,
+        710.0,
+        472.0
+      ],
+      "words": [
+        {
+          "text": "1) LAZIBET MR 60 60mg",
+          "bbox": [
+            40.0,
+            437.0,
+            309.0,
+            472.0
+          ],
+          "confidence": 0.9677029848098755
+        },
+        {
+          "text": "SL: 32 Viên",
+          "bbox": [
+            591.0,
+            438.0,
+            710.0,
+            469.0
+          ],
+          "confidence": 0.9576606154441833
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống trưc thi ăn: Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        468.0,
+        379.0,
+        494.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            470.0,
+            96.0,
+            491.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống trưc thi ăn:",
+          "bbox": [
+            106.0,
+            469.0,
+            249.0,
+            493.0
+          ],
+          "confidence": 0.8288372159004211
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            285.0,
+            468.0,
+            379.0,
+            494.0
+          ],
+          "confidence": 0.9894576668739319
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoả",
+      "bbox": [
+        30.0,
+        494.0,
+        200.0,
+        522.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoả",
+          "bbox": [
+            30.0,
+            494.0,
+            200.0,
+            522.0
+          ],
+          "confidence": 0.9358750581741333
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        521.0,
+        166.0,
+        546.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            521.0,
+            166.0,
+            546.0
+          ],
+          "confidence": 0.9683902263641357
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khámản: Th N, 12/11/2019",
+      "bbox": [
+        30.0,
+        546.0,
+        312.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khámản: Th N, 12/11/2019",
+          "bbox": [
+            30.0,
+            546.0,
+            312.0,
+            572.0
+          ],
+          "confidence": 0.8979513049125671
+        }
+      ]
+    },
+    {
+      "text": "Ngày 11/10/2019",
+      "bbox": [
+        482.0,
+        581.0,
+        625.0,
+        607.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 11/10/2019",
+          "bbox": [
+            482.0,
+            581.0,
+            625.0,
+            607.0
+          ],
+          "confidence": 0.9875039458274841
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        601.0,
+        616.0,
+        634.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            601.0,
+            201.0,
+            625.0
+          ],
+          "confidence": 0.9545516967773438
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            610.0,
+            616.0,
+            634.0
+          ],
+          "confidence": 0.9870515465736389
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Tiến Bình",
+      "bbox": [
+        457.0,
+        680.0,
+        636.0,
+        710.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Tiến Bình",
+          "bbox": [
+            457.0,
+            680.0,
+            636.0,
+            710.0
+          ],
+          "confidence": 0.9641700983047485
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang thco ĩođn, Xết nghinệm phimám (nếu c)",
+      "bbox": [
+        32.0,
+        737.0,
+        415.0,
+        763.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang thco ĩođn, Xết nghinệm phimám (nếu c)",
+          "bbox": [
+            32.0,
+            737.0,
+            415.0,
+            763.0
+          ],
+          "confidence": 0.8400525450706482
+        }
+      ]
+    },
+    {
+      "text": "21/12/2021 23:08:11",
+      "bbox": [
+        587.0,
+        781.0,
+        731.0,
+        801.0
+      ],
+      "words": [
+        {
+          "text": "21/12/2021 23:08:11",
+          "bbox": [
+            587.0,
+            781.0,
+            731.0,
+            801.0
+          ],
+          "confidence": 0.966143786907196
+        }
+      ]
+    }
+  ]
+}

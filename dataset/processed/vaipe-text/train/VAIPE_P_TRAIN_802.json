@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_802",
+  "image": "public_train/image/VAIPE_P_TRAIN_802.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 36085/2019\n4937957\nTOA THUỐC BHYT\nNam\nNữ\n206\n56848\nDN\n35\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Chụp Xquang xương bàn ngón tay thẳng, nghiêng hoặc chếch\nChẩn đoán: S62 - Gẫy xương tầm cổ tay và bàn tay\n1) MYPARA 500 500mg\nSL: 20 Viên\nSáng 2 Viên\nGhi chú Uống:\nChiều 2 Viên\n2) STATRIPSINE 4,2mg\nSL: 20 Viên\nChiều 2 Viên\nSáng 2 Viên\nGhi chú uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 10/06/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n26/12/2021 23:17:13",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 36085/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4937957",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "56848",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "DN",
+      "label": "other",
+      "bbox": [
+        186,
+        228,
+        215,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        301,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang xương bàn ngón tay thẳng, nghiêng hoặc chếch",
+      "label": "other",
+      "bbox": [
+        26,
+        270,
+        545,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: S62 - Gẫy xương tầm cổ tay và bàn tay",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        291,
+        372,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MYPARA 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        290,
+        430
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        432,
+        162,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) STATRIPSINE 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        290,
+        483
+      ],
+      "mapping": 7
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        486,
+        159,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        513,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 10/06/2019",
+      "label": "date",
+      "bbox": [
+        485,
+        601,
+        621,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "label": "other",
+      "bbox": [
+        467,
+        695,
+        626,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "26/12/2021 23:17:13",
+      "label": "other",
+      "bbox": [
+        585,
+        794,
+        732,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

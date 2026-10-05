@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_650",
+  "image": "public_train/image/VAIPE_P_TRAIN_650.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: J42 - Viêm phế quản mãn tính không phân loại\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n2) Carbocistein (Anpemux) 250mg\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 20 Viên\n3) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\nLời dặn:\nNgày 27 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Văn Thự\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J42 - Viêm phế quản mãn tính không phân loại",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        347,
+        835,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        446,
+        512,
+        490
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        749,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        195,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Carbocistein (Anpemux) 250mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        575,
+        530,
+        617
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        642,
+        750,
+        683
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        647,
+        197,
+        675
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        705,
+        585,
+        742
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        772,
+        752,
+        812
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        775,
+        195,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        840,
+        157,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        882,
+        1027,
+        920
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        929,
+        1002,
+        969
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        975,
+        969,
+        1012
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "label": "other",
+      "bbox": [
+        661,
+        1110,
+        1018,
+        1164
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1165,
+        507,
+        1200
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1212,
+        1007,
+        1252
+      ],
+      "mapping": null
+    }
+  ]
+}

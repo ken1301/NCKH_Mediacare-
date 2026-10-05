@@ -1,0 +1,556 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_826",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_826.png",
+  "text": "1/1 M c người bnh\nLHANG\nSố phiếu 2685/2019\nTOA THỐC  BHYT\nNam x Nữ\nThu ặo h ếhám y tế GB 4 35 35 208\nMạch: Lần/phút Huyết áp: MmMHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCộềuhkn kng: 05 - hm nườu Và nnh nhan chu\n1) XITORAN 0,5g SL: 20 Viên\nGhi chúK Uốg: Sáng 2 Viên Chiều 2 Viên\nCộng khoả: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 23/10/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n04/05/2021 08:42:43",
+  "lines": [
+    {
+      "text": "1/1 M c người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            120.0,
+            63.0
+          ],
+          "confidence": 0.952928364276886
+        },
+        {
+          "text": "M c người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8392256498336792
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        151.0,
+        53.0,
+        211.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            151.0,
+            53.0,
+            211.0,
+            78.0
+          ],
+          "confidence": 0.886309802532196
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2685/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2685/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9434683918952942
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8849057555198669
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 35 208",
+      "bbox": [
+        25.0,
+        203.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            205.0,
+            269.0,
+            226.0
+          ],
+          "confidence": 0.47625499963760376
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997953772544861
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: MmMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.953322172164917
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            517.0,
+            254.0
+          ],
+          "confidence": 0.8726142048835754
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cộềuhkn kng: 05 - hm nườu Và nnh nhan chu",
+      "bbox": [
+        25.0,
+        271.0,
+        345.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cộềuhkn kng: 05 - hm nườu Và nnh nhan chu",
+          "bbox": [
+            25.0,
+            271.0,
+            345.0,
+            293.0
+          ],
+          "confidence": 0.7683386206626892
+        }
+      ]
+    },
+    {
+      "text": "1) XITORAN 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) XITORAN 0,5g",
+          "bbox": [
+            40.0,
+            380.0,
+            234.0,
+            415.0
+          ],
+          "confidence": 0.9503107666969299
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            409.0,
+            165.0,
+            439.0
+          ],
+          "confidence": 0.8634210824966431
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            437.0
+          ],
+          "confidence": 0.9988322257995605
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoả",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoả",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9384718537330627
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9831748604774475
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/10/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/10/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9701499938964844
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        462.0,
+        627.0,
+        631.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            462.0,
+            627.0,
+            631.0,
+            652.0
+          ],
+          "confidence": 0.9116334319114685
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488333821296692
+        }
+      ]
+    },
+    {
+      "text": "04/05/2021 08:42:43",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "04/05/2021 08:42:43",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9658556580543518
+        }
+      ]
+    }
+  ]
+}

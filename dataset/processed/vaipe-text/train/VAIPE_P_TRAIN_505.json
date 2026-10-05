@@ -1,0 +1,260 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_505",
+  "image": "public_train/image/VAIPE_P_TRAIN_505.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: M13 - Các viêm khớp khuỷu tay phải; (LO3) Viêm mô bào;\n(E53.9) Thiếu vitamin B, không đặc hiệu\nThuốc điều trị:\n1) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 20 Viên\n2) Loxoprofen (Mezafen) 60mg\nUống: Sáng 1 Viên Chiều 1 Viên\nSL: 20 Viên\n3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 20 Viên\nLời dặn:\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: M13 - Các viêm khớp khuỷu tay phải; (LO3) Viêm mô bào;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1010,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(E53.9) Thiếu vitamin B, không đặc hiệu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        388,
+        592,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        565,
+        520
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        750,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Loxoprofen (Mezafen) 60mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        605,
+        487,
+        647
+      ],
+      "mapping": 78
+    },
+    {
+      "text": "Uống: Sáng 1 Viên Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        750,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        732,
+        875,
+        777
+      ],
+      "mapping": 104
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        752,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        195,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        870,
+        157,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        911,
+        1030,
+        954
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        677,
+        959,
+        1002,
+        999
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1007,
+        970,
+        1042
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1152,
+        997,
+        1182
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1197,
+        507,
+        1232
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1242,
+        1007,
+        1282
+      ],
+      "mapping": null
+    }
+  ]
+}

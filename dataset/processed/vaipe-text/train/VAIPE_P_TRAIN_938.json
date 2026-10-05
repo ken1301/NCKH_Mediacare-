@@ -1,0 +1,326 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_938",
+  "image": "public_train/image/VAIPE_P_TRAIN_938.png",
+  "text": "Khoa Khám bệnh\nPK Số 4 [Sản]\nSố phiếu 22144/2021\n4937948\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n150\n60999\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: N76 - Các viêm khác của âm đạo và âm hộ\n1) FABAMOX 500 500mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/04/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Vũ Thị Hiên\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 10:42:49",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        26,
+        60,
+        148,
+        78
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 4 [Sản]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        127,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 22144/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        545,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4937948",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "150",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "60999",
+      "label": "other",
+      "bbox": [
+        511,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        451,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: N76 - Các viêm khác của âm đạo và âm hộ",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        399,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        306,
+        413
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        410,
+        161,
+        437
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        492,
+        167,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 13/04/2021",
+      "label": "date",
+      "bbox": [
+        484,
+        529,
+        620,
+        548
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Vũ Thị Hiên",
+      "label": "other",
+      "bbox": [
+        481,
+        630,
+        611,
+        648
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 10:42:49",
+      "label": "other",
+      "bbox": [
+        586,
+        725,
+        730,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

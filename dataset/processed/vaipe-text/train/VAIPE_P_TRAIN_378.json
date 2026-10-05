@@ -1,0 +1,557 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_378",
+  "image": "public_train/image/VAIPE_P_TRAIN_378.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 516/2022\n4656986\nTOA THUỐC BHYT\nNam\nNữ\n205\n92310\n3\n35\n35\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 37\nMạch:\n80\n130\nCận lâm sảng: Định lượng Acid Uric [Máu], Định lượng Cholesterol toàn phần (máu), Định lượng\nGlucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng\nTriglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, CI) [Máu], Tổng phân tích\nnước tiều (Bằng máy tự động), Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser); Điện tim\nthường\nChấn đoán: T10 - Bệnh lý tăng huyết áp; (149) Loạn nhịp tim khác; (E78.2) Tăng lipid máu hỗn hợp;\n(G46%) Hội chứng mạch máu não trong bệnh mạch não (I60-1677)\n1) HANGITOR PLUS 40mg+12,5mg\nSL:34 viên\nGhi chú Uống:\nSáng 1 viên\n2) ATORIS 20MG 20mg\nSL: 17 Viên\nGhi chú Uống\nTối 1/2 Viên\n3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 40 viên\nGhi chú Uống\nChiều 2 viên\nSáng 2 viên\n4) SAVIPROLOL 2,5 2,5mg\nSL:34 Viên\nGhi chú Uống:\nSáng 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc: Hẹn KHám Lại 7/2/2022\nNgày hẹn tái khám:\nNgày 05/01/2022\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Đào Thị Bích Thủy\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 22:01:52",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        188,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 516/2022",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        780,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4656986",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "92310",
+      "label": "other",
+      "bbox": [
+        760,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        387,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sảng: Định lượng Acid Uric [Máu], Định lượng Cholesterol toàn phần (máu), Định lượng",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        1030,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+      "label": "other",
+      "bbox": [
+        37,
+        425,
+        992,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Triglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, CI) [Máu], Tổng phân tích",
+      "label": "other",
+      "bbox": [
+        37,
+        450,
+        1072,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "nước tiều (Bằng máy tự động), Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser); Điện tim",
+      "label": "other",
+      "bbox": [
+        34,
+        479,
+        1040,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "thường",
+      "label": "other",
+      "bbox": [
+        32,
+        504,
+        115,
+        541
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: T10 - Bệnh lý tăng huyết áp; (149) Loạn nhịp tim khác; (E78.2) Tăng lipid máu hỗn hợp;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        535,
+        1052,
+        567
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(G46%) Hội chứng mạch máu não trong bệnh mạch não (I60-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        567,
+        707,
+        597
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        65,
+        707,
+        597,
+        747
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "SL:34 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        707,
+        1047,
+        739
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        742,
+        235,
+        780
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        750,
+        552,
+        780
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ATORIS 20MG 20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        782,
+        427,
+        825
+      ],
+      "mapping": 15
+    },
+    {
+      "text": "SL: 17 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        784,
+        1055,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        820,
+        223,
+        857
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1/2 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        825,
+        1065,
+        852
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        857,
+        750,
+        903
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        864,
+        1049,
+        897
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        900,
+        223,
+        935
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        765,
+        902,
+        897,
+        930
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        907,
+        552,
+        935
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) SAVIPROLOL 2,5 2,5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        940,
+        477,
+        980
+      ],
+      "mapping": 41
+    },
+    {
+      "text": "SL:34 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        942,
+        1057,
+        975
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        977,
+        235,
+        1013
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        985,
+        560,
+        1012
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        1027,
+        289,
+        1055
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám Lại 7/2/2022",
+      "label": "other",
+      "bbox": [
+        45,
+        1060,
+        540,
+        1090
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        1102,
+        247,
+        1130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 05/01/2022",
+      "label": "date",
+      "bbox": [
+        722,
+        1155,
+        927,
+        1185
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1182,
+        292,
+        1210
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1190,
+        912,
+        1222
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "label": "other",
+      "bbox": [
+        680,
+        1307,
+        950,
+        1337
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1384,
+        617,
+        1421
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 22:01:52",
+      "label": "other",
+      "bbox": [
+        877,
+        1450,
+        1090,
+        1475
+      ],
+      "mapping": null
+    }
+  ]
+}

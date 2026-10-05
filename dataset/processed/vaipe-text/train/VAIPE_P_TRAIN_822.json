@@ -1,0 +1,524 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_822",
+  "image": "public_train/image/VAIPE_P_TRAIN_822.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 1\nSố phiếu 45376/2021\n4690479\nTOA THUỐC BHYT\nNam\nNữ\n08018\n35\n35\n206\n3\nlần/phút Huyết áp:\nmmHg Thân nhiệt:\nMạch:\n130\nCận lâm sàng: Định lượng Glucose [Máu]; Doppler động mạch cảnh, Doppler xuyên sọ\nChấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (170.2)\nXơ vữa động mạch ngoại biên; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1671)\n1) PYME DIAPRO MR 30mg\nSL:30 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\n2) ENALAPRIL 5mg\nSL: 60 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n3) PAMLONOR 5mg\nSL: 60 Viên\nGhi chú uống:\nChiều 1 Viên\nSáng 1 Viên\n4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 40 viên\nGhi chú Uống:\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc: Hẹn KHám 21/10/2021\nNgày hẹn tái khám:\nNgày 21/09/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Bùi Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 23:20:19",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 1",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        283,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 45376/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4690479",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "08018",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        387,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        887,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Glucose [Máu]; Doppler động mạch cảnh, Doppler xuyên sọ",
+      "label": "other",
+      "bbox": [
+        37,
+        395,
+        922,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (170.2)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        420,
+        1072,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Xơ vữa động mạch ngoại biên; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1671)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        452,
+        1022,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PYME DIAPRO MR 30mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        495,
+        630
+      ],
+      "mapping": 37
+    },
+    {
+      "text": "SL:30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        629,
+        362,
+        668
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        380,
+        710
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        223,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PAMLONOR 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        382,
+        787
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        790,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        820,
+        750,
+        868
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        890,
+        827,
+        1050,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        867,
+        897,
+        895
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        552,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        912,
+        290,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám 21/10/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        945,
+        515,
+        975
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        987,
+        247,
+        1015
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21/09/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        1040,
+        925,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1067,
+        292,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1077,
+        913,
+        1110
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        712,
+        1192,
+        917,
+        1220
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1272,
+        617,
+        1306
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 23:20:19",
+      "label": "other",
+      "bbox": [
+        877,
+        1334,
+        1089,
+        1359
+      ],
+      "mapping": null
+    }
+  ]
+}

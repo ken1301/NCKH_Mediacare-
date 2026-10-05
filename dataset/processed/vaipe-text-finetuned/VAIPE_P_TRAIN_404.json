@@ -1,0 +1,658 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_404",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_404.png",
+  "text": "1/1 M sc người bnh\nÌNH NGHĨA\nSố phiếu 1585/2019\nTOA HA C THU C BH BHT\nNam x Nữ\nThu ặo h ếhám y tế CB 35 35 206 32781\nMạch: Lần/phút Huyết áp: 130 8/0 MMHHg Th n n hi t: C\nCộn lâm sàng:\nCânhần okn: I10- Tăng huyến áp ô căn (nguyễn phát): (L20) Viêm d co ịtạ dị ứng\n1) ENALAPRIL 5mg SL: 60 Viên\nGhi chú 2) GAPHYTON S 100mg475mg47,5mg Uốg Sáng 1 Viên Tối 1 Viên\nSL: 20 Viên\nGhi chú Uống Sáng 2 Viên Tối 2 Viên\nCộnng okhn 2  khâ\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS.\nTiái kh áhám Xin mmMnng th ho ođn, nt nghinm phirhám (ônếu c)\n10/06/202121:30:01",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            17.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9995034337043762
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        152.0,
+        49.0,
+        254.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            152.0,
+            49.0,
+            254.0,
+            78.0
+          ],
+          "confidence": 0.952198326587677
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1585/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1585/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9826592206954956
+        }
+      ]
+    },
+    {
+      "text": "TOA HA C THU C BH BHT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA HA C THU C BH BHT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.794989824295044
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CB 35 35 206 32781",
+      "bbox": [
+        25.0,
+        203.0,
+        562.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            183.0,
+            204.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.7666075229644775
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999765753746033
+        },
+        {
+          "text": "32781",
+          "bbox": [
+            507.0,
+            203.0,
+            562.0,
+            228.0
+          ],
+          "confidence": 0.9986652135848999
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: 130 8/0 MMHHg Th n n hi t: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            230.0,
+            311.0,
+            253.0
+          ],
+          "confidence": 0.977698028087616
+        },
+        {
+          "text": "130",
+          "bbox": [
+            332.0,
+            232.0,
+            365.0,
+            252.0
+          ],
+          "confidence": 0.9998793005943298
+        },
+        {
+          "text": "8/0",
+          "bbox": [
+            361.0,
+            231.0,
+            416.0,
+            253.0
+          ],
+          "confidence": 0.4968084394931793
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            521.0,
+            252.0
+          ],
+          "confidence": 0.7747368216514587
+        },
+        {
+          "text": "Th n n hi t:",
+          "bbox": [
+            512.0,
+            234.0,
+            594.0,
+            252.0
+          ],
+          "confidence": 0.7798266410827637
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okn: I10- Tăng huyến áp ô căn (nguyễn phát): (L20) Viêm d co ịtạ dị ứng",
+      "bbox": [
+        25.0,
+        268.0,
+        596.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okn: I10- Tăng huyến áp ô căn (nguyễn phát): (L20) Viêm d co ịtạ dị ứng",
+          "bbox": [
+            25.0,
+            268.0,
+            596.0,
+            295.0
+          ],
+          "confidence": 0.832861065864563
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 60 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            40.0,
+            379.0,
+            258.0,
+            415.0
+          ],
+          "confidence": 0.9813979268074036
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            595.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9702386260032654
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú 2) GAPHYTON S 100mg475mg47,5mg Uốg Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        705.0,
+        469.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "2) GAPHYTON S 100mg475mg47,5mg",
+          "bbox": [
+            35.0,
+            429.0,
+            431.0,
+            469.0
+          ],
+          "confidence": 0.9020798206329346
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.8696209788322449
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            411.0,
+            378.0,
+            436.0
+          ],
+          "confidence": 0.9747677445411682
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            409.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.9955239295959473
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 Viên",
+      "bbox": [
+        594.0,
+        437.0,
+        709.0,
+        462.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9167513251304626
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        33.0,
+        462.0,
+        705.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.9211470484733582
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            377.0,
+            487.0
+          ],
+          "confidence": 0.9956784844398499
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            622.0,
+            463.0,
+            705.0,
+            487.0
+          ],
+          "confidence": 0.9992906451225281
+        }
+      ]
+    },
+    {
+      "text": "Cộnng okhn 2  khâ",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộnng okhn 2  khâ",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.7747521996498108
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9278872013092041
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9677396416664124
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/05/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/05/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9939289689064026
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        614.0,
+        628.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            607.0,
+            614.0,
+            628.0
+          ],
+          "confidence": 0.967309832572937
+        }
+      ]
+    },
+    {
+      "text": "BS.",
+      "bbox": [
+        473.0,
+        680.0,
+        516.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "BS.",
+          "bbox": [
+            473.0,
+            680.0,
+            516.0,
+            703.0
+          ],
+          "confidence": 0.9557130336761475
+        }
+      ]
+    },
+    {
+      "text": "Tiái kh áhám Xin mmMnng th ho ođn, nt nghinm phirhám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kh áhám Xin mmMnng th ho ođn, nt nghinm phirhám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8061497211456299
+        }
+      ]
+    },
+    {
+      "text": "10/06/202121:30:01",
+      "bbox": [
+        589.0,
+        777.0,
+        729.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "10/06/202121:30:01",
+          "bbox": [
+            589.0,
+            777.0,
+            729.0,
+            794.0
+          ],
+          "confidence": 0.9873685836791992
+        }
+      ]
+    }
+  ]
+}

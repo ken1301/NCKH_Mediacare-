@@ -1,0 +1,547 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_904",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_904.png",
+  "text": "MN c người 5bnh\nKoa Khám bệnh\nPK SỐ 3 [NHI] Số phiếu 46702/2021\nTOHAỐC THU C BH YBHYT\nN xN2\nThu ặo h ếhám y tế KC 4 206 86080\nMạch: lần/phút Huyt áp: MMHg Thân nhiệt: c\nCận lâm sàng:\nCânhần ĩonoả: I10- Bnệnh 1s tăng huyến áp: (G461) Hi chứng mạch máu nao trAong bệnh mạch nẾo (160.\n1677)\n1) PAMLONOR 5mg SL: 20 Viên\nGhi chú Ug: Sáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/10/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếui cá)\n06/01/2022 10:53:37",
+  "lines": [
+    {
+      "text": "MN c người 5bnh",
+      "bbox": [
+        597.0,
+        33.0,
+        717.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "Koa Khám bệnh",
+      "bbox": [
+        23.0,
+        72.0,
+        153.0,
+        99.0
+      ],
+      "words": [
+        {
+          "text": "Koa Khám bệnh",
+          "bbox": [
+            23.0,
+            72.0,
+            153.0,
+            99.0
+          ],
+          "confidence": 0.8726839423179626
+        }
+      ]
+    },
+    {
+      "text": "PK SỐ 3 [NHI] Số phiếu 46702/2021",
+      "bbox": [
+        21.0,
+        101.0,
+        546.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK SỐ 3 [NHI]",
+          "bbox": [
+            21.0,
+            101.0,
+            138.0,
+            134.0
+          ],
+          "confidence": 0.9715161919593811
+        },
+        {
+          "text": "Số phiếu 46702/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            546.0,
+            138.0
+          ],
+          "confidence": 0.990349292755127
+        }
+      ]
+    },
+    {
+      "text": "TOHAỐC THU C BH YBHYT",
+      "bbox": [
+        257.0,
+        135.0,
+        510.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOHAỐC THU C BH YBHYT",
+          "bbox": [
+            257.0,
+            135.0,
+            510.0,
+            173.0
+          ],
+          "confidence": 0.8209038972854614
+        }
+      ]
+    },
+    {
+      "text": "N xN2",
+      "bbox": [
+        613.0,
+        161.0,
+        740.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N xN2",
+          "bbox": [
+            613.0,
+            161.0,
+            740.0,
+            201.0
+          ],
+          "confidence": 0.791196346282959
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế KC 4 206 86080",
+      "bbox": [
+        24.0,
+        219.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "KC",
+          "bbox": [
+            180.0,
+            221.0,
+            223.0,
+            245.0
+          ],
+          "confidence": 0.9956783056259155
+        },
+        {
+          "text": "4",
+          "bbox": [
+            233.0,
+            219.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.9996839761734009
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999755024909973
+        },
+        {
+          "text": "86080",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9977154731750488
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MMHg Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            599.0,
+            274.0
+          ],
+          "confidence": 0.985336184501648
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        22.0,
+        266.0,
+        130.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            22.0,
+            266.0,
+            130.0,
+            294.0
+          ],
+          "confidence": 0.9870933294296265
+        }
+      ]
+    },
+    {
+      "text": "Cânhần ĩonoả: I10- Bnệnh 1s tăng huyến áp: (G461) Hi chứng mạch máu nao trAong bệnh mạch nẾo (160.",
+      "bbox": [
+        24.0,
+        287.0,
+        717.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần ĩonoả: I10- Bnệnh 1s tăng huyến áp: (G461) Hi chứng mạch máu nao trAong bệnh mạch nẾo (160.",
+          "bbox": [
+            24.0,
+            287.0,
+            717.0,
+            312.0
+          ],
+          "confidence": 0.820338785648346
+        }
+      ]
+    },
+    {
+      "text": "1677)",
+      "bbox": [
+        22.0,
+        305.0,
+        72.0,
+        335.0
+      ],
+      "words": [
+        {
+          "text": "1677)",
+          "bbox": [
+            22.0,
+            305.0,
+            72.0,
+            335.0
+          ],
+          "confidence": 0.9732648730278015
+        }
+      ]
+    },
+    {
+      "text": "1) PAMLONOR 5mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) PAMLONOR 5mg",
+          "bbox": [
+            38.0,
+            395.0,
+            262.0,
+            434.0
+          ],
+          "confidence": 0.982702374458313
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9536470174789429
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Ug: Sáng 2 Viên",
+      "bbox": [
+        32.0,
+        428.0,
+        379.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            428.0,
+            166.0,
+            457.0
+          ],
+          "confidence": 0.7398409843444824
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            430.0,
+            379.0,
+            455.0
+          ],
+          "confidence": 0.9861996173858643
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        31.0,
+        458.0,
+        201.0,
+        482.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            31.0,
+            458.0,
+            201.0,
+            482.0
+          ],
+          "confidence": 0.9242053627967834
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        478.0,
+        169.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            478.0,
+            169.0,
+            508.0
+          ],
+          "confidence": 0.9838947653770447
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        508.0,
+        171.0,
+        532.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            508.0,
+            171.0,
+            532.0
+          ],
+          "confidence": 0.9480155110359192
+        }
+      ]
+    },
+    {
+      "text": "Ngày 11/10/2021",
+      "bbox": [
+        483.0,
+        540.0,
+        623.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 11/10/2021",
+          "bbox": [
+            483.0,
+            540.0,
+            623.0,
+            568.0
+          ],
+          "confidence": 0.9613322019577026
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        560.0,
+        617.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            560.0,
+            201.0,
+            587.0
+          ],
+          "confidence": 0.9518488645553589
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            489.0,
+            566.0,
+            617.0,
+            597.0
+          ],
+          "confidence": 0.9810596108436584
+        }
+      ]
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "bbox": [
+        457.0,
+        639.0,
+        636.0,
+        674.0
+      ],
+      "words": [
+        {
+          "text": "BS. Lương Tiến Dũng",
+          "bbox": [
+            457.0,
+            639.0,
+            636.0,
+            674.0
+          ],
+          "confidence": 0.9710429310798645
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang thco onđ, kết nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.7888017892837524
+        }
+      ]
+    },
+    {
+      "text": "06/01/2022 10:53:37",
+      "bbox": [
+        587.0,
+        741.0,
+        732.0,
+        762.0
+      ],
+      "words": [
+        {
+          "text": "06/01/2022 10:53:37",
+          "bbox": [
+            587.0,
+            741.0,
+            732.0,
+            762.0
+          ],
+          "confidence": 0.9883847236633301
+        }
+      ]
+    }
+  ]
+}

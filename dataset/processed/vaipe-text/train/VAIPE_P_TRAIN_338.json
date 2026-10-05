@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_338",
+  "image": "public_train/image/VAIPE_P_TRAIN_338.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 1\nSố phiếu 68/2022\n4887884\nTOA THUỐC BHYT\nNam\nNữ\n39267\n2\n35\n35\n208\nmmHg Thân nhiệt:\nLần/phút Huyết áp:\nMạch:\n130\nCận lâm sàng: Điện tim thường\nChấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (149)\nLoạn nhịp tim khác; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)\n1) MEGLUCON 1000 1000mg\nSL: 34 Viên\nGhi chú Uống:\nTối 1 Viên\n2) GOLDDICRON 30mg\nSL:34 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\n3) HANGITOR PLUS 40mg+12,5mg\nSL:34 viên\nGhi chú uống:\nSáng 1 viên\n4) SAVIPROLOL 2,5 2,5mg\nSL:34 Viên\nGhi chú Uống:\nSáng 1 Viên\n5) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 40 viên\nGhi chú Uống\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 5 khoản\nLời dặn đơn thuốc: Hẹn KHám 8/2/2022\nNgày hẹn tái khám:\nNgày 04/01/2022\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Bùi Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:35:45",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 1",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        283,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 68/2022",
+      "label": "other",
+      "bbox": [
+        553,
+        151,
+        765,
+        194
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4887884",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        755,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        927,
+        255,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        255,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "39267",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        387,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        887,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        497,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Điện tim thường",
+      "label": "other",
+      "bbox": [
+        37,
+        395,
+        357,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (149)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1054,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Loạn nhịp tim khác; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        452,
+        914,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        517,
+        632
+      ],
+      "mapping": 56
+    },
+    {
+      "text": "SL: 34 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        591,
+        1055,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        632,
+        1045,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) GOLDDICRON 30mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        432,
+        710
+      ],
+      "mapping": 37
+    },
+    {
+      "text": "SL:34 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        363,
+        747
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HANGITOR PLUS 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        65,
+        750,
+        597,
+        787
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "SL:34 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1047,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        552,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) SAVIPROLOL 2,5 2,5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        825,
+        477,
+        867
+      ],
+      "mapping": 41
+    },
+    {
+      "text": "SL:34 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        827,
+        1057,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        560,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        900,
+        750,
+        945
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        904,
+        1050,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        940,
+        223,
+        977
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        765,
+        945,
+        897,
+        972
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        946,
+        553,
+        978
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 5 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        990,
+        290,
+        1020
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám 8/2/2022",
+      "label": "other",
+      "bbox": [
+        45,
+        1022,
+        489,
+        1052
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        1065,
+        247,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04/01/2022",
+      "label": "date",
+      "bbox": [
+        722,
+        1117,
+        927,
+        1147
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1145,
+        292,
+        1172
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1157,
+        912,
+        1185
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        712,
+        1270,
+        917,
+        1300
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1349,
+        617,
+        1384
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:35:45",
+      "label": "other",
+      "bbox": [
+        877,
+        1412,
+        1089,
+        1437
+      ],
+      "mapping": null
+    }
+  ]
+}

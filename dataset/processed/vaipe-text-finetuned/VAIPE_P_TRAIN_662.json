@@ -1,0 +1,691 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_662",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_662.png",
+  "text": "1/1 M sỐ người bệnh\nPK Số 1 [Ngogoại] Số phiếu 12743/2020\nTOA THUỐC BHYT\nNam 2ữx\nĐệị ạ chi\nThu ặo hiếhám y tế HC 35 60 050\nMạch: Lần/pút Huyết áp: / MMHg Thân hiệ t:\nCậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1\ntÌoàn phần (rmáu) Định 1ưng HDL-C (High donSiuy 1ịpOprOItin Cho1SurO1) [MMáun) Định 1ưđg\nTrig4ycưrid (Mmáu) [MMáu)i Siêu sm hố tiết ninhu (thhn, tuyễn thưing thn, àng ọuang tiên 1inệt tuyến)\nCânhn okhnản N39.0- Nhiêm khuđn ường tiếnt ninu, khĩng Xác ĩịnh ềtri  (E78) Ri 1oạn chuyến hoán\nLipOoprOIitin và tinh trạng tễăng 1iịpid máu khách: (K76) Bnệnh gan káhác\n1) ETRONIDAZOL 250 250 mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\n2) DROMASM FORT 80mg SL: 10 Vi ên\nGhiah chú Uống Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 2 khoả n\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/03/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. khong dung\nTái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)\n08/05/2021 13:19:43",
+  "lines": [
+    {
+      "text": "1/1 M sỐ người bệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        714.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "M sỐ người bệnh",
+          "bbox": [
+            601.0,
+            20.0,
+            714.0,
+            42.0
+          ],
+          "confidence": 0.8750886917114258
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 12743/2020",
+      "bbox": [
+        23.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            23.0,
+            84.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9215922355651855
+        },
+        {
+          "text": "Số phiếu 12743/2020",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9711259603500366
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9393348097801208
+        }
+      ]
+    },
+    {
+      "text": "Nam 2ữx",
+      "bbox": [
+        617.0,
+        148.0,
+        738.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2ữx",
+          "bbox": [
+            617.0,
+            148.0,
+            738.0,
+            180.0
+          ],
+          "confidence": 0.8676977753639221
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        83.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HC 35 60 050",
+      "bbox": [
+        24.0,
+        202.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            202.0,
+            155.0,
+            228.0
+          ],
+          "confidence": 0.7961878180503845
+        },
+        {
+          "text": "HC",
+          "bbox": [
+            184.0,
+            205.0,
+            221.0,
+            225.0
+          ],
+          "confidence": 0.994706928730011
+        },
+        {
+          "text": "35",
+          "bbox": [
+            295.0,
+            203.0,
+            327.0,
+            227.0
+          ],
+          "confidence": 0.9991848468780518
+        },
+        {
+          "text": "60",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999272227287292
+        },
+        {
+          "text": "050",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9980316162109375
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: / MMHg Thân hiệ t:",
+      "bbox": [
+        23.0,
+        229.0,
+        596.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9966289401054382
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9113634824752808
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MMHg Thân hiệ t:",
+          "bbox": [
+            450.0,
+            233.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.926176905632019
+        }
+      ]
+    },
+    {
+      "text": "Cậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1",
+      "bbox": [
+        27.0,
+        254.0,
+        717.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhn 1sm ásàng: Đo hoạH ô ALT (GPT) [MMáun), Đo hoMạ ĩô AST (GOT) [MMáu) Định 1ương Cho1cStCrưo1",
+          "bbox": [
+            27.0,
+            254.0,
+            717.0,
+            275.0
+          ],
+          "confidence": 0.8028079271316528
+        }
+      ]
+    },
+    {
+      "text": "tÌoàn phần (rmáu) Định 1ưng HDL-C (High donSiuy 1ịpOprOItin Cho1SurO1) [MMáun) Định 1ưđg",
+      "bbox": [
+        25.0,
+        272.0,
+        675.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "tÌoàn phần (rmáu) Định 1ưng HDL-C (High donSiuy 1ịpOprOItin Cho1SurO1) [MMáun) Định 1ưđg",
+          "bbox": [
+            25.0,
+            272.0,
+            675.0,
+            295.0
+          ],
+          "confidence": 0.8088252544403076
+        }
+      ]
+    },
+    {
+      "text": "Trig4ycưrid (Mmáu) [MMáu)i Siêu sm hố tiết ninhu (thhn, tuyễn thưing thn, àng ọuang tiên 1inệt tuyến)",
+      "bbox": [
+        26.0,
+        290.0,
+        701.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "Trig4ycưrid (Mmáu) [MMáu)i Siêu sm hố tiết ninhu (thhn, tuyễn thưing thn, àng ọuang tiên 1inệt tuyến)",
+          "bbox": [
+            26.0,
+            290.0,
+            701.0,
+            314.0
+          ],
+          "confidence": 0.8274828195571899
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okhnản N39.0- Nhiêm khuđn ường tiếnt ninu, khĩng Xác ĩịnh ềtri  (E78) Ri 1oạn chuyến hoán",
+      "bbox": [
+        27.0,
+        312.0,
+        706.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okhnản N39.0- Nhiêm khuđn ường tiếnt ninu, khĩng Xác ĩịnh ềtri  (E78) Ri 1oạn chuyến hoán",
+          "bbox": [
+            27.0,
+            312.0,
+            706.0,
+            332.0
+          ],
+          "confidence": 0.8017996549606323
+        }
+      ]
+    },
+    {
+      "text": "LipOoprOIitin và tinh trạng tễăng 1iịpid máu khách: (K76) Bnệnh gan káhác",
+      "bbox": [
+        28.0,
+        332.0,
+        483.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "LipOoprOIitin và tinh trạng tễăng 1iịpid máu khách: (K76) Bnệnh gan káhác",
+          "bbox": [
+            28.0,
+            332.0,
+            483.0,
+            353.0
+          ],
+          "confidence": 0.8116819858551025
+        }
+      ]
+    },
+    {
+      "text": "1) ETRONIDAZOL 250 250 mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        420.0,
+        709.0,
+        452.0
+      ],
+      "words": [
+        {
+          "text": "1) ETRONIDAZOL 250 250 mg",
+          "bbox": [
+            41.0,
+            420.0,
+            377.0,
+            452.0
+          ],
+          "confidence": 0.9626877307891846
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            424.0,
+            709.0,
+            449.0
+          ],
+          "confidence": 0.9176819324493408
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        449.0,
+        608.0,
+        477.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            450.0,
+            94.0,
+            473.0
+          ],
+          "confidence": 0.7666507363319397
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            449.0,
+            163.0,
+            477.0
+          ],
+          "confidence": 0.9702358841896057
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            450.0,
+            377.0,
+            476.0
+          ],
+          "confidence": 0.9945454001426697
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            449.0,
+            608.0,
+            473.0
+          ],
+          "confidence": 0.9540138244628906
+        }
+      ]
+    },
+    {
+      "text": "2) DROMASM FORT 80mg SL: 10 Vi ên",
+      "bbox": [
+        39.0,
+        473.0,
+        709.0,
+        505.0
+      ],
+      "words": [
+        {
+          "text": "2) DROMASM FORT 80mg",
+          "bbox": [
+            39.0,
+            473.0,
+            324.0,
+            505.0
+          ],
+          "confidence": 0.9068779945373535
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            476.0,
+            709.0,
+            501.0
+          ],
+          "confidence": 0.9825626015663147
+        }
+      ]
+    },
+    {
+      "text": "Ghiah chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        499.0,
+        610.0,
+        528.0
+      ],
+      "words": [
+        {
+          "text": "Ghiah chú",
+          "bbox": [
+            34.0,
+            506.0,
+            93.0,
+            524.0
+          ],
+          "confidence": 0.8088047504425049
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            503.0,
+            162.0,
+            528.0
+          ],
+          "confidence": 0.9400478005409241
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            503.0,
+            377.0,
+            527.0
+          ],
+          "confidence": 0.9926660656929016
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            499.0,
+            610.0,
+            527.0
+          ],
+          "confidence": 0.9586502909660339
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoả n",
+      "bbox": [
+        33.0,
+        533.0,
+        198.0,
+        554.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoả n",
+          "bbox": [
+            33.0,
+            533.0,
+            198.0,
+            554.0
+          ],
+          "confidence": 0.9221839904785156
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        557.0,
+        165.0,
+        579.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            557.0,
+            165.0,
+            579.0
+          ],
+          "confidence": 0.9304463863372803
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        583.0,
+        167.0,
+        603.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            583.0,
+            167.0,
+            603.0
+          ],
+          "confidence": 0.9196882247924805
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/03/2020",
+      "bbox": [
+        484.0,
+        618.0,
+        622.0,
+        639.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/03/2020",
+          "bbox": [
+            484.0,
+            618.0,
+            622.0,
+            639.0
+          ],
+          "confidence": 0.9095422029495239
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        636.0,
+        614.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            636.0,
+            198.0,
+            658.0
+          ],
+          "confidence": 0.9843742251396179
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            645.0,
+            614.0,
+            667.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dung",
+      "bbox": [
+        483.0,
+        717.0,
+        611.0,
+        745.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dung",
+          "bbox": [
+            483.0,
+            717.0,
+            611.0,
+            745.0
+          ],
+          "confidence": 0.9492171406745911
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+      "bbox": [
+        32.0,
+        772.0,
+        416.0,
+        797.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xin Mmang thco ĩon, Xct nghinệm, phiam (ônếui c)",
+          "bbox": [
+            32.0,
+            772.0,
+            416.0,
+            797.0
+          ],
+          "confidence": 0.8272868990898132
+        }
+      ]
+    },
+    {
+      "text": "08/05/2021 13:19:43",
+      "bbox": [
+        588.0,
+        817.0,
+        730.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "08/05/2021 13:19:43",
+          "bbox": [
+            588.0,
+            817.0,
+            730.0,
+            834.0
+          ],
+          "confidence": 0.9769513010978699
+        }
+      ]
+    }
+  ]
+}

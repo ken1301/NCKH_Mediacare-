@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_815",
+  "image": "public_train/image/VAIPE_P_TRAIN_815.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChấn đoán: L08 - Nhiễm khuẩn khu trú khác của da và mô dưới da cẳng chân\nT\nThuốc điều trị:\n1) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên TốI 2 Viên\nSL: 30 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên Tối 2 Viên\nSL: 20 Viên\nLời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ\nBHXH\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1010,
+        210,
+        1059,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: L08 - Nhiễm khuẩn khu trú khác của da và mô dưới da cẳng chân",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        342,
+        1082,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "T",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        395,
+        60,
+        420
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        565,
+        520
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên TốI 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        715,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        585,
+        645
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        674,
+        714,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ",
+      "label": "other",
+      "bbox": [
+        42,
+        730,
+        1097,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BHXH",
+      "label": "other",
+      "bbox": [
+        42,
+        775,
+        140,
+        802
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        785,
+        1027,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        832,
+        1002,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        873,
+        970,
+        917
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1052,
+        997,
+        1082
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1095,
+        510,
+        1130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1142,
+        1007,
+        1182
+      ],
+      "mapping": null
+    }
+  ]
+}

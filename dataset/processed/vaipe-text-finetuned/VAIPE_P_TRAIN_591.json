@@ -1,0 +1,629 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_591",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_591.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1353/2019\nTOA THUỐC BHYT\nNam x Nữ\nThu ặo h ếhám y tế CK 35 206 83452\nMạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCộnhần okno: H65.1 - Viêm aại giưaạ không nung mđ cấp thác\n1) XITORAN 0,5g SL: 15 Viên\nGhi chú Uống\n2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên\nGhi chú Uống\n3) ALFACHIM 4,2mg SL: 20 Viên\nGhi chúc Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn ái khám:\nNgày 26/08/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)\n18/05/2021 11:14:33",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        43.0,
+        1.0,
+        716.0,
+        71.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            43.0,
+            1.0,
+            164.0,
+            71.0
+          ],
+          "confidence": 0.9944700598716736
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1353/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1353/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9713179469108582
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9711178541183472
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 35 206 83452",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            203.0,
+            224.0,
+            227.0
+          ],
+          "confidence": 0.8195087909698486
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999765753746033
+        },
+        {
+          "text": "83452",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9993011355400085
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cộnhần okno: H65.1 - Viêm aại giưaạ không nung mđ cấp thác",
+      "bbox": [
+        26.0,
+        271.0,
+        432.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhần okno: H65.1 - Viêm aại giưaạ không nung mđ cấp thác",
+          "bbox": [
+            26.0,
+            271.0,
+            432.0,
+            294.0
+          ],
+          "confidence": 0.7839201092720032
+        }
+      ]
+    },
+    {
+      "text": "1) XITORAN 0,5g SL: 15 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) XITORAN 0,5g",
+          "bbox": [
+            40.0,
+            380.0,
+            234.0,
+            415.0
+          ],
+          "confidence": 0.9252099394798279
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9589748382568359
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        408.0,
+        164.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            434.0
+          ],
+          "confidence": 0.8842782378196716
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            408.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.8434511423110962
+        }
+      ]
+    },
+    {
+      "text": "2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) SETBLOOD 115mg4100mg450mcg",
+          "bbox": [
+            37.0,
+            433.0,
+            420.0,
+            467.0
+          ],
+          "confidence": 0.9080455899238586
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9997545480728149
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        32.0,
+        462.0,
+        163.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.8278717994689941
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            462.0,
+            163.0,
+            490.0
+          ],
+          "confidence": 0.8203060626983643
+        }
+      ]
+    },
+    {
+      "text": "3) ALFACHIM 4,2mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) ALFACHIM 4,2mg",
+          "bbox": [
+            37.0,
+            485.0,
+            266.0,
+            518.0
+          ],
+          "confidence": 0.93215411901474
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            515.0
+          ],
+          "confidence": 0.9629952907562256
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống",
+      "bbox": [
+        34.0,
+        513.0,
+        165.0,
+        544.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            513.0,
+            165.0,
+            544.0
+          ],
+          "confidence": 0.9317018985748291
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9809985756874084
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn ái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn ái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9664134979248047
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/08/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/08/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9713442325592041
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "bbox": [
+        455.0,
+        729.0,
+        637.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Xuân Dũng",
+          "bbox": [
+            455.0,
+            729.0,
+            637.0,
+            758.0
+          ],
+          "confidence": 0.9858835935592651
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin Mmang tho onm n nghinm phirám (nếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.863033652305603
+        }
+      ]
+    },
+    {
+      "text": "18/05/2021 11:14:33",
+      "bbox": [
+        587.0,
+        825.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "18/05/2021 11:14:33",
+          "bbox": [
+            587.0,
+            825.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9945216178894043
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_33",
+  "image": "public_train/image/VAIPE_P_TRAIN_33.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChấn đoán: 149 - Loạn nhịp tim khác; (I10) Bệnh lý tăng huyết áp; (E07) Các\nrối loạn khác của tuyến giáp; (G46?) Hội chứng mạch máu não trong bệnh\nmạch não (160-1677)\nThuốc điều trị:\n1) Bisoprolol (SaviProlol 2,5) 2,5mg\nUống: Sáng 1 Viên\nSL: 10 Viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn:\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: 149 - Loạn nhịp tim khác; (I10) Bệnh lý tăng huyết áp; (E07) Các",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1087,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "rối loạn khác của tuyến giáp; (G46?) Hội chứng mạch máu não trong bệnh",
+      "label": "diagnose",
+      "bbox": [
+        34,
+        387,
+        1037,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        427,
+        317,
+        465
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        466,
+        243,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Bisoprolol (SaviProlol 2,5) 2,5mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        515,
+        555,
+        560
+      ],
+      "mapping": 41
+    },
+    {
+      "text": "Uống: Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        585,
+        550,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        195,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        641,
+        892,
+        687
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        737,
+        755
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        190,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        780,
+        160,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        825,
+        1030,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        872,
+        1002,
+        910
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        917,
+        970,
+        955
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1057,
+        1002,
+        1100
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1107,
+        507,
+        1142
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1152,
+        1007,
+        1195
+      ],
+      "mapping": null
+    }
+  ]
+}

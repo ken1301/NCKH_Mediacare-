@@ -1,0 +1,629 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_32",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_32.png",
+  "text": "MẾ sỐ người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 664/2022\nTOA THAC C  BHYT\nNam x ữ2\nTha tho hiế hm y tu HT 35 35 64622\nMạch: 0 lần/pútTHu ut áp:140 mMHmHg T Thâ n nhiệt 36.7 C\nCân shm gàng: Đinhn im thường Sáiu nm DOpp1cư im\nCnhắn onhn: 149 - LO ạn nhịPp tim hác : (R07.3) ĐMau ngc hác,: (G46) Hi chứng mMạch máu nÃO trOng\nnhnh mMạch nÃo (160-1677)\n1) SAVIPROLOL 2,5 2,5mg SL:20 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n2) HOAT HUYÊT DUNG NÃO 150mg420mg SL: 40 viên\nGhi chú uống Sáng 2 viên Ciều 2 viên\nCộng khoản: 2 khoản\nLời dặn đơ th c:\nNgày hẹn tái khám:\nNgày 05/01/2022\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Thị Bích Thủy\nTi khákham in mang tho ohn, Xđt nghinệhm phiám (1nếu c)\n05/01/2022 22:32:02",
+  "lines": [
+    {
+      "text": "MẾ sỐ người bệnh",
+      "bbox": [
+        896.0,
+        44.0,
+        1065.0,
+        75.0
+      ],
+      "words": [
+        {
+          "text": "MẾ sỐ người bệnh",
+          "bbox": [
+            896.0,
+            44.0,
+            1065.0,
+            75.0
+          ],
+          "confidence": 0.857620894908905
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        220.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            220.0,
+            128.0
+          ],
+          "confidence": 0.9741201996803284
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 664/2022",
+      "bbox": [
+        35.0,
+        145.0,
+        780.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 664/2022",
+          "bbox": [
+            552.0,
+            150.0,
+            780.0,
+            192.0
+          ],
+          "confidence": 0.9755440950393677
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC C  BHYT",
+      "bbox": [
+        383.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC C  BHYT",
+          "bbox": [
+            383.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8185282945632935
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1100.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1100.0,
+            282.0
+          ],
+          "confidence": 0.8793792724609375
+        }
+      ]
+    },
+    {
+      "text": "Tha tho hiế hm y tu HT 35 35 64622",
+      "bbox": [
+        37.0,
+        318.0,
+        839.0,
+        351.0
+      ],
+      "words": [
+        {
+          "text": "Tha tho hiế hm y tu",
+          "bbox": [
+            37.0,
+            320.0,
+            230.0,
+            351.0
+          ],
+          "confidence": 0.7007243633270264
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            271.0,
+            320.0,
+            321.0,
+            351.0
+          ],
+          "confidence": 0.8628047108650208
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            320.0,
+            484.0,
+            349.0
+          ],
+          "confidence": 0.8513074517250061
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            582.0,
+            351.0
+          ],
+          "confidence": 0.9997913837432861
+        },
+        {
+          "text": "64622",
+          "bbox": [
+            760.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.9997574090957642
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 0 lần/pútTHu ut áp:140 mMHmHg T Thâ n nhiệt 36.7 C",
+      "bbox": [
+        34.0,
+        349.0,
+        1012.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 0",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.97821444272995
+        },
+        {
+          "text": "lần/pútTHu ut áp:140",
+          "bbox": [
+            247.0,
+            356.0,
+            617.0,
+            393.0
+          ],
+          "confidence": 0.813465416431427
+        },
+        {
+          "text": "mMHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            753.0,
+            390.0
+          ],
+          "confidence": 0.8122696876525879
+        },
+        {
+          "text": "T Thâ n nhiệt 36.7",
+          "bbox": [
+            761.0,
+            358.0,
+            956.0,
+            389.0
+          ],
+          "confidence": 0.8656141757965088
+        },
+        {
+          "text": "C",
+          "bbox": [
+            964.0,
+            349.0,
+            1012.0,
+            391.0
+          ],
+          "confidence": 0.5116357803344727
+        }
+      ]
+    },
+    {
+      "text": "Cân shm gàng: Đinhn im thường Sáiu nm DOpp1cư im",
+      "bbox": [
+        34.0,
+        391.0,
+        581.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cân shm gàng: Đinhn im thường Sáiu nm DOpp1cư im",
+          "bbox": [
+            34.0,
+            391.0,
+            581.0,
+            423.0
+          ],
+          "confidence": 0.7555675506591797
+        }
+      ]
+    },
+    {
+      "text": "Cnhắn onhn: 149 - LO ạn nhịPp tim hác : (R07.3) ĐMau ngc hác,: (G46) Hi chứng mMạch máu nÃO trOng",
+      "bbox": [
+        34.0,
+        420.0,
+        1077.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Cnhắn onhn: 149 - LO ạn nhịPp tim hác : (R07.3) ĐMau ngc hác,: (G46) Hi chứng mMạch máu nÃO trOng",
+          "bbox": [
+            34.0,
+            420.0,
+            1077.0,
+            453.0
+          ],
+          "confidence": 0.8059711456298828
+        }
+      ]
+    },
+    {
+      "text": "nhnh mMạch nÃo (160-1677)",
+      "bbox": [
+        37.0,
+        453.0,
+        303.0,
+        480.0
+      ],
+      "words": [
+        {
+          "text": "nhnh mMạch nÃo (160-1677)",
+          "bbox": [
+            37.0,
+            453.0,
+            303.0,
+            480.0
+          ],
+          "confidence": 0.8560115098953247
+        }
+      ]
+    },
+    {
+      "text": "1) SAVIPROLOL 2,5 2,5mg SL:20 Viên",
+      "bbox": [
+        63.0,
+        588.0,
+        1055.0,
+        630.0
+      ],
+      "words": [
+        {
+          "text": "1) SAVIPROLOL 2,5 2,5mg",
+          "bbox": [
+            63.0,
+            588.0,
+            477.0,
+            630.0
+          ],
+          "confidence": 0.9093489646911621
+        },
+        {
+          "text": "SL:20 Viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1055.0,
+            624.0
+          ],
+          "confidence": 0.9419190287590027
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        46.0,
+        626.0,
+        906.0,
+        665.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            626.0,
+            242.0,
+            665.0
+          ],
+          "confidence": 0.9461855292320251
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            632.0,
+            560.0,
+            663.0
+          ],
+          "confidence": 0.9971345663070679
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            628.0,
+            906.0,
+            661.0
+          ],
+          "confidence": 0.9808928966522217
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYÊT DUNG NÃO 150mg420mg SL: 40 viên",
+      "bbox": [
+        55.0,
+        660.0,
+        1048.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYÊT DUNG NÃO 150mg420mg",
+          "bbox": [
+            55.0,
+            660.0,
+            752.0,
+            711.0
+          ],
+          "confidence": 0.8798362612724304
+        },
+        {
+          "text": "SL: 40 viên",
+          "bbox": [
+            886.0,
+            668.0,
+            1048.0,
+            703.0
+          ],
+          "confidence": 0.963900625705719
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 viên Ciều 2 viên",
+      "bbox": [
+        45.0,
+        705.0,
+        901.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            705.0,
+            242.0,
+            744.0
+          ],
+          "confidence": 0.921853244304657
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            429.0,
+            710.0,
+            555.0,
+            741.0
+          ],
+          "confidence": 0.9741520285606384
+        },
+        {
+          "text": "Ciều 2 viên",
+          "bbox": [
+            766.0,
+            708.0,
+            901.0,
+            739.0
+          ],
+          "confidence": 0.9592414498329163
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        45.0,
+        753.0,
+        290.0,
+        783.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            45.0,
+            753.0,
+            290.0,
+            783.0
+          ],
+          "confidence": 0.9682480692863464
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ th c:",
+      "bbox": [
+        43.0,
+        790.0,
+        242.0,
+        818.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ th c:",
+          "bbox": [
+            43.0,
+            790.0,
+            242.0,
+            818.0
+          ],
+          "confidence": 0.9284263849258423
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        830.0,
+        246.0,
+        858.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            830.0,
+            246.0,
+            858.0
+          ],
+          "confidence": 0.9073053002357483
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/01/2022",
+      "bbox": [
+        721.0,
+        879.0,
+        928.0,
+        913.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/01/2022",
+          "bbox": [
+            721.0,
+            879.0,
+            928.0,
+            913.0
+          ],
+          "confidence": 0.958334743976593
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        93.0,
+        910.0,
+        914.0,
+        953.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            93.0,
+            910.0,
+            291.0,
+            938.0
+          ],
+          "confidence": 0.9235222935676575
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            922.0,
+            914.0,
+            953.0
+          ],
+          "confidence": 0.9432898759841919
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "bbox": [
+        679.0,
+        1030.0,
+        950.0,
+        1067.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Thị Bích Thủy",
+          "bbox": [
+            679.0,
+            1030.0,
+            950.0,
+            1067.0
+          ],
+          "confidence": 0.9811363220214844
+        }
+      ]
+    },
+    {
+      "text": "Ti khákham in mang tho ohn, Xđt nghinệhm phiám (1nếu c)",
+      "bbox": [
+        44.0,
+        1113.0,
+        616.0,
+        1146.0
+      ],
+      "words": [
+        {
+          "text": "Ti khákham in mang tho ohn, Xđt nghinệhm phiám (1nếu c)",
+          "bbox": [
+            44.0,
+            1113.0,
+            616.0,
+            1146.0
+          ],
+          "confidence": 0.8119508028030396
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 22:32:02",
+      "bbox": [
+        876.0,
+        1174.0,
+        1090.0,
+        1203.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 22:32:02",
+          "bbox": [
+            876.0,
+            1174.0,
+            1090.0,
+            1203.0
+          ],
+          "confidence": 0.9868876934051514
+        }
+      ]
+    }
+  ]
+}

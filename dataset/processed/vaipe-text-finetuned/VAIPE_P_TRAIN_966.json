@@ -1,0 +1,618 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_966",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_966.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 1 [Ngogoại] Số phiếu 74121/2019\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế HT 2 207 83667\nMạch: lần/phút Huyết áp: MMHg Thân nhiệt:\nCận 1 shm ásàng: Siêu Mm hn tiết ninu (thn tuyến thưihng thn, àng 9uđuang tiên 1đinệt tuyếnên)\nCnhần on: N40- Tăng Sán tuyến tiên minệt: (H61. 2) NnH rếy taim (H66) Viêm ti giưaạ nung mđ Ià káông\nĩặc hibệui\n1) CEFADROXIL 0,5g SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\n2) METRONIDAZOL 250 250 mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 2 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/11/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)\n20/12/2021 20:35:25",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        50.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9297540187835693
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 74121/2019",
+      "bbox": [
+        23.0,
+        102.0,
+        547.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            23.0,
+            102.0,
+            147.0,
+            133.0
+          ],
+          "confidence": 0.9340851306915283
+        },
+        {
+          "text": "Số phiếu 74121/2019",
+          "bbox": [
+            369.0,
+            106.0,
+            547.0,
+            138.0
+          ],
+          "confidence": 0.9688246846199036
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        507.0,
+        169.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            507.0,
+            169.0
+          ],
+          "confidence": 0.9278697967529297
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 2 207 83667",
+      "bbox": [
+        24.0,
+        221.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            181.0,
+            221.0,
+            239.0,
+            246.0
+          ],
+          "confidence": 0.9941388368606567
+        },
+        {
+          "text": "2",
+          "bbox": [
+            236.0,
+            221.0,
+            329.0,
+            246.0
+          ],
+          "confidence": 0.9999006986618042
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.999661922454834
+        },
+        {
+          "text": "83667",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9991809725761414
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệt:",
+      "bbox": [
+        24.0,
+        246.0,
+        598.0,
+        272.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            308.0,
+            272.0
+          ],
+          "confidence": 0.9627724885940552
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            449.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9621658325195312
+        }
+      ]
+    },
+    {
+      "text": "Cận 1 shm ásàng: Siêu Mm hn tiết ninu (thn tuyến thưihng thn, àng 9uđuang tiên 1đinệt tuyếnên)",
+      "bbox": [
+        24.0,
+        269.0,
+        627.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1 shm ásàng: Siêu Mm hn tiết ninu (thn tuyến thưihng thn, àng 9uđuang tiên 1đinệt tuyếnên)",
+          "bbox": [
+            24.0,
+            269.0,
+            627.0,
+            292.0
+          ],
+          "confidence": 0.8149281740188599
+        }
+      ]
+    },
+    {
+      "text": "Cnhần on: N40- Tăng Sán tuyến tiên minệt: (H61. 2) NnH rếy taim (H66) Viêm ti giưaạ nung mđ Ià káông",
+      "bbox": [
+        23.0,
+        287.0,
+        728.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cnhần on: N40- Tăng Sán tuyến tiên minệt: (H61. 2) NnH rếy taim (H66) Viêm ti giưaạ nung mđ Ià káông",
+          "bbox": [
+            23.0,
+            287.0,
+            728.0,
+            313.0
+          ],
+          "confidence": 0.7965708374977112
+        }
+      ]
+    },
+    {
+      "text": "ĩặc hibệui",
+      "bbox": [
+        24.0,
+        307.0,
+        90.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "ĩặc hibệui",
+          "bbox": [
+            24.0,
+            307.0,
+            90.0,
+            332.0
+          ],
+          "confidence": 0.7268889546394348
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 0,5g SL: 20 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 0,5g",
+          "bbox": [
+            38.0,
+            395.0,
+            278.0,
+            434.0
+          ],
+          "confidence": 0.973714292049408
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            400.0,
+            710.0,
+            429.0
+          ],
+          "confidence": 0.9495546221733093
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        426.0,
+        609.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            430.0,
+            95.0,
+            452.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            430.0,
+            379.0,
+            454.0
+          ],
+          "confidence": 0.9865562319755554
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            429.0,
+            609.0,
+            453.0
+          ],
+          "confidence": 0.9997556805610657
+        }
+      ]
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250 mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        710.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) METRONIDAZOL 250 250 mg",
+          "bbox": [
+            36.0,
+            449.0,
+            381.0,
+            486.0
+          ],
+          "confidence": 0.9566119909286499
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            453.0,
+            710.0,
+            481.0
+          ],
+          "confidence": 0.994641125202179
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        32.0,
+        478.0,
+        610.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8365824818611145
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            482.0,
+            379.0,
+            507.0
+          ],
+          "confidence": 0.9297007918357849
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            478.0,
+            610.0,
+            506.0
+          ],
+          "confidence": 0.9982147812843323
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khon",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khon",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9544932842254639
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        168.0,
+        582.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            168.0,
+            582.0
+          ],
+          "confidence": 0.9680988788604736
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/11/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/11/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9925769567489624
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9576668739318848
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        693.0,
+        628.0,
+        725.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            693.0,
+            628.0,
+            725.0
+          ],
+          "confidence": 0.9558314085006714
+        }
+      ]
+    },
+    {
+      "text": "Tái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái thákhám Xin mang thco ĩonđ, Xc nghinm phiám (nếui co)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8240251541137695
+        }
+      ]
+    },
+    {
+      "text": "20/12/2021 20:35:25",
+      "bbox": [
+        587.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "20/12/2021 20:35:25",
+          "bbox": [
+            587.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9764795899391174
+        }
+      ]
+    }
+  ]
+}

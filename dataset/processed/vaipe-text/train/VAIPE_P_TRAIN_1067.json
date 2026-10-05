@@ -1,0 +1,458 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1067",
+  "image": "public_train/image/VAIPE_P_TRAIN_1067.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 6181/2021\n4666845\nTOA THUỐC BHYT\nNam\nNữ\n2\n207\n19447\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Siêu âm ô bụng, Chụp Xquang ngực thăng, Điện tim thường\nChấn đoán: R07.3 - Đau ngực khác; (120) Viêm phế quản cấp; (R10.4) Đau bụng không xác định và đau\nbụng khác\n1) CEFADROXIL 500MG 0,5g\nSL: 28 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n2) DIXIREIN 375mg\nSL: 28 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n3) PANACTOL 500mg\nSL: 20 Viên\nGhi chú Uống\nSáng 2 Viên\nChiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/01/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n20/12/2021 21:49:05",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 6181/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        532,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4666845",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        434,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "19447",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Siêu âm ô bụng, Chụp Xquang ngực thăng, Điện tim thường",
+      "label": "other",
+      "bbox": [
+        28,
+        275,
+        536,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: R07.3 - Đau ngực khác; (120) Viêm phế quản cấp; (R10.4) Đau bụng không xác định và đau",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        734,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "bụng khác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        311,
+        102,
+        334
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        348,
+        430
+      ],
+      "mapping": 19
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        433,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        255,
+        483
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        162,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        43,
+        504,
+        275,
+        537
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        536,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27/01/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        621,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "label": "other",
+      "bbox": [
+        467,
+        746,
+        626,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "20/12/2021 21:49:05",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

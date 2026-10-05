@@ -1,0 +1,447 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_268",
+  "image": "public_train/image/VAIPE_P_TRAIN_268.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 44725/2020\n4913268\nTOA THUỐC BHYT\nNam\nNữ\nHC 4\n130\n25735\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: J20 - Viêm phế quản cấp\n1) INGARON 200 DST 200mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) DIXIREIN 375mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n3) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống\nSáng 1 Viên\nChiều 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/08/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n27/12/2021 23:35:47",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 44725/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4913268",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "HC 4",
+      "label": "other",
+      "bbox": [
+        186,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        439,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25735",
+      "label": "other",
+      "bbox": [
+        510,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J20 - Viêm phế quản cấp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        279,
+        310
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) INGARON 200 DST 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        350,
+        430
+      ],
+      "mapping": 27
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        433,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        255,
+        483
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        162,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        43,
+        504,
+        275,
+        537
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        506,
+        708,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        536,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 17/08/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        472,
+        748,
+        619,
+        775
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27/12/2021 23:35:47",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

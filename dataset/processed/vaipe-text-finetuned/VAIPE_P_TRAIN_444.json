@@ -1,0 +1,576 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_444",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_444.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngogoại] Số phiếu 61611/2020\nTOA THUỐC BHYT\nNam x Nữ2\nĐệị ạ chi 3\nTh Ao hi ếhmy ềuế DN 4 79 79 162\nMạch: lần/pút Huyết áp: MmMHHg T T h ân nhiệt: C\nCộn lâm sàng:\nCâềuhn khoản 76- nh gaon hác\n1) CHORLATCYN 125mg450mg450mg425mg SL: 21 Viên\nGhi chúK Uốg: Sáng 1 Viên Chiều 1 Viốn Tối 1 Viên\nCộng khoản 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/11/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)\n15/05/2021 08:25:21",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 61611/2020",
+      "bbox": [
+        24.0,
+        84.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            24.0,
+            84.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9638400077819824
+        },
+        {
+          "text": "Số phiếu 61611/2020",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9711776375770569
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8780642151832581
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ2",
+      "bbox": [
+        616.0,
+        148.0,
+        737.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ2",
+          "bbox": [
+            616.0,
+            148.0,
+            737.0,
+            180.0
+          ],
+          "confidence": 0.8469838500022888
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi 3",
+      "bbox": [
+        25.0,
+        179.0,
+        117.0,
+        205.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            179.0,
+            82.0,
+            202.0
+          ],
+          "confidence": 0.7594336271286011
+        },
+        {
+          "text": "3",
+          "bbox": [
+            98.0,
+            186.0,
+            117.0,
+            205.0
+          ],
+          "confidence": 0.33289551734924316
+        }
+      ]
+    },
+    {
+      "text": "Th Ao hi ếhmy ềuế DN 4 79 79 162",
+      "bbox": [
+        23.0,
+        199.0,
+        471.0,
+        229.0
+      ],
+      "words": [
+        {
+          "text": "Th Ao hi ếhmy ềuế",
+          "bbox": [
+            23.0,
+            199.0,
+            157.0,
+            229.0
+          ],
+          "confidence": 0.7878265976905823
+        },
+        {
+          "text": "DN",
+          "bbox": [
+            181.0,
+            203.0,
+            224.0,
+            226.0
+          ],
+          "confidence": 0.9988265037536621
+        },
+        {
+          "text": "4",
+          "bbox": [
+            243.0,
+            205.0,
+            269.0,
+            226.0
+          ],
+          "confidence": 0.9999473094940186
+        },
+        {
+          "text": "79",
+          "bbox": [
+            296.0,
+            203.0,
+            327.0,
+            227.0
+          ],
+          "confidence": 0.9995661973953247
+        },
+        {
+          "text": "79",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9982677698135376
+        },
+        {
+          "text": "162",
+          "bbox": [
+            433.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998846054077148
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/pút Huyết áp: MmMHHg T T h ân nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/pút Huyết áp:",
+          "bbox": [
+            165.0,
+            228.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9419506192207336
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            449.0,
+            231.0,
+            517.0,
+            255.0
+          ],
+          "confidence": 0.8227885365486145
+        },
+        {
+          "text": "T T h ân nhiệt:",
+          "bbox": [
+            511.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.7784239649772644
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Câềuhn khoản 76- nh gaon hác",
+      "bbox": [
+        26.0,
+        272.0,
+        254.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Câềuhn khoản 76- nh gaon hác",
+          "bbox": [
+            26.0,
+            272.0,
+            254.0,
+            293.0
+          ],
+          "confidence": 0.7616807222366333
+        }
+      ]
+    },
+    {
+      "text": "1) CHORLATCYN 125mg450mg450mg425mg SL: 21 Viên",
+      "bbox": [
+        40.0,
+        381.0,
+        709.0,
+        414.0
+      ],
+      "words": [
+        {
+          "text": "1) CHORLATCYN 125mg450mg450mg425mg",
+          "bbox": [
+            40.0,
+            381.0,
+            499.0,
+            414.0
+          ],
+          "confidence": 0.9528093934059143
+        },
+        {
+          "text": "SL: 21 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9992115497589111
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 1 Viên Chiều 1 Viốn Tối 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        704.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            409.0,
+            165.0,
+            438.0
+          ],
+          "confidence": 0.722099244594574
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        },
+        {
+          "text": "Chiều 1 Viốn Tối 1 Viên",
+          "bbox": [
+            512.0,
+            409.0,
+            704.0,
+            436.0
+          ],
+          "confidence": 0.9676393270492554
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản 1 khoả",
+      "bbox": [
+        31.0,
+        438.0,
+        200.0,
+        464.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản 1 khoả",
+          "bbox": [
+            31.0,
+            438.0,
+            200.0,
+            464.0
+          ],
+          "confidence": 0.8989219665527344
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/11/2020",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/11/2020",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9974430203437805
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        541.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            541.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9919265508651733
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            550.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9633493423461914
+        }
+      ]
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "bbox": [
+        459.0,
+        623.0,
+        633.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "BS. Lương Tiến Dũng",
+          "bbox": [
+            459.0,
+            623.0,
+            633.0,
+            654.0
+          ],
+          "confidence": 0.9710710644721985
+        }
+      ]
+    },
+    {
+      "text": "Tái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháKhám Xin Mmanng thO onm, Xn nghinm phiram (ônếu co)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.7893365025520325
+        }
+      ]
+    },
+    {
+      "text": "15/05/2021 08:25:21",
+      "bbox": [
+        588.0,
+        723.0,
+        730.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "15/05/2021 08:25:21",
+          "bbox": [
+            588.0,
+            723.0,
+            730.0,
+            744.0
+          ],
+          "confidence": 0.9917188882827759
+        }
+      ]
+    }
+  ]
+}

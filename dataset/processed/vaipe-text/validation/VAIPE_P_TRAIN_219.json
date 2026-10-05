@@ -1,0 +1,326 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_219",
+  "image": "public_train/image/VAIPE_P_TRAIN_219.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: J40 - Viêm phế quản không xác định được là cấp hay mãn tính;\n(J30.3) Viêm mũi dị ứng khác; (K21) Bệnh trào ngược dạ dày - thực quản\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 20 Viên\n2) Methyl prednisolon (Methylprednisolon 4) 4mg\nUống sau khi ăn: sáng 4 viên\nSL: 20 Viên\n3) Loratadin (Sergurop) 10mg\nUống: Sáng 1 viên TốI 1 viên\nSL: 10 viên\n4) Omeprazol (Kagasdine) 20mg\nUống trước khi ăn: sáng 1 viên chiều 1 viên\nSL: 10 Viên\n5) Chlorpheniramin (hydrogen maleat) (Clorpheniramin) 4mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\nLời dặn:\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J40 - Viêm phế quản không xác định được là cấp hay mãn tính;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1060,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(J30.3) Viêm mũi dị ứng khác; (K21) Bệnh trào ngược dạ dày - thực quản",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        1032,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        752,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Methyl prednisolon (Methylprednisolon 4) 4mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        740,
+        647
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "Uống sau khi ăn: sáng 4 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        682,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Loratadin (Sergurop) 10mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        733,
+        465,
+        777
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "Uống: Sáng 1 viên TốI 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        700,
+        840
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        190,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Omeprazol (Kagasdine) 20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        865,
+        502,
+        902
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "Uống trước khi ăn: sáng 1 viên chiều 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        930,
+        905,
+        967
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        935,
+        197,
+        962
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5) Chlorpheniramin (hydrogen maleat) (Clorpheniramin) 4mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        992,
+        892,
+        1032
+      ],
+      "mapping": 29
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        1060,
+        752,
+        1100
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        1062,
+        195,
+        1092
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        1127,
+        157,
+        1157
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        1170,
+        1030,
+        1210
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1217,
+        1002,
+        1255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1265,
+        970,
+        1300
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1399,
+        1002,
+        1449
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1455,
+        507,
+        1487
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1495,
+        1007,
+        1542
+      ],
+      "mapping": null
+    }
+  ]
+}

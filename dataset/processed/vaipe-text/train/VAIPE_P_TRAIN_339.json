@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_339",
+  "image": "public_train/image/VAIPE_P_TRAIN_339.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 57135/2019\n4926289\nTOA THUỐC BHYT\nNam\nNữ\nTA\n35\n35\n207\n74915\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: 110 - Tăng huyết áp vô căn (nguyên phát)\n1) NIFEDIPIN T20 STADA RETARD 20mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) ENALAPRIL 5mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ sáu, 11/10/2019\nNgày 11/09/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/05/2021 08:49:29",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        127,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 57135/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4926289",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TA",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        212,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "74915",
+      "label": "other",
+      "bbox": [
+        511,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: 110 - Tăng huyết áp vô căn (nguyên phát)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        389,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) NIFEDIPIN T20 STADA RETARD 20mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        474,
+        413
+      ],
+      "mapping": 84
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        257,
+        466
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ sáu, 11/10/2019",
+      "label": "other",
+      "bbox": [
+        33,
+        544,
+        317,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 11/09/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "label": "other",
+      "bbox": [
+        455,
+        678,
+        639,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        735,
+        414,
+        760
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/05/2021 08:49:29",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1117",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1117.png",
+  "text": "1/1 M sc người bnh\nNGOC L\nSố phiếu 334/2019\nTOAOHA C THU C BH YBHYT\nNam x Nữ\nThu bặho h hám y tuế CK 35 35 205 53741\nMạch: lần/phút Huyết áp: / MMIHHg Ta n n hi:t: C\nCộn lâm sàng:\nCộnấn ongn: /02 - V im họng cđp (110) Cnam côm do iruSg cứm ươc ơịnh danh\n1) AMOXICILIN 500MG 0,5g SL: 20 viên\nGh chú Uốg\n2) PANACTOL 500mg SL: 10 Viên\nGhi chú Uốg\n3) CLORPHENIRAMIN 4mg SL: 10 Viên\nGhi chú Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/02/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Phương\nTiái kh hám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)\n07/05/2021 09:23:44",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        67.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            124.0,
+            67.0
+          ],
+          "confidence": 0.8878283500671387
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "NGOC L",
+      "bbox": [
+        150.0,
+        50.0,
+        230.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "NGOC L",
+          "bbox": [
+            150.0,
+            50.0,
+            230.0,
+            79.0
+          ],
+          "confidence": 0.8733493685722351
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 334/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        524.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 334/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            524.0,
+            121.0
+          ],
+          "confidence": 0.9874293208122253
+        }
+      ]
+    },
+    {
+      "text": "TOAOHA C THU C BH YBHYT",
+      "bbox": [
+        259.0,
+        122.0,
+        509.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOAOHA C THU C BH YBHYT",
+          "bbox": [
+            259.0,
+            122.0,
+            509.0,
+            152.0
+          ],
+          "confidence": 0.7766194343566895
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tuế CK 35 35 205 53741",
+      "bbox": [
+        26.0,
+        203.0,
+        563.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7834444642066956
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            204.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.9976284503936768
+        },
+        {
+          "text": "35",
+          "bbox": [
+            298.0,
+            204.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.999832272529602
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999359250068665
+        },
+        {
+          "text": "53741",
+          "bbox": [
+            507.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.9994651675224304
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMIHHg Ta n n hi:t: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "MMIHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            516.0,
+            252.0
+          ],
+          "confidence": 0.8087785840034485
+        },
+        {
+          "text": "Ta n n hi:t:",
+          "bbox": [
+            513.0,
+            234.0,
+            594.0,
+            252.0
+          ],
+          "confidence": 0.8096258640289307
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộnấn ongn: /02 - V im họng cđp (110) Cnam côm do iruSg cứm ươc ơịnh danh",
+      "bbox": [
+        27.0,
+        272.0,
+        568.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cộnấn ongn: /02 - V im họng cđp (110) Cnam côm do iruSg cứm ươc ơịnh danh",
+          "bbox": [
+            27.0,
+            272.0,
+            568.0,
+            292.0
+          ],
+          "confidence": 0.8023115992546082
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 0,5g SL: 20 viên",
+      "bbox": [
+        40.0,
+        380.0,
+        704.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 0,5g",
+          "bbox": [
+            40.0,
+            380.0,
+            356.0,
+            415.0
+          ],
+          "confidence": 0.9598583579063416
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            595.0,
+            385.0,
+            704.0,
+            410.0
+          ],
+          "confidence": 0.9538375735282898
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốg",
+      "bbox": [
+        35.0,
+        410.0,
+        163.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            96.0,
+            433.0
+          ],
+          "confidence": 0.9186660647392273
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.8891487121582031
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            276.0,
+            467.0
+          ],
+          "confidence": 0.8923357129096985
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9646921157836914
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        32.0,
+        462.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.8278717994689941
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8423901200294495
+        }
+      ]
+    },
+    {
+      "text": "3) CLORPHENIRAMIN 4mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            37.0,
+            485.0,
+            333.0,
+            518.0
+          ],
+          "confidence": 0.9487063884735107
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9997174739837646
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        513.0,
+        165.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            513.0,
+            165.0,
+            543.0
+          ],
+          "confidence": 0.8365824818611145
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        546.0,
+        199.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            546.0,
+            199.0,
+            567.0
+          ],
+          "confidence": 0.9723315238952637
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        569.0,
+        164.0,
+        590.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            569.0,
+            164.0,
+            590.0
+          ],
+          "confidence": 0.9341720938682556
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9473885297775269
+        }
+      ]
+    },
+    {
+      "text": "Ngày 19/02/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 19/02/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9866692423820496
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Phương",
+      "bbox": [
+        462.0,
+        727.0,
+        632.0,
+        759.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Phương",
+          "bbox": [
+            462.0,
+            727.0,
+            632.0,
+            759.0
+          ],
+          "confidence": 0.9976322054862976
+        }
+      ]
+    },
+    {
+      "text": "Tiái kh hám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kh hám Xịin Mmang thco onđm c nghinệm phiram (ônếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.8235166668891907
+        }
+      ]
+    },
+    {
+      "text": "07/05/2021 09:23:44",
+      "bbox": [
+        587.0,
+        827.0,
+        732.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "07/05/2021 09:23:44",
+          "bbox": [
+            587.0,
+            827.0,
+            732.0,
+            848.0
+          ],
+          "confidence": 0.9992112517356873
+        }
+      ]
+    }
+  ]
+}

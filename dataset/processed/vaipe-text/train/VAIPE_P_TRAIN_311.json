@@ -1,0 +1,227 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_311",
+  "image": "public_train/image/VAIPE_P_TRAIN_311.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChần đoán: S63 - căng cơ của khớp và dây chẳng tầm cổ tay và bàn tay phải;\n(L03) Viêm mô bào\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên TốI 2 Viên\nSL: 20 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên Tối 2 Viên\nSL: 20 Viên\nLời dặn:\nNgày 29 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: S63 - căng cơ của khớp và dây chẳng tầm cổ tay và bàn tay phải;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1080,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(L03) Viêm mô bào",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        307,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên TốI 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        715,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        585,
+        645
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        674,
+        714,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        742,
+        157,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        785,
+        1027,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        832,
+        1002,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        873,
+        970,
+        917
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1022,
+        994,
+        1052
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1067,
+        507,
+        1103
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1112,
+        1007,
+        1155
+      ],
+      "mapping": null
+    }
+  ]
+}

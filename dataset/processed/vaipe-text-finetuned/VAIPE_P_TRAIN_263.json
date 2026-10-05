@@ -1,0 +1,516 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_263",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_263.png",
+  "text": "1/1 MMH sỐ người bnh\nLHANG\nSố phiếu 725/2019\nTOA THUỐC  BHYT\nNm x n2\nThu ặo h ếhám y tế CK 2 206 65441\nMạch: lần/phút Huyt áp: MmMHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhản oknho: G46 - Hi chứng mạch máu nẾo tưOng bnh mạch nẾo (160-1677)\n1) HOẠT HUYHT DUNG NÃO 150mg 20mg SL: 40 Viên\nGhi chú Ug:\nCộng khoản 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/03/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n28/12/2021 23:56:01",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9994077086448669
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        150.0,
+        69.0,
+        213.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            150.0,
+            69.0,
+            213.0,
+            98.0
+          ],
+          "confidence": 0.9119308590888977
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 725/2019",
+      "bbox": [
+        368.0,
+        106.0,
+        527.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 725/2019",
+          "bbox": [
+            368.0,
+            106.0,
+            527.0,
+            139.0
+          ],
+          "confidence": 0.9871528744697571
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC  BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC  BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9131446480751038
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 2 206 65441",
+      "bbox": [
+        24.0,
+        219.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 2",
+          "bbox": [
+            178.0,
+            219.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.9238195419311523
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "65441",
+          "bbox": [
+            506.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9993840456008911
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmMHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmMHg",
+          "bbox": [
+            447.0,
+            246.0,
+            518.0,
+            274.0
+          ],
+          "confidence": 0.815509021282196
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            505.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327245950698853
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhản oknho: G46 - Hi chứng mạch máu nẾo tưOng bnh mạch nẾo (160-1677)",
+      "bbox": [
+        25.0,
+        288.0,
+        556.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhản oknho: G46 - Hi chứng mạch máu nẾo tưOng bnh mạch nẾo (160-1677)",
+          "bbox": [
+            25.0,
+            288.0,
+            556.0,
+            313.0
+          ],
+          "confidence": 0.8662784099578857
+        }
+      ]
+    },
+    {
+      "text": "1) HOẠT HUYHT DUNG NÃO 150mg 20mg SL: 40 Viên",
+      "bbox": [
+        38.0,
+        394.0,
+        710.0,
+        435.0
+      ],
+      "words": [
+        {
+          "text": "1) HOẠT HUYHT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            38.0,
+            394.0,
+            504.0,
+            435.0
+          ],
+          "confidence": 0.932205319404602
+        },
+        {
+          "text": "SL: 40 Viên",
+          "bbox": [
+            591.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9674417972564697
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Ug:",
+      "bbox": [
+        32.0,
+        428.0,
+        166.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            428.0,
+            166.0,
+            457.0
+          ],
+          "confidence": 0.7329087257385254
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản 1 khoả",
+      "bbox": [
+        31.0,
+        458.0,
+        200.0,
+        482.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản 1 khoả",
+          "bbox": [
+            31.0,
+            458.0,
+            200.0,
+            482.0
+          ],
+          "confidence": 0.9082370400428772
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        481.0,
+        168.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            481.0,
+            168.0,
+            508.0
+          ],
+          "confidence": 0.9994076490402222
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        508.0,
+        171.0,
+        532.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            508.0,
+            171.0,
+            532.0
+          ],
+          "confidence": 0.9500201344490051
+        }
+      ]
+    },
+    {
+      "text": "Ngày 19/03/2019",
+      "bbox": [
+        482.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 19/03/2019",
+          "bbox": [
+            482.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.9616029858589172
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        562.0,
+        616.0,
+        595.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            562.0,
+            200.0,
+            586.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            571.0,
+            616.0,
+            595.0
+          ],
+          "confidence": 0.9865530729293823
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        460.0,
+        643.0,
+        633.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            460.0,
+            643.0,
+            633.0,
+            671.0
+          ],
+          "confidence": 0.9502123594284058
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.8276700377464294
+        }
+      ]
+    },
+    {
+      "text": "28/12/2021 23:56:01",
+      "bbox": [
+        587.0,
+        741.0,
+        730.0,
+        762.0
+      ],
+      "words": [
+        {
+          "text": "28/12/2021 23:56:01",
+          "bbox": [
+            587.0,
+            741.0,
+            730.0,
+            762.0
+          ],
+          "confidence": 0.9891868233680725
+        }
+      ]
+    }
+  ]
+}

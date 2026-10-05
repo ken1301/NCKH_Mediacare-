@@ -1,0 +1,293 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_768",
+  "image": "public_train/image/VAIPE_P_TRAIN_768.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (M25.4)TD Tràn\ndịch khớp gối phải; (L23.9) Viêm da dị ứng tiếp xúc, nguyên nhân không đặc\nhiệu; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t)\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 1 Viên CHiều 1 Viên\nSL: 10 Viên\n3) Methyl prednisolon (Methylprednisolon 4) 4mg\nUống: Sáng 4 Viên\nSL: 20 Viên\n4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên Tối 2 viên\nSL: 30 viên\nLời dặn:\nNgày 31 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ngọc Tri\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (M25.4)TD Tràn",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        346,
+        1045,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "dịch khớp gối phải; (L23.9) Viêm da dị ứng tiếp xúc, nguyên nhân không đặc",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        386,
+        1090,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "hiệu; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        429,
+        1007,
+        472
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        468,
+        242,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        515,
+        512,
+        560
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        585,
+        749,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        195,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        647,
+        582,
+        682
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        752,
+        755
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        197,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Methyl prednisolon (Methylprednisolon 4) 4mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        772,
+        740,
+        815
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "Uống: Sáng 4 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        842,
+        552,
+        882
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        845,
+        200,
+        877
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        897,
+        892,
+        942
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên Tối 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        970,
+        879,
+        1010
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        975,
+        190,
+        1002
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        1037,
+        157,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 31 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1082,
+        1027,
+        1120
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1130,
+        1002,
+        1165
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1175,
+        970,
+        1212
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        662,
+        1315,
+        1017,
+        1357
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1365,
+        507,
+        1397
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1409,
+        1007,
+        1452
+      ],
+      "mapping": null
+    }
+  ]
+}

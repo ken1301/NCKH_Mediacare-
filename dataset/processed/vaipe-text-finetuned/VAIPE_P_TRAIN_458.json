@@ -1,0 +1,598 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_458",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_458.png",
+  "text": "MS sỐ người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 35620/2021\nTOA THUỐC BHYT\nNam x ữ2\nTh bặOo hi êhám y tế GB 35 30 160 44824\nMạch: lần/phút Huyết áp: 180 mMHmHg T Thâ n nhiệt 36.7 C\nCộn lâm sàngng:\nCnhản okhn: 150- Suy im: (I10) Bnệnh 1 tăng huyếnH áp Đ 3: (M10) GnH (thống phoOng) (N18) Suy thâhn\nmân tinhả (149.1) NgOkại tĩm thu nhT (E78) Rhi 1oMạn chuyễn ha ipOprOttin Và tinh trạng tăng lịpid máu\nkhác\n1) ENALAPRIL 5mg SL: 60 Viên\nGhi chú uống: Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 1 khoản\nLời dặn n t utốn c: HEN KHn LAI 20/8/2021\nNgày hẹn tái khám:\nNgày 20/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Trần Minh Tuấn\nTái kháhm Xin manng thco đn, X  nghinệhm phim (nếu ch)\n30/12/202119:53:18",
+  "lines": [
+    {
+      "text": "MS sỐ người bệnh",
+      "bbox": [
+        896.0,
+        43.0,
+        1065.0,
+        74.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐ người bệnh",
+          "bbox": [
+            896.0,
+            43.0,
+            1065.0,
+            74.0
+          ],
+          "confidence": 0.8335763216018677
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        219.0,
+        127.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            219.0,
+            127.0
+          ],
+          "confidence": 0.9641157984733582
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 35620/2021",
+      "bbox": [
+        35.0,
+        145.0,
+        811.0,
+        191.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 35620/2021",
+          "bbox": [
+            552.0,
+            151.0,
+            811.0,
+            191.0
+          ],
+          "confidence": 0.922274649143219
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        383.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            383.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.9545232057571411
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1100.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1100.0,
+            282.0
+          ],
+          "confidence": 0.8793792724609375
+        }
+      ]
+    },
+    {
+      "text": "Th bặOo hi êhám y tế GB 35 30 160 44824",
+      "bbox": [
+        35.0,
+        317.0,
+        840.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặOo hi êhám y tế",
+          "bbox": [
+            35.0,
+            317.0,
+            228.0,
+            353.0
+          ],
+          "confidence": 0.7244547605514526
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            271.0,
+            319.0,
+            320.0,
+            351.0
+          ],
+          "confidence": 0.9980965852737427
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            318.0,
+            485.0,
+            351.0
+          ],
+          "confidence": 0.9876455068588257
+        },
+        {
+          "text": "30",
+          "bbox": [
+            540.0,
+            318.0,
+            583.0,
+            351.0
+          ],
+          "confidence": 0.99991774559021
+        },
+        {
+          "text": "160",
+          "bbox": [
+            647.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.9895297884941101
+        },
+        {
+          "text": "44824",
+          "bbox": [
+            760.0,
+            319.0,
+            840.0,
+            352.0
+          ],
+          "confidence": 0.9997981190681458
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 180 mMHmHg T Thâ n nhiệt 36.7 C",
+      "bbox": [
+        34.0,
+        349.0,
+        1014.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9777576923370361
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            459.0,
+            393.0
+          ],
+          "confidence": 0.977809488773346
+        },
+        {
+          "text": "180",
+          "bbox": [
+            490.0,
+            358.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9996669888496399
+        },
+        {
+          "text": "mMHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            756.0,
+            390.0
+          ],
+          "confidence": 0.8269185423851013
+        },
+        {
+          "text": "T Thâ n nhiệt 36.7",
+          "bbox": [
+            761.0,
+            357.0,
+            955.0,
+            388.0
+          ],
+          "confidence": 0.8828194737434387
+        },
+        {
+          "text": "C",
+          "bbox": [
+            963.0,
+            349.0,
+            1014.0,
+            393.0
+          ],
+          "confidence": 0.7583485245704651
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàngng:",
+      "bbox": [
+        35.0,
+        391.0,
+        186.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàngng:",
+          "bbox": [
+            35.0,
+            391.0,
+            186.0,
+            423.0
+          ],
+          "confidence": 0.82137531042099
+        }
+      ]
+    },
+    {
+      "text": "Cnhản okhn: 150- Suy im: (I10) Bnệnh 1 tăng huyếnH áp Đ 3: (M10) GnH (thống phoOng) (N18) Suy thâhn",
+      "bbox": [
+        33.0,
+        418.0,
+        1093.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Cnhản okhn: 150- Suy im: (I10) Bnệnh 1 tăng huyếnH áp Đ 3: (M10) GnH (thống phoOng) (N18) Suy thâhn",
+          "bbox": [
+            33.0,
+            418.0,
+            1093.0,
+            453.0
+          ],
+          "confidence": 0.8305639624595642
+        }
+      ]
+    },
+    {
+      "text": "mân tinhả (149.1) NgOkại tĩm thu nhT (E78) Rhi 1oMạn chuyễn ha ipOprOttin Và tinh trạng tăng lịpid máu",
+      "bbox": [
+        33.0,
+        450.0,
+        1091.0,
+        481.0
+      ],
+      "words": [
+        {
+          "text": "mân tinhả (149.1) NgOkại tĩm thu nhT (E78) Rhi 1oMạn chuyễn ha ipOprOttin Và tinh trạng tăng lịpid máu",
+          "bbox": [
+            33.0,
+            450.0,
+            1091.0,
+            481.0
+          ],
+          "confidence": 0.8373335003852844
+        }
+      ]
+    },
+    {
+      "text": "khác",
+      "bbox": [
+        31.0,
+        477.0,
+        93.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "khác",
+          "bbox": [
+            31.0,
+            477.0,
+            93.0,
+            510.0
+          ],
+          "confidence": 0.872405469417572
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 60 Viên",
+      "bbox": [
+        62.0,
+        588.0,
+        1055.0,
+        630.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            62.0,
+            588.0,
+            380.0,
+            630.0
+          ],
+          "confidence": 0.9189598560333252
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            885.0,
+            588.0,
+            1055.0,
+            625.0
+          ],
+          "confidence": 0.9796268343925476
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        44.0,
+        624.0,
+        906.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            44.0,
+            624.0,
+            243.0,
+            667.0
+          ],
+          "confidence": 0.9337304830551147
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            632.0,
+            560.0,
+            663.0
+          ],
+          "confidence": 0.9971345663070679
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            628.0,
+            906.0,
+            661.0
+          ],
+          "confidence": 0.9808928966522217
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        44.0,
+        673.0,
+        293.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            44.0,
+            673.0,
+            293.0,
+            706.0
+          ],
+          "confidence": 0.9680599570274353
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn n t utốn c: HEN KHn LAI 20/8/2021",
+      "bbox": [
+        44.0,
+        713.0,
+        550.0,
+        740.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn n t utốn c: HEN KHn LAI 20/8/2021",
+          "bbox": [
+            44.0,
+            713.0,
+            550.0,
+            740.0
+          ],
+          "confidence": 0.80748051404953
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        752.0,
+        247.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            752.0,
+            247.0,
+            780.0
+          ],
+          "confidence": 0.8542875647544861
+        }
+      ]
+    },
+    {
+      "text": "Ngày 20/07/2021",
+      "bbox": [
+        722.0,
+        802.0,
+        925.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 20/07/2021",
+          "bbox": [
+            722.0,
+            802.0,
+            925.0,
+            834.0
+          ],
+          "confidence": 0.9610995650291443
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        93.0,
+        832.0,
+        913.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            93.0,
+            832.0,
+            291.0,
+            860.0
+          ],
+          "confidence": 0.8859502077102661
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            913.0,
+            874.0
+          ],
+          "confidence": 0.9688097834587097
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuấn",
+      "bbox": [
+        671.0,
+        948.0,
+        957.0,
+        987.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Trần Minh Tuấn",
+          "bbox": [
+            671.0,
+            948.0,
+            957.0,
+            987.0
+          ],
+          "confidence": 0.9301071166992188
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhm Xin manng thco đn, X  nghinệhm phim (nếu ch)",
+      "bbox": [
+        46.0,
+        1037.0,
+        615.0,
+        1067.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhm Xin manng thco đn, X  nghinệhm phim (nếu ch)",
+          "bbox": [
+            46.0,
+            1037.0,
+            615.0,
+            1067.0
+          ],
+          "confidence": 0.806851327419281
+        }
+      ]
+    },
+    {
+      "text": "30/12/202119:53:18",
+      "bbox": [
+        878.0,
+        1099.0,
+        1090.0,
+        1123.0
+      ],
+      "words": [
+        {
+          "text": "30/12/202119:53:18",
+          "bbox": [
+            878.0,
+            1099.0,
+            1090.0,
+            1123.0
+          ],
+          "confidence": 0.9842275977134705
+        }
+      ]
+    }
+  ]
+}

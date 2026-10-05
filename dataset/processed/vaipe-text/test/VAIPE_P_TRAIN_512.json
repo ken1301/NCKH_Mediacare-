@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_512",
+  "image": "public_train/image/VAIPE_P_TRAIN_512.png",
+  "text": "1/1\nSố phiếu 1417/2021\n4794721\nTOA THUỐC BHYT\nNam\nNữ\n72274\n206\nLần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: K29 - Viêm dạ dày và tá tràng\n1) FABAMOX 500 500mg\nSL: 20 Viên\nSáng 2 Viên\nGhi chú uống:\nChiều 2 Viên\n2) DROMASM FORT 80mg\nSL: 10 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n3) PRAZOPRO 40mg\nSL: 5 Viên\nSáng 1 Viên\nGhi chú Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/04/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. NGUYỄN THỊ THẾ\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 00:01:41",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1417/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        532,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4794721",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        687,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "72274",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        437,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        308,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K29 - Viêm dạ dày và tá tràng",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        315,
+        313
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        306,
+        430
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        432,
+        159,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DROMASM FORT 80mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        321,
+        483
+      ],
+      "mapping": 36
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PRAZOPRO 40mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        505,
+        259,
+        534
+      ],
+      "mapping": 93
+    },
+    {
+      "text": "SL: 5 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        696,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 28/04/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        621,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. NGUYỄN THỊ THẾ",
+      "label": "other",
+      "bbox": [
+        450,
+        749,
+        643,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 00:01:41",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        729,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

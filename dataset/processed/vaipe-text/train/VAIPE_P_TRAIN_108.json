@@ -1,0 +1,392 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_108",
+  "image": "public_train/image/VAIPE_P_TRAIN_108.png",
+  "text": "Khoa Khám bệnh\nPK SỐ 3 [NHI]\nSố phiếu 57900/2018\n4751809\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n160\n28086\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChần đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-167t); (J02) Viêm họng cấp\n1) FUDCIME 200MG 200mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) STACETAM 800MG 800mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/09/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Nguyễn Văn Tùng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n19/05/2021 09:58:06",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        26,
+        60,
+        148,
+        78
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        130,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 57900/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4751809",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        120,
+        508,
+        154
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "160",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28086",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        561,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-167t); (J02) Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        708,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FUDCIME 200MG 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        331,
+        413
+      ],
+      "mapping": 34
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) STACETAM 800MG 800mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        351,
+        466
+      ],
+      "mapping": 92
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        466,
+        606,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 19/09/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        605,
+        612,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Nguyễn Văn Tùng",
+      "label": "other",
+      "bbox": [
+        459,
+        679,
+        637,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        414,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "19/05/2021 09:58:06",
+      "label": "other",
+      "bbox": [
+        588,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

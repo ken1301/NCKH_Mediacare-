@@ -1,0 +1,617 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1098",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1098.png",
+  "text": "1/1 M c ngưi bnh\nÌNH NGHĨA\nSố phiếu 1706/2019\nTOA THUỐC BHYT N 2N\nThu ặo hiếhám y tế GB 4 208 42368\nMạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCiềuhần o knhoả M13 - Cộn c vhám cp áhác\n1) DROXICEF 500MG 0,5g SL: 20 Viên\nGhi chú Uốngữ Sáng 2 Viên Tối 2 Viên\n2) DICLOFENAC 50mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Tối 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Tính\nTái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)\n29/12/2021 23:30:05",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9996120929718018
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        254.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            254.0,
+            98.0
+          ],
+          "confidence": 0.9205553531646729
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1706/2019",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1706/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9858391880989075
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT N 2N",
+      "bbox": [
+        257.0,
+        138.0,
+        740.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.889740526676178
+        },
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            740.0,
+            201.0
+          ],
+          "confidence": 0.711126446723938
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế GB 4 208 42368",
+      "bbox": [
+        24.0,
+        221.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            182.0,
+            222.0,
+            222.0,
+            245.0
+          ],
+          "confidence": 0.9967376589775085
+        },
+        {
+          "text": "4",
+          "bbox": [
+            239.0,
+            223.0,
+            270.0,
+            243.0
+          ],
+          "confidence": 0.989947497844696
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9936301708221436
+        },
+        {
+          "text": "42368",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9995021820068359
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmmHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            246.0,
+            508.0,
+            274.0
+          ],
+          "confidence": 0.780198872089386
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            510.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327919483184814
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần o knhoả M13 - Cộn c vhám cp áhác",
+      "bbox": [
+        25.0,
+        288.0,
+        297.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần o knhoả M13 - Cộn c vhám cp áhác",
+          "bbox": [
+            25.0,
+            288.0,
+            297.0,
+            312.0
+          ],
+          "confidence": 0.7511674165725708
+        }
+      ]
+    },
+    {
+      "text": "1) DROXICEF 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        39.0,
+        397.0,
+        712.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) DROXICEF 500MG 0,5g",
+          "bbox": [
+            39.0,
+            399.0,
+            323.0,
+            434.0
+          ],
+          "confidence": 0.9090612530708313
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            590.0,
+            397.0,
+            712.0,
+            431.0
+          ],
+          "confidence": 0.9998395442962646
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốngữ Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        32.0,
+        426.0,
+        707.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            96.0,
+            454.0
+          ],
+          "confidence": 0.9694389700889587
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            426.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.8396167755126953
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            285.0,
+            426.0,
+            380.0,
+            457.0
+          ],
+          "confidence": 0.9988279938697815
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            620.0,
+            426.0,
+            707.0,
+            455.0
+          ],
+          "confidence": 0.9801807403564453
+        }
+      ]
+    },
+    {
+      "text": "2) DICLOFENAC 50mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        711.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) DICLOFENAC 50mg",
+          "bbox": [
+            36.0,
+            449.0,
+            290.0,
+            486.0
+          ],
+          "confidence": 0.9881893992424011
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            451.0,
+            711.0,
+            482.0
+          ],
+          "confidence": 0.9994838833808899
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        32.0,
+        477.0,
+        706.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            477.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.9218068718910217
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            285.0,
+            478.0,
+            380.0,
+            509.0
+          ],
+          "confidence": 0.9592141509056091
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            620.0,
+            478.0,
+            706.0,
+            506.0
+          ],
+          "confidence": 0.9994262456893921
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9703323245048523
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.948186457157135
+        }
+      ]
+    },
+    {
+      "text": "Ngày 13/05/2019",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 13/05/2019",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9819640517234802
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9576668739318848
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "bbox": [
+        474.0,
+        695.0,
+        620.0,
+        722.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Tính",
+          "bbox": [
+            474.0,
+            695.0,
+            620.0,
+            722.0
+          ],
+          "confidence": 0.9928967952728271
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8299689888954163
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 23:30:05",
+      "bbox": [
+        587.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 23:30:05",
+          "bbox": [
+            587.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9951701760292053
+        }
+      ]
+    }
+  ]
+}

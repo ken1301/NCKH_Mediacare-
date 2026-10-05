@@ -1,0 +1,227 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_416",
+  "image": "public_train/image/VAIPE_P_TRAIN_416.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChần đoán: 110 - Bệnh lý tăng huyết áp Độ 2; (G46?) Hội chứng mạch máu\nnão trong bệnh mạch não (I60-1677)\nThuốc điều trị:\n1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg\nUống: SÁNG 1 viên\nSL: 30 viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn: Hẹn KHám Lại 14/1/2022\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Văn Thự\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: 110 - Bệnh lý tăng huyết áp Độ 2; (G46?) Hội chứng mạch máu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1072,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "não trong bệnh mạch não (I60-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        527,
+        427
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        950,
+        520
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "Uống: SÁNG 1 viên",
+      "label": "usage",
+      "bbox": [
+        281,
+        544,
+        545,
+        592
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        190,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        602,
+        892,
+        647
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        737,
+        715
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        190,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Hẹn KHám Lại 14/1/2022",
+      "label": "other",
+      "bbox": [
+        42,
+        737,
+        557,
+        775
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        785,
+        1027,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        832,
+        1002,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        873,
+        970,
+        917
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "label": "other",
+      "bbox": [
+        662,
+        1014,
+        1017,
+        1063
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1067,
+        507,
+        1103
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1112,
+        1007,
+        1155
+      ],
+      "mapping": null
+    }
+  ]
+}

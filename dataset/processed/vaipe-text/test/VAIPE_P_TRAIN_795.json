@@ -1,0 +1,502 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_795",
+  "image": "public_train/image/VAIPE_P_TRAIN_795.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 19325/2021\n4909700\nTOA THUỐC BHYT\nNam\nNữ\n35\n206\n99567\n35\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Chụp Xquang ngực thẳng\nChẩn đoán: J20 - Viêm phế quản cấp\n1) INGARON 200 DST 200mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n3) DIXIREIN 375mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n4) VIPREDNI 16MG 16mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 2 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 01/04/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Nguyễn Tiến Bình\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/05/2021 07:30:28",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        127,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 19325/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        545,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4909700",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        120,
+        508,
+        154
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "99567",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        210,
+        262,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang ngực thẳng",
+      "label": "other",
+      "bbox": [
+        28,
+        253,
+        302,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J20 - Viêm phế quản cấp",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        279,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) INGARON 200 DST 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        351,
+        413
+      ],
+      "mapping": 27
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        334,
+        466
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        466,
+        606,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        491,
+        254,
+        518
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        518,
+        605,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        376,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) VIPREDNI 16MG 16mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        543,
+        317,
+        570
+      ],
+      "mapping": 73
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        543,
+        708,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        566,
+        160,
+        592
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        571,
+        376,
+        591
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        600,
+        197,
+        620
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        623,
+        163,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        650,
+        167,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 01/04/2021",
+      "label": "date",
+      "bbox": [
+        484,
+        687,
+        620,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        703,
+        198,
+        722
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        712,
+        611,
+        732
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Tiến Bình",
+      "label": "other",
+      "bbox": [
+        442,
+        782,
+        652,
+        813
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        840,
+        414,
+        863
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/05/2021 07:30:28",
+      "label": "other",
+      "bbox": [
+        586,
+        882,
+        730,
+        899
+      ],
+      "mapping": null
+    }
+  ]
+}

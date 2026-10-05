@@ -1,0 +1,587 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_685",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_685.png",
+  "text": "1/1 M sc gười bnh\nSố phiếu 330/2021\nTOA THAC  BHYT\nNamNx\nThu bặho h hm y tut 4 35 35 206 63813\nMạch: lần/phút Huyết áp: / MMIHHg Th Th n nhiệt: C\nCộn lâm sàng:\nCânhn on: 02 - V im họng cp: ([1 1) CMm iưrug đhông ưc ĩịnh danh\n1) FABAMOX 500 500mg SL: 20 Viên\nGhi chú Uống:\n2) TYDOL PM 500mg 4 25mg SL: 10 Viên\nGhi chú LUống\nCộng khnả 2 kho\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/02/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Nguyễn Văn Huy\nTiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)\n04/05/2021 12:34:43",
+  "lines": [
+    {
+      "text": "1/1 M sc gười bnh",
+      "bbox": [
+        50.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            122.0,
+            64.0
+          ],
+          "confidence": 0.9994109272956848
+        },
+        {
+          "text": "M sc gười bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7416890859603882
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 330/2021",
+      "bbox": [
+        369.0,
+        89.0,
+        523.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 330/2021",
+          "bbox": [
+            369.0,
+            89.0,
+            523.0,
+            122.0
+          ],
+          "confidence": 0.9811616539955139
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC  BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC  BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8434190154075623
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hm y tut 4 35 35 206 63813",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hm y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            152.0,
+            226.0
+          ],
+          "confidence": 0.7371780276298523
+        },
+        {
+          "text": "4",
+          "bbox": [
+            248.0,
+            208.0,
+            268.0,
+            224.0
+          ],
+          "confidence": 0.999042809009552
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9996904134750366
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998221397399902
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.965299665927887
+        },
+        {
+          "text": "63813",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9986294507980347
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMIHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551544189453125
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MMIHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            506.0,
+            252.0
+          ],
+          "confidence": 0.7429587841033936
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhn on: 02 - V im họng cp: ([1 1) CMm iưrug đhông ưc ĩịnh danh",
+      "bbox": [
+        27.0,
+        271.0,
+        531.0,
+        291.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn on: 02 - V im họng cp: ([1 1) CMm iưrug đhông ưc ĩịnh danh",
+          "bbox": [
+            27.0,
+            271.0,
+            531.0,
+            291.0
+          ],
+          "confidence": 0.7933929562568665
+        }
+      ]
+    },
+    {
+      "text": "1) FABAMOX 500 500mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) FABAMOX 500 500mg",
+          "bbox": [
+            40.0,
+            379.0,
+            307.0,
+            415.0
+          ],
+          "confidence": 0.973555862903595
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        34.0,
+        409.0,
+        163.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            96.0,
+            435.0
+          ],
+          "confidence": 0.9775956273078918
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.7705122232437134
+        }
+      ]
+    },
+    {
+      "text": "2) TYDOL PM 500mg 4 25mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) TYDOL PM 500mg 4 25mg",
+          "bbox": [
+            37.0,
+            433.0,
+            343.0,
+            467.0
+          ],
+          "confidence": 0.9402728080749512
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9646921157836914
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú LUống",
+      "bbox": [
+        33.0,
+        464.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "LUống",
+          "bbox": [
+            103.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8078392148017883
+        }
+      ]
+    },
+    {
+      "text": "Cộng khnả 2 kho",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khnả 2 kho",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.8461829423904419
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9635470509529114
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/02/2021",
+      "bbox": [
+        483.0,
+        575.0,
+        622.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/02/2021",
+          "bbox": [
+            483.0,
+            575.0,
+            622.0,
+            602.0
+          ],
+          "confidence": 0.9639394283294678
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "YS. Nguyễn Văn Huy",
+      "bbox": [
+        461.0,
+        676.0,
+        631.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "YS. Nguyễn Văn Huy",
+          "bbox": [
+            461.0,
+            676.0,
+            631.0,
+            706.0
+          ],
+          "confidence": 0.9417095184326172
+        }
+      ]
+    },
+    {
+      "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        414.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            414.0,
+            757.0
+          ],
+          "confidence": 0.8319487571716309
+        }
+      ]
+    },
+    {
+      "text": "04/05/2021 12:34:43",
+      "bbox": [
+        587.0,
+        775.0,
+        731.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "04/05/2021 12:34:43",
+          "bbox": [
+            587.0,
+            775.0,
+            731.0,
+            795.0
+          ],
+          "confidence": 0.9853577613830566
+        }
+      ]
+    }
+  ]
+}

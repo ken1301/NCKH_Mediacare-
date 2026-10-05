@@ -1,0 +1,469 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_553",
+  "image": "public_train/image/VAIPE_P_TRAIN_553.png",
+  "text": "Khoa Khám bệnh\nBốc khám nhi\nSố phiếu 54740/2021\n5146806\nTOA THUỐC BHYT\nNữ\nNam\n28148\n35\n35\n206\n3\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 36.5\nMạch: 75\n130\nCận lâm sàng: nội soi thực quản, dạ dày, tá tràng\nChấn đoán: K21 - Bệnh trào ngược dạ dày - thực quản; (K29) Viêm dạ dày và tá tràng\n1) METRONIDAZOL 250 250mg\nSL: 28 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) FABAMOX 500 500mg\nSL: 28 Viên\nGhi chú Uống:\nSáng 2 Viên\nChiều 2 Viên\n3) KAGASDINE 20mg\nSL:14 Viên\nGhi chú Uống trước khi ăn:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/11/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Trung Đức\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 19:08:48",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nhi",
+      "label": "other",
+      "bbox": [
+        37,
+        147,
+        187,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 54740/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5146806",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        927,
+        255,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28148",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.5",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch: 75",
+      "label": "other",
+      "bbox": [
+        37,
+        361,
+        160,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        497,
+        365,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: nội soi thực quản, dạ dày, tá tràng",
+      "label": "other",
+      "bbox": [
+        37,
+        395,
+        537,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K21 - Bệnh trào ngược dạ dày - thực quản; (K29) Viêm dạ dày và tá tràng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        915,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        560,
+        632
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1055,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        455,
+        710
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        710,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) KAGASDINE 20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        405,
+        787
+      ],
+      "mapping": 66
+    },
+    {
+      "text": "SL:14 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        362,
+        823
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        787,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        44,
+        832,
+        290,
+        864
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        866,
+        242,
+        898
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 26/11/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1002,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        680,
+        1110,
+        952,
+        1145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 19:08:48",
+      "label": "other",
+      "bbox": [
+        877,
+        1255,
+        1089,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

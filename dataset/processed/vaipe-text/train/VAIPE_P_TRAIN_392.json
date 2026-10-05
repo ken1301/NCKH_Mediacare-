@@ -1,0 +1,392 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_392",
+  "image": "public_train/image/VAIPE_P_TRAIN_392.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 53488/2021\n5146836\nTOA THUỐC BHYT\nNam x nữ\n4\n207\n72968\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Chụp Xquang xương cẳng tay thắng nghiêng, Chụp Xquang xương bàn, ngón chân thắng,\nnghiêng hoặc chếch\nChấn đoán: S52 - Gãy xương ở cẳng tay: (S92) Gãy xương bàn chân, trừ cổ chân\n1) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n2) KATRYPSIN 4,2mg\nSL: 28 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/11/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n27/12/2021 21:28:35",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 53488/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5146836",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        252,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        434,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "72968",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang xương cẳng tay thắng nghiêng, Chụp Xquang xương bàn, ngón chân thắng,",
+      "label": "other",
+      "bbox": [
+        26,
+        270,
+        732,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "nghiêng hoặc chếch",
+      "label": "other",
+      "bbox": [
+        28,
+        292,
+        164,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: S52 - Gãy xương ở cẳng tay: (S92) Gãy xương bàn chân, trừ cổ chân",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        308,
+        579,
+        332
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        421,
+        333,
+        450
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        423,
+        707,
+        445
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        448,
+        160,
+        473
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        450,
+        607,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        452,
+        377,
+        472
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) KATRYPSIN 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        472,
+        275,
+        501
+      ],
+      "mapping": 7
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        474,
+        707,
+        497
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        501,
+        162,
+        524
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        501,
+        607,
+        521
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        503,
+        377,
+        523
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        534,
+        197,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        554,
+        164,
+        574
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        583,
+        168,
+        603
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 26/11/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        613,
+        621,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        634,
+        199,
+        656
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        643,
+        612,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        474,
+        716,
+        619,
+        738
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        771,
+        415,
+        796
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27/12/2021 21:28:35",
+      "label": "other",
+      "bbox": [
+        585,
+        812,
+        732,
+        832
+      ],
+      "mapping": null
+    }
+  ]
+}

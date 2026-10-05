@@ -1,0 +1,513 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_541",
+  "image": "public_train/image/VAIPE_P_TRAIN_541.png",
+  "text": "1/1\nBÌNH NGHĨA\nSố phiếu 5010/2019\n4875935\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n206\n03758\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn; (H53) Rối loạn thị giác\n1) NOVOXIM-500 0,5g\nSL: 20 Viên\nGhi chú Uống:\nTối 2 Viên\nSáng 2 Viên\n2) CLORPHENIRAMIN 4mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n3) VINA-AD 2000ui+ 400ui\nSL: 10 viên\nGhi chú Uống:\nTối 1 viên\nSáng 1 viên\n4) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 24/12/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS......................................................BS......BS...............................................................................................................................................................................................\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/05/2021 17:43:34",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "label": "other",
+      "bbox": [
+        153,
+        58,
+        250,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 5010/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        535,
+        121
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4875935",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        618,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "03758",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn; (H53) Rối loạn thị giác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        606,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        280,
+        412
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) CLORPHENIRAMIN 4mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        332,
+        466
+      ],
+      "mapping": 29
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        466,
+        700,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) VINA-AD 2000ui+ 400ui",
+      "label": "drugname",
+      "bbox": [
+        44,
+        490,
+        321,
+        516
+      ],
+      "mapping": 103
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        703,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        160,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        518,
+        697,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        372,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        541,
+        274,
+        570
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        542,
+        709,
+        567
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        566,
+        160,
+        592
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        570,
+        700,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        571,
+        376,
+        591
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        600,
+        197,
+        620
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        623,
+        163,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        650,
+        167,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24/12/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        684,
+        622,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        703,
+        198,
+        722
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        712,
+        611,
+        732
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS......................................................BS......BS...............................................................................................................................................................................................",
+      "label": "other",
+      "bbox": [
+        476,
+        789,
+        618,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        840,
+        414,
+        863
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/05/2021 17:43:34",
+      "label": "other",
+      "bbox": [
+        586,
+        882,
+        730,
+        899
+      ],
+      "mapping": null
+    }
+  ]
+}

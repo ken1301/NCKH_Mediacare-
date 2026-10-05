@@ -1,0 +1,515 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_134",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_134.png",
+  "text": "1/1 M sc người bnh\nPK Số 5.1 [TĐ] Số phiếu 31345/2019\nTOA THỐC BHYT\nNamx\nThu bặho h hám y tut GB 35 35 207\nMạch: lần/phút Huyết áp: MMHg Thân nhi C\nCộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)\nCânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả\n1) MEGLUCON TAB 850MG 3X10S 850mg SL: 60 Viên\nGhi chútốngốg gau hi ăn: Sáng 1 Viên Chiều 1 Viên\nCộng khoả: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn khám: Th năhám 20/06/2019\nNgày 21/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khKhám ịin mang tho onđ, knt nghinhm phikam (ônếu cá)\n30/05/2021 22:05:22",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9997822642326355
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 31345/2019",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9554377794265747
+        },
+        {
+          "text": "Số phiếu 31345/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9720372557640076
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.893313467502594
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut GB 35 35 207",
+      "bbox": [
+        26.0,
+        203.0,
+        471.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            185.0,
+            205.0,
+            218.0,
+            225.0
+          ],
+          "confidence": 0.999180257320404
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9996581077575684
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            392.0,
+            227.0
+          ],
+          "confidence": 0.9995416402816772
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhi C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            310.0,
+            254.0
+          ],
+          "confidence": 0.9729744791984558
+        },
+        {
+          "text": "MMHg Thân nhi",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.930378794670105
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)",
+      "bbox": [
+        26.0,
+        253.0,
+        316.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Cộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)",
+          "bbox": [
+            26.0,
+            253.0,
+            316.0,
+            274.0
+          ],
+          "confidence": 0.8175248503684998
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+      "bbox": [
+        27.0,
+        273.0,
+        460.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+          "bbox": [
+            27.0,
+            273.0,
+            460.0,
+            293.0
+          ],
+          "confidence": 0.7796817421913147
+        }
+      ]
+    },
+    {
+      "text": "1) MEGLUCON TAB 850MG 3X10S 850mg SL: 60 Viên",
+      "bbox": [
+        43.0,
+        382.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) MEGLUCON TAB 850MG 3X10S 850mg",
+          "bbox": [
+            43.0,
+            382.0,
+            479.0,
+            412.0
+          ],
+          "confidence": 0.9603342413902283
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9997401833534241
+        }
+      ]
+    },
+    {
+      "text": "Ghi chútốngốg gau hi ăn: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chútốngốg gau hi ăn:",
+          "bbox": [
+            34.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.8328084945678711
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9859002828598022
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            409.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9895858764648438
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9238772988319397
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        464.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            464.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.933551549911499
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn khám: Th năhám 20/06/2019",
+      "bbox": [
+        31.0,
+        489.0,
+        324.0,
+        513.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn khám: Th năhám 20/06/2019",
+          "bbox": [
+            31.0,
+            489.0,
+            324.0,
+            513.0
+          ],
+          "confidence": 0.8922041654586792
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/05/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/05/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9917803406715393
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.983154296875
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        459.0,
+        625.0,
+        633.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            459.0,
+            625.0,
+            633.0,
+            653.0
+          ],
+          "confidence": 0.947009265422821
+        }
+      ]
+    },
+    {
+      "text": "Tái khKhám ịin mang tho onđ, knt nghinhm phikam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKhám ịin mang tho onđ, knt nghinhm phikam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.7814593315124512
+        }
+      ]
+    },
+    {
+      "text": "30/05/2021 22:05:22",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "30/05/2021 22:05:22",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9997671246528625
+        }
+      ]
+    }
+  ]
+}

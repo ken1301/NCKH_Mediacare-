@@ -1,0 +1,640 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_632",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_632.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 2 [Nội] Số phiếu 51224/2020\nTOAOHAC THU C BH YBHYT\nN mxữ2\nThu to h hám y ut HT 25 207 75221\nMạch: lần/phút Huyết áp: MMHg Thân nhiệ\nCận 1sm sỐng: Định 1ưđng Acid Uric [MMáu) Định đương Cho1Suro1 uoàn phần (máu) Định đương\nGiucOS [MMáu) Định đươđng HDL-C (High dênSiưuy 1ipOprOcuin Cho1cSCưrO1) [MMáu) Định 1ương\nTrig1yccri d (máu) [MMáu\nCậhần oknhoả: M10-CGnH (thng phong), (E11) TD Bnh ĩđái tháo đường khĩng phu thunc inSuinả (E78)\nTD Ri 1oMạn chuyễn hoká lipOprOttin Và tinh trắạng tăng lđịpid máu khách (M25.5) Đau khp\n1) COLCHICIN 1mg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên\n2) PANACTOL 500mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\nCộng   okhn 2 okhoậ\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/09/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTiá khákhám Xin mnng thco ĩođn, Xt nghinệm phiám (nếui c)\n06/01/2022 10:44:34",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        51.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9944257140159607
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 51224/2020",
+      "bbox": [
+        23.0,
+        101.0,
+        547.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            101.0,
+            131.0,
+            133.0
+          ],
+          "confidence": 0.9528663158416748
+        },
+        {
+          "text": "Số phiếu 51224/2020",
+          "bbox": [
+            370.0,
+            107.0,
+            547.0,
+            139.0
+          ],
+          "confidence": 0.9666550159454346
+        }
+      ]
+    },
+    {
+      "text": "TOAOHAC THU C BH YBHYT",
+      "bbox": [
+        258.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOAOHAC THU C BH YBHYT",
+          "bbox": [
+            258.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.8004211783409119
+        }
+      ]
+    },
+    {
+      "text": "N mxữ2",
+      "bbox": [
+        615.0,
+        164.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N mxữ2",
+          "bbox": [
+            615.0,
+            164.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6911265850067139
+        }
+      ]
+    },
+    {
+      "text": "Thu to h hám y ut HT 25 207 75221",
+      "bbox": [
+        25.0,
+        220.0,
+        563.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu to h hám y ut",
+          "bbox": [
+            25.0,
+            223.0,
+            155.0,
+            244.0
+          ],
+          "confidence": 0.6986752152442932
+        },
+        {
+          "text": "HT 25",
+          "bbox": [
+            180.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.9202793836593628
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "75221",
+          "bbox": [
+            506.0,
+            221.0,
+            563.0,
+            246.0
+          ],
+          "confidence": 0.9848628044128418
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệ",
+      "bbox": [
+        24.0,
+        246.0,
+        596.0,
+        272.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            249.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.9869147539138794
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            308.0,
+            272.0
+          ],
+          "confidence": 0.9627724885940552
+        },
+        {
+          "text": "MMHg Thân nhiệ",
+          "bbox": [
+            450.0,
+            250.0,
+            596.0,
+            271.0
+          ],
+          "confidence": 0.8783867955207825
+        }
+      ]
+    },
+    {
+      "text": "Cận 1sm sỐng: Định 1ưđng Acid Uric [MMáu) Định đương Cho1Suro1 uoàn phần (máu) Định đương",
+      "bbox": [
+        23.0,
+        268.0,
+        693.0,
+        296.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1sm sỐng: Định 1ưđng Acid Uric [MMáu) Định đương Cho1Suro1 uoàn phần (máu) Định đương",
+          "bbox": [
+            23.0,
+            268.0,
+            693.0,
+            296.0
+          ],
+          "confidence": 0.8577624559402466
+        }
+      ]
+    },
+    {
+      "text": "GiucOS [MMáu) Định đươđng HDL-C (High dênSiưuy 1ipOprOcuin Cho1cSCưrO1) [MMáu) Định 1ương",
+      "bbox": [
+        24.0,
+        288.0,
+        666.0,
+        315.0
+      ],
+      "words": [
+        {
+          "text": "GiucOS [MMáu) Định đươđng HDL-C (High dênSiưuy 1ipOprOcuin Cho1cSCưrO1) [MMáu) Định 1ương",
+          "bbox": [
+            24.0,
+            288.0,
+            666.0,
+            315.0
+          ],
+          "confidence": 0.8123627305030823
+        }
+      ]
+    },
+    {
+      "text": "Trig1yccri d (máu) [MMáu",
+      "bbox": [
+        25.0,
+        310.0,
+        204.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "Trig1yccri d (máu) [MMáu",
+          "bbox": [
+            25.0,
+            310.0,
+            204.0,
+            332.0
+          ],
+          "confidence": 0.8611595034599304
+        }
+      ]
+    },
+    {
+      "text": "Cậhần oknhoả: M10-CGnH (thng phong), (E11) TD Bnh ĩđái tháo đường khĩng phu thunc inSuinả (E78)",
+      "bbox": [
+        26.0,
+        329.0,
+        719.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Cậhần oknhoả: M10-CGnH (thng phong), (E11) TD Bnh ĩđái tháo đường khĩng phu thunc inSuinả (E78)",
+          "bbox": [
+            26.0,
+            329.0,
+            719.0,
+            352.0
+          ],
+          "confidence": 0.8256882429122925
+        }
+      ]
+    },
+    {
+      "text": "TD Ri 1oMạn chuyễn hoká lipOprOttin Và tinh trắạng tăng lđịpid máu khách (M25.5) Đau khp",
+      "bbox": [
+        26.0,
+        347.0,
+        635.0,
+        371.0
+      ],
+      "words": [
+        {
+          "text": "TD Ri 1oMạn chuyễn hoká lipOprOttin Và tinh trắạng tăng lđịpid máu khách (M25.5) Đau khp",
+          "bbox": [
+            26.0,
+            347.0,
+            635.0,
+            371.0
+          ],
+          "confidence": 0.8311710357666016
+        }
+      ]
+    },
+    {
+      "text": "1) COLCHICIN 1mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        436.0,
+        709.0,
+        472.0
+      ],
+      "words": [
+        {
+          "text": "1) COLCHICIN 1mg",
+          "bbox": [
+            40.0,
+            436.0,
+            256.0,
+            472.0
+          ],
+          "confidence": 0.9460257291793823
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            442.0,
+            709.0,
+            467.0
+          ],
+          "confidence": 0.9997578263282776
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        468.0,
+        379.0,
+        494.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            470.0,
+            95.0,
+            491.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            468.0,
+            164.0,
+            494.0
+          ],
+          "confidence": 0.8675064444541931
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            469.0,
+            379.0,
+            494.0
+          ],
+          "confidence": 0.9582645893096924
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        488.0,
+        710.0,
+        525.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            37.0,
+            488.0,
+            276.0,
+            525.0
+          ],
+          "confidence": 0.9610940217971802
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            490.0,
+            710.0,
+            521.0
+          ],
+          "confidence": 0.9983851909637451
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        518.0,
+        610.0,
+        548.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            521.0,
+            98.0,
+            544.0
+          ],
+          "confidence": 0.8520937561988831
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            103.0,
+            519.0,
+            165.0,
+            548.0
+          ],
+          "confidence": 0.75347900390625
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            521.0,
+            379.0,
+            546.0
+          ],
+          "confidence": 0.9861996173858643
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            518.0,
+            610.0,
+            546.0
+          ],
+          "confidence": 0.9980637431144714
+        }
+      ]
+    },
+    {
+      "text": "Cộng   okhn 2 okhoậ",
+      "bbox": [
+        32.0,
+        551.0,
+        199.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "Cộng   okhn 2 okhoậ",
+          "bbox": [
+            32.0,
+            551.0,
+            199.0,
+            572.0
+          ],
+          "confidence": 0.7095018625259399
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        572.0,
+        167.0,
+        598.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            572.0,
+            167.0,
+            598.0
+          ],
+          "confidence": 0.9778665900230408
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        601.0,
+        169.0,
+        622.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            601.0,
+            169.0,
+            622.0
+          ],
+          "confidence": 0.9546555280685425
+        }
+      ]
+    },
+    {
+      "text": "Ngày 17/09/2020",
+      "bbox": [
+        483.0,
+        632.0,
+        624.0,
+        659.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 17/09/2020",
+          "bbox": [
+            483.0,
+            632.0,
+            624.0,
+            659.0
+          ],
+          "confidence": 0.9581474661827087
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        651.0,
+        615.0,
+        686.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            651.0,
+            201.0,
+            678.0
+          ],
+          "confidence": 0.9667296409606934
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            662.0,
+            615.0,
+            686.0
+          ],
+          "confidence": 0.9849533438682556
+        }
+      ]
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "bbox": [
+        455.0,
+        734.0,
+        638.0,
+        765.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trương Văn Nghĩa",
+          "bbox": [
+            455.0,
+            734.0,
+            638.0,
+            765.0
+          ],
+          "confidence": 0.9845480918884277
+        }
+      ]
+    },
+    {
+      "text": "Tiá khákhám Xin mnng thco ĩođn, Xt nghinệm phiám (nếui c)",
+      "bbox": [
+        32.0,
+        792.0,
+        415.0,
+        815.0
+      ],
+      "words": [
+        {
+          "text": "Tiá khákhám Xin mnng thco ĩođn, Xt nghinệm phiám (nếui c)",
+          "bbox": [
+            32.0,
+            792.0,
+            415.0,
+            815.0
+          ],
+          "confidence": 0.8347659111022949
+        }
+      ]
+    },
+    {
+      "text": "06/01/2022 10:44:34",
+      "bbox": [
+        587.0,
+        832.0,
+        732.0,
+        852.0
+      ],
+      "words": [
+        {
+          "text": "06/01/2022 10:44:34",
+          "bbox": [
+            587.0,
+            832.0,
+            732.0,
+            852.0
+          ],
+          "confidence": 0.9923450946807861
+        }
+      ]
+    }
+  ]
+}

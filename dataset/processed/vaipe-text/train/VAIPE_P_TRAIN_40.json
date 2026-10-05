@@ -1,0 +1,568 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_40",
+  "image": "public_train/image/VAIPE_P_TRAIN_40.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 36770/2021\n4656976\nTOA THUỐC BHYT\nNam\nNữ\n210\n27665\nCK\n2\n35\n35\nMMHg Thân nhiệt: 36.7\nlần/phút Huyết áp:\nMạch:\n75\n120\nCận lâm sàng:\nChấn đoán: 110 - Bệnh lý tăng huyết áp (I25) Bệnh tim thiếu máu cục bộ mạn\n1) ENALAPRIL 5mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) KAVASDIN 5 5mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n3) SAVIPROLOL 2,5 2,5mg\nSL: 30 Viên\nGhi chú uống:\nSáng 1 Viên\n4) ASPIRIN 81MG 81mg\nSL:30 Viên\nGhi chú Uống:\nSáng 1 Viên\n5) INBACID 10 10mg\nSL:30 Viên\nGhi chú Uống\nTối 1 Viên\nCộng khoản: 5 khoản\nLời dặn đơn thuốc: Hẹn KHám Lại 26/8/2021\nNgày hẹn tái khám:\nNgày 26/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Trần Minh Tuấn\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 21:48:20",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        187,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 36770/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4656976",
+      "label": "other",
+      "bbox": [
+        935,
+        162,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        255,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "210",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        697,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27665",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "CK",
+      "label": "other",
+      "bbox": [
+        275,
+        325,
+        317,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt: 36.7",
+      "label": "other",
+      "bbox": [
+        674,
+        359,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "75",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        497,
+        365,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        393,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: 110 - Bệnh lý tăng huyết áp (I25) Bệnh tim thiếu máu cục bộ mạn",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        419,
+        832,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        380,
+        632
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        595,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        402,
+        710
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1055,
+        702
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) SAVIPROLOL 2,5 2,5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        477,
+        787
+      ],
+      "mapping": 41
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) ASPIRIN 81MG 81mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        825,
+        437,
+        867
+      ],
+      "mapping": 11
+    },
+    {
+      "text": "SL:30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        827,
+        1057,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        560,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5) INBACID 10 10mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        904,
+        392,
+        945
+      ],
+      "mapping": 12
+    },
+    {
+      "text": "SL:30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        904,
+        1055,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        940,
+        223,
+        977
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        945,
+        1045,
+        972
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 5 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        990,
+        290,
+        1020
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám Lại 26/8/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        1022,
+        550,
+        1052
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        1065,
+        247,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 26/07/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        1117,
+        925,
+        1147
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1145,
+        292,
+        1172
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1155,
+        912,
+        1187
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuấn",
+      "label": "other",
+      "bbox": [
+        672,
+        1267,
+        957,
+        1297
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1349,
+        617,
+        1384
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 21:48:20",
+      "label": "other",
+      "bbox": [
+        877,
+        1412,
+        1089,
+        1437
+      ],
+      "mapping": null
+    }
+  ]
+}

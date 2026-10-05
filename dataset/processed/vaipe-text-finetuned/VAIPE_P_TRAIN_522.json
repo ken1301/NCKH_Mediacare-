@@ -1,0 +1,619 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_522",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_522.png",
+  "text": "1/1 M sc người bnh\nLHANG\nSố phiếu 100/2019\nTOA THUỐC BHYT\nNamNx\nThu ặo h ếhám y tế GB 4 35 208 07327 C\nMạch: lần/phút Huyết áp: MMHg Thn n nhit:\nCận lâm sà ng:\nCnhn okn: I10- Tăng huyế páp V căn (nguyễn phát): (G467) Hi chứng mMạch Mmáu nẾo trơng nệnh\nmmạch nâo (160-1677)\n1) KAVASDIN 5 5mg SL: 20 Viên\nGhi chúK Uống Sáng 1 Viên\n2) HOẠT HUYHT DNG NO 150mg 20mg SL: 40 Viên\nGhi chú Uốg\nCộng khoản 2 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 10/01/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTiái khákhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)\n17/05/2021 16:15:40",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        15.0,
+        716.0,
+        66.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            122.0,
+            66.0
+          ],
+          "confidence": 0.9997780919075012
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        151.0,
+        53.0,
+        211.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            151.0,
+            53.0,
+            211.0,
+            78.0
+          ],
+          "confidence": 0.886309802532196
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 100/2019",
+      "bbox": [
+        369.0,
+        90.0,
+        524.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 100/2019",
+          "bbox": [
+            369.0,
+            90.0,
+            524.0,
+            121.0
+          ],
+          "confidence": 0.948828399181366
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9254632592201233
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 208 07327 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            207.0,
+            266.0,
+            225.0
+          ],
+          "confidence": 0.9998225569725037
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.9999196529388428
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.999660313129425
+        },
+        {
+          "text": "07327",
+          "bbox": [
+            507.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9494427442550659
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thn n nhit:",
+      "bbox": [
+        23.0,
+        229.0,
+        595.0,
+        255.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            78.0,
+            254.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "MMHg Thn n nhit:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.859173059463501
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sà ng:",
+      "bbox": [
+        24.0,
+        250.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sà ng:",
+          "bbox": [
+            24.0,
+            250.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.9369421005249023
+        }
+      ]
+    },
+    {
+      "text": "Cnhn okn: I10- Tăng huyế páp V căn (nguyễn phát): (G467) Hi chứng mMạch Mmáu nẾo trơng nệnh",
+      "bbox": [
+        24.0,
+        269.0,
+        706.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhn okn: I10- Tăng huyế páp V căn (nguyễn phát): (G467) Hi chứng mMạch Mmáu nẾo trơng nệnh",
+          "bbox": [
+            24.0,
+            269.0,
+            706.0,
+            294.0
+          ],
+          "confidence": 0.8381403684616089
+        }
+      ]
+    },
+    {
+      "text": "mmạch nâo (160-1677)",
+      "bbox": [
+        24.0,
+        289.0,
+        172.0,
+        315.0
+      ],
+      "words": [
+        {
+          "text": "mmạch nâo (160-1677)",
+          "bbox": [
+            24.0,
+            289.0,
+            172.0,
+            315.0
+          ],
+          "confidence": 0.9387227892875671
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 5 5mg",
+          "bbox": [
+            40.0,
+            379.0,
+            274.0,
+            415.0
+          ],
+          "confidence": 0.9407668113708496
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        410.0,
+        378.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            410.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8536146879196167
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            411.0,
+            378.0,
+            436.0
+          ],
+          "confidence": 0.9747677445411682
+        }
+      ]
+    },
+    {
+      "text": "2) HOẠT HUYHT DNG NO 150mg 20mg SL: 40 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) HOẠT HUYHT DNG NO 150mg 20mg",
+          "bbox": [
+            36.0,
+            432.0,
+            503.0,
+            467.0
+          ],
+          "confidence": 0.9301061034202576
+        },
+        {
+          "text": "SL: 40 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9706874489784241
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        33.0,
+        464.0,
+        164.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            464.0,
+            164.0,
+            489.0
+          ],
+          "confidence": 0.8037850260734558
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản 2 khon",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản 2 khon",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9281477928161621
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        518.0,
+        165.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            518.0,
+            165.0,
+            539.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9635470509529114
+        }
+      ]
+    },
+    {
+      "text": "Ngày 10/01/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 10/01/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9962473511695862
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        461.0,
+        676.0,
+        632.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            461.0,
+            676.0,
+            632.0,
+            705.0
+          ],
+          "confidence": 0.948788583278656
+        }
+      ]
+    },
+    {
+      "text": "Tiái khákhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái khákhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8078499436378479
+        }
+      ]
+    },
+    {
+      "text": "17/05/2021 16:15:40",
+      "bbox": [
+        588.0,
+        775.0,
+        732.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "17/05/2021 16:15:40",
+          "bbox": [
+            588.0,
+            775.0,
+            732.0,
+            795.0
+          ],
+          "confidence": 0.9892920255661011
+        }
+      ]
+    }
+  ]
+}

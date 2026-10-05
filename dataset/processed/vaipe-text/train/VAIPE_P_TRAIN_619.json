@@ -1,0 +1,315 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_619",
+  "image": "public_train/image/VAIPE_P_TRAIN_619.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam\nNữ\nChẩn đoán: H61.2 - Nút ráy tai trái; (H66) Viêm tai giữa nung mủ và không\nđặc hiệu; (J37) Viêm thanh quản và viêm thanh khí quản mãn tính; (H81) Rối\nloạn chức năng tiền đình\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHIều 2 Viên Tối 2 Viên\nSL: 30 Viên\n2) Carbocistein (Anpemux) 250mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n3) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 10 Viên\n4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 3 viên CHiều 3 viên Tối 3 viên\nSL: 90 viên\nLời dặn: Uống thuốc theo toa + tái khám sau 1 tuần % nghỉ dưỡng theo chế độ\nBHXH\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Thế Chiến\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        215,
+        1057,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: H61.2 - Nút ráy tai trái; (H66) Viêm tai giữa nung mủ và không",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1067,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "đặc hiệu; (J37) Viêm thanh quản và viêm thanh khí quản mãn tính; (H81) Rối",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        389,
+        1082,
+        431
+      ],
+      "mapping": null
+    },
+    {
+      "text": "loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        34,
+        425,
+        370,
+        471
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        466,
+        243,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        515,
+        512,
+        560
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        585,
+        897,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        195,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Carbocistein (Anpemux) 250mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        644,
+        529,
+        684
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        752,
+        755
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        197,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        775,
+        585,
+        812
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        842,
+        750,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        845,
+        200,
+        877
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        897,
+        892,
+        942
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 3 viên CHiều 3 viên Tối 3 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        970,
+        879,
+        1010
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 90 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        975,
+        190,
+        1002
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Uống thuốc theo toa + tái khám sau 1 tuần % nghỉ dưỡng theo chế độ",
+      "label": "other",
+      "bbox": [
+        42,
+        1027,
+        1097,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BHXH",
+      "label": "other",
+      "bbox": [
+        42,
+        1072,
+        140,
+        1100
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1082,
+        1027,
+        1120
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1130,
+        1002,
+        1165
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1175,
+        969,
+        1212
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Thế Chiến",
+      "label": "other",
+      "bbox": [
+        681,
+        1336,
+        998,
+        1388
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1392,
+        512,
+        1430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1437,
+        1007,
+        1480
+      ],
+      "mapping": null
+    }
+  ]
+}

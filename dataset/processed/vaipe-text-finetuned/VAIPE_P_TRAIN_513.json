@@ -1,0 +1,874 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_513",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_513.png",
+  "text": "1/1 Mă số người xbnh\nPK Số 2 [Nội] Số phiếu 5944/2018\nTOA THUỐC BHYT\nNam 2 ữx\nĐệị ạ chi\nThu ặo h ếhám y tế HC 4 35 60 050\nMạch: lần/phút Huyết áp: MMHg Thân nhiệt:\nCộn lâm sàng:\nCnốn okn: 502 - Viêm họng cấp - ([130.3)Vim mùi d ứng káhác\n1) FUDCIME 200MG 200mg SL: 10 Viên\nGh chú 2) VACO LORATADINE 10mg Uốngữ Sáng 1 Viên Chiều 1 Viên\nSL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\n3) STATRIPSINE 4,2mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\n4) PARTAMOL TAB. 500mg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên Chiều 1 Viên\n5) VENRUTINE 100mg 4500mg SL: 10 Vi ên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 5 khoản\nLời dặn đơ thuốc:\nNgày hẹn tái khám:\nNgày 26/01/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)\n08/05/2021 13:17:07",
+  "lines": [
+    {
+      "text": "1/1 Mă số người xbnh",
+      "bbox": [
+        51.0,
+        18.0,
+        715.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.994290828704834
+        },
+        {
+          "text": "Mă số người xbnh",
+          "bbox": [
+            600.0,
+            19.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7976219654083252
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 5944/2018",
+      "bbox": [
+        22.0,
+        83.0,
+        537.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            83.0,
+            130.0,
+            116.0
+          ],
+          "confidence": 0.9609132409095764
+        },
+        {
+          "text": "Số phiếu 5944/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            537.0,
+            121.0
+          ],
+          "confidence": 0.9881601333618164
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9350828528404236
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            180.0
+          ],
+          "confidence": 0.7747807502746582
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        179.0,
+        82.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            179.0,
+            82.0,
+            202.0
+          ],
+          "confidence": 0.7594336271286011
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế HC 4 35 60 050",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7608610391616821
+        },
+        {
+          "text": "HC",
+          "bbox": [
+            182.0,
+            203.0,
+            222.0,
+            226.0
+          ],
+          "confidence": 0.9954107999801636
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            206.0,
+            272.0,
+            226.0
+          ],
+          "confidence": 0.9999521970748901
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            327.0,
+            227.0
+          ],
+          "confidence": 0.9995168447494507
+        },
+        {
+          "text": "60",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9999704957008362
+        },
+        {
+          "text": "050",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9980316162109375
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệt:",
+      "bbox": [
+        25.0,
+        229.0,
+        595.0,
+        255.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.959761381149292
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.9163326025009155
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cnốn okn: 502 - Viêm họng cấp - ([130.3)Vim mùi d ứng káhác",
+      "bbox": [
+        25.0,
+        270.0,
+        468.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnốn okn: 502 - Viêm họng cấp - ([130.3)Vim mùi d ứng káhác",
+          "bbox": [
+            25.0,
+            270.0,
+            468.0,
+            294.0
+          ],
+          "confidence": 0.7765045166015625
+        }
+      ]
+    },
+    {
+      "text": "1) FUDCIME 200MG 200mg SL: 10 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) FUDCIME 200MG 200mg",
+          "bbox": [
+            42.0,
+            381.0,
+            333.0,
+            412.0
+          ],
+          "confidence": 0.8994102478027344
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Gh chú 2) VACO LORATADINE 10mg Uốngữ Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        35.0,
+        410.0,
+        608.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            96.0,
+            433.0
+          ],
+          "confidence": 0.9186660647392273
+        },
+        {
+          "text": "2) VACO LORATADINE 10mg",
+          "bbox": [
+            35.0,
+            429.0,
+            362.0,
+            468.0
+          ],
+          "confidence": 0.9573859572410583
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8116908073425293
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9991088509559631
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            410.0,
+            608.0,
+            435.0
+          ],
+          "confidence": 0.9988405704498291
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên",
+      "bbox": [
+        592.0,
+        435.0,
+        709.0,
+        462.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            435.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9692509174346924
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        462.0,
+        610.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.8278717994689941
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9887273907661438
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            512.0,
+            462.0,
+            610.0,
+            487.0
+          ],
+          "confidence": 0.9953281283378601
+        }
+      ]
+    },
+    {
+      "text": "3) STATRIPSINE 4,2mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) STATRIPSINE 4,2mg",
+          "bbox": [
+            38.0,
+            485.0,
+            292.0,
+            518.0
+          ],
+          "confidence": 0.9582746624946594
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            488.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9235668778419495
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        514.0,
+        610.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            93.0,
+            537.0
+          ],
+          "confidence": 0.787915825843811
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            514.0,
+            163.0,
+            543.0
+          ],
+          "confidence": 0.9372069835662842
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            516.0,
+            378.0,
+            540.0
+          ],
+          "confidence": 0.9910835027694702
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            512.0,
+            515.0,
+            610.0,
+            539.0
+          ],
+          "confidence": 0.9879016876220703
+        }
+      ]
+    },
+    {
+      "text": "4) PARTAMOL TAB. 500mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        535.0,
+        709.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "4) PARTAMOL TAB. 500mg",
+          "bbox": [
+            37.0,
+            535.0,
+            338.0,
+            572.0
+          ],
+          "confidence": 0.9255660772323608
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            539.0,
+            709.0,
+            567.0
+          ],
+          "confidence": 0.9919277429580688
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        565.0,
+        611.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.8948399424552917
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            568.0,
+            378.0,
+            593.0
+          ],
+          "confidence": 0.9593223333358765
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            565.0,
+            611.0,
+            592.0
+          ],
+          "confidence": 0.9986117482185364
+        }
+      ]
+    },
+    {
+      "text": "5) VENRUTINE 100mg 4500mg SL: 10 Vi ên",
+      "bbox": [
+        37.0,
+        590.0,
+        709.0,
+        623.0
+      ],
+      "words": [
+        {
+          "text": "5) VENRUTINE 100mg 4500mg",
+          "bbox": [
+            37.0,
+            590.0,
+            366.0,
+            623.0
+          ],
+          "confidence": 0.9345066547393799
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            593.0,
+            709.0,
+            618.0
+          ],
+          "confidence": 0.9774103760719299
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        619.0,
+        610.0,
+        646.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            620.0,
+            96.0,
+            641.0
+          ],
+          "confidence": 0.7905747294425964
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            619.0,
+            164.0,
+            646.0
+          ],
+          "confidence": 0.8147802352905273
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            620.0,
+            378.0,
+            644.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            512.0,
+            619.0,
+            610.0,
+            643.0
+          ],
+          "confidence": 0.9937682151794434
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 5 khoản",
+      "bbox": [
+        33.0,
+        649.0,
+        199.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 5 khoản",
+          "bbox": [
+            33.0,
+            649.0,
+            199.0,
+            671.0
+          ],
+          "confidence": 0.9553046822547913
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ thuốc:",
+      "bbox": [
+        32.0,
+        675.0,
+        165.0,
+        695.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ thuốc:",
+          "bbox": [
+            32.0,
+            675.0,
+            165.0,
+            695.0
+          ],
+          "confidence": 0.9661471247673035
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        700.0,
+        168.0,
+        721.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            700.0,
+            168.0,
+            721.0
+          ],
+          "confidence": 0.9623095989227295
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/01/2018",
+      "bbox": [
+        484.0,
+        735.0,
+        623.0,
+        759.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/01/2018",
+          "bbox": [
+            484.0,
+            735.0,
+            623.0,
+            759.0
+          ],
+          "confidence": 0.9845245480537415
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        754.0,
+        614.0,
+        784.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            754.0,
+            199.0,
+            775.0
+          ],
+          "confidence": 0.948566198348999
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            763.0,
+            614.0,
+            784.0
+          ],
+          "confidence": 0.946955144405365
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        454.0,
+        833.0,
+        639.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            454.0,
+            833.0,
+            639.0,
+            862.0
+          ],
+          "confidence": 0.9495683908462524
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        891.0,
+        416.0,
+        914.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            891.0,
+            416.0,
+            914.0
+          ],
+          "confidence": 0.7898203134536743
+        }
+      ]
+    },
+    {
+      "text": "08/05/2021 13:17:07",
+      "bbox": [
+        587.0,
+        931.0,
+        731.0,
+        951.0
+      ],
+      "words": [
+        {
+          "text": "08/05/2021 13:17:07",
+          "bbox": [
+            587.0,
+            931.0,
+            731.0,
+            951.0
+          ],
+          "confidence": 0.9511516690254211
+        }
+      ]
+    }
+  ]
+}

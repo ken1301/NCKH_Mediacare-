@@ -1,0 +1,556 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_68",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_68.png",
+  "text": "MS số người bệnh\nKhoa Khám bệnh\nBốc khám ruy n nh ễm Số phiếu 35000/2021\nTOA THUỐC BHYT\nNam 2ữ\nTh bặo hiễhm y t GD 35 35 205 51428\nMạch: 8 lần/phút Huyết áp: 120 mHmHg Thâ n hiệt: 37 C\nCân lâm sàngng:\nCânhn o kghn: K75 - nhnh iêm gan h ác (B20) ệnệnh HIV don ến bệnh nhiễhm rờng Vsà ký cinh rùng\n1) KAHAGAN 0,1g40,075g40,075g SL: 90 Viên\nGhi chú uống Sáng 3 Viên Câềui  3 Vi ViốnTối 3 i Vê\nCộng khoản: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 15/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Vũ Công Đức\nTái kháhm Xin manng th ho đn, Xká nghinhm phiam (ngếu ch)\n05/01/2022 18:50:19",
+  "lines": [
+    {
+      "text": "MS số người bệnh",
+      "bbox": [
+        895.0,
+        42.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS số người bệnh",
+          "bbox": [
+            895.0,
+            42.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.8259260654449463
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        35.0,
+        98.0,
+        220.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            35.0,
+            98.0,
+            220.0,
+            129.0
+          ],
+          "confidence": 0.9276944994926453
+        }
+      ]
+    },
+    {
+      "text": "Bốc khám ruy n nh ễm Số phiếu 35000/2021",
+      "bbox": [
+        36.0,
+        146.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bốc khám ruy n nh ễm",
+          "bbox": [
+            36.0,
+            146.0,
+            292.0,
+            180.0
+          ],
+          "confidence": 0.9063013792037964
+        },
+        {
+          "text": "Số phiếu 35000/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9715530276298523
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        383.0,
+        196.0,
+        758.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            383.0,
+            196.0,
+            758.0,
+            243.0
+          ],
+          "confidence": 0.9073016047477722
+        }
+      ]
+    },
+    {
+      "text": "Nam 2ữ",
+      "bbox": [
+        920.0,
+        236.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2ữ",
+          "bbox": [
+            920.0,
+            236.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.8119339942932129
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiễhm y t GD 35 35 205 51428",
+      "bbox": [
+        35.0,
+        317.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiễhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7522292137145996
+        },
+        {
+          "text": "GD",
+          "bbox": [
+            269.0,
+            318.0,
+            322.0,
+            353.0
+          ],
+          "confidence": 0.9986100196838379
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            318.0,
+            487.0,
+            351.0
+          ],
+          "confidence": 0.9927815794944763
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9634023904800415
+        },
+        {
+          "text": "205",
+          "bbox": [
+            645.0,
+            317.0,
+            701.0,
+            352.0
+          ],
+          "confidence": 0.921048104763031
+        },
+        {
+          "text": "51428",
+          "bbox": [
+            759.0,
+            319.0,
+            839.0,
+            352.0
+          ],
+          "confidence": 0.9863117933273315
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 8 lần/phút Huyết áp: 120 mHmHg Thâ n hiệt: 37 C",
+      "bbox": [
+        34.0,
+        346.0,
+        1018.0,
+        396.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 8",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.924042820930481
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            462.0,
+            393.0
+          ],
+          "confidence": 0.9744579792022705
+        },
+        {
+          "text": "120",
+          "bbox": [
+            489.0,
+            359.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9958510398864746
+        },
+        {
+          "text": "mHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            757.0,
+            390.0
+          ],
+          "confidence": 0.7829931974411011
+        },
+        {
+          "text": "Thâ n hiệt: 37",
+          "bbox": [
+            743.0,
+            358.0,
+            934.0,
+            391.0
+          ],
+          "confidence": 0.8877860307693481
+        },
+        {
+          "text": "C",
+          "bbox": [
+            960.0,
+            346.0,
+            1018.0,
+            396.0
+          ],
+          "confidence": 0.3626723885536194
+        }
+      ]
+    },
+    {
+      "text": "Cân lâm sàngng:",
+      "bbox": [
+        35.0,
+        391.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cân lâm sàngng:",
+          "bbox": [
+            35.0,
+            391.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.814470648765564
+        }
+      ]
+    },
+    {
+      "text": "Cânhn o kghn: K75 - nhnh iêm gan h ác (B20) ệnệnh HIV don ến bệnh nhiễhm rờng Vsà ký cinh rùng",
+      "bbox": [
+        34.0,
+        416.0,
+        1058.0,
+        455.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn o kghn: K75 - nhnh iêm gan h ác (B20) ệnệnh HIV don ến bệnh nhiễhm rờng Vsà ký cinh rùng",
+          "bbox": [
+            34.0,
+            416.0,
+            1058.0,
+            455.0
+          ],
+          "confidence": 0.8358699083328247
+        }
+      ]
+    },
+    {
+      "text": "1) KAHAGAN 0,1g40,075g40,075g SL: 90 Viên",
+      "bbox": [
+        62.0,
+        590.0,
+        1056.0,
+        630.0
+      ],
+      "words": [
+        {
+          "text": "1) KAHAGAN 0,1g40,075g40,075g",
+          "bbox": [
+            62.0,
+            590.0,
+            583.0,
+            630.0
+          ],
+          "confidence": 0.9332603216171265
+        },
+        {
+          "text": "SL: 90 Viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1056.0,
+            625.0
+          ],
+          "confidence": 0.9886878728866577
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 3 Viên Câềui  3 Vi ViốnTối 3 i Vê",
+      "bbox": [
+        45.0,
+        625.0,
+        1048.0,
+        666.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            625.0,
+            243.0,
+            666.0
+          ],
+          "confidence": 0.9648761749267578
+        },
+        {
+          "text": "Sáng 3 Viên",
+          "bbox": [
+            429.0,
+            631.0,
+            561.0,
+            662.0
+          ],
+          "confidence": 0.9920051693916321
+        },
+        {
+          "text": "Câềui  3 Vi ViốnTối 3 i Vê",
+          "bbox": [
+            766.0,
+            628.0,
+            1048.0,
+            661.0
+          ],
+          "confidence": 0.7792131900787354
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoả",
+      "bbox": [
+        44.0,
+        675.0,
+        291.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoả",
+          "bbox": [
+            44.0,
+            675.0,
+            291.0,
+            705.0
+          ],
+          "confidence": 0.9039652943611145
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        42.0,
+        710.0,
+        242.0,
+        741.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            42.0,
+            710.0,
+            242.0,
+            741.0
+          ],
+          "confidence": 0.9679743647575378
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        752.0,
+        246.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            752.0,
+            246.0,
+            780.0
+          ],
+          "confidence": 0.8977067470550537
+        }
+      ]
+    },
+    {
+      "text": "Ngày 15/07/2021",
+      "bbox": [
+        721.0,
+        802.0,
+        926.0,
+        834.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 15/07/2021",
+          "bbox": [
+            721.0,
+            802.0,
+            926.0,
+            834.0
+          ],
+          "confidence": 0.9120973348617554
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        92.0,
+        830.0,
+        913.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            92.0,
+            830.0,
+            292.0,
+            861.0
+          ],
+          "confidence": 0.9042323231697083
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            913.0,
+            874.0
+          ],
+          "confidence": 0.9624027609825134
+        }
+      ]
+    },
+    {
+      "text": "BS. Vũ Công Đức",
+      "bbox": [
+        710.0,
+        955.0,
+        920.0,
+        989.0
+      ],
+      "words": [
+        {
+          "text": "BS. Vũ Công Đức",
+          "bbox": [
+            710.0,
+            955.0,
+            920.0,
+            989.0
+          ],
+          "confidence": 0.8823773860931396
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhm Xin manng th ho đn, Xká nghinhm phiam (ngếu ch)",
+      "bbox": [
+        46.0,
+        1038.0,
+        616.0,
+        1068.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhm Xin manng th ho đn, Xká nghinhm phiam (ngếu ch)",
+          "bbox": [
+            46.0,
+            1038.0,
+            616.0,
+            1068.0
+          ],
+          "confidence": 0.8017405271530151
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 18:50:19",
+      "bbox": [
+        877.0,
+        1096.0,
+        1090.0,
+        1123.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 18:50:19",
+          "bbox": [
+            877.0,
+            1096.0,
+            1090.0,
+            1123.0
+          ],
+          "confidence": 0.9769304394721985
+        }
+      ]
+    }
+  ]
+}

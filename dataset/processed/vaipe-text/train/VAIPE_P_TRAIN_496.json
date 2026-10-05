@@ -1,0 +1,491 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_496",
+  "image": "public_train/image/VAIPE_P_TRAIN_496.png",
+  "text": "1/1\nSố phiếu 2309/2018\n4661778\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n208\n51108\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: J02 - Viêm họng cấp\n1) CEFACYL 500 0,5g\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n2) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n3) VACO LORATADINE 10mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n4) C1000 FLOODE 1g\nSL: 5 Viên\nGhi chú Uống:\nSáng 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc: 0\nNgày hẹn tái khám:\nNgày 27/04/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nDDTH. TRẦN THỊ VÂN ANH\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 16:26:30",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2309/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4661778",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "51108",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        307,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J02 - Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        250,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFACYL 500 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        274,
+        412
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        274,
+        466
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        466,
+        606,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) VACO LORATADINE 10mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        489,
+        357,
+        518
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        518,
+        605,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        376,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) C1000 FLOODE 1g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        541,
+        269,
+        570
+      ],
+      "mapping": 106
+    },
+    {
+      "text": "SL: 5 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        543,
+        697,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        566,
+        161,
+        592
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        571,
+        376,
+        591
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        600,
+        197,
+        620
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: 0",
+      "label": "other",
+      "bbox": [
+        33,
+        623,
+        185,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        650,
+        168,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27/04/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        687,
+        621,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        703,
+        198,
+        722
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        712,
+        611,
+        732
+      ],
+      "mapping": null
+    },
+    {
+      "text": "DDTH. TRẦN THỊ VÂN ANH",
+      "label": "other",
+      "bbox": [
+        426,
+        784,
+        667,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        840,
+        414,
+        863
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 16:26:30",
+      "label": "other",
+      "bbox": [
+        586,
+        882,
+        730,
+        899
+      ],
+      "mapping": null
+    }
+  ]
+}

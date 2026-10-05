@@ -1,0 +1,515 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1172",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1172.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1459/2019\nTOA THUỐC BHYT\nNam x Nữ2\nThu ặo h êhám y tế HS 4 35 35 207\nMạch: lần/phút Huyết áp: MmMHHg Th Th n nhiệt: C\nCn lâm sàng:\nCiềuhần okn: 502- êm ọg cấp\n1) CEPHALEXIN 250MG 0,25g SL: 20 Viên\nGhi chúữ Uốg\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n04/06/2021 10:47:14",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9994438290596008
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1459/2019",
+      "bbox": [
+        369.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1459/2019",
+          "bbox": [
+            369.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9878571629524231
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ2",
+      "bbox": [
+        616.0,
+        148.0,
+        737.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ2",
+          "bbox": [
+            616.0,
+            148.0,
+            737.0,
+            180.0
+          ],
+          "confidence": 0.8469838500022888
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế HS 4 35 35 207",
+      "bbox": [
+        25.0,
+        203.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7739477753639221
+        },
+        {
+          "text": "HS",
+          "bbox": [
+            182.0,
+            203.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.9988948106765747
+        },
+        {
+          "text": "4",
+          "bbox": [
+            246.0,
+            207.0,
+            267.0,
+            225.0
+          ],
+          "confidence": 0.8645151853561401
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9996625185012817
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.999746561050415
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9642574787139893
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            517.0,
+            254.0
+          ],
+          "confidence": 0.8726142048835754
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cn lâm sàng:",
+      "bbox": [
+        25.0,
+        250.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâm sàng:",
+          "bbox": [
+            25.0,
+            250.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.9253444075584412
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần okn: 502- êm ọg cấp",
+      "bbox": [
+        25.0,
+        271.0,
+        252.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần okn: 502- êm ọg cấp",
+          "bbox": [
+            25.0,
+            271.0,
+            252.0,
+            295.0
+          ],
+          "confidence": 0.7764258980751038
+        }
+      ]
+    },
+    {
+      "text": "1) CEPHALEXIN 250MG 0,25g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CEPHALEXIN 250MG 0,25g",
+          "bbox": [
+            40.0,
+            379.0,
+            358.0,
+            415.0
+          ],
+          "confidence": 0.9822589755058289
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9448748230934143
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg",
+      "bbox": [
+        32.0,
+        410.0,
+        164.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            32.0,
+            411.0,
+            97.0,
+            436.0
+          ],
+          "confidence": 0.8907095193862915
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.8781428337097168
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        466.0,
+        164.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            466.0,
+            164.0,
+            487.0
+          ],
+          "confidence": 0.9313652515411377
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/05/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/05/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9930724501609802
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "bbox": [
+        457.0,
+        627.0,
+        636.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trương Văn Nghĩa",
+          "bbox": [
+            457.0,
+            627.0,
+            636.0,
+            652.0
+          ],
+          "confidence": 0.9888364672660828
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488335013389587
+        }
+      ]
+    },
+    {
+      "text": "04/06/2021 10:47:14",
+      "bbox": [
+        587.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "04/06/2021 10:47:14",
+          "bbox": [
+            587.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9993467926979065
+        }
+      ]
+    }
+  ]
+}

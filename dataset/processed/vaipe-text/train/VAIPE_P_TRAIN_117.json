@@ -1,0 +1,370 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_117",
+  "image": "public_train/image/VAIPE_P_TRAIN_117.png",
+  "text": "1/1\nSố phiếu 92/2020\n4865637\nTOA THUỐC BHYT\nNam\nNữ\n35\n206\n53016\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChần đoán: L28.2 - Sần ngứa khác; (J02) Viêm họng cấp\n1) Bố GAN P/H 125mg+100mg+25mg\nSL: 40 Viên\nGhi chú Uống:\n2) SERGUROP 10mg\nSL: 10 Viên\nGhi chú Uống:\n3) XITORAN 0,5g\nSL: 15 Viên\nGhi chú Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 16/01/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n09/05/2021 18:01:48",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 92/2020",
+      "label": "other",
+      "bbox": [
+        371,
+        91,
+        514,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4865637",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        618,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "53016",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        561,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: L28.2 - Sần ngứa khác; (J02) Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        417,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Bố GAN P/H 125mg+100mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        383,
+        418,
+        414
+      ],
+      "mapping": 18
+    },
+    {
+      "text": "SL: 40 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) SERGUROP 10mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        261,
+        466
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) XITORAN 0,5g",
+      "label": "drugname",
+      "bbox": [
+        44,
+        490,
+        232,
+        518
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 15 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        548,
+        197,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        571,
+        163,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        598,
+        167,
+        616
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 16/01/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        633,
+        621,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        652,
+        198,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        658,
+        611,
+        678
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "label": "other",
+      "bbox": [
+        456,
+        735,
+        636,
+        757
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        788,
+        416,
+        811
+      ],
+      "mapping": null
+    },
+    {
+      "text": "09/05/2021 18:01:48",
+      "label": "other",
+      "bbox": [
+        586,
+        829,
+        730,
+        845
+      ],
+      "mapping": null
+    }
+  ]
+}

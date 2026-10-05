@@ -1,0 +1,447 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1156",
+  "image": "public_train/image/VAIPE_P_TRAIN_1156.png",
+  "text": "1/1\nPK SỐ 8 [TN]\nSố phiếu 64916/2020\n4784725\nTOA THUỐC BHYT\nNam\nNữ\n29478\nGB\n209\n4\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: chụp Xquang ngực thăng\nChẩn đoán: J20 - Viêm phế quản cấp\n1) CEFADROXIL 500MG 0,5g\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nChiều 2 Viên\n2) DIXIREIN 375mg\nSL: 20 Viên\nGhi chú Uống\nChiều 2 Viên\nSáng 2 Viên\n3) VIPREDNI 16MG 16mg\nSL: 10 Viên\nGhi chú uống:\nSáng 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 20/11/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. khongdunghadv\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n24/12/2021 12:27:40",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 8 [TN]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        124,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 64916/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        109,
+        546,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4784725",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29478",
+      "label": "other",
+      "bbox": [
+        508,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "GB",
+      "label": "other",
+      "bbox": [
+        188,
+        226,
+        215,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        437,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: chụp Xquang ngực thăng",
+      "label": "other",
+      "bbox": [
+        28,
+        275,
+        303,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J20 - Viêm phế quản cấp",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        291,
+        279,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        348,
+        430
+      ],
+      "mapping": 19
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        253,
+        483
+      ],
+      "mapping": 21
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) VIPREDNI 16MG 16mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        317,
+        534
+      ],
+      "mapping": 77
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        162,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        537,
+        377,
+        560
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 20/11/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. khongdunghadv",
+      "label": "other",
+      "bbox": [
+        468,
+        752,
+        625,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "24/12/2021 12:27:40",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

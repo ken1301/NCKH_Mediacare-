@@ -1,0 +1,711 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_240",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_240.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 2 [Nội] Số phiếu 40624/2020\nTOAOHAC THU C BH YBHYT N mx N2\nThu ặo hiếhám y tế BT 235 206 98845\nMạch: lần/phút Huyết áp: MMHg Thân nhiệ: C\nCận 1shm sàng: Định 1ương Acid Uric [MMáu) Định 1ương Cho1cSucrOo1 uoàn phần (Mmnu) Định 1ương HDL\nC (High dênSiựu lipoprơtuin Cho1Suưro1) [Máu) Định 1ương Triguycưri (máu) [MMáu) Siêu sMm hb tiế\nninhu (thhn, tuyễn thưitng thhnm àng ọuang tiên 1inhi tuyễn)\nCậnhắn Okn: N40 - Tng Sán tuyễến tiên lini : E78) Ri 1oMạn chuyễn hoán ipOprOcin Và tinh trạng tĩng địpicd\nmmcu khách: (M10) GnHt (thống phong)\n1) COLCHICIN 1mg SL: 10 Viên\nGhi chú Uống: Sáng 1 Viên\n2) MILURIT 300mg SL: 10 Viên\nGhi chú Uống Sáng 1 Viên\n3) PANACTOL 500mg SL: 20 Viên\nGhi chúK Uốg: Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/07/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTiá khákhám Xin mng thco ĩođn, Xết nghinệm phiám (nếui c)\n20/12/2021 00:02:41",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        51.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9944257140159607
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 40624/2020",
+      "bbox": [
+        23.0,
+        101.0,
+        547.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            101.0,
+            131.0,
+            133.0
+          ],
+          "confidence": 0.9528663158416748
+        },
+        {
+          "text": "Số phiếu 40624/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            547.0,
+            139.0
+          ],
+          "confidence": 0.9804384112358093
+        }
+      ]
+    },
+    {
+      "text": "TOAOHAC THU C BH YBHYT N mx N2",
+      "bbox": [
+        258.0,
+        138.0,
+        740.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "TOAOHAC THU C BH YBHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.7989009618759155
+        },
+        {
+          "text": "N mx N2",
+          "bbox": [
+            612.0,
+            160.0,
+            740.0,
+            203.0
+          ],
+          "confidence": 0.7503673434257507
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế BT 235 206 98845",
+      "bbox": [
+        24.0,
+        220.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "BT 235",
+          "bbox": [
+            180.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8604550957679749
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "98845",
+          "bbox": [
+            506.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9994961023330688
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệ: C",
+      "bbox": [
+        24.0,
+        241.0,
+        681.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            249.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.9869147539138794
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            308.0,
+            272.0
+          ],
+          "confidence": 0.9627724885940552
+        },
+        {
+          "text": "MMHg Thân nhiệ:",
+          "bbox": [
+            450.0,
+            250.0,
+            596.0,
+            271.0
+          ],
+          "confidence": 0.8407395482063293
+        },
+        {
+          "text": "C",
+          "bbox": [
+            643.0,
+            241.0,
+            681.0,
+            274.0
+          ],
+          "confidence": 0.33100664615631104
+        }
+      ]
+    },
+    {
+      "text": "Cận 1shm sàng: Định 1ương Acid Uric [MMáu) Định 1ương Cho1cSucrOo1 uoàn phần (Mmnu) Định 1ương HDL",
+      "bbox": [
+        24.0,
+        270.0,
+        735.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1shm sàng: Định 1ương Acid Uric [MMáu) Định 1ương Cho1cSucrOo1 uoàn phần (Mmnu) Định 1ương HDL",
+          "bbox": [
+            24.0,
+            270.0,
+            735.0,
+            293.0
+          ],
+          "confidence": 0.8517241477966309
+        }
+      ]
+    },
+    {
+      "text": "C (High dênSiựu lipoprơtuin Cho1Suưro1) [Máu) Định 1ương Triguycưri (máu) [MMáu) Siêu sMm hb tiế",
+      "bbox": [
+        24.0,
+        290.0,
+        716.0,
+        314.0
+      ],
+      "words": [
+        {
+          "text": "C (High dênSiựu lipoprơtuin Cho1Suưro1) [Máu) Định 1ương Triguycưri (máu) [MMáu) Siêu sMm hb tiế",
+          "bbox": [
+            24.0,
+            290.0,
+            716.0,
+            314.0
+          ],
+          "confidence": 0.8197935223579407
+        }
+      ]
+    },
+    {
+      "text": "ninhu (thhn, tuyễn thưitng thhnm àng ọuang tiên 1inhi tuyễn)",
+      "bbox": [
+        26.0,
+        313.0,
+        421.0,
+        330.0
+      ],
+      "words": [
+        {
+          "text": "ninhu (thhn, tuyễn thưitng thhnm àng ọuang tiên 1inhi tuyễn)",
+          "bbox": [
+            26.0,
+            313.0,
+            421.0,
+            330.0
+          ],
+          "confidence": 0.7497555017471313
+        }
+      ]
+    },
+    {
+      "text": "Cậnhắn Okn: N40 - Tng Sán tuyễến tiên lini : E78) Ri 1oMạn chuyễn hoán ipOprOcin Và tinh trạng tĩng địpicd",
+      "bbox": [
+        25.0,
+        329.0,
+        739.0,
+        351.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhắn Okn: N40 - Tng Sán tuyễến tiên lini : E78) Ri 1oMạn chuyễn hoán ipOprOcin Và tinh trạng tĩng địpicd",
+          "bbox": [
+            25.0,
+            329.0,
+            739.0,
+            351.0
+          ],
+          "confidence": 0.7458925843238831
+        }
+      ]
+    },
+    {
+      "text": "mmcu khách: (M10) GnHt (thống phong)",
+      "bbox": [
+        24.0,
+        348.0,
+        276.0,
+        371.0
+      ],
+      "words": [
+        {
+          "text": "mmcu khách: (M10) GnHt (thống phong)",
+          "bbox": [
+            24.0,
+            348.0,
+            276.0,
+            371.0
+          ],
+          "confidence": 0.8062354922294617
+        }
+      ]
+    },
+    {
+      "text": "1) COLCHICIN 1mg SL: 10 Viên",
+      "bbox": [
+        40.0,
+        436.0,
+        710.0,
+        472.0
+      ],
+      "words": [
+        {
+          "text": "1) COLCHICIN 1mg",
+          "bbox": [
+            40.0,
+            436.0,
+            256.0,
+            472.0
+          ],
+          "confidence": 0.9440163373947144
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            439.0,
+            710.0,
+            469.0
+          ],
+          "confidence": 0.9981977343559265
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên",
+      "bbox": [
+        32.0,
+        465.0,
+        379.0,
+        496.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            470.0,
+            93.0,
+            491.0
+          ],
+          "confidence": 0.8412550687789917
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            465.0,
+            165.0,
+            496.0
+          ],
+          "confidence": 0.8698654174804688
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            467.0,
+            379.0,
+            494.0
+          ],
+          "confidence": 0.9965035915374756
+        }
+      ]
+    },
+    {
+      "text": "2) MILURIT 300mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        488.0,
+        710.0,
+        525.0
+      ],
+      "words": [
+        {
+          "text": "2) MILURIT 300mg",
+          "bbox": [
+            36.0,
+            488.0,
+            251.0,
+            525.0
+          ],
+          "confidence": 0.9608193635940552
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            492.0,
+            710.0,
+            520.0
+          ],
+          "confidence": 0.9047168493270874
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên",
+      "bbox": [
+        33.0,
+        518.0,
+        379.0,
+        548.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            521.0,
+            95.0,
+            544.0
+          ],
+          "confidence": 0.9029200673103333
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            518.0,
+            165.0,
+            548.0
+          ],
+          "confidence": 0.9804700613021851
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            521.0,
+            379.0,
+            546.0
+          ],
+          "confidence": 0.9582645893096924
+        }
+      ]
+    },
+    {
+      "text": "3) PANACTOL 500mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        541.0,
+        710.0,
+        576.0
+      ],
+      "words": [
+        {
+          "text": "3) PANACTOL 500mg",
+          "bbox": [
+            37.0,
+            541.0,
+            276.0,
+            576.0
+          ],
+          "confidence": 0.9539334774017334
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            544.0,
+            710.0,
+            572.0
+          ],
+          "confidence": 0.9017003774642944
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        569.0,
+        610.0,
+        601.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            32.0,
+            572.0,
+            97.0,
+            596.0
+          ],
+          "confidence": 0.8739383816719055
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            104.0,
+            569.0,
+            166.0,
+            601.0
+          ],
+          "confidence": 0.8696391582489014
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            573.0,
+            379.0,
+            598.0
+          ],
+          "confidence": 0.9582645893096924
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            570.0,
+            610.0,
+            597.0
+          ],
+          "confidence": 0.975731372833252
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        600.0,
+        199.0,
+        624.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            600.0,
+            199.0,
+            624.0
+          ],
+          "confidence": 0.9774419665336609
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        625.0,
+        166.0,
+        649.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            625.0,
+            166.0,
+            649.0
+          ],
+          "confidence": 0.9459000825881958
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        652.0,
+        170.0,
+        676.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            652.0,
+            170.0,
+            676.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 28/07/2020",
+      "bbox": [
+        482.0,
+        685.0,
+        624.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 28/07/2020",
+          "bbox": [
+            482.0,
+            685.0,
+            624.0,
+            711.0
+          ],
+          "confidence": 0.967053234577179
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        703.0,
+        616.0,
+        739.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            703.0,
+            201.0,
+            730.0
+          ],
+          "confidence": 0.999752938747406
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            715.0,
+            616.0,
+            739.0
+          ],
+          "confidence": 0.9865530729293823
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        455.0,
+        787.0,
+        640.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            455.0,
+            787.0,
+            640.0,
+            814.0
+          ],
+          "confidence": 0.9442685842514038
+        }
+      ]
+    },
+    {
+      "text": "Tiá khákhám Xin mng thco ĩođn, Xết nghinệm phiám (nếui c)",
+      "bbox": [
+        32.0,
+        844.0,
+        416.0,
+        867.0
+      ],
+      "words": [
+        {
+          "text": "Tiá khákhám Xin mng thco ĩođn, Xết nghinệm phiám (nếui c)",
+          "bbox": [
+            32.0,
+            844.0,
+            416.0,
+            867.0
+          ],
+          "confidence": 0.8251588344573975
+        }
+      ]
+    },
+    {
+      "text": "20/12/2021 00:02:41",
+      "bbox": [
+        587.0,
+        883.0,
+        731.0,
+        905.0
+      ],
+      "words": [
+        {
+          "text": "20/12/2021 00:02:41",
+          "bbox": [
+            587.0,
+            883.0,
+            731.0,
+            905.0
+          ],
+          "confidence": 0.973574161529541
+        }
+      ]
+    }
+  ]
+}

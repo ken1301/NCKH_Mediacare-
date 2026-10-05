@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_885",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_885.png",
+  "text": "MS sỐ người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 34990/2021\nTOA THỐC BHYT\nNam x ữ2\nTh bặo hiêhm y t BT 35 35 206 12069\nMạch: 0 lần/phút Huyết áp: 120 mHmHg Thâ n nhiệt 36.7 C\nCn lâ nà ngng:\nCânhần okn: I10 - Bnh 1, tăng huyếnH áp: (E78.1) Tăng tigiycri máu ođơ thuần\n1) HANGITOR PLUS 40mg412, 5mg SL: 30 viên\nGhi chú uống: Sáng 1 viên\nCộng khoả: 1 khoậ\nLời dặn   đn đốn c: HEN HnM LAI 15/8/2021\nNgày hẹ tá khám:\nNgày 15/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Trần Minh Tuấn\nTái kh Khm Xin mang th ho hđn, Xká nghinhm phim (êngếu ch)\n05/01/2022 22:44:32",
+  "lines": [
+    {
+      "text": "MS sỐ người bệnh",
+      "bbox": [
+        896.0,
+        43.0,
+        1065.0,
+        74.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐ người bệnh",
+          "bbox": [
+            896.0,
+            43.0,
+            1065.0,
+            74.0
+          ],
+          "confidence": 0.8335763216018677
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        35.0,
+        98.0,
+        220.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            35.0,
+            98.0,
+            220.0,
+            129.0
+          ],
+          "confidence": 0.955304741859436
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 34990/2021",
+      "bbox": [
+        35.0,
+        145.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 34990/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9715118408203125
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        384.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            384.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8370066285133362
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        920.0,
+        234.0,
+        1101.0,
+        283.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            920.0,
+            234.0,
+            1101.0,
+            283.0
+          ],
+          "confidence": 0.8762688636779785
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiêhm y t BT 35 35 206 12069",
+      "bbox": [
+        35.0,
+        317.0,
+        839.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiêhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7792321443557739
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            271.0,
+            319.0,
+            321.0,
+            353.0
+          ],
+          "confidence": 0.9735391139984131
+        },
+        {
+          "text": "35",
+          "bbox": [
+            441.0,
+            318.0,
+            485.0,
+            352.0
+          ],
+          "confidence": 0.9998679161071777
+        },
+        {
+          "text": "35",
+          "bbox": [
+            540.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9999237656593323
+        },
+        {
+          "text": "206",
+          "bbox": [
+            645.0,
+            317.0,
+            701.0,
+            352.0
+          ],
+          "confidence": 0.8602321743965149
+        },
+        {
+          "text": "12069",
+          "bbox": [
+            760.0,
+            319.0,
+            839.0,
+            351.0
+          ],
+          "confidence": 0.9968922734260559
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 0 lần/phút Huyết áp: 120 mHmHg Thâ n nhiệt 36.7 C",
+      "bbox": [
+        34.0,
+        348.0,
+        1017.0,
+        394.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 0",
+          "bbox": [
+            34.0,
+            358.0,
+            166.0,
+            390.0
+          ],
+          "confidence": 0.9186583757400513
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            462.0,
+            393.0
+          ],
+          "confidence": 0.9769461154937744
+        },
+        {
+          "text": "120",
+          "bbox": [
+            490.0,
+            359.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.999931812286377
+        },
+        {
+          "text": "mHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            757.0,
+            390.0
+          ],
+          "confidence": 0.8174570798873901
+        },
+        {
+          "text": "Thâ n nhiệt 36.7",
+          "bbox": [
+            741.0,
+            357.0,
+            954.0,
+            390.0
+          ],
+          "confidence": 0.853496789932251
+        },
+        {
+          "text": "C",
+          "bbox": [
+            961.0,
+            348.0,
+            1017.0,
+            394.0
+          ],
+          "confidence": 0.5116567015647888
+        }
+      ]
+    },
+    {
+      "text": "Cn lâ nà ngng:",
+      "bbox": [
+        35.0,
+        392.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâ nà ngng:",
+          "bbox": [
+            35.0,
+            392.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.7199134826660156
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okn: I10 - Bnh 1, tăng huyếnH áp: (E78.1) Tăng tigiycri máu ođơ thuần",
+      "bbox": [
+        34.0,
+        417.0,
+        859.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okn: I10 - Bnh 1, tăng huyếnH áp: (E78.1) Tăng tigiycri máu ođơ thuần",
+          "bbox": [
+            34.0,
+            417.0,
+            859.0,
+            453.0
+          ],
+          "confidence": 0.811602771282196
+        }
+      ]
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg412, 5mg SL: 30 viên",
+      "bbox": [
+        62.0,
+        588.0,
+        1048.0,
+        631.0
+      ],
+      "words": [
+        {
+          "text": "1) HANGITOR PLUS 40mg412, 5mg",
+          "bbox": [
+            62.0,
+            588.0,
+            595.0,
+            631.0
+          ],
+          "confidence": 0.8961785435676575
+        },
+        {
+          "text": "SL: 30 viên",
+          "bbox": [
+            886.0,
+            590.0,
+            1048.0,
+            625.0
+          ],
+          "confidence": 0.9351577162742615
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Sáng 1 viên",
+      "bbox": [
+        44.0,
+        624.0,
+        556.0,
+        667.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            44.0,
+            624.0,
+            244.0,
+            667.0
+          ],
+          "confidence": 0.9740160703659058
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            429.0,
+            632.0,
+            556.0,
+            663.0
+          ],
+          "confidence": 0.9863094091415405
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoậ",
+      "bbox": [
+        43.0,
+        673.0,
+        293.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoậ",
+          "bbox": [
+            43.0,
+            673.0,
+            293.0,
+            706.0
+          ],
+          "confidence": 0.9048115015029907
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn   đn đốn c: HEN HnM LAI 15/8/2021",
+      "bbox": [
+        43.0,
+        713.0,
+        550.0,
+        740.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn   đn đốn c: HEN HnM LAI 15/8/2021",
+          "bbox": [
+            43.0,
+            713.0,
+            550.0,
+            740.0
+          ],
+          "confidence": 0.8417719602584839
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹ tá khám:",
+      "bbox": [
+        44.0,
+        752.0,
+        247.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹ tá khám:",
+          "bbox": [
+            44.0,
+            752.0,
+            247.0,
+            780.0
+          ],
+          "confidence": 0.8075006008148193
+        }
+      ]
+    },
+    {
+      "text": "Ngày 15/07/2021",
+      "bbox": [
+        721.0,
+        801.0,
+        927.0,
+        835.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 15/07/2021",
+          "bbox": [
+            721.0,
+            801.0,
+            927.0,
+            835.0
+          ],
+          "confidence": 0.9690682291984558
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        828.0,
+        913.0,
+        874.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            91.0,
+            828.0,
+            293.0,
+            862.0
+          ],
+          "confidence": 0.9417433142662048
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            843.0,
+            913.0,
+            874.0
+          ],
+          "confidence": 0.9662958979606628
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuấn",
+      "bbox": [
+        672.0,
+        950.0,
+        957.0,
+        987.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Trần Minh Tuấn",
+          "bbox": [
+            672.0,
+            950.0,
+            957.0,
+            987.0
+          ],
+          "confidence": 0.9368793964385986
+        }
+      ]
+    },
+    {
+      "text": "Tái kh Khm Xin mang th ho hđn, Xká nghinhm phim (êngếu ch)",
+      "bbox": [
+        46.0,
+        1038.0,
+        616.0,
+        1068.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh Khm Xin mang th ho hđn, Xká nghinhm phim (êngếu ch)",
+          "bbox": [
+            46.0,
+            1038.0,
+            616.0,
+            1068.0
+          ],
+          "confidence": 0.8016038537025452
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 22:44:32",
+      "bbox": [
+        877.0,
+        1097.0,
+        1090.0,
+        1124.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 22:44:32",
+          "bbox": [
+            877.0,
+            1097.0,
+            1090.0,
+            1124.0
+          ],
+          "confidence": 0.9629702568054199
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1026",
+  "image": "public_train/image/VAIPE_P_TRAIN_1026.png",
+  "text": "1/1\nBÌNH NGHĨA\nSố phiếu 1850/2021\n4732758\nTOA THUỐC BHYT\nNam\nNữ\n208\n42368\n4\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: 110 - Bệnh lý tăng huyết áp; (J02) Viêm họng cấp\n1) KAVASDIN 5 5mg\nSL: 30 Viên\nGhi chú Uống\nSáng 1 Viên\n2) ENALAPRIL 5mg\nSL: 30 Viên\nGhi chú Uống:\nTối 1 Viên\n3) AMOXICILIN 500MG 500mg\nSL: 20 viên\nGhi chú Uống:\nSáng 2 viên\nTối 2 viên\n4) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\nTối 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/05/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Thị Tính\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n29/12/2021 23:31:47",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "label": "other",
+      "bbox": [
+        153,
+        75,
+        250,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1850/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        532,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4732758",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "42368",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: 110 - Bệnh lý tăng huyết áp; (J02) Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        450,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        402,
+        270,
+        430
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        153,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        257,
+        483
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        483,
+        701,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        505,
+        366,
+        534
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        703,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        534,
+        162,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        539,
+        372,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 viên",
+      "label": "usage",
+      "bbox": [
+        627,
+        539,
+        698,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        559,
+        275,
+        588
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        707,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        160,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        590,
+        377,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        627,
+        590,
+        701,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        619,
+        197,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        643,
+        164,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        667,
+        168,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 13/05/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        703,
+        621,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        721,
+        199,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        732,
+        612,
+        749
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "label": "other",
+      "bbox": [
+        474,
+        801,
+        617,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        858,
+        414,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29/12/2021 23:31:47",
+      "label": "other",
+      "bbox": [
+        585,
+        898,
+        732,
+        918
+      ],
+      "mapping": null
+    }
+  ]
+}

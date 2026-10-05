@@ -1,0 +1,293 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_288",
+  "image": "public_train/image/VAIPE_P_TRAIN_288.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (KO4) Bệnh tủy và\nmô quanh chân răng 17; (G46?) Hội chứng mạch máu não trong bệnh mạch\nnão (160-1677)\nThuốc điều trị:\n1) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 30 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 20 Viên\n3) Metronidazol (Metronidazol 250) 250 mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên Tối 2 viên\nSL: 60 viên\nLời dặn:\nNgày 22 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ngọc Tri\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (KO4) Bệnh tủy và",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1067,
+        391
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mô quanh chân răng 17; (G46?) Hội chứng mạch máu não trong bệnh mạch",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        1055,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        432,
+        237,
+        465
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        468,
+        242,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        515,
+        565,
+        560
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        585,
+        749,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        197,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        647,
+        582,
+        682
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        750,
+        753
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        197,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Metronidazol (Metronidazol 250) 250 mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        772,
+        657,
+        815
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        842,
+        752,
+        882
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        845,
+        197,
+        875
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        897,
+        892,
+        942
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên Tối 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        970,
+        879,
+        1010
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 60 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        975,
+        190,
+        1002
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        1037,
+        157,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 22 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1082,
+        1027,
+        1120
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1130,
+        1002,
+        1165
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1175,
+        970,
+        1212
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        662,
+        1315,
+        1017,
+        1357
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1365,
+        507,
+        1397
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1409,
+        1007,
+        1452
+      ],
+      "mapping": null
+    }
+  ]
+}

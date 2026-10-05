@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1161",
+  "image": "public_train/image/VAIPE_P_TRAIN_1161.png",
+  "text": "Số phiếu 453/2018\n4724168\n1/1\nTOA THUỐC BHYT\nNam\nNữ\n35\n206\n76935\n35\nlần/phút Huyết áp:\nmmHg Thân nhiệt:\nMạch:\nCận lâm sàng:\nChần đoán: J20 - Viêm phế quản cấp/viêm xoang\n1) NOVOXIM-500 0,5g\nSL: 20 Viên\nGhi chú Uống:\n2) BROMHEXIN ACTAVIS 8MG 8mg\nSL: 20 Viên\nGhi chú Uống:\nSL: 10 Viên\n3) CLORPHENIRAMIN 4mg\nGhi chú Uống:\n4) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 09/04/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n03/05/2021 18:16:29",
+  "words": [
+    {
+      "text": "Số phiếu 453/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        11,
+        524,
+        43
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4724168",
+      "label": "other",
+      "bbox": [
+        626,
+        21,
+        688,
+        38
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        56,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        41,
+        508,
+        73
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        80,
+        655,
+        96
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        80,
+        708,
+        96
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        127,
+        387,
+        145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        127,
+        468,
+        145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "76935",
+      "label": "other",
+      "bbox": [
+        511,
+        127,
+        560,
+        145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        128,
+        322,
+        145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        152,
+        305,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        451,
+        152,
+        595,
+        175
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        155,
+        73,
+        172
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        174,
+        125,
+        194
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: J20 - Viêm phế quản cấp/viêm xoang",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        192,
+        366,
+        214
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        307,
+        280,
+        332
+      ],
+      "mapping": 82
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        307,
+        708,
+        329
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        331,
+        161,
+        356
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) BROMHEXIN ACTAVIS 8MG 8mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        357,
+        423,
+        386
+      ],
+      "mapping": 59
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        359,
+        708,
+        381
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        383,
+        159,
+        408
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        410,
+        709,
+        434
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) CLORPHENIRAMIN 4mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        411,
+        332,
+        438
+      ],
+      "mapping": 29
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        434,
+        159,
+        460
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        463,
+        334,
+        489
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        464,
+        708,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        34,
+        486,
+        152,
+        511
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        197,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        543,
+        163,
+        561
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        570,
+        167,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 09/04/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        606,
+        621,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        623,
+        198,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        631,
+        611,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "label": "other",
+      "bbox": [
+        458,
+        707,
+        636,
+        728
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        760,
+        414,
+        783
+      ],
+      "mapping": null
+    },
+    {
+      "text": "03/05/2021 18:16:29",
+      "label": "other",
+      "bbox": [
+        586,
+        802,
+        730,
+        819
+      ],
+      "mapping": null
+    }
+  ]
+}

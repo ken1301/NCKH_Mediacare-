@@ -1,0 +1,525 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1111",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1111.png",
+  "text": "1/1 M sc người bnh\nPK Số 4 [Sản) Số phiếu 25228/2021\nTOA THỐC BHYT\nNamx\nThu ặo h ếhám y tế DN 35 130 88602 C\nMạch: lần/phút Huyết áp: MMHgố Thn n nhiệt\nCộngl 1 sn sgng: Siu nMn t cung phgn phự\nChânhn okhnả: N92 - Kinh nguybi nhi u, hay Xuhất hinhẹ Và khõng ềun:ROng inh káo dàin (N61) Viêhám Vút\n1) CEFADROXIL 500MG 0,5g SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\nCộng khoả: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/04/2021\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. Vũ Thị Hiên\nTiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)\n06/05/2021 10:28:45",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 4 [Sản) Số phiếu 25228/2021",
+      "bbox": [
+        22.0,
+        83.0,
+        544.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 4 [Sản)",
+          "bbox": [
+            22.0,
+            83.0,
+            131.0,
+            116.0
+          ],
+          "confidence": 0.8845383524894714
+        },
+        {
+          "text": "Số phiếu 25228/2021",
+          "bbox": [
+            370.0,
+            89.0,
+            544.0,
+            121.0
+          ],
+          "confidence": 0.9851406216621399
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9222446084022522
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế DN 35 130 88602 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "DN",
+          "bbox": [
+            182.0,
+            203.0,
+            227.0,
+            226.0
+          ],
+          "confidence": 0.9856059551239014
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999673962593079
+        },
+        {
+          "text": "130",
+          "bbox": [
+            433.0,
+            203.0,
+            472.0,
+            227.0
+          ],
+          "confidence": 0.9999055862426758
+        },
+        {
+          "text": "88602",
+          "bbox": [
+            506.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.999279797077179
+        },
+        {
+          "text": "C",
+          "bbox": [
+            643.0,
+            217.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.4363517761230469
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHgố Thn n nhiệt",
+      "bbox": [
+        25.0,
+        228.0,
+        596.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            228.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9526011943817139
+        },
+        {
+          "text": "MMHgố Thn n nhiệt",
+          "bbox": [
+            450.0,
+            233.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.8381004333496094
+        }
+      ]
+    },
+    {
+      "text": "Cộngl 1 sn sgng: Siu nMn t cung phgn phự",
+      "bbox": [
+        25.0,
+        252.0,
+        307.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộngl 1 sn sgng: Siu nMn t cung phgn phự",
+          "bbox": [
+            25.0,
+            252.0,
+            307.0,
+            275.0
+          ],
+          "confidence": 0.7309049963951111
+        }
+      ]
+    },
+    {
+      "text": "Chânhn okhnả: N92 - Kinh nguybi nhi u, hay Xuhất hinhẹ Và khõng ềun:ROng inh káo dàin (N61) Viêhám Vút",
+      "bbox": [
+        25.0,
+        270.0,
+        717.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Chânhn okhnả: N92 - Kinh nguybi nhi u, hay Xuhất hinhẹ Và khõng ềun:ROng inh káo dàin (N61) Viêhám Vút",
+          "bbox": [
+            25.0,
+            270.0,
+            717.0,
+            294.0
+          ],
+          "confidence": 0.802207350730896
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            350.0,
+            415.0
+          ],
+          "confidence": 0.9866521954536438
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8569597005844116
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.9128183126449585
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9298473596572876
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            437.0
+          ],
+          "confidence": 0.9988322257995605
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoả",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoả",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9402142763137817
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 27/04/2021",
+      "bbox": [
+        483.0,
+        523.0,
+        623.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 27/04/2021",
+          "bbox": [
+            483.0,
+            523.0,
+            623.0,
+            549.0
+          ],
+          "confidence": 0.9897630214691162
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        614.0,
+        576.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.9851747155189514
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            554.0,
+            614.0,
+            576.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. Vũ Thị Hiên",
+      "bbox": [
+        480.0,
+        625.0,
+        614.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BS. Vũ Thị Hiên",
+          "bbox": [
+            480.0,
+            625.0,
+            614.0,
+            652.0
+          ],
+          "confidence": 0.9274269342422485
+        }
+      ]
+    },
+    {
+      "text": "Tiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Tiái khánhám Xin Mmanng th cho ođn, X n nghinệm, phiram (rnếu ch)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.7941455245018005
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 10:28:45",
+      "bbox": [
+        587.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 10:28:45",
+          "bbox": [
+            587.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.972928524017334
+        }
+      ]
+    }
+  ]
+}

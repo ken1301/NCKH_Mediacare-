@@ -1,0 +1,699 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1161",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1161.png",
+  "text": "1/1 Số phiếu 453/2018 1 4724168\nTOA THUỐC BHYT\nNa 2 x\nThu ặo h ếhám y tế GD 4 35 206 76935\nMạch: lần/phút Huyết áp: / MMHHg Th Th n nhiệt: C\nCận lâm sàng: Cậềhàn ĩono: 520 - Viêmphế :un cấp/ọiêm Xoang\n1) NOVOXIM-500 0,5g SL: 20 Viên\nGhi chú Uống:\n2) BROMHEXIN ACTA VIS 8MG 8mg SL: 20 Viên\nGhi chú Uống\n3) CLORPHENIRAMIN 4mg SL: 10 Viên\nGhi chú Uống\n4) PARTAMOL TAB. 500mg SL: 10 Viên\nGhi chú Uốg\nCộng khoản: 4 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNggày 09/04/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTá kh khám Xin MmMng tho ĩođn, Xt nghinm phiám (nếu co)\n03/05/2021 18:16:29",
+  "lines": [
+    {
+      "text": "1/1 Số phiếu 453/2018 1 4724168",
+      "bbox": [
+        50.0,
+        0.0,
+        735.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            120.0,
+            63.0
+          ],
+          "confidence": 0.9461629390716553
+        },
+        {
+          "text": "Số phiếu 453/2018",
+          "bbox": [
+            369.0,
+            9.0,
+            526.0,
+            41.0
+          ],
+          "confidence": 0.9440225958824158
+        },
+        {
+          "text": "1",
+          "bbox": [
+            581.0,
+            0.0,
+            735.0,
+            9.0
+          ],
+          "confidence": 0.6285580992698669
+        },
+        {
+          "text": "4724168",
+          "bbox": [
+            623.0,
+            17.0,
+            690.0,
+            40.0
+          ],
+          "confidence": 0.9997653365135193
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        42.0,
+        508.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            42.0,
+            508.0,
+            73.0
+          ],
+          "confidence": 0.9041515588760376
+        }
+      ]
+    },
+    {
+      "text": "Na 2 x",
+      "bbox": [
+        617.0,
+        67.0,
+        739.0,
+        102.0
+      ],
+      "words": [
+        {
+          "text": "Na 2 x",
+          "bbox": [
+            617.0,
+            67.0,
+            739.0,
+            102.0
+          ],
+          "confidence": 0.6609696745872498
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GD 4 35 206 76935",
+      "bbox": [
+        25.0,
+        123.0,
+        564.0,
+        148.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            123.0,
+            155.0,
+            147.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GD",
+          "bbox": [
+            182.0,
+            123.0,
+            222.0,
+            147.0
+          ],
+          "confidence": 0.9985418915748596
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            126.0,
+            265.0,
+            145.0
+          ],
+          "confidence": 0.5673545598983765
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            123.0,
+            394.0,
+            148.0
+          ],
+          "confidence": 0.9999196529388428
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            123.0,
+            472.0,
+            147.0
+          ],
+          "confidence": 0.9999771118164062
+        },
+        {
+          "text": "76935",
+          "bbox": [
+            506.0,
+            123.0,
+            564.0,
+            148.0
+          ],
+          "confidence": 0.9986446499824524
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHHg Th Th n nhiệt: C",
+      "bbox": [
+        23.0,
+        142.0,
+        682.0,
+        177.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            149.0,
+            77.0,
+            175.0
+          ],
+          "confidence": 0.9673336744308472
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            147.0,
+            309.0,
+            177.0
+          ],
+          "confidence": 0.9776002168655396
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            152.0,
+            392.0,
+            173.0
+          ],
+          "confidence": 0.9914495348930359
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            152.0,
+            509.0,
+            174.0
+          ],
+          "confidence": 0.7633803486824036
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            152.0,
+            596.0,
+            173.0
+          ],
+          "confidence": 0.8528631925582886
+        },
+        {
+          "text": "C",
+          "bbox": [
+            642.0,
+            142.0,
+            682.0,
+            177.0
+          ],
+          "confidence": 0.5041057467460632
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng: Cậềhàn ĩono: 520 - Viêmphế :un cấp/ọiêm Xoang",
+      "bbox": [
+        23.0,
+        169.0,
+        368.0,
+        217.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            169.0,
+            129.0,
+            197.0
+          ],
+          "confidence": 0.9828576445579529
+        },
+        {
+          "text": "Cậềhàn ĩono: 520 - Viêmphế :un cấp/ọiêm Xoang",
+          "bbox": [
+            24.0,
+            186.0,
+            368.0,
+            217.0
+          ],
+          "confidence": 0.7263129353523254
+        }
+      ]
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g SL: 20 Viên",
+      "bbox": [
+        39.0,
+        299.0,
+        710.0,
+        335.0
+      ],
+      "words": [
+        {
+          "text": "1) NOVOXIM-500 0,5g",
+          "bbox": [
+            39.0,
+            299.0,
+            283.0,
+            335.0
+          ],
+          "confidence": 0.9363248944282532
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            303.0,
+            710.0,
+            331.0
+          ],
+          "confidence": 0.9880434274673462
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        330.0,
+        164.0,
+        358.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            332.0,
+            96.0,
+            355.0
+          ],
+          "confidence": 0.9006415605545044
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            330.0,
+            164.0,
+            358.0
+          ],
+          "confidence": 0.7898322939872742
+        }
+      ]
+    },
+    {
+      "text": "2) BROMHEXIN ACTA VIS 8MG 8mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        355.0,
+        709.0,
+        385.0
+      ],
+      "words": [
+        {
+          "text": "2) BROMHEXIN ACTA VIS 8MG 8mg",
+          "bbox": [
+            37.0,
+            355.0,
+            423.0,
+            385.0
+          ],
+          "confidence": 0.94141685962677
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            357.0,
+            709.0,
+            382.0
+          ],
+          "confidence": 0.9167513251304626
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        380.0,
+        165.0,
+        411.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            384.0,
+            95.0,
+            406.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            380.0,
+            165.0,
+            411.0
+          ],
+          "confidence": 0.9557542204856873
+        }
+      ]
+    },
+    {
+      "text": "3) CLORPHENIRAMIN 4mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        404.0,
+        710.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "3) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            37.0,
+            404.0,
+            335.0,
+            439.0
+          ],
+          "confidence": 0.9773020148277283
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            407.0,
+            710.0,
+            436.0
+          ],
+          "confidence": 0.9484924674034119
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        431.0,
+        165.0,
+        465.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            437.0,
+            94.0,
+            458.0
+          ],
+          "confidence": 0.837203860282898
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            431.0,
+            165.0,
+            465.0
+          ],
+          "confidence": 0.96568763256073
+        }
+      ]
+    },
+    {
+      "text": "4) PARTAMOL TAB. 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        456.0,
+        709.0,
+        492.0
+      ],
+      "words": [
+        {
+          "text": "4) PARTAMOL TAB. 500mg",
+          "bbox": [
+            36.0,
+            456.0,
+            335.0,
+            492.0
+          ],
+          "confidence": 0.9284483194351196
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            461.0,
+            709.0,
+            486.0
+          ],
+          "confidence": 0.9996906518936157
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        33.0,
+        485.0,
+        165.0,
+        514.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            488.0,
+            97.0,
+            511.0
+          ],
+          "confidence": 0.8963599801063538
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            485.0,
+            165.0,
+            514.0
+          ],
+          "confidence": 0.8164523243904114
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoả",
+      "bbox": [
+        33.0,
+        518.0,
+        199.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoả",
+          "bbox": [
+            33.0,
+            518.0,
+            199.0,
+            539.0
+          ],
+          "confidence": 0.9160833358764648
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        540.0,
+        166.0,
+        564.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            540.0,
+            166.0,
+            564.0
+          ],
+          "confidence": 0.937402069568634
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        566.0,
+        170.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            566.0,
+            170.0,
+            591.0
+          ],
+          "confidence": 0.9513774514198303
+        }
+      ]
+    },
+    {
+      "text": "Nggày 09/04/2018",
+      "bbox": [
+        485.0,
+        604.0,
+        623.0,
+        625.0
+      ],
+      "words": [
+        {
+          "text": "Nggày 09/04/2018",
+          "bbox": [
+            485.0,
+            604.0,
+            623.0,
+            625.0
+          ],
+          "confidence": 0.8947378396987915
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        620.0,
+        615.0,
+        655.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            620.0,
+            200.0,
+            644.0
+          ],
+          "confidence": 0.9635208249092102
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            627.0,
+            615.0,
+            655.0
+          ],
+          "confidence": 0.9786374568939209
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "bbox": [
+        454.0,
+        700.0,
+        638.0,
+        732.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Xuân Dũng",
+          "bbox": [
+            454.0,
+            700.0,
+            638.0,
+            732.0
+          ],
+          "confidence": 0.9596071839332581
+        }
+      ]
+    },
+    {
+      "text": "Tá kh khám Xin MmMng tho ĩođn, Xt nghinm phiám (nếu co)",
+      "bbox": [
+        32.0,
+        757.0,
+        416.0,
+        782.0
+      ],
+      "words": [
+        {
+          "text": "Tá kh khám Xin MmMng tho ĩođn, Xt nghinm phiám (nếu co)",
+          "bbox": [
+            32.0,
+            757.0,
+            416.0,
+            782.0
+          ],
+          "confidence": 0.8099280595779419
+        }
+      ]
+    },
+    {
+      "text": "03/05/2021 18:16:29",
+      "bbox": [
+        587.0,
+        799.0,
+        731.0,
+        820.0
+      ],
+      "words": [
+        {
+          "text": "03/05/2021 18:16:29",
+          "bbox": [
+            587.0,
+            799.0,
+            731.0,
+            820.0
+          ],
+          "confidence": 0.9996503591537476
+        }
+      ]
+    }
+  ]
+}

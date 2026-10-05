@@ -1,0 +1,271 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_573",
+  "image": "public_train/image/VAIPE_P_TRAIN_573.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insuline; (E78.2)\nTăng lipid máu hỗn hợp; (G46?) Hội chứng mạch máu não trong bệnh mạch\nNÃO (I60-1670)\nThuốc điều trị:\n1) Metformin (Metformin 500) 500mg\nUống sau khi ăn: sáng 1 viên tối 1 viên\nSL: 64 Viên\n2) Atorvastatin (Atoris 20mg) 20mg\nUống sau khi ăn: TỐI 1 Viên\nSL: 30 Viên\n3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn: KHÁM LẠI 26/1/2022\nNgày 23 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Đức Thái\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insuline; (E78.2)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1042,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tăng lipid máu hỗn hợp; (G46?) Hội chứng mạch máu não trong bệnh mạch",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        389,
+        1067,
+        434
+      ],
+      "mapping": null
+    },
+    {
+      "text": "NÃO (I60-1670)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        432,
+        237,
+        462
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        468,
+        242,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Metformin (Metformin 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        516,
+        577,
+        560
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "Uống sau khi ăn: sáng 1 viên tối 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        584,
+        847,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 64 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        197,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Atorvastatin (Atoris 20mg) 20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        645,
+        545,
+        685
+      ],
+      "mapping": 15
+    },
+    {
+      "text": "Uống sau khi ăn: TỐI 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        672,
+        750
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        197,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        770,
+        892,
+        815
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        842,
+        737,
+        882
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        844,
+        189,
+        874
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: KHÁM LẠI 26/1/2022",
+      "label": "other",
+      "bbox": [
+        42,
+        900,
+        480,
+        943
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 23 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        952,
+        1027,
+        992
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        677,
+        999,
+        1002,
+        1039
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        1041,
+        970,
+        1084
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Đức Thái",
+      "label": "other",
+      "bbox": [
+        687,
+        1185,
+        992,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1235,
+        510,
+        1270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1278,
+        1007,
+        1324
+      ],
+      "mapping": null
+    }
+  ]
+}

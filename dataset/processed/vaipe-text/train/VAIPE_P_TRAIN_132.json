@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_132",
+  "image": "public_train/image/VAIPE_P_TRAIN_132.png",
+  "text": "TYT XÃ NGUYÊN LÝ\nSố phiếu 26/2020\n4658398\nTOA THUỐC BHYT\nNam\nNữ\n65403\n35\n35\n207\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Xét nghiệm đường máu mao mạch tại giường (một lần);\nChấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (110) Tăng huyết áp vô căn (nguyên\nphát)\n1) GLUCOFAST 500 500mg\nSL: 60 Viên\nGhi chú Uống:\nSáng 1 Viên\nChiều 1 Viên\n2) KAVASDIN 5 5mg\nSL: 30 viên\nGhi chú Uống\nSáng 1 viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/01/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nNHS. Nguyễn Thị Nguyên\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n25/12/2021 23:55:07",
+  "words": [
+    {
+      "text": "TYT XÃ NGUYÊN LÝ",
+      "label": "other",
+      "bbox": [
+        26,
+        75,
+        193,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 26/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        512,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4658398",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "65403",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        301,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        437,
+        228,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Xét nghiệm đường máu mao mạch tại giường (một lần);",
+      "label": "other",
+      "bbox": [
+        28,
+        272,
+        508,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (110) Tăng huyết áp vô căn (nguyên",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        714,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "phát)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        315,
+        66,
+        332
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) GLUCOFAST 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        326,
+        430
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        270,
+        483
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        703,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        372,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        32,
+        511,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 03/01/2020",
+      "label": "date",
+      "bbox": [
+        485,
+        601,
+        623,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "NHS. Nguyễn Thị Nguyên",
+      "label": "other",
+      "bbox": [
+        443,
+        698,
+        650,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25/12/2021 23:55:07",
+      "label": "other",
+      "bbox": [
+        585,
+        794,
+        732,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

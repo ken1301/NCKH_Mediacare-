@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1113",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1113.png",
+  "text": "1/1 MMH sỐ người bnh\nPK SỐ 3 [NHI] Số phiếu 45960/2021\nTOA HA C THU C BH BHYT\nNm N\nThu ặo hiếhám y tế TA 4 35 206 87977\nMạch: lần/phút Huyết áp: MMHg Thân nhiệt:\nCận mânmnáỐàng: Siêu âm hb tiết nibu (đhn tuyến thưhing thn àng 9ung tiên liệt tuyến) Đinn tim\nthưrường\nCinhắn okn: N34 - Viêmám nibu ĩạo Và hbi chứng nibu ĩMạom: (KR07.3) Đau ngNc khác\n1) CEFADROXIL 500MG 0,5g SL: 28 Viên\nGhi chúữ Uống: Sáng 2 Viên Tối 2 Viên\nCộng khoản: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/10/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái kh Khm Xin mang thco onđn kt nghinệhm phikam (nếui c)\n29/12/2021 23:01:07",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        716.0,
+        82.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            120.0,
+            82.0
+          ],
+          "confidence": 0.8426432013511658
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "PK SỐ 3 [NHI] Số phiếu 45960/2021",
+      "bbox": [
+        22.0,
+        101.0,
+        546.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK SỐ 3 [NHI]",
+          "bbox": [
+            22.0,
+            101.0,
+            137.0,
+            134.0
+          ],
+          "confidence": 0.9000126123428345
+        },
+        {
+          "text": "Số phiếu 45960/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            546.0,
+            138.0
+          ],
+          "confidence": 0.9902241230010986
+        }
+      ]
+    },
+    {
+      "text": "TOA HA C THU C BH BHYT",
+      "bbox": [
+        260.0,
+        139.0,
+        508.0,
+        170.0
+      ],
+      "words": [
+        {
+          "text": "TOA HA C THU C BH BHYT",
+          "bbox": [
+            260.0,
+            139.0,
+            508.0,
+            170.0
+          ],
+          "confidence": 0.7837051749229431
+        }
+      ]
+    },
+    {
+      "text": "Nm N",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm N",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.6734918355941772
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế TA 4 35 206 87977",
+      "bbox": [
+        23.0,
+        219.0,
+        564.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            155.0,
+            246.0
+          ],
+          "confidence": 0.7926470041275024
+        },
+        {
+          "text": "TA",
+          "bbox": [
+            181.0,
+            220.0,
+            236.0,
+            246.0
+          ],
+          "confidence": 0.9970167875289917
+        },
+        {
+          "text": "4",
+          "bbox": [
+            235.0,
+            222.0,
+            270.0,
+            245.0
+          ],
+          "confidence": 0.9998444318771362
+        },
+        {
+          "text": "35",
+          "bbox": [
+            280.0,
+            220.0,
+            329.0,
+            246.0
+          ],
+          "confidence": 0.9953023195266724
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "87977",
+          "bbox": [
+            506.0,
+            220.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9825240969657898
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệt:",
+      "bbox": [
+        24.0,
+        245.0,
+        599.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            245.0,
+            308.0,
+            273.0
+          ],
+          "confidence": 0.9245628714561462
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            599.0,
+            274.0
+          ],
+          "confidence": 0.9847634434700012
+        }
+      ]
+    },
+    {
+      "text": "Cận mânmnáỐàng: Siêu âm hb tiết nibu (đhn tuyến thưhing thn àng 9ung tiên liệt tuyến) Đinn tim",
+      "bbox": [
+        22.0,
+        266.0,
+        696.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cận mânmnáỐàng: Siêu âm hb tiết nibu (đhn tuyến thưhing thn àng 9ung tiên liệt tuyến) Đinn tim",
+          "bbox": [
+            22.0,
+            266.0,
+            696.0,
+            295.0
+          ],
+          "confidence": 0.8098584413528442
+        }
+      ]
+    },
+    {
+      "text": "thưrường",
+      "bbox": [
+        24.0,
+        287.0,
+        82.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "thưrường",
+          "bbox": [
+            24.0,
+            287.0,
+            82.0,
+            313.0
+          ],
+          "confidence": 0.7953863739967346
+        }
+      ]
+    },
+    {
+      "text": "Cinhắn okn: N34 - Viêmám nibu ĩạo Và hbi chứng nibu ĩMạom: (KR07.3) Đau ngNc khác",
+      "bbox": [
+        25.0,
+        307.0,
+        576.0,
+        330.0
+      ],
+      "words": [
+        {
+          "text": "Cinhắn okn: N34 - Viêmám nibu ĩạo Và hbi chứng nibu ĩMạom: (KR07.3) Đau ngNc khác",
+          "bbox": [
+            25.0,
+            307.0,
+            576.0,
+            330.0
+          ],
+          "confidence": 0.768415093421936
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g SL: 28 Viên",
+      "bbox": [
+        40.0,
+        417.0,
+        712.0,
+        450.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 0,5g",
+          "bbox": [
+            40.0,
+            417.0,
+            352.0,
+            450.0
+          ],
+          "confidence": 0.9310817122459412
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            592.0,
+            418.0,
+            712.0,
+            449.0
+          ],
+          "confidence": 0.9846645593643188
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uống: Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        33.0,
+        444.0,
+        707.0,
+        476.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            449.0,
+            95.0,
+            471.0
+          ],
+          "confidence": 0.8597269058227539
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            444.0,
+            166.0,
+            476.0
+          ],
+          "confidence": 0.9331299066543579
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            448.0,
+            379.0,
+            473.0
+          ],
+          "confidence": 0.9297007918357849
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            619.0,
+            444.0,
+            707.0,
+            474.0
+          ],
+          "confidence": 0.9623931050300598
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoả",
+      "bbox": [
+        31.0,
+        476.0,
+        201.0,
+        500.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoả",
+          "bbox": [
+            31.0,
+            476.0,
+            201.0,
+            500.0
+          ],
+          "confidence": 0.9872773289680481
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        500.0,
+        166.0,
+        524.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            500.0,
+            166.0,
+            524.0
+          ],
+          "confidence": 0.9459000825881958
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        526.0,
+        170.0,
+        551.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            526.0,
+            170.0,
+            551.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/10/2021",
+      "bbox": [
+        482.0,
+        560.0,
+        623.0,
+        587.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/10/2021",
+          "bbox": [
+            482.0,
+            560.0,
+            623.0,
+            587.0
+          ],
+          "confidence": 0.9822586178779602
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        581.0,
+        617.0,
+        615.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            581.0,
+            201.0,
+            605.0
+          ],
+          "confidence": 0.9727823734283447
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            489.0,
+            588.0,
+            617.0,
+            615.0
+          ],
+          "confidence": 0.956146776676178
+        }
+      ]
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "bbox": [
+        458.0,
+        660.0,
+        635.0,
+        691.0
+      ],
+      "words": [
+        {
+          "text": "BS. Lương Tiến Dũng",
+          "bbox": [
+            458.0,
+            660.0,
+            635.0,
+            691.0
+          ],
+          "confidence": 0.946114718914032
+        }
+      ]
+    },
+    {
+      "text": "Tái kh Khm Xin mang thco onđn kt nghinệhm phikam (nếui c)",
+      "bbox": [
+        32.0,
+        718.0,
+        416.0,
+        742.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh Khm Xin mang thco onđn kt nghinệhm phikam (nếui c)",
+          "bbox": [
+            32.0,
+            718.0,
+            416.0,
+            742.0
+          ],
+          "confidence": 0.7933893799781799
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 23:01:07",
+      "bbox": [
+        587.0,
+        758.0,
+        731.0,
+        780.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 23:01:07",
+          "bbox": [
+            587.0,
+            758.0,
+            731.0,
+            780.0
+          ],
+          "confidence": 0.9880185127258301
+        }
+      ]
+    }
+  ]
+}

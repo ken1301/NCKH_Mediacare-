@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_437",
+  "image": "public_train/image/VAIPE_P_TRAIN_437.png",
+  "text": "Khoa Khám bệnh\nPK Số 5.1 [TĐ]\nSố phiếu 71335/2018\n4765919\nTOA THUỐC BHYT\nNam\nNữ\n35\n207\n92046\n35\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol\ntoàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)\n(Máu], Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước tiểu (Bằng máy tự động);\nChấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tỉnh trạng tăng lipid máu khác; (E1i) TD Bệnh đái\ntháo đường không phụ thuộc insulin; (K76) Bệnh gan khác\n1) CHORLATCYN 125mg;50mg;50mg;25mg\nSL: 10 Viên\nGhi chú Uống sau khi ăn:\nSáng 1 Viên\nChiều 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 14/11/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n10/05/2021 15:46:41",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        26,
+        60,
+        148,
+        78
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        137,
+        112
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 71335/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        547,
+        121
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4765919",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "92046",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        561,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        210,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        235,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        717,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)",
+      "label": "other",
+      "bbox": [
+        26,
+        275,
+        732,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Máu], Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước tiểu (Bằng máy tự động);",
+      "label": "other",
+      "bbox": [
+        28,
+        294,
+        648,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tỉnh trạng tăng lipid máu khác; (E1i) TD Bệnh đái",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        312,
+        740,
+        335
+      ],
+      "mapping": null
+    },
+    {
+      "text": "tháo đường không phụ thuộc insulin; (K76) Bệnh gan khác",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        332,
+        426,
+        352
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CHORLATCYN 125mg;50mg;50mg;25mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        426,
+        479,
+        453
+      ],
+      "mapping": 97
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        426,
+        708,
+        449
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        449,
+        232,
+        477
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        453,
+        376,
+        475
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        453,
+        605,
+        471
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        483,
+        197,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        506,
+        163,
+        524
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        533,
+        167,
+        553
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 14/11/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        568,
+        621,
+        586
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        586,
+        198,
+        605
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        595,
+        611,
+        613
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "other",
+      "bbox": [
+        459,
+        670,
+        633,
+        692
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        723,
+        414,
+        746
+      ],
+      "mapping": null
+    },
+    {
+      "text": "10/05/2021 15:46:41",
+      "label": "other",
+      "bbox": [
+        588,
+        765,
+        728,
+        782
+      ],
+      "mapping": null
+    }
+  ]
+}

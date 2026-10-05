@@ -1,0 +1,348 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_610",
+  "image": "public_train/image/VAIPE_P_TRAIN_610.png",
+  "text": "1/1\nSố phiếu 1005/2020\n4884911\nTOA THUỐC BHYT\nNam\nNữ\n206\n18353\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: T10 - Tăng huyết áp vô căn (nguyên phát) Chứng tỷ (Thoái hóa đa khớp)\n1) AMCARDIA-5 5mg\nSL: 10 viên\nGhi chú Uống:\n2) DICLOFENAC 50mg\nSL: 10 Viên\nGhi chú Uống:\n3) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/07/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 12:37:29",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1005/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        109,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4884911",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        687,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        505,
+        170
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "18353",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: T10 - Tăng huyết áp vô căn (nguyên phát) Chứng tỷ (Thoái hóa đa khớp)",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        596,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMCARDIA-5 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        273,
+        430
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        703,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DICLOFENAC 50mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        286,
+        483
+      ],
+      "mapping": 40
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        162,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        43,
+        503,
+        273,
+        537
+      ],
+      "mapping": 90
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 03/07/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "label": "other",
+      "bbox": [
+        470,
+        749,
+        623,
+        774
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 12:37:29",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

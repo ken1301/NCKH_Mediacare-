@@ -1,0 +1,447 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_165",
+  "image": "public_train/image/VAIPE_P_TRAIN_165.png",
+  "text": "1/1\nBÌNH NGHĨA\nSố phiếu 4483/2020\n4732758\nTOA THUỐC BHYT\nNam\nNữ\n208\n42368\n4\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn\n1) AMOXICILIN 500MG 500mg\nSL: 20 viên\nTối 2 viên\nGhi chú uống\nSáng 2 viên\n2) CLORPHENIRAMIN 4mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n3) PANACTOL 500mg\nSL: 10 Viên\nSáng 1 Viên\nTối 1 Viên\nGhi chú Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/10/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Thị Tính\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n29/12/2021 23:31:10",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "label": "other",
+      "bbox": [
+        153,
+        75,
+        250,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 4483/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4732758",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "42368",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        289,
+        439,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        366,
+        430
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        703,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        432,
+        698,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        37,
+        434,
+        159,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        434,
+        372,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) CLORPHENIRAMIN 4mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        333,
+        483
+      ],
+      "mapping": 29
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        162,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        483,
+        701,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        43,
+        504,
+        275,
+        537
+      ],
+      "mapping": 90
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        536,
+        701,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29/10/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "label": "other",
+      "bbox": [
+        474,
+        752,
+        616,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29/12/2021 23:31:10",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

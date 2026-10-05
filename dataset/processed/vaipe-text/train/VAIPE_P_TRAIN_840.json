@@ -1,0 +1,337 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_840",
+  "image": "public_train/image/VAIPE_P_TRAIN_840.png",
+  "text": "1/1\nPK SỐ 3 [NHI]\nSố phiếu 78715/2018\n4741269\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n209\n27838\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: G47 - Rối loạn giấc ngủ: (H81.1) Chóng mặt kịch phát lành tính\n1) STACETAM 800MG 800mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/12/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. khong dung\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/05/2021 09:18:31",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        130,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 78715/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4741269",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27838",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: G47 - Rối loạn giấc ngủ: (H81.1) Chóng mặt kịch phát lành tính",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        545,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) STACETAM 800MG 800mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        351,
+        413
+      ],
+      "mapping": 92
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        410,
+        161,
+        437
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        492,
+        167,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 19/12/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        525,
+        622,
+        549
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. khong dung",
+      "label": "other",
+      "bbox": [
+        484,
+        629,
+        610,
+        653
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/05/2021 09:18:31",
+      "label": "other",
+      "bbox": [
+        586,
+        725,
+        728,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

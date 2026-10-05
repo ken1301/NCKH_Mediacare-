@@ -1,0 +1,535 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_560",
+  "image": "public_train/image/VAIPE_P_TRAIN_560.png",
+  "text": "1/1\nPK Số 5.1 [TĐ]\nSố phiếu 54433/2019\n4685286\nTOA THUỐC BHYT\nNam\nNữ\nTS\n35\n35\n206\n81880\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Định lượng Glucose [Máu];\nChấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (M15) Thoái hoá đa khớp; (110) Tăng\nhuyết áp vô căn (nguyên phát)\nBS. Vũ Thị Chiên\n1) MYPARA 500 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nBS. Hoàng Thị Hường\n2) GLUCOFAST 850 850mg\nSL: 66 Viên\nGhi chú Uống sau khi ăn:\nChiều 1 Viên\nSáng 1 Viên\n3) LAZIBET MR 60 60mg\nSL: 33 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\n4) NIFEDIPIN T20 STADA RETARD 20mg\nSL: 33 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ ba, 01/10/2019\nNgày 29/08/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n14/05/2021 15:12:26",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        137,
+        112
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 54433/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4685286",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TS",
+      "label": "other",
+      "bbox": [
+        188,
+        207,
+        212,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "81880",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        307,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Glucose [Máu];",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        317,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (M15) Thoái hoá đa khớp; (110) Tăng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        725,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "huyết áp vô căn (nguyên phát)",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        292,
+        234,
+        315
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Vũ Thị Chiên",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        387,
+        152,
+        406
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MYPARA 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        409,
+        291,
+        438
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        410,
+        709,
+        434
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        434,
+        161,
+        460
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        438,
+        605,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        439,
+        376,
+        459
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "usage",
+      "bbox": [
+        26,
+        464,
+        183,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) GLUCOFAST 850 850mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        484,
+        326,
+        515
+      ],
+      "mapping": 55
+    },
+    {
+      "text": "SL: 66 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        488,
+        708,
+        509
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        512,
+        232,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        514,
+        606,
+        533
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        516,
+        376,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) LAZIBET MR 60 60mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        538,
+        306,
+        566
+      ],
+      "mapping": 38
+    },
+    {
+      "text": "SL: 33 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        540,
+        708,
+        561
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        564,
+        246,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        568,
+        376,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) NIFEDIPIN T20 STADA RETARD 20mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        590,
+        474,
+        618
+      ],
+      "mapping": 84
+    },
+    {
+      "text": "SL: 33 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        593,
+        708,
+        615
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        616,
+        246,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        620,
+        376,
+        640
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        648,
+        197,
+        667
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        671,
+        164,
+        692
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ ba, 01/10/2019",
+      "label": "other",
+      "bbox": [
+        33,
+        696,
+        311,
+        719
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29/08/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        733,
+        621,
+        754
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        752,
+        198,
+        770
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        760,
+        611,
+        779
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "other",
+      "bbox": [
+        459,
+        835,
+        633,
+        857
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        889,
+        414,
+        910
+      ],
+      "mapping": null
+    },
+    {
+      "text": "14/05/2021 15:12:26",
+      "label": "other",
+      "bbox": [
+        588,
+        931,
+        732,
+        947
+      ],
+      "mapping": null
+    }
+  ]
+}

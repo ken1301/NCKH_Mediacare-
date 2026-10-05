@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_551",
+  "image": "public_train/image/VAIPE_P_TRAIN_551.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 53270/2021\n5110515\nTOA THUỐC BHYT\nNam x nữ\n209\n36163\n2\n35\nLần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Chụp Xquang xương căng tay thăng nghiêng\nChấn đoán: S50.1 - dụng giập khác và phần chưa xác định khác của cẳng tay; (110) Bệnh lý tăng huyết\náp\n1) HANGITOR PLUS 40mg+12,5mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống\nChiều 2 Viên\nSáng 2 Viên\n3) KATRYPSIN 4,2mg\nSL: 28 Viên\nGhi chú Uống\nSáng 2 Viên\nChiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 25/11/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 23:56:55",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 53270/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5110515",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "36163",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        308,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang xương căng tay thăng nghiêng",
+      "label": "other",
+      "bbox": [
+        28,
+        275,
+        432,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: S50.1 - dụng giập khác và phần chưa xác định khác của cẳng tay; (110) Bệnh lý tăng huyết",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        723,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "áp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        312,
+        46,
+        330
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        403,
+        401,
+        430
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        333,
+        483
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        35,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) KATRYPSIN 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        275,
+        534
+      ],
+      "mapping": 7
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        507,
+        708,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        536,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 25/11/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        621,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        472,
+        748,
+        619,
+        775
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 23:56:55",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

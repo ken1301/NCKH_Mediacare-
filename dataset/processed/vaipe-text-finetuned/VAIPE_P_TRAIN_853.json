@@ -1,0 +1,638 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_853",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_853.png",
+  "text": "1/1 M sc người bnh\nTRÀNG AN\nSố phiếu 2555/2018\nTOA THUỐC BHYT\nNam x Nữ\nThu bặho h hm y tuế GB 35 35 205\nMạch: lần/phút Huyết áp: 25 MmMHHg T T h ân nhiệt: C\nCận lâm1 sàng:\nCiềuhân okn: 502- êm ọg cấp\n1) CEFACYL 500 0,5g SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Ciều 2 Viên\n2) PARACETAMOL 500MG 500mg SL: 10 Vi ên\nGhi chú Uống Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/11/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)\n30/05/202109:52:00",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        16.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            16.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.8977975249290466
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        242.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            242.0,
+            80.0
+          ],
+          "confidence": 0.857378363609314
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2555/2018",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2555/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9502949118614197
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hm y tuế GB 35 35 205",
+      "bbox": [
+        26.0,
+        201.0,
+        472.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hm y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7481600642204285
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            184.0,
+            205.0,
+            219.0,
+            225.0
+          ],
+          "confidence": 0.9954591989517212
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            206.0,
+            325.0,
+            226.0
+          ],
+          "confidence": 0.9999338388442993
+        },
+        {
+          "text": "35",
+          "bbox": [
+            363.0,
+            204.0,
+            391.0,
+            226.0
+          ],
+          "confidence": 0.999823272228241
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            201.0,
+            472.0,
+            228.0
+          ],
+          "confidence": 0.9999086260795593
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 25 MmMHHg T T h ân nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "25",
+          "bbox": [
+            375.0,
+            231.0,
+            390.0,
+            251.0
+          ],
+          "confidence": 0.4857156276702881
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            518.0,
+            254.0
+          ],
+          "confidence": 0.7971447110176086
+        },
+        {
+          "text": "T T h ân nhiệt:",
+          "bbox": [
+            511.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.7784239649772644
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm1 sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm1 sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.8716052770614624
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhân okn: 502- êm ọg cấp",
+      "bbox": [
+        25.0,
+        271.0,
+        252.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhân okn: 502- êm ọg cấp",
+          "bbox": [
+            25.0,
+            271.0,
+            252.0,
+            295.0
+          ],
+          "confidence": 0.7680662870407104
+        }
+      ]
+    },
+    {
+      "text": "1) CEFACYL 500 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFACYL 500 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            275.0,
+            415.0
+          ],
+          "confidence": 0.9400350451469421
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Ciều 2 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        609.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            96.0,
+            435.0
+          ],
+          "confidence": 0.9775956273078918
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.7705122232437134
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9096157550811768
+        },
+        {
+          "text": "Ciều 2 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9865385293960571
+        }
+      ]
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg SL: 10 Vi ên",
+      "bbox": [
+        36.0,
+        431.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            401.0,
+            468.0
+          ],
+          "confidence": 0.9565632343292236
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9831318855285645
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        462.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.9211470484733582
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            512.0,
+            462.0,
+            609.0,
+            487.0
+          ],
+          "confidence": 0.9921243190765381
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        198.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            198.0,
+            515.0
+          ],
+          "confidence": 0.9255010485649109
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9291466474533081
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9707815647125244
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/11/2018",
+      "bbox": [
+        483.0,
+        575.0,
+        625.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/11/2018",
+          "bbox": [
+            483.0,
+            575.0,
+            625.0,
+            602.0
+          ],
+          "confidence": 0.9980912804603577
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        477.0,
+        678.0,
+        618.0,
+        702.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            477.0,
+            678.0,
+            618.0,
+            702.0
+          ],
+          "confidence": 0.9488711357116699
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8260284066200256
+        }
+      ]
+    },
+    {
+      "text": "30/05/202109:52:00",
+      "bbox": [
+        588.0,
+        777.0,
+        731.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "30/05/202109:52:00",
+          "bbox": [
+            588.0,
+            777.0,
+            731.0,
+            794.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    }
+  ]
+}

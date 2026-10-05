@@ -1,0 +1,723 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_900",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_900.png",
+  "text": "MS sỐc người bệnh\nKhoa Khám bệnh\nBốc khám Tiêu ường 1 Số phiếu 480/2022\nTOA THUỐC BHYT\nNam x ữ2\nTh ặo hi hm y tuế GB 35 35 205 40502\nMạch: lần/phút Huyết áp: 130 mmMHg g hâ n nhiệt: C\nCân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương\nGilucOSg [MMáu, Định hương HDL-C (High dênSiuy lipOprOttin Cho1SốCrO1) [MMáu Định 1ương\nTrigycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinhn giải ĩỹ (Nan, K, C1) [MMáun) Ting phân tich tuế\n,àO Mmáhu ngOtại vi (ôong máky ĩếm 1aạSr), TMng phân tich nưc tiếễu (Bong máhy tư ĩnng) Đinhn im thường\nSániu Xm  uHng (gann mnhHu t ọy, 1nCch, thnn, àng ôumanng)\nCânhn oknhn: E11 - Bnhnh ĩái háo ường không ph thunc inSáuin : (R10.04) ĐMau Mng khĩng Xác ĩịnh và\naNu Mng khác, (1I10) Bnệnh 1 tăng huyễ áp (L50) Mày ĩay\n1) GOLDDICRON 30mg SL:34 Viên\nGhi chú ốngUốhống turưc khi ăn Sáng 1 Viên\n2) CHORLATCYN 125mg450mg450mg425mg SL:30 viên\nGhi chú uống Sáng 1 viên Chiều 1 viên Tối 1 viên\nCộngg khn: 2  kho\nLời dặn đơ tốn c: H N   nM 9/2/2022\nNgày hẹn tái khám:\nNgày 05/01/2022\nBệnh nhân ký nhậ Y, B Bác sĩ điều trị\nBS. Bùi Mạnh Hà\nTáiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)\n05/01/202223:05:18",
+  "lines": [
+    {
+      "text": "MS sỐc người bệnh",
+      "bbox": [
+        895.0,
+        43.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐc người bệnh",
+          "bbox": [
+            895.0,
+            43.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.7839536666870117
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        37.0,
+        100.0,
+        218.0,
+        127.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            37.0,
+            100.0,
+            218.0,
+            127.0
+          ],
+          "confidence": 0.9213811159133911
+        }
+      ]
+    },
+    {
+      "text": "Bốc khám Tiêu ường 1 Số phiếu 480/2022",
+      "bbox": [
+        36.0,
+        146.0,
+        780.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bốc khám Tiêu ường 1",
+          "bbox": [
+            36.0,
+            146.0,
+            285.0,
+            181.0
+          ],
+          "confidence": 0.9305983781814575
+        },
+        {
+          "text": "Số phiếu 480/2022",
+          "bbox": [
+            552.0,
+            150.0,
+            780.0,
+            192.0
+          ],
+          "confidence": 0.9836747646331787
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        195.0,
+        756.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            195.0,
+            756.0,
+            242.0
+          ],
+          "confidence": 0.9150918126106262
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1099.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1099.0,
+            282.0
+          ],
+          "confidence": 0.8877043724060059
+        }
+      ]
+    },
+    {
+      "text": "Th ặo hi hm y tuế GB 35 35 205 40502",
+      "bbox": [
+        36.0,
+        319.0,
+        838.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Th ặo hi hm y tuế",
+          "bbox": [
+            36.0,
+            320.0,
+            226.0,
+            351.0
+          ],
+          "confidence": 0.7664525508880615
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            272.0,
+            320.0,
+            320.0,
+            352.0
+          ],
+          "confidence": 0.8311105966567993
+        },
+        {
+          "text": "35",
+          "bbox": [
+            442.0,
+            319.0,
+            485.0,
+            351.0
+          ],
+          "confidence": 0.9903910756111145
+        },
+        {
+          "text": "35",
+          "bbox": [
+            539.0,
+            319.0,
+            583.0,
+            351.0
+          ],
+          "confidence": 0.9997565746307373
+        },
+        {
+          "text": "205",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.8566368222236633
+        },
+        {
+          "text": "40502",
+          "bbox": [
+            760.0,
+            321.0,
+            838.0,
+            350.0
+          ],
+          "confidence": 0.9348403215408325
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 130 mmMHg g hâ n nhiệt: C",
+      "bbox": [
+        35.0,
+        347.0,
+        1017.0,
+        394.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            35.0,
+            360.0,
+            106.0,
+            389.0
+          ],
+          "confidence": 0.8891041874885559
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            248.0,
+            357.0,
+            461.0,
+            393.0
+          ],
+          "confidence": 0.9595052003860474
+        },
+        {
+          "text": "130",
+          "bbox": [
+            488.0,
+            359.0,
+            616.0,
+            390.0
+          ],
+          "confidence": 0.9998335838317871
+        },
+        {
+          "text": "mmMHg g hâ n nhiệt:",
+          "bbox": [
+            673.0,
+            362.0,
+            887.0,
+            389.0
+          ],
+          "confidence": 0.7726203799247742
+        },
+        {
+          "text": "C",
+          "bbox": [
+            961.0,
+            347.0,
+            1017.0,
+            394.0
+          ],
+          "confidence": 0.6324691772460938
+        }
+      ]
+    },
+    {
+      "text": "Cân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương",
+      "bbox": [
+        35.0,
+        391.0,
+        1031.0,
+        424.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương",
+          "bbox": [
+            35.0,
+            391.0,
+            1031.0,
+            424.0
+          ],
+          "confidence": 0.8629932403564453
+        }
+      ]
+    },
+    {
+      "text": "GilucOSg [MMáu, Định hương HDL-C (High dênSiuy lipOprOttin Cho1SốCrO1) [MMáu Định 1ương",
+      "bbox": [
+        35.0,
+        421.0,
+        993.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "GilucOSg [MMáu, Định hương HDL-C (High dênSiuy lipOprOttin Cho1SốCrO1) [MMáu Định 1ương",
+          "bbox": [
+            35.0,
+            421.0,
+            993.0,
+            453.0
+          ],
+          "confidence": 0.8390207290649414
+        }
+      ]
+    },
+    {
+      "text": "Trigycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinhn giải ĩỹ (Nan, K, C1) [MMáun) Ting phân tich tuế",
+      "bbox": [
+        35.0,
+        449.0,
+        1097.0,
+        481.0
+      ],
+      "words": [
+        {
+          "text": "Trigycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinhn giải ĩỹ (Nan, K, C1) [MMáun) Ting phân tich tuế",
+          "bbox": [
+            35.0,
+            449.0,
+            1097.0,
+            481.0
+          ],
+          "confidence": 0.8423818945884705
+        }
+      ]
+    },
+    {
+      "text": ",àO Mmáhu ngOtại vi (ôong máky ĩếm 1aạSr), TMng phân tich nưc tiếễu (Bong máhy tư ĩnng) Đinhn im thường",
+      "bbox": [
+        34.0,
+        479.0,
+        1099.0,
+        511.0
+      ],
+      "words": [
+        {
+          "text": ",àO Mmáhu ngOtại vi (ôong máky ĩếm 1aạSr), TMng phân tich nưc tiếễu (Bong máhy tư ĩnng) Đinhn im thường",
+          "bbox": [
+            34.0,
+            479.0,
+            1099.0,
+            511.0
+          ],
+          "confidence": 0.7960929274559021
+        }
+      ]
+    },
+    {
+      "text": "Sániu Xm  uHng (gann mnhHu t ọy, 1nCch, thnn, àng ôumanng)",
+      "bbox": [
+        36.0,
+        508.0,
+        585.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Sániu Xm  uHng (gann mnhHu t ọy, 1nCch, thnn, àng ôumanng)",
+          "bbox": [
+            36.0,
+            508.0,
+            585.0,
+            538.0
+          ],
+          "confidence": 0.7523220777511597
+        }
+      ]
+    },
+    {
+      "text": "Cânhn oknhn: E11 - Bnhnh ĩái háo ường không ph thunc inSáuin : (R10.04) ĐMau Mng khĩng Xác ĩịnh và",
+      "bbox": [
+        36.0,
+        536.0,
+        1087.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn oknhn: E11 - Bnhnh ĩái háo ường không ph thunc inSáuin : (R10.04) ĐMau Mng khĩng Xác ĩịnh và",
+          "bbox": [
+            36.0,
+            536.0,
+            1087.0,
+            566.0
+          ],
+          "confidence": 0.8175864219665527
+        }
+      ]
+    },
+    {
+      "text": "aNu Mng khác, (1I10) Bnệnh 1 tăng huyễ áp (L50) Mày ĩay",
+      "bbox": [
+        35.0,
+        564.0,
+        642.0,
+        596.0
+      ],
+      "words": [
+        {
+          "text": "aNu Mng khác, (1I10) Bnệnh 1 tăng huyễ áp (L50) Mày ĩay",
+          "bbox": [
+            35.0,
+            564.0,
+            642.0,
+            596.0
+          ],
+          "confidence": 0.8468342423439026
+        }
+      ]
+    },
+    {
+      "text": "1) GOLDDICRON 30mg SL:34 Viên",
+      "bbox": [
+        63.0,
+        703.0,
+        1054.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "1) GOLDDICRON 30mg",
+          "bbox": [
+            63.0,
+            703.0,
+            431.0,
+            744.0
+          ],
+          "confidence": 0.9676194787025452
+        },
+        {
+          "text": "SL:34 Viên",
+          "bbox": [
+            888.0,
+            707.0,
+            1054.0,
+            738.0
+          ],
+          "confidence": 0.9740346670150757
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú ốngUốhống turưc khi ăn Sáng 1 Viên",
+      "bbox": [
+        48.0,
+        745.0,
+        558.0,
+        778.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú ốngUốhống turưc khi ăn",
+          "bbox": [
+            48.0,
+            745.0,
+            366.0,
+            778.0
+          ],
+          "confidence": 0.7626000046730042
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            431.0,
+            748.0,
+            558.0,
+            775.0
+          ],
+          "confidence": 0.933611273765564
+        }
+      ]
+    },
+    {
+      "text": "2) CHORLATCYN 125mg450mg450mg425mg SL:30 viên",
+      "bbox": [
+        59.0,
+        782.0,
+        1048.0,
+        823.0
+      ],
+      "words": [
+        {
+          "text": "2) CHORLATCYN 125mg450mg450mg425mg",
+          "bbox": [
+            59.0,
+            782.0,
+            740.0,
+            823.0
+          ],
+          "confidence": 0.9116665124893188
+        },
+        {
+          "text": "SL:30 viên",
+          "bbox": [
+            886.0,
+            783.0,
+            1048.0,
+            817.0
+          ],
+          "confidence": 0.9414051175117493
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 viên Chiều 1 viên Tối 1 viên",
+      "bbox": [
+        46.0,
+        819.0,
+        1041.0,
+        859.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            819.0,
+            240.0,
+            859.0
+          ],
+          "confidence": 0.9463863372802734
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            430.0,
+            825.0,
+            554.0,
+            856.0
+          ],
+          "confidence": 0.9578326940536499
+        },
+        {
+          "text": "Chiều 1 viên",
+          "bbox": [
+            767.0,
+            825.0,
+            906.0,
+            852.0
+          ],
+          "confidence": 0.9308683276176453
+        },
+        {
+          "text": "Tối 1 viên",
+          "bbox": [
+            926.0,
+            821.0,
+            1041.0,
+            854.0
+          ],
+          "confidence": 0.9950746297836304
+        }
+      ]
+    },
+    {
+      "text": "Cộngg khn: 2  kho",
+      "bbox": [
+        46.0,
+        869.0,
+        290.0,
+        896.0
+      ],
+      "words": [
+        {
+          "text": "Cộngg khn: 2  kho",
+          "bbox": [
+            46.0,
+            869.0,
+            290.0,
+            896.0
+          ],
+          "confidence": 0.7066515684127808
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ tốn c: H N   nM 9/2/2022",
+      "bbox": [
+        44.0,
+        903.0,
+        490.0,
+        932.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ tốn c: H N   nM 9/2/2022",
+          "bbox": [
+            44.0,
+            903.0,
+            490.0,
+            932.0
+          ],
+          "confidence": 0.8314735293388367
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        43.0,
+        943.0,
+        246.0,
+        973.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            43.0,
+            943.0,
+            246.0,
+            973.0
+          ],
+          "confidence": 0.8867056965827942
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/01/2022",
+      "bbox": [
+        723.0,
+        995.0,
+        926.0,
+        1025.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/01/2022",
+          "bbox": [
+            723.0,
+            995.0,
+            926.0,
+            1025.0
+          ],
+          "confidence": 0.9630092978477478
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, B Bác sĩ điều trị",
+      "bbox": [
+        93.0,
+        1025.0,
+        912.0,
+        1066.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            93.0,
+            1025.0,
+            290.0,
+            1053.0
+          ],
+          "confidence": 0.9295899868011475
+        },
+        {
+          "text": "Y, B Bác sĩ điều trị",
+          "bbox": [
+            739.0,
+            1038.0,
+            912.0,
+            1066.0
+          ],
+          "confidence": 0.8939846158027649
+        }
+      ]
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "bbox": [
+        712.0,
+        1147.0,
+        919.0,
+        1180.0
+      ],
+      "words": [
+        {
+          "text": "BS. Bùi Mạnh Hà",
+          "bbox": [
+            712.0,
+            1147.0,
+            919.0,
+            1180.0
+          ],
+          "confidence": 0.9174304604530334
+        }
+      ]
+    },
+    {
+      "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+      "bbox": [
+        46.0,
+        1231.0,
+        616.0,
+        1261.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kháKhm Xin mang thho hđm, Xká nghinhm phim (ôngếu ch)",
+          "bbox": [
+            46.0,
+            1231.0,
+            616.0,
+            1261.0
+          ],
+          "confidence": 0.7803428769111633
+        }
+      ]
+    },
+    {
+      "text": "05/01/202223:05:18",
+      "bbox": [
+        877.0,
+        1292.0,
+        1090.0,
+        1316.0
+      ],
+      "words": [
+        {
+          "text": "05/01/202223:05:18",
+          "bbox": [
+            877.0,
+            1292.0,
+            1090.0,
+            1316.0
+          ],
+          "confidence": 0.9602407813072205
+        }
+      ]
+    }
+  ]
+}

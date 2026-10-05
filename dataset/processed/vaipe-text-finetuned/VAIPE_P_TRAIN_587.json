@@ -1,0 +1,545 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_587",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_587.png",
+  "text": "1/1 M sc người bnh\nPK Số 5.1 [TĐ Số phiếu 65718/2019\nTOA THUỐC BHYT\nNamNx\nThu ặo h êhám y tế GD 4 35 208 12287\nMạch: lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCânhn okhnả: E11 - nh ĩái nh o đường không phu thunyc inSuđin\n1) DIAMICRON MR TAB 30MG 60TS 30mg SL: 32 Viên\nGhah ch ốn Uống trưức khi ăn: Sáng 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹ t i Kkhám: Thứ t 19/11/2019\nNgày 18/10/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTá khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)\n20/05/2021 09:40:37",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9997822642326355
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ Số phiếu 65718/2019",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            116.0
+          ],
+          "confidence": 0.9441309571266174
+        },
+        {
+          "text": "Số phiếu 65718/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9954123497009277
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GD 4 35 208 12287",
+      "bbox": [
+        25.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7737141251564026
+        },
+        {
+          "text": "GD",
+          "bbox": [
+            183.0,
+            203.0,
+            221.0,
+            227.0
+          ],
+          "confidence": 0.9993141889572144
+        },
+        {
+          "text": "4",
+          "bbox": [
+            249.0,
+            208.0,
+            263.0,
+            223.0
+          ],
+          "confidence": 0.9970947504043579
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998081922531128
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997953772544861
+        },
+        {
+          "text": "12287",
+          "bbox": [
+            508.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9981211423873901
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            250.0
+          ],
+          "confidence": 0.850374698638916
+        },
+        {
+          "text": "mmHHg",
+          "bbox": [
+            448.0,
+            230.0,
+            506.0,
+            255.0
+          ],
+          "confidence": 0.9203370809555054
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okhnả: E11 - nh ĩái nh o đường không phu thunyc inSuđin",
+      "bbox": [
+        25.0,
+        270.0,
+        459.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okhnả: E11 - nh ĩái nh o đường không phu thunyc inSuđin",
+          "bbox": [
+            25.0,
+            270.0,
+            459.0,
+            294.0
+          ],
+          "confidence": 0.761583685874939
+        }
+      ]
+    },
+    {
+      "text": "1) DIAMICRON MR TAB 30MG 60TS 30mg SL: 32 Viên",
+      "bbox": [
+        42.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) DIAMICRON MR TAB 30MG 60TS 30mg",
+          "bbox": [
+            42.0,
+            381.0,
+            471.0,
+            413.0
+          ],
+          "confidence": 0.969857931137085
+        },
+        {
+          "text": "SL: 32 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9967237710952759
+        }
+      ]
+    },
+    {
+      "text": "Ghah ch ốn Uống trưức khi ăn: Sáng 1 Viên",
+      "bbox": [
+        35.0,
+        412.0,
+        378.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghah ch ốn",
+          "bbox": [
+            35.0,
+            414.0,
+            113.0,
+            433.0
+          ],
+          "confidence": 0.8637837171554565
+        },
+        {
+          "text": "Uống trưức khi ăn:",
+          "bbox": [
+            106.0,
+            413.0,
+            246.0,
+            435.0
+          ],
+          "confidence": 0.864608645439148
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9808337092399597
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹ t i Kkhám: Thứ t 19/11/2019",
+      "bbox": [
+        31.0,
+        489.0,
+        311.0,
+        513.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹ t i Kkhám: Thứ t 19/11/2019",
+          "bbox": [
+            31.0,
+            489.0,
+            311.0,
+            513.0
+          ],
+          "confidence": 0.8265530467033386
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/10/2019",
+      "bbox": [
+        482.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/10/2019",
+          "bbox": [
+            482.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9748836159706116
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        459.0,
+        625.0,
+        633.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            459.0,
+            625.0,
+            633.0,
+            653.0
+          ],
+          "confidence": 0.9609020352363586
+        }
+      ]
+    },
+    {
+      "text": "Tá khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKkhám Xịin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.7964712977409363
+        }
+      ]
+    },
+    {
+      "text": "20/05/2021 09:40:37",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "20/05/2021 09:40:37",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.999472439289093
+        }
+      ]
+    }
+  ]
+}

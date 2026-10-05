@@ -1,0 +1,458 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_209",
+  "image": "public_train/image/VAIPE_P_TRAIN_209.png",
+  "text": "1/1\nTRÀNG AN\nSố phiếu 639/2018\n4662050\nTOA THUỐC BHYT\nNam\nNữ\nBT\n35\n209\n53492\n2\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (H81) Rối loạn chức năng tiền đình\n1) CARDILOPIN 5mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 10 viên\nGhi chú Uống:\nChiều 1 viên\nSáng 1 viên\n3) PARTAMOL TAB. 500mg\nSL: 10 viên\nGhi chú Uống:\nChiều 1 viên\nSáng 1 viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 04/04/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Văn Hải\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n14/05/2021 16:37:51",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TRÀNG AN",
+      "label": "other",
+      "bbox": [
+        155,
+        58,
+        239,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 639/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        525,
+        121
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4662050",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BT",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        214,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "53492",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (H81) Rối loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        640,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CARDILOPIN 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        267,
+        413
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        435,
+        501,
+        466
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        703,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        466,
+        601,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        372,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        489,
+        334,
+        518
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        703,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        518,
+        601,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        372,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        548,
+        197,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        571,
+        163,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        598,
+        167,
+        616
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04/04/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        633,
+        621,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        652,
+        198,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        658,
+        611,
+        678
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "label": "other",
+      "bbox": [
+        477,
+        732,
+        615,
+        754
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        788,
+        416,
+        811
+      ],
+      "mapping": null
+    },
+    {
+      "text": "14/05/2021 16:37:51",
+      "label": "other",
+      "bbox": [
+        588,
+        829,
+        728,
+        845
+      ],
+      "mapping": null
+    }
+  ]
+}

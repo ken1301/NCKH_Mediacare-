@@ -1,0 +1,733 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_874",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_874.png",
+  "text": "MN số người bệnh\nKhoa Khám bệnh\nBệốc khám nội Số phiếu 36713/2021\nTOA THUỐC BHYT\nNam x ữ2\nTha kho hi ế hm y tu CB 35 205 91086\nMạch: 5 lần/phút Huyết áp: 130 mMHg Thân nhiệt: 36.7 C\nCân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương\nGiucOS [Máu) Định 1ương HDL-C (High dênSiưuy lipOprOtin Cho1SuCrO1) [MMáu), Định 1ương\nTrig1ycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinn giải ĩỹ (Nan, K, C1) [MMáu) Ting phân tich\nnưc tiêu (Bng máhy tọ ĩnng) Tng phân tich tuế ào máhui ngOtại vi (1ong máy ĩêm 1aạSCr)\nCâềnhần oknhn: 110- nệnh 1 ăng huyếH cáp (149) LO ạhn nhiếp tim khác\n1) ENALAPRIL 5mg SL: 60 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n2) KAVASDIN 5 5 mg SL: 60 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n3) SAVIPROLOL 2,5 2,5mg SL:30 Viên\nGhi chú uống Sáng 1 Viên\nCộng khoả:n:n 3 kho\nLời dặn đn uốn c: HEN KHn LẠI 26/8/2021\nNgày hẹn tái khám:\nNgày 26/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Trần Minh Tuđn\nTi khákhám Xin manng th ho đn, Xká nghinệhm, phim (nếu c)\n04/01/2022 22:04:28",
+  "lines": [
+    {
+      "text": "MN số người bệnh",
+      "bbox": [
+        897.0,
+        45.0,
+        1064.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "MN số người bệnh",
+          "bbox": [
+            897.0,
+            45.0,
+            1064.0,
+            73.0
+          ],
+          "confidence": 0.8146724700927734
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        36.0,
+        100.0,
+        219.0,
+        128.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            36.0,
+            100.0,
+            219.0,
+            128.0
+          ],
+          "confidence": 0.8791998028755188
+        }
+      ]
+    },
+    {
+      "text": "Bệốc khám nội Số phiếu 36713/2021",
+      "bbox": [
+        35.0,
+        146.0,
+        811.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc khám nội",
+          "bbox": [
+            35.0,
+            146.0,
+            189.0,
+            180.0
+          ],
+          "confidence": 0.834570050239563
+        },
+        {
+          "text": "Số phiếu 36713/2021",
+          "bbox": [
+            552.0,
+            151.0,
+            811.0,
+            192.0
+          ],
+          "confidence": 0.9826133251190186
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        384.0,
+        196.0,
+        758.0,
+        243.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            384.0,
+            196.0,
+            758.0,
+            243.0
+          ],
+          "confidence": 0.9617414474487305
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1099.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1099.0,
+            282.0
+          ],
+          "confidence": 0.8877043724060059
+        }
+      ]
+    },
+    {
+      "text": "Tha kho hi ế hm y tu CB 35 205 91086",
+      "bbox": [
+        37.0,
+        319.0,
+        839.0,
+        351.0
+      ],
+      "words": [
+        {
+          "text": "Tha kho hi ế hm y tu",
+          "bbox": [
+            37.0,
+            320.0,
+            226.0,
+            351.0
+          ],
+          "confidence": 0.6986609697341919
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            272.0,
+            320.0,
+            320.0,
+            351.0
+          ],
+          "confidence": 0.8715322017669678
+        },
+        {
+          "text": "35",
+          "bbox": [
+            440.0,
+            319.0,
+            484.0,
+            351.0
+          ],
+          "confidence": 0.9998787641525269
+        },
+        {
+          "text": "205",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.8566368222236633
+        },
+        {
+          "text": "91086",
+          "bbox": [
+            759.0,
+            321.0,
+            839.0,
+            350.0
+          ],
+          "confidence": 0.9919518232345581
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 5 lần/phút Huyết áp: 130 mMHg Thân nhiệt: 36.7 C",
+      "bbox": [
+        35.0,
+        350.0,
+        1014.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 5",
+          "bbox": [
+            35.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9472058415412903
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            462.0,
+            393.0
+          ],
+          "confidence": 0.9766991138458252
+        },
+        {
+          "text": "130",
+          "bbox": [
+            491.0,
+            359.0,
+            616.0,
+            390.0
+          ],
+          "confidence": 0.9998739361763
+        },
+        {
+          "text": "mMHg Thân nhiệt: 36.7",
+          "bbox": [
+            671.0,
+            357.0,
+            955.0,
+            390.0
+          ],
+          "confidence": 0.8837676048278809
+        },
+        {
+          "text": "C",
+          "bbox": [
+            963.0,
+            350.0,
+            1014.0,
+            393.0
+          ],
+          "confidence": 0.701444685459137
+        }
+      ]
+    },
+    {
+      "text": "Cân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương",
+      "bbox": [
+        35.0,
+        391.0,
+        1031.0,
+        424.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1sm ásàng: Định 1ưng Acid Uric [MMu) Định 1ương Cho1Suro1 toàn phn (máu), Định 1ương",
+          "bbox": [
+            35.0,
+            391.0,
+            1031.0,
+            424.0
+          ],
+          "confidence": 0.8609181046485901
+        }
+      ]
+    },
+    {
+      "text": "GiucOS [Máu) Định 1ương HDL-C (High dênSiưuy lipOprOtin Cho1SuCrO1) [MMáu), Định 1ương",
+      "bbox": [
+        35.0,
+        421.0,
+        993.0,
+        454.0
+      ],
+      "words": [
+        {
+          "text": "GiucOS [Máu) Định 1ương HDL-C (High dênSiưuy lipOprOtin Cho1SuCrO1) [MMáu), Định 1ương",
+          "bbox": [
+            35.0,
+            421.0,
+            993.0,
+            454.0
+          ],
+          "confidence": 0.820944607257843
+        }
+      ]
+    },
+    {
+      "text": "Trig1ycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinn giải ĩỹ (Nan, K, C1) [MMáu) Ting phân tich",
+      "bbox": [
+        35.0,
+        450.0,
+        1072.0,
+        481.0
+      ],
+      "words": [
+        {
+          "text": "Trig1ycrid (máu) [MMáun), Định 1ương Crêaninin (máu), Đinn giải ĩỹ (Nan, K, C1) [MMáu) Ting phân tich",
+          "bbox": [
+            35.0,
+            450.0,
+            1072.0,
+            481.0
+          ],
+          "confidence": 0.8559587597846985
+        }
+      ]
+    },
+    {
+      "text": "nưc tiêu (Bng máhy tọ ĩnng) Tng phân tich tuế ào máhui ngOtại vi (1ong máy ĩêm 1aạSCr)",
+      "bbox": [
+        34.0,
+        479.0,
+        945.0,
+        511.0
+      ],
+      "words": [
+        {
+          "text": "nưc tiêu (Bng máhy tọ ĩnng) Tng phân tich tuế ào máhui ngOtại vi (1ong máy ĩêm 1aạSCr)",
+          "bbox": [
+            34.0,
+            479.0,
+            945.0,
+            511.0
+          ],
+          "confidence": 0.8091387152671814
+        }
+      ]
+    },
+    {
+      "text": "Câềnhần oknhn: 110- nệnh 1 ăng huyếH cáp (149) LO ạhn nhiếp tim khác",
+      "bbox": [
+        35.0,
+        507.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhần oknhn: 110- nệnh 1 ăng huyếH cáp (149) LO ạhn nhiếp tim khác",
+          "bbox": [
+            35.0,
+            507.0,
+            711.0,
+            538.0
+          ],
+          "confidence": 0.815881073474884
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 60 Viên",
+      "bbox": [
+        63.0,
+        675.0,
+        1055.0,
+        716.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            63.0,
+            675.0,
+            378.0,
+            716.0
+          ],
+          "confidence": 0.9738587141036987
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            886.0,
+            675.0,
+            1055.0,
+            711.0
+          ],
+          "confidence": 0.9873849749565125
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        47.0,
+        718.0,
+        905.0,
+        753.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            47.0,
+            718.0,
+            240.0,
+            753.0
+          ],
+          "confidence": 0.9100921750068665
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            719.0,
+            561.0,
+            750.0
+          ],
+          "confidence": 0.9962759613990784
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            767.0,
+            719.0,
+            905.0,
+            747.0
+          ],
+          "confidence": 0.9461849331855774
+        }
+      ]
+    },
+    {
+      "text": "2) KAVASDIN 5 5 mg SL: 60 Viên",
+      "bbox": [
+        59.0,
+        753.0,
+        1054.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "2) KAVASDIN 5 5 mg",
+          "bbox": [
+            59.0,
+            753.0,
+            402.0,
+            795.0
+          ],
+          "confidence": 0.9383710026741028
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            887.0,
+            757.0,
+            1054.0,
+            788.0
+          ],
+          "confidence": 0.8826663494110107
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        45.0,
+        789.0,
+        906.0,
+        833.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            789.0,
+            240.0,
+            833.0
+          ],
+          "confidence": 0.9587237238883972
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            797.0,
+            561.0,
+            828.0
+          ],
+          "confidence": 0.9962759613990784
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            794.0,
+            906.0,
+            825.0
+          ],
+          "confidence": 0.973787784576416
+        }
+      ]
+    },
+    {
+      "text": "3) SAVIPROLOL 2,5 2,5mg SL:30 Viên",
+      "bbox": [
+        59.0,
+        831.0,
+        1055.0,
+        873.0
+      ],
+      "words": [
+        {
+          "text": "3) SAVIPROLOL 2,5 2,5mg",
+          "bbox": [
+            59.0,
+            831.0,
+            478.0,
+            873.0
+          ],
+          "confidence": 0.9182239770889282
+        },
+        {
+          "text": "SL:30 Viên",
+          "bbox": [
+            886.0,
+            833.0,
+            1055.0,
+            867.0
+          ],
+          "confidence": 0.9818371534347534
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên",
+      "bbox": [
+        46.0,
+        869.0,
+        559.0,
+        909.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            869.0,
+            240.0,
+            909.0
+          ],
+          "confidence": 0.87868732213974
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            430.0,
+            877.0,
+            559.0,
+            905.0
+          ],
+          "confidence": 0.9957714080810547
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả:n:n 3 kho",
+      "bbox": [
+        45.0,
+        917.0,
+        292.0,
+        947.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả:n:n 3 kho",
+          "bbox": [
+            45.0,
+            917.0,
+            292.0,
+            947.0
+          ],
+          "confidence": 0.8480700254440308
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đn uốn c: HEN KHn LẠI 26/8/2021",
+      "bbox": [
+        44.0,
+        954.0,
+        550.0,
+        984.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đn uốn c: HEN KHn LẠI 26/8/2021",
+          "bbox": [
+            44.0,
+            954.0,
+            550.0,
+            984.0
+          ],
+          "confidence": 0.8421115279197693
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        994.0,
+        246.0,
+        1022.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            994.0,
+            246.0,
+            1022.0
+          ],
+          "confidence": 0.9099695682525635
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/07/2021",
+      "bbox": [
+        721.0,
+        1043.0,
+        926.0,
+        1077.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/07/2021",
+          "bbox": [
+            721.0,
+            1043.0,
+            926.0,
+            1077.0
+          ],
+          "confidence": 0.9619022011756897
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        1072.0,
+        913.0,
+        1118.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            91.0,
+            1072.0,
+            293.0,
+            1105.0
+          ],
+          "confidence": 0.9361968636512756
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            1087.0,
+            913.0,
+            1118.0
+          ],
+          "confidence": 0.935230553150177
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuđn",
+      "bbox": [
+        672.0,
+        1193.0,
+        956.0,
+        1229.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Trần Minh Tuđn",
+          "bbox": [
+            672.0,
+            1193.0,
+            956.0,
+            1229.0
+          ],
+          "confidence": 0.9368637800216675
+        }
+      ]
+    },
+    {
+      "text": "Ti khákhám Xin manng th ho đn, Xká nghinệhm, phim (nếu c)",
+      "bbox": [
+        45.0,
+        1281.0,
+        616.0,
+        1311.0
+      ],
+      "words": [
+        {
+          "text": "Ti khákhám Xin manng th ho đn, Xká nghinệhm, phim (nếu c)",
+          "bbox": [
+            45.0,
+            1281.0,
+            616.0,
+            1311.0
+          ],
+          "confidence": 0.844723105430603
+        }
+      ]
+    },
+    {
+      "text": "04/01/2022 22:04:28",
+      "bbox": [
+        876.0,
+        1341.0,
+        1090.0,
+        1368.0
+      ],
+      "words": [
+        {
+          "text": "04/01/2022 22:04:28",
+          "bbox": [
+            876.0,
+            1341.0,
+            1090.0,
+            1368.0
+          ],
+          "confidence": 0.9849374890327454
+        }
+      ]
+    }
+  ]
+}

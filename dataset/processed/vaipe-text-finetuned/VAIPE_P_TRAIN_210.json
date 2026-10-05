@@ -1,0 +1,784 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_210",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_210.png",
+  "text": "1/1 M sỐ người bệnh\nPK Số 5.1 [TĐ] Số phiếu 59493/2019\nTOA THUỐC BHYT\nNam 2ữx\nĐệị ạ chi 99\nThu bặho h hám y tut GB 35 35 209\nMạch: Lần/pút Huyết áp: MMHg Thân nhi\nCân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1\ntAoàn phần (Mmnu) Định 1ương Crêaơinin (Mmáu) Định đương GiucOS [MMu) Định 1ương HA1c [Máu)\nĐệịnh 1ương HDL-C (High donSiHuy lịpoprOcêin Cho1cSuCrO) [MMáu) Định đưng Trigycori d (máu) [MMáu\nĐƠnịnrnh 1ươđng Urê máku [MMáu) Tnng phân tich nưức tiếu (Bng Mmhky tư ĩnông)\nCânhần oknho: E11 - Bnệnh ĩái tháo ĩường khõng phọ thunc inSuinm, N34) Viêm ninYu ĩMạo Và hi chứng ninệu\nMmạo\n1) GLUCOFAST 500 500mg SL: 60 Viên\nGh chú LUoống au ah ặn: Sáng 1 Viên Chiều 1 Viên\n2) DIAMICRON MR CTAB 60MG 30S 60mg SL: 30 Viên\nGhah chúc 8 LUống trưiức khi ăn: Sáng 1 Viên\n3) METRONIDAZOL 250mg SL: 20 Viên\nGhi chú uốngốg Sáaạu khi ăn: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 3 khoả n\nLời dặn đơ n thuốc:\nNgày hhđn tái tákámả:Thữ tư, 23/10/2019\nNgày 23/09/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khákhám Xin mang thco onđ, kết nghinhm phikam (ônếu co)\n16/05/2021 16:38:44",
+  "lines": [
+    {
+      "text": "1/1 M sỐ người bệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        714.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "M sỐ người bệnh",
+          "bbox": [
+            601.0,
+            20.0,
+            714.0,
+            42.0
+          ],
+          "confidence": 0.8750886917114258
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 59493/2019",
+      "bbox": [
+        23.0,
+        84.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            84.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9481774568557739
+        },
+        {
+          "text": "Số phiếu 59493/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9892590045928955
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9685198664665222
+        }
+      ]
+    },
+    {
+      "text": "Nam 2ữx",
+      "bbox": [
+        617.0,
+        148.0,
+        738.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2ữx",
+          "bbox": [
+            617.0,
+            148.0,
+            738.0,
+            180.0
+          ],
+          "confidence": 0.8676977753639221
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi 99",
+      "bbox": [
+        25.0,
+        179.0,
+        115.0,
+        204.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            179.0,
+            82.0,
+            202.0
+          ],
+          "confidence": 0.7594336271286011
+        },
+        {
+          "text": "99",
+          "bbox": [
+            101.0,
+            189.0,
+            115.0,
+            204.0
+          ],
+          "confidence": 0.5293617844581604
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut GB 35 35 209",
+      "bbox": [
+        26.0,
+        204.0,
+        470.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            185.0,
+            205.0,
+            217.0,
+            225.0
+          ],
+          "confidence": 0.9991073608398438
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9996581077575684
+        },
+        {
+          "text": "35",
+          "bbox": [
+            363.0,
+            205.0,
+            392.0,
+            226.0
+          ],
+          "confidence": 0.7591792345046997
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            204.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9999566674232483
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: MMHg Thân nhi",
+      "bbox": [
+        23.0,
+        229.0,
+        595.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            76.0,
+            254.0
+          ],
+          "confidence": 0.9956182241439819
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9153172373771667
+        },
+        {
+          "text": "MMHg Thân nhi",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.930378794670105
+        }
+      ]
+    },
+    {
+      "text": "Cân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1",
+      "bbox": [
+        26.0,
+        253.0,
+        717.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Cân m1sm Ssàng: Đo hoMạ  ALT (GPT) [MMKu) Đo hoạ ô AST (1GOT) [MMáu) Định 1ương Cho 1cStCrưo1",
+          "bbox": [
+            26.0,
+            253.0,
+            717.0,
+            274.0
+          ],
+          "confidence": 0.810745894908905
+        }
+      ]
+    },
+    {
+      "text": "tAoàn phần (Mmnu) Định 1ương Crêaơinin (Mmáu) Định đương GiucOS [MMu) Định 1ương HA1c [Máu)",
+      "bbox": [
+        26.0,
+        274.0,
+        716.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "tAoàn phần (Mmnu) Định 1ương Crêaơinin (Mmáu) Định đương GiucOS [MMu) Định 1ương HA1c [Máu)",
+          "bbox": [
+            26.0,
+            274.0,
+            716.0,
+            294.0
+          ],
+          "confidence": 0.8394280672073364
+        }
+      ]
+    },
+    {
+      "text": "Đệịnh 1ương HDL-C (High donSiHuy lịpoprOcêin Cho1cSuCrO) [MMáu) Định đưng Trigycori d (máu) [MMáu",
+      "bbox": [
+        24.0,
+        290.0,
+        729.0,
+        315.0
+      ],
+      "words": [
+        {
+          "text": "Đệịnh 1ương HDL-C (High donSiHuy lịpoprOcêin Cho1cSuCrO) [MMáu) Định đưng Trigycori d (máu) [MMáu",
+          "bbox": [
+            24.0,
+            290.0,
+            729.0,
+            315.0
+          ],
+          "confidence": 0.825265645980835
+        }
+      ]
+    },
+    {
+      "text": "ĐƠnịnrnh 1ươđng Urê máku [MMáu) Tnng phân tich nưức tiếu (Bng Mmhky tư ĩnông)",
+      "bbox": [
+        25.0,
+        310.0,
+        538.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "ĐƠnịnrnh 1ươđng Urê máku [MMáu) Tnng phân tich nưức tiếu (Bng Mmhky tư ĩnông)",
+          "bbox": [
+            25.0,
+            310.0,
+            538.0,
+            332.0
+          ],
+          "confidence": 0.7804127335548401
+        }
+      ]
+    },
+    {
+      "text": "Cânhần oknho: E11 - Bnệnh ĩái tháo ĩường khõng phọ thunc inSuinm, N34) Viêm ninYu ĩMạo Và hi chứng ninệu",
+      "bbox": [
+        25.0,
+        329.0,
+        739.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần oknho: E11 - Bnệnh ĩái tháo ĩường khõng phọ thunc inSuinm, N34) Viêm ninYu ĩMạo Và hi chứng ninệu",
+          "bbox": [
+            25.0,
+            329.0,
+            739.0,
+            353.0
+          ],
+          "confidence": 0.7972899079322815
+        }
+      ]
+    },
+    {
+      "text": "Mmạo",
+      "bbox": [
+        25.0,
+        350.0,
+        57.0,
+        370.0
+      ],
+      "words": [
+        {
+          "text": "Mmạo",
+          "bbox": [
+            25.0,
+            350.0,
+            57.0,
+            370.0
+          ],
+          "confidence": 0.6559604406356812
+        }
+      ]
+    },
+    {
+      "text": "1) GLUCOFAST 500 500mg SL: 60 Viên",
+      "bbox": [
+        40.0,
+        437.0,
+        709.0,
+        472.0
+      ],
+      "words": [
+        {
+          "text": "1) GLUCOFAST 500 500mg",
+          "bbox": [
+            40.0,
+            437.0,
+            328.0,
+            472.0
+          ],
+          "confidence": 0.9654398560523987
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            594.0,
+            442.0,
+            709.0,
+            467.0
+          ],
+          "confidence": 0.9530174136161804
+        }
+      ]
+    },
+    {
+      "text": "Gh chú LUoống au ah ặn: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        35.0,
+        467.0,
+        608.0,
+        492.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            472.0,
+            93.0,
+            490.0
+          ],
+          "confidence": 0.891880989074707
+        },
+        {
+          "text": "LUoống au ah ặn:",
+          "bbox": [
+            109.0,
+            471.0,
+            235.0,
+            491.0
+          ],
+          "confidence": 0.7963074445724487
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            471.0,
+            377.0,
+            492.0
+          ],
+          "confidence": 0.9945070147514343
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            467.0,
+            608.0,
+            492.0
+          ],
+          "confidence": 0.998723566532135
+        }
+      ]
+    },
+    {
+      "text": "2) DIAMICRON MR CTAB 60MG 30S 60mg SL: 30 Viên",
+      "bbox": [
+        38.0,
+        491.0,
+        708.0,
+        524.0
+      ],
+      "words": [
+        {
+          "text": "2) DIAMICRON MR CTAB 60MG 30S 60mg",
+          "bbox": [
+            38.0,
+            491.0,
+            473.0,
+            524.0
+          ],
+          "confidence": 0.8852742314338684
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            593.0,
+            494.0,
+            708.0,
+            520.0
+          ],
+          "confidence": 0.9113538861274719
+        }
+      ]
+    },
+    {
+      "text": "Ghah chúc 8 LUống trưiức khi ăn: Sáng 1 Viên",
+      "bbox": [
+        36.0,
+        521.0,
+        379.0,
+        545.0
+      ],
+      "words": [
+        {
+          "text": "Ghah chúc",
+          "bbox": [
+            36.0,
+            524.0,
+            98.0,
+            542.0
+          ],
+          "confidence": 0.7640721201896667
+        },
+        {
+          "text": "8",
+          "bbox": [
+            91.0,
+            525.0,
+            114.0,
+            540.0
+          ],
+          "confidence": 0.23433557152748108
+        },
+        {
+          "text": "LUống trưiức khi ăn:",
+          "bbox": [
+            106.0,
+            523.0,
+            248.0,
+            543.0
+          ],
+          "confidence": 0.7774256467819214
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            521.0,
+            379.0,
+            545.0
+          ],
+          "confidence": 0.9887273907661438
+        }
+      ]
+    },
+    {
+      "text": "3) METRONIDAZOL 250mg SL: 20 Viên",
+      "bbox": [
+        38.0,
+        543.0,
+        709.0,
+        575.0
+      ],
+      "words": [
+        {
+          "text": "3) METRONIDAZOL 250mg",
+          "bbox": [
+            38.0,
+            543.0,
+            335.0,
+            575.0
+          ],
+          "confidence": 0.8885622620582581
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            546.0,
+            709.0,
+            571.0
+          ],
+          "confidence": 0.9654572010040283
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uốngốg Sáaạu khi ăn: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        570.0,
+        608.0,
+        599.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uốngốg Sáaạu khi ăn:",
+          "bbox": [
+            34.0,
+            576.0,
+            236.0,
+            597.0
+          ],
+          "confidence": 0.8103460073471069
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            575.0,
+            378.0,
+            599.0
+          ],
+          "confidence": 0.9912839531898499
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            570.0,
+            608.0,
+            598.0
+          ],
+          "confidence": 0.9887984395027161
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoả n",
+      "bbox": [
+        33.0,
+        604.0,
+        199.0,
+        625.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoả n",
+          "bbox": [
+            33.0,
+            604.0,
+            199.0,
+            625.0
+          ],
+          "confidence": 0.9823547601699829
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ n thuốc:",
+      "bbox": [
+        31.0,
+        627.0,
+        163.0,
+        647.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ n thuốc:",
+          "bbox": [
+            31.0,
+            627.0,
+            163.0,
+            647.0
+          ],
+          "confidence": 0.9007056355476379
+        }
+      ]
+    },
+    {
+      "text": "Ngày hhđn tái tákámả:Thữ tư, 23/10/2019",
+      "bbox": [
+        32.0,
+        651.0,
+        309.0,
+        675.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hhđn tái tákámả:Thữ tư, 23/10/2019",
+          "bbox": [
+            32.0,
+            651.0,
+            309.0,
+            675.0
+          ],
+          "confidence": 0.7865533232688904
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/09/2019",
+      "bbox": [
+        483.0,
+        685.0,
+        624.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/09/2019",
+          "bbox": [
+            483.0,
+            685.0,
+            624.0,
+            711.0
+          ],
+          "confidence": 0.9941794276237488
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        706.0,
+        614.0,
+        738.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            706.0,
+            199.0,
+            728.0
+          ],
+          "confidence": 0.9959462285041809
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            716.0,
+            614.0,
+            738.0
+          ],
+          "confidence": 0.9646596908569336
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        459.0,
+        788.0,
+        633.0,
+        815.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            459.0,
+            788.0,
+            633.0,
+            815.0
+          ],
+          "confidence": 0.9749171733856201
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang thco onđ, kết nghinhm phikam (ônếu co)",
+      "bbox": [
+        33.0,
+        845.0,
+        416.0,
+        868.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang thco onđ, kết nghinhm phikam (ônếu co)",
+          "bbox": [
+            33.0,
+            845.0,
+            416.0,
+            868.0
+          ],
+          "confidence": 0.7896536588668823
+        }
+      ]
+    },
+    {
+      "text": "16/05/2021 16:38:44",
+      "bbox": [
+        588.0,
+        886.0,
+        732.0,
+        906.0
+      ],
+      "words": [
+        {
+          "text": "16/05/2021 16:38:44",
+          "bbox": [
+            588.0,
+            886.0,
+            732.0,
+            906.0
+          ],
+          "confidence": 0.9986026883125305
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_731",
+  "image": "public_train/image/VAIPE_P_TRAIN_731.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 42221/2021\n4641076\nTOA THUỐC BHYT\nNam\nNữ\n85218\n35\n35\n209\n4\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 36.5\nMạch:\n80\n130\nCận lâm sàng: Doppler động mạch cảnh, Doppler xuyên sọ\nChấn đoán: T10 - Bệnh lý tăng huyết áp; (170) Xơ vữa động mạch; (G46?) Hội chứng mạch máu não\ntrong bệnh mạch não (160-1677)\n1) ENALAPRIL 5mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) PAMLONOR 5mg\nSL: 60 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n3) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc: hẹn tái khám 30/9/2021\nNgày hẹn tái khám:\nNgày 30/08/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Nguyễn Văn Thự\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 22:38:31",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        188,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 42221/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4641076",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        255,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "85218",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.5",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Doppler động mạch cảnh, Doppler xuyên sọ",
+      "label": "other",
+      "bbox": [
+        37,
+        395,
+        635,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: T10 - Bệnh lý tăng huyết áp; (170) Xơ vữa động mạch; (G46?) Hội chứng mạch máu não",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1055,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "trong bệnh mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        451,
+        362,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        380,
+        632
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1055,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PAMLONOR 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        382,
+        710
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        223,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        495,
+        787
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        787,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        835,
+        290,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: hẹn tái khám 30/9/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        867,
+        497,
+        897
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 30/08/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1002,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "label": "other",
+      "bbox": [
+        667,
+        1110,
+        965,
+        1145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 22:38:31",
+      "label": "other",
+      "bbox": [
+        877,
+        1255,
+        1087,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

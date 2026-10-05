@@ -1,0 +1,668 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_181",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_181.png",
+  "text": "1/1 M c ngưi bnh\nPK Số 2 [Nội] Số phiếu 8566/2021\nTOA THUỐC BHYT N 2N\nThu ặo hiếhám y tế HT 960 09913\nMạch: lần/phút Huyt áp: MMHHg T Thân nhiệt: c\nCận lâm sàng:\nCnhần ĩon: 20- Viêmphế 9uin cấp (130 4) Viêm mùi dị ứng không phân 1oàại\n1) INGARON 200 DST 200 mg SL: 10 Viên\nGhi chú Uống: Sáng 1 Viên Chiều 1 Viên\n2) PANACTOL 500mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\n3) SERGUROP 10mg SL: 5 Viên\nGhi chúữ Uống: Tối 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/02/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)\n01/01/2022 15:22:53",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        50.0,
+        35.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            36.0,
+            119.0,
+            81.0
+          ],
+          "confidence": 0.9297540187835693
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 8566/2021",
+      "bbox": [
+        23.0,
+        100.0,
+        535.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            100.0,
+            132.0,
+            134.0
+          ],
+          "confidence": 0.9476912021636963
+        },
+        {
+          "text": "Số phiếu 8566/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            535.0,
+            138.0
+          ],
+          "confidence": 0.9787198305130005
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT N 2N",
+      "bbox": [
+        258.0,
+        138.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9795154333114624
+        },
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6931097507476807
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế HT 960 09913",
+      "bbox": [
+        24.0,
+        220.0,
+        564.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            178.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.817112922668457
+        },
+        {
+          "text": "960",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.832676112651825
+        },
+        {
+          "text": "09913",
+          "bbox": [
+            507.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9001227617263794
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MMHHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            250.0,
+            509.0,
+            272.0
+          ],
+          "confidence": 0.7633803486824036
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cnhần ĩon: 20- Viêmphế 9uin cấp (130 4) Viêm mùi dị ứng không phân 1oàại",
+      "bbox": [
+        24.0,
+        286.0,
+        575.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cnhần ĩon: 20- Viêmphế 9uin cấp (130 4) Viêm mùi dị ứng không phân 1oàại",
+          "bbox": [
+            24.0,
+            286.0,
+            575.0,
+            313.0
+          ],
+          "confidence": 0.7959490418434143
+        }
+      ]
+    },
+    {
+      "text": "1) INGARON 200 DST 200 mg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) INGARON 200 DST 200 mg",
+          "bbox": [
+            38.0,
+            396.0,
+            355.0,
+            434.0
+          ],
+          "confidence": 0.976144015789032
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            400.0,
+            710.0,
+            429.0
+          ],
+          "confidence": 0.9919629693031311
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        32.0,
+        426.0,
+        609.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            286.0,
+            428.0,
+            380.0,
+            456.0
+          ],
+          "confidence": 0.9817251563072205
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            429.0,
+            609.0,
+            453.0
+          ],
+          "confidence": 0.9990439414978027
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        449.0,
+        710.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            449.0,
+            279.0,
+            486.0
+          ],
+          "confidence": 0.9737069606781006
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            453.0,
+            710.0,
+            481.0
+          ],
+          "confidence": 0.994641125202179
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        32.0,
+        478.0,
+        610.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            482.0,
+            93.0,
+            504.0
+          ],
+          "confidence": 0.9341015219688416
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            478.0,
+            166.0,
+            510.0
+          ],
+          "confidence": 0.8927562832832336
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            481.0,
+            379.0,
+            506.0
+          ],
+          "confidence": 0.9631516933441162
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            511.0,
+            478.0,
+            610.0,
+            505.0
+          ],
+          "confidence": 0.9977062344551086
+        }
+      ]
+    },
+    {
+      "text": "3) SERGUROP 10mg SL: 5 Viên",
+      "bbox": [
+        36.0,
+        501.0,
+        702.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) SERGUROP 10mg",
+          "bbox": [
+            36.0,
+            501.0,
+            264.0,
+            539.0
+          ],
+          "confidence": 0.9968904256820679
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            591.0,
+            503.0,
+            702.0,
+            535.0
+          ],
+          "confidence": 0.9809890985488892
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uống: Tối 1 Viên",
+      "bbox": [
+        33.0,
+        530.0,
+        706.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            531.0,
+            165.0,
+            560.0
+          ],
+          "confidence": 0.8313008546829224
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            620.0,
+            530.0,
+            706.0,
+            559.0
+          ],
+          "confidence": 0.9365012049674988
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        559.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            559.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9897149801254272
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        29.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            29.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9982873201370239
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/02/2021",
+      "bbox": [
+        482.0,
+        645.0,
+        624.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/02/2021",
+          "bbox": [
+            482.0,
+            645.0,
+            624.0,
+            672.0
+          ],
+          "confidence": 0.9822210669517517
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            201.0,
+            692.0
+          ],
+          "confidence": 0.9732676148414612
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "bbox": [
+        456.0,
+        748.0,
+        638.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trương Văn Nghĩa",
+          "bbox": [
+            456.0,
+            748.0,
+            638.0,
+            776.0
+          ],
+          "confidence": 0.9786809682846069
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.7898826003074646
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 15:22:53",
+      "bbox": [
+        586.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 15:22:53",
+          "bbox": [
+            586.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.9815595746040344
+        }
+      ]
+    }
+  ]
+}

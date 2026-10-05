@@ -1,0 +1,513 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_821",
+  "image": "public_train/image/VAIPE_P_TRAIN_821.png",
+  "text": "TRẠM Y TẾ THỊ TRẤN BÌNH MỸ\nSố phiếu 2734/2021\n4694257\nTOA THUỐC BHYT\nNam\nNữ\n52559\n2\n35\n35\n206\nmmHg Thân nhiệt: 36.7\nLần/phút Huyết áp:\nMạch:\n89\n134\nCận lâm sàng:\nChấn đoán: K21 - Bệnh trào ngược dạ dày - thực quản; (H81) Rối loạn chức năng tiền đình\n1) FABAMOX 500 500mg\nSL:20 Viên\nGhi chú Uống:\nTối 2 Viên\nSáng 2 Viên\n2) METRONIDAZOL 250 250mg\nSL: 20 Viên\nGhi chú Uống\nTối 2 Viên\nSáng 2 Viên\n3) KAGASDINE 20mg\nSL: 10 Viên\nGhi chú ăn 30 phút: sáng 1 viên\nTối 1 Viên\n4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 30 viên\nGhi chú Uống:\nTối 3 viên\nSáng 3 viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 01/12/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Thị Hồng Hạnh\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:20:20",
+  "words": [
+    {
+      "text": "TRẠM Y TẾ THỊ TRẤN BÌNH MỸ",
+      "label": "other",
+      "bbox": [
+        37,
+        97,
+        412,
+        127
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2734/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        795,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4694257",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1025,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "52559",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.7",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "89",
+      "label": "other",
+      "bbox": [
+        135,
+        367,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "134",
+      "label": "other",
+      "bbox": [
+        497,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        37,
+        394,
+        185,
+        422
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K21 - Bệnh trào ngược dạ dày - thực quản; (H81) Rối loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        419,
+        962,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        455,
+        632
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL:20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1055,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        632,
+        1045,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        668,
+        560,
+        710
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        223,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        710,
+        1045,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        711,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) KAGASDINE 20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        405,
+        787
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú ăn 30 phút: sáng 1 viên",
+      "label": "other",
+      "bbox": [
+        49,
+        788,
+        560,
+        822
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        935,
+        790,
+        1045,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        821,
+        750,
+        868
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        827,
+        1049,
+        859
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 3 viên",
+      "label": "usage",
+      "bbox": [
+        935,
+        867,
+        1040,
+        895
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 3 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        552,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        912,
+        290,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        944,
+        242,
+        976
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        987,
+        247,
+        1015
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 01/12/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        1040,
+        925,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1067,
+        292,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1077,
+        913,
+        1110
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Thị Hồng Hạnh",
+      "label": "other",
+      "bbox": [
+        652,
+        1187,
+        980,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1272,
+        617,
+        1306
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:20:20",
+      "label": "other",
+      "bbox": [
+        877,
+        1334,
+        1089,
+        1359
+      ],
+      "mapping": null
+    }
+  ]
+}

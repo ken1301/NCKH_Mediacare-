@@ -1,0 +1,680 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_499",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_499.png",
+  "text": "MS số người bệnh\nKhoa Khám bệnh\nBệốc Kkhám nội Số phiếu 43230/2021\nTOA THAC C  BHT\nNam 2 ữx\nTh bặo hiêhm y t TC 35 35 206 20407\nMạch: lần/phút Huyết áp: 130 2/ mMHmHg T Th n nhiệt: 36.5\nCn lâ nà ngng:\nCânuhốn oknhn: 110 - nệnh 1s ăng huyếnH áp (1I25) nệnh tihám thiếuđ máu cư n mạhn\n1) ENALAPRIL 5mg SL: 60 Viên\nGhi chú uống Sáng 1 Viên Chiều 1 Viên\n2) SAVI PROLOL 5 5mg SL: 15 viên\nGhi chú uống Sáng 1/2 viên\n3) INBACID 10 10mg SL:30 Viên\nGhi chú uống: Tối 1 Viên\nCộng khoản: 3 khoả\nLời dặn đ thn c:  N T I H  n 7/10/2021\nNgày hẹn tái khám:\nNgày 07/09/2021\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBSCK. Trần Minh Tuđấn\nTái kháKhám Xin mang tho ođn, Xát nghinhm phim (niếui c)\n31/12/202118:34:40",
+  "lines": [
+    {
+      "text": "MS số người bệnh",
+      "bbox": [
+        895.0,
+        42.0,
+        1065.0,
+        76.0
+      ],
+      "words": [
+        {
+          "text": "MS số người bệnh",
+          "bbox": [
+            895.0,
+            42.0,
+            1065.0,
+            76.0
+          ],
+          "confidence": 0.8516242504119873
+        }
+      ]
+    },
+    {
+      "text": "Khoa Khám bệnh",
+      "bbox": [
+        37.0,
+        99.0,
+        221.0,
+        127.0
+      ],
+      "words": [
+        {
+          "text": "Khoa Khám bệnh",
+          "bbox": [
+            37.0,
+            99.0,
+            221.0,
+            127.0
+          ],
+          "confidence": 0.9589591026306152
+        }
+      ]
+    },
+    {
+      "text": "Bệốc Kkhám nội Số phiếu 43230/2021",
+      "bbox": [
+        35.0,
+        145.0,
+        811.0,
+        191.0
+      ],
+      "words": [
+        {
+          "text": "Bệốc Kkhám nội",
+          "bbox": [
+            35.0,
+            145.0,
+            190.0,
+            180.0
+          ],
+          "confidence": 0.8807780146598816
+        },
+        {
+          "text": "Số phiếu 43230/2021",
+          "bbox": [
+            552.0,
+            150.0,
+            811.0,
+            191.0
+          ],
+          "confidence": 0.9707041382789612
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC C  BHT",
+      "bbox": [
+        384.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC C  BHT",
+          "bbox": [
+            384.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.8354310393333435
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        921.0,
+        236.0,
+        1098.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            921.0,
+            236.0,
+            1098.0,
+            282.0
+          ],
+          "confidence": 0.8270161151885986
+        }
+      ]
+    },
+    {
+      "text": "Th bặo hiêhm y t TC 35 35 206 20407",
+      "bbox": [
+        35.0,
+        318.0,
+        840.0,
+        353.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo hiêhm y t",
+          "bbox": [
+            35.0,
+            318.0,
+            228.0,
+            352.0
+          ],
+          "confidence": 0.7792321443557739
+        },
+        {
+          "text": "TC",
+          "bbox": [
+            268.0,
+            318.0,
+            321.0,
+            353.0
+          ],
+          "confidence": 0.9142611026763916
+        },
+        {
+          "text": "35",
+          "bbox": [
+            440.0,
+            318.0,
+            485.0,
+            352.0
+          ],
+          "confidence": 0.8916524648666382
+        },
+        {
+          "text": "35",
+          "bbox": [
+            540.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9999237656593323
+        },
+        {
+          "text": "206",
+          "bbox": [
+            646.0,
+            319.0,
+            700.0,
+            351.0
+          ],
+          "confidence": 0.9999747276306152
+        },
+        {
+          "text": "20407",
+          "bbox": [
+            758.0,
+            319.0,
+            840.0,
+            351.0
+          ],
+          "confidence": 0.9972073435783386
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 130 2/ mMHmHg T Th n nhiệt: 36.5",
+      "bbox": [
+        34.0,
+        356.0,
+        953.0,
+        393.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9777576923370361
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            459.0,
+            393.0
+          ],
+          "confidence": 0.9780491590499878
+        },
+        {
+          "text": "130",
+          "bbox": [
+            491.0,
+            359.0,
+            547.0,
+            389.0
+          ],
+          "confidence": 0.8634088039398193
+        },
+        {
+          "text": "2/",
+          "bbox": [
+            537.0,
+            360.0,
+            616.0,
+            389.0
+          ],
+          "confidence": 0.4841003119945526
+        },
+        {
+          "text": "mMHmHg",
+          "bbox": [
+            673.0,
+            362.0,
+            753.0,
+            390.0
+          ],
+          "confidence": 0.8122696876525879
+        },
+        {
+          "text": "T Th n nhiệt: 36.5",
+          "bbox": [
+            762.0,
+            357.0,
+            953.0,
+            390.0
+          ],
+          "confidence": 0.8296075463294983
+        }
+      ]
+    },
+    {
+      "text": "Cn lâ nà ngng:",
+      "bbox": [
+        35.0,
+        392.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâ nà ngng:",
+          "bbox": [
+            35.0,
+            392.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.7199134826660156
+        }
+      ]
+    },
+    {
+      "text": "Cânuhốn oknhn: 110 - nệnh 1s ăng huyếnH áp (1I25) nệnh tihám thiếuđ máu cư n mạhn",
+      "bbox": [
+        36.0,
+        421.0,
+        835.0,
+        451.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhốn oknhn: 110 - nệnh 1s ăng huyếnH áp (1I25) nệnh tihám thiếuđ máu cư n mạhn",
+          "bbox": [
+            36.0,
+            421.0,
+            835.0,
+            451.0
+          ],
+          "confidence": 0.7990537881851196
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 60 Viên",
+      "bbox": [
+        61.0,
+        586.0,
+        1055.0,
+        632.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            61.0,
+            586.0,
+            381.0,
+            632.0
+          ],
+          "confidence": 0.9636260271072388
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            885.0,
+            588.0,
+            1055.0,
+            625.0
+          ],
+          "confidence": 0.9796268343925476
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        46.0,
+        625.0,
+        907.0,
+        666.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            625.0,
+            242.0,
+            666.0
+          ],
+          "confidence": 0.8696687817573547
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            632.0,
+            561.0,
+            663.0
+          ],
+          "confidence": 0.9962759613990784
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            765.0,
+            628.0,
+            907.0,
+            661.0
+          ],
+          "confidence": 0.9912364482879639
+        }
+      ]
+    },
+    {
+      "text": "2) SAVI PROLOL 5 5mg SL: 15 viên",
+      "bbox": [
+        58.0,
+        666.0,
+        1048.0,
+        708.0
+      ],
+      "words": [
+        {
+          "text": "2) SAVI PROLOL 5 5mg",
+          "bbox": [
+            58.0,
+            666.0,
+            437.0,
+            708.0
+          ],
+          "confidence": 0.9310161471366882
+        },
+        {
+          "text": "SL: 15 viên",
+          "bbox": [
+            886.0,
+            668.0,
+            1048.0,
+            702.0
+          ],
+          "confidence": 0.8997483849525452
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1/2 viên",
+      "bbox": [
+        45.0,
+        704.0,
+        574.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            704.0,
+            239.0,
+            744.0
+          ],
+          "confidence": 0.9250540137290955
+        },
+        {
+          "text": "Sáng 1/2 viên",
+          "bbox": [
+            429.0,
+            710.0,
+            574.0,
+            741.0
+          ],
+          "confidence": 0.9926573634147644
+        }
+      ]
+    },
+    {
+      "text": "3) INBACID 10 10mg SL:30 Viên",
+      "bbox": [
+        57.0,
+        742.0,
+        1056.0,
+        788.0
+      ],
+      "words": [
+        {
+          "text": "3) INBACID 10 10mg",
+          "bbox": [
+            57.0,
+            742.0,
+            394.0,
+            788.0
+          ],
+          "confidence": 0.9520895481109619
+        },
+        {
+          "text": "SL:30 Viên",
+          "bbox": [
+            887.0,
+            745.0,
+            1056.0,
+            780.0
+          ],
+          "confidence": 0.9520491361618042
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống: Tối 1 Viên",
+      "bbox": [
+        44.0,
+        781.0,
+        1048.0,
+        825.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống:",
+          "bbox": [
+            44.0,
+            781.0,
+            243.0,
+            825.0
+          ],
+          "confidence": 0.9031317234039307
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            930.0,
+            784.0,
+            1048.0,
+            819.0
+          ],
+          "confidence": 0.9155468940734863
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoả",
+      "bbox": [
+        45.0,
+        831.0,
+        292.0,
+        861.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoả",
+          "bbox": [
+            45.0,
+            831.0,
+            292.0,
+            861.0
+          ],
+          "confidence": 0.9497610926628113
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đ thn c:  N T I H  n 7/10/2021",
+      "bbox": [
+        42.0,
+        867.0,
+        551.0,
+        897.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đ thn c:  N T I H  n 7/10/2021",
+          "bbox": [
+            42.0,
+            867.0,
+            551.0,
+            897.0
+          ],
+          "confidence": 0.8334119915962219
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        44.0,
+        908.0,
+        248.0,
+        936.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            44.0,
+            908.0,
+            248.0,
+            936.0
+          ],
+          "confidence": 0.9107041954994202
+        }
+      ]
+    },
+    {
+      "text": "Ngày 07/09/2021",
+      "bbox": [
+        721.0,
+        956.0,
+        927.0,
+        991.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 07/09/2021",
+          "bbox": [
+            721.0,
+            956.0,
+            927.0,
+            991.0
+          ],
+          "confidence": 0.9623295664787292
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        91.0,
+        985.0,
+        913.0,
+        1031.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            91.0,
+            985.0,
+            292.0,
+            1018.0
+          ],
+          "confidence": 0.9924187660217285
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            1000.0,
+            913.0,
+            1031.0
+          ],
+          "confidence": 0.9662958979606628
+        }
+      ]
+    },
+    {
+      "text": "BSCK. Trần Minh Tuđấn",
+      "bbox": [
+        672.0,
+        1106.0,
+        956.0,
+        1142.0
+      ],
+      "words": [
+        {
+          "text": "BSCK. Trần Minh Tuđấn",
+          "bbox": [
+            672.0,
+            1106.0,
+            956.0,
+            1142.0
+          ],
+          "confidence": 0.8763386607170105
+        }
+      ]
+    },
+    {
+      "text": "Tái kháKhám Xin mang tho ođn, Xát nghinhm phim (niếui c)",
+      "bbox": [
+        44.0,
+        1192.0,
+        617.0,
+        1225.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháKhám Xin mang tho ođn, Xát nghinhm phim (niếui c)",
+          "bbox": [
+            44.0,
+            1192.0,
+            617.0,
+            1225.0
+          ],
+          "confidence": 0.8078435063362122
+        }
+      ]
+    },
+    {
+      "text": "31/12/202118:34:40",
+      "bbox": [
+        877.0,
+        1255.0,
+        1090.0,
+        1279.0
+      ],
+      "words": [
+        {
+          "text": "31/12/202118:34:40",
+          "bbox": [
+            877.0,
+            1255.0,
+            1090.0,
+            1279.0
+          ],
+          "confidence": 0.9581050872802734
+        }
+      ]
+    }
+  ]
+}

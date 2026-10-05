@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1025",
+  "image": "public_train/image/VAIPE_P_TRAIN_1025.png",
+  "text": "1/1\nPK SỐ 3 [NHI]\nSố phiếu 55636/2021\n5121331\nTOA THUỐC BHYT\nNam\nNữ\n06262\n35\n207\nLần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Định lượng Cholesterol toàn phần (máu), Định lượng HDL-C (High density lipoprotein\nCholesterol) (Máu], Định lượng Triglycerid (máu) [Máu); Chụp Xquang ngực thắng\nCác thuật Chần đoán: 142 - Viêm phế quản mản tính không phân loại: (E78) Rối loạn chuyển hóa lipoprotein và như thế trung\ntình trạng tăng lipid máu khác\n1) DROXICEF 0,5g\nSL: 28 Viên\nGhi chú Uống:\nSáng 2 Viên\nTối 2 Viên\n2) DIXIREIN 375mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nTối 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 10/12/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n28/12/2021 23:58:13",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "diagnose",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        107,
+        133,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 55636/2021",
+      "label": "diagnose",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5121331",
+      "label": "diagnose",
+      "bbox": [
+        625,
+        117,
+        687,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "diagnose",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "diagnose",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "diagnose",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06262",
+      "label": "diagnose",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "diagnose",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "diagnose",
+      "bbox": [
+        437,
+        228,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "diagnose",
+      "bbox": [
+        170,
+        252,
+        308,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "diagnose",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Cholesterol toàn phần (máu), Định lượng HDL-C (High density lipoprotein",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        270,
+        718,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cholesterol) (Máu], Định lượng Triglycerid (máu) [Máu); Chụp Xquang ngực thắng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        292,
+        596,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Các thuật Chần đoán: 142 - Viêm phế quản mản tính không phân loại: (E78) Rối loạn chuyển hóa lipoprotein và như thế trung",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        310,
+        716,
+        330
+      ],
+      "mapping": null
+    },
+    {
+      "text": "tình trạng tăng lipid máu khác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        332,
+        232,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) DROXICEF 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        423,
+        244,
+        450
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        423,
+        707,
+        445
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        448,
+        160,
+        473
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        448,
+        377,
+        474
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        450,
+        701,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        472,
+        253,
+        501
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        474,
+        707,
+        497
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        501,
+        162,
+        524
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        503,
+        377,
+        523
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        627,
+        503,
+        701,
+        521
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        534,
+        197,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        554,
+        164,
+        574
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        583,
+        168,
+        603
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 10/12/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        615,
+        621,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        634,
+        199,
+        656
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        641,
+        612,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        716,
+        634,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        771,
+        415,
+        796
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28/12/2021 23:58:13",
+      "label": "other",
+      "bbox": [
+        585,
+        812,
+        732,
+        832
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_878",
+  "image": "public_train/image/VAIPE_P_TRAIN_878.png",
+  "text": "1/1\nPK Số 5.1 [TĐ]\nSố phiếu 67760/2020\n4967944\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n160\n25932\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Định lượng Glucose [máu];\nChấn đoán: E78 - Rối loạn chuyển hóa lipoprotein và tỉnh trạng tăng lipid máu khác; (El1)TD Bệnh đái\ntháo đường không phụ thuộc insuline\n1) PANACTOL 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/12/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n14/05/2021 09:43:36",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        137,
+        112
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 67760/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        547,
+        122
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4967944",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        618,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "160",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25932",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Glucose [máu];",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        317,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E78 - Rối loạn chuyển hóa lipoprotein và tỉnh trạng tăng lipid máu khác; (El1)TD Bệnh đái",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        735,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "tháo đường không phụ thuộc insuline",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        294,
+        280,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        274,
+        413
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        410,
+        161,
+        437
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        492,
+        167,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 02/12/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        529,
+        621,
+        548
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        474,
+        627,
+        618,
+        651
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "14/05/2021 09:43:36",
+      "label": "other",
+      "bbox": [
+        588,
+        725,
+        730,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

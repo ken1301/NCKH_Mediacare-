@@ -1,0 +1,628 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1090",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1090.png",
+  "text": "M sc người bnh\nTRẠM Y TẾ XÃ ĐỒNG DU\nSố phiếu 3153/2018\nTOA THUỐC BHYT\nNam 2 ữx\nThu bặho h hám y tuế BT 35 35 205 71062\nMạch: lần/phút Huyết áp: MmMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCiềuhần okn: L20- Ồm d co ịaạ d ứmg\n1) AMOXICILLIN 500MG 0,5g SL: 20 viên\nGhi chú Uống Sáng 2 viên Chiều 2 viên\n2) CLORPHENIRAMIN 4mg SL: 20 Viên\nGhi chúc Uốg Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/12/2018\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. TRN THI THOAN\nTái kháhám Xin Mmang tho ĩođm, Xkn nghinm phiram (ônếu co)\n05/05/2021 18:25:04",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        18.0,
+        716.0,
+        45.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "TRẠM Y TẾ XÃ ĐỒNG DU",
+      "bbox": [
+        26.0,
+        50.0,
+        231.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "TRẠM Y TẾ XÃ ĐỒNG DU",
+          "bbox": [
+            26.0,
+            50.0,
+            231.0,
+            79.0
+          ],
+          "confidence": 0.9289886355400085
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3153/2018",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3153/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.968196451663971
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9629521369934082
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tuế BT 35 35 205 71062",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7264984250068665
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            185.0,
+            206.0,
+            217.0,
+            226.0
+          ],
+          "confidence": 0.9555214047431946
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999449253082275
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997966289520264
+        },
+        {
+          "text": "205",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998909831047058
+        },
+        {
+          "text": "71062",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9983681440353394
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhần okn: L20- Ồm d co ịaạ d ứmg",
+      "bbox": [
+        25.0,
+        268.0,
+        303.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhần okn: L20- Ồm d co ịaạ d ứmg",
+          "bbox": [
+            25.0,
+            268.0,
+            303.0,
+            295.0
+          ],
+          "confidence": 0.8185750842094421
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILLIN 500MG 0,5g SL: 20 viên",
+      "bbox": [
+        42.0,
+        381.0,
+        704.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILLIN 500MG 0,5g",
+          "bbox": [
+            42.0,
+            381.0,
+            358.0,
+            412.0
+          ],
+          "confidence": 0.9276666045188904
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            594.0,
+            384.0,
+            704.0,
+            409.0
+          ],
+          "confidence": 0.9693394303321838
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 viên Chiều 2 viên",
+      "bbox": [
+        34.0,
+        408.0,
+        605.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            95.0,
+            435.0
+          ],
+          "confidence": 0.8860936760902405
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.784771203994751
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            288.0,
+            412.0,
+            375.0,
+            437.0
+          ],
+          "confidence": 0.9966304898262024
+        },
+        {
+          "text": "Chiều 2 viên",
+          "bbox": [
+            510.0,
+            408.0,
+            605.0,
+            436.0
+          ],
+          "confidence": 0.9945757985115051
+        }
+      ]
+    },
+    {
+      "text": "2) CLORPHENIRAMIN 4mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            36.0,
+            432.0,
+            338.0,
+            467.0
+          ],
+          "confidence": 0.9619766473770142
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9985743165016174
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uốg Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        461.0,
+        609.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8423901200294495
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.987599790096283
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            461.0,
+            609.0,
+            489.0
+          ],
+          "confidence": 0.9878707528114319
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        198.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            198.0,
+            515.0
+          ],
+          "confidence": 0.9227226376533508
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9697772264480591
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/12/2018",
+      "bbox": [
+        483.0,
+        575.0,
+        625.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/12/2018",
+          "bbox": [
+            483.0,
+            575.0,
+            625.0,
+            602.0
+          ],
+          "confidence": 0.9940680265426636
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        598.0,
+        614.0,
+        628.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9876527786254883
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            607.0,
+            614.0,
+            628.0
+          ],
+          "confidence": 0.941504716873169
+        }
+      ]
+    },
+    {
+      "text": "BS. TRN THI THOAN",
+      "bbox": [
+        449.0,
+        677.0,
+        642.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "BS. TRN THI THOAN",
+          "bbox": [
+            449.0,
+            677.0,
+            642.0,
+            703.0
+          ],
+          "confidence": 0.9214611053466797
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin Mmang tho ĩođm, Xkn nghinm phiram (ônếu co)",
+      "bbox": [
+        34.0,
+        737.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin Mmang tho ĩođm, Xkn nghinm phiram (ônếu co)",
+          "bbox": [
+            34.0,
+            737.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.7655972838401794
+        }
+      ]
+    },
+    {
+      "text": "05/05/2021 18:25:04",
+      "bbox": [
+        588.0,
+        777.0,
+        731.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "05/05/2021 18:25:04",
+          "bbox": [
+            588.0,
+            777.0,
+            731.0,
+            794.0
+          ],
+          "confidence": 0.9749236702919006
+        }
+      ]
+    }
+  ]
+}

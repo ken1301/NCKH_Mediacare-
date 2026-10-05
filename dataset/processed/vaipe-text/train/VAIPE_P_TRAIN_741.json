@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_741",
+  "image": "public_train/image/VAIPE_P_TRAIN_741.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 1\nSố phiếu 46066/2021\n4863452\nTOA THUỐC BHYT\nNam\nNữ\n50834\n3\n35\n35\n206\nmmHg Thân nhiệt:\nLần/phút Huyết áp:\nMạch:\n110/60\nCận lâm sàng:\nChẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (L50) Mày đay\n1) PYME DIAPRO MR 30mg\nSL: 60 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\n2) Bố GAN P/H 125mg+100mg+25mg\nSL: 40 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: Hẹn KHám 26/11/2021\nNgày hẹn tái khám:\nNgày 27/09/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Bùi Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:45:52",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 1",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        283,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 46066/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4863452",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "50834",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        887,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "110/60",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        393,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (L50) Mày đay",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        865,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PYME DIAPRO MR 30mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        497,
+        632
+      ],
+      "mapping": 37
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        629,
+        362,
+        668
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Bố GAN P/H 125mg+100mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        666,
+        622,
+        711
+      ],
+      "mapping": 18
+    },
+    {
+      "text": "SL: 40 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        709,
+        904,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        711,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám 26/11/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        515,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27/09/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Bùi Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        712,
+        1037,
+        917,
+        1065
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:45:52",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_768",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_768.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x nữ 2\nCânhần oágn: K12.2 - Vi êm mõ ế ào Và áp X cđa minệng  (M25.4)TD Tràn\ndịch khp ghi phhi (L23.9) Viêm da dị ứng tiếp Xức , nguyễn nhân khĩng ĩặc\nhinum: (G46) Hi chng mMạCch mnu nõO trOng nnh mMạCh nO (160-167)\nThuốc điều trị:\n1) CtMà Xig (FirátiXin 500) 0,5g\nSL: 20 Viên Uống : Sáng 2 Vi CHIU 2 Viên\n2)PaNraạ cctaạmO1 (PaNrátmO1 Tao.) 500mg\nSL: 10 Viên Uống : SángG 1 Vn CHIU 1 Viên\n3)êthy1 prcdniáO1O2đ (Mthy1prctdniScO1om 4) 4mg\nSL: 20 Viên Uống : SnNg 4 Viên\n4) Đinh 1ăng tạch ựuà (Hotạ huyến dường nÃo) 150mg420mg\nSL: 30 viên Uống: SánNG 2 Vin CHIU 2 Vn TốỐI 2 viên\nLời dặn:\nNggày 31   ngng 12 năam 2021\nBệác sỹ/Y sỹ Khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ng ọc Tri\n-Kh á ham 1ại Xin mang t  O  này.\n-Tn ốc hặc Mmh cđaạ trê hoặc người sĩđưan trê ến kháhm bệnh chũữan bệnh",
+  "lines": [
+    {
+      "text": "Điện thoại:",
+      "bbox": [
+        40.0,
+        99.0,
+        198.0,
+        141.0
+      ],
+      "words": [
+        {
+          "text": "Điện thoại:",
+          "bbox": [
+            40.0,
+            99.0,
+            198.0,
+            141.0
+          ],
+          "confidence": 0.8771730661392212
+        }
+      ]
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "bbox": [
+        395.0,
+        145.0,
+        750.0,
+        195.0
+      ],
+      "words": [
+        {
+          "text": "ĐƠN THUỐC BHYT",
+          "bbox": [
+            395.0,
+            145.0,
+            750.0,
+            195.0
+          ],
+          "confidence": 0.9305421113967896
+        }
+      ]
+    },
+    {
+      "text": "Cân nặng kg nam x nữ 2",
+      "bbox": [
+        697.0,
+        196.0,
+        1102.0,
+        253.0
+      ],
+      "words": [
+        {
+          "text": "Cân nặng kg nam x nữ 2",
+          "bbox": [
+            697.0,
+            196.0,
+            1102.0,
+            253.0
+          ],
+          "confidence": 0.9294496178627014
+        }
+      ]
+    },
+    {
+      "text": "Cânhần oágn: K12.2 - Vi êm mõ ế ào Và áp X cđa minệng  (M25.4)TD Tràn",
+      "bbox": [
+        34.0,
+        348.0,
+        1049.0,
+        389.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần oágn: K12.2 - Vi êm mõ ế ào Và áp X cđa minệng  (M25.4)TD Tràn",
+          "bbox": [
+            34.0,
+            348.0,
+            1049.0,
+            389.0
+          ],
+          "confidence": 0.8314834237098694
+        }
+      ]
+    },
+    {
+      "text": "dịch khp ghi phhi (L23.9) Viêm da dị ứng tiếp Xức , nguyễn nhân khĩng ĩặc",
+      "bbox": [
+        34.0,
+        388.0,
+        1087.0,
+        430.0
+      ],
+      "words": [
+        {
+          "text": "dịch khp ghi phhi (L23.9) Viêm da dị ứng tiếp Xức , nguyễn nhân khĩng ĩặc",
+          "bbox": [
+            34.0,
+            388.0,
+            1087.0,
+            430.0
+          ],
+          "confidence": 0.8691916465759277
+        }
+      ]
+    },
+    {
+      "text": "hinum: (G46) Hi chng mMạCch mnu nõO trOng nnh mMạCh nO (160-167)",
+      "bbox": [
+        35.0,
+        429.0,
+        1004.0,
+        465.0
+      ],
+      "words": [
+        {
+          "text": "hinum: (G46) Hi chng mMạCch mnu nõO trOng nnh mMạCh nO (160-167)",
+          "bbox": [
+            35.0,
+            429.0,
+            1004.0,
+            465.0
+          ],
+          "confidence": 0.8525464534759521
+        }
+      ]
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "bbox": [
+        34.0,
+        463.0,
+        242.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Thuốc điều trị:",
+          "bbox": [
+            34.0,
+            463.0,
+            242.0,
+            510.0
+          ],
+          "confidence": 0.9148916006088257
+        }
+      ]
+    },
+    {
+      "text": "1) CtMà Xig (FirátiXin 500) 0,5g",
+      "bbox": [
+        36.0,
+        516.0,
+        510.0,
+        556.0
+      ],
+      "words": [
+        {
+          "text": "1) CtMà Xig (FirátiXin 500) 0,5g",
+          "bbox": [
+            36.0,
+            516.0,
+            510.0,
+            556.0
+          ],
+          "confidence": 0.7444187998771667
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 Viên Uống : Sáng 2 Vi CHIU 2 Viên",
+      "bbox": [
+        42.0,
+        580.0,
+        751.0,
+        625.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            42.0,
+            585.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9464035034179688
+        },
+        {
+          "text": "Uống : Sáng 2 Vi CHIU 2 Viên",
+          "bbox": [
+            277.0,
+            580.0,
+            751.0,
+            625.0
+          ],
+          "confidence": 0.8922969698905945
+        }
+      ]
+    },
+    {
+      "text": "2)PaNraạ cctaạmO1 (PaNrátmO1 Tao.) 500mg",
+      "bbox": [
+        33.0,
+        642.0,
+        582.0,
+        685.0
+      ],
+      "words": [
+        {
+          "text": "2)PaNraạ cctaạmO1 (PaNrátmO1 Tao.) 500mg",
+          "bbox": [
+            33.0,
+            642.0,
+            582.0,
+            685.0
+          ],
+          "confidence": 0.7499111890792847
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên Uống : SángG 1 Vn CHIU 1 Viên",
+      "bbox": [
+        41.0,
+        709.0,
+        750.0,
+        752.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            41.0,
+            711.0,
+            199.0,
+            748.0
+          ],
+          "confidence": 0.8896896243095398
+        },
+        {
+          "text": "Uống : SángG 1 Vn CHIU 1 Viên",
+          "bbox": [
+            279.0,
+            709.0,
+            750.0,
+            752.0
+          ],
+          "confidence": 0.8747541308403015
+        }
+      ]
+    },
+    {
+      "text": "3)êthy1 prcdniáO1O2đ (Mthy1prctdniScO1om 4) 4mg",
+      "bbox": [
+        34.0,
+        773.0,
+        737.0,
+        813.0
+      ],
+      "words": [
+        {
+          "text": "3)êthy1 prcdniáO1O2đ (Mthy1prctdniScO1om 4) 4mg",
+          "bbox": [
+            34.0,
+            773.0,
+            737.0,
+            813.0
+          ],
+          "confidence": 0.7799969911575317
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 Viên Uống : SnNg 4 Viên",
+      "bbox": [
+        42.0,
+        837.0,
+        552.0,
+        881.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            42.0,
+            842.0,
+            198.0,
+            876.0
+          ],
+          "confidence": 0.9548847675323486
+        },
+        {
+          "text": "Uống : SnNg 4 Viên",
+          "bbox": [
+            277.0,
+            837.0,
+            552.0,
+            881.0
+          ],
+          "confidence": 0.881442666053772
+        }
+      ]
+    },
+    {
+      "text": "4) Đinh 1ăng tạch ựuà (Hotạ huyến dường nÃo) 150mg420mg",
+      "bbox": [
+        33.0,
+        898.0,
+        890.0,
+        943.0
+      ],
+      "words": [
+        {
+          "text": "4) Đinh 1ăng tạch ựuà (Hotạ huyến dường nÃo) 150mg420mg",
+          "bbox": [
+            33.0,
+            898.0,
+            890.0,
+            943.0
+          ],
+          "confidence": 0.86238694190979
+        }
+      ]
+    },
+    {
+      "text": "SL: 30 viên Uống: SánNG 2 Vin CHIU 2 Vn TốỐI 2 viên",
+      "bbox": [
+        43.0,
+        967.0,
+        879.0,
+        1007.0
+      ],
+      "words": [
+        {
+          "text": "SL: 30 viên",
+          "bbox": [
+            43.0,
+            971.0,
+            190.0,
+            1003.0
+          ],
+          "confidence": 0.9526889324188232
+        },
+        {
+          "text": "Uống: SánNG 2 Vin CHIU 2 Vn TốỐI 2 viên",
+          "bbox": [
+            280.0,
+            967.0,
+            879.0,
+            1007.0
+          ],
+          "confidence": 0.8454037308692932
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn:",
+      "bbox": [
+        37.0,
+        1031.0,
+        160.0,
+        1072.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn:",
+          "bbox": [
+            37.0,
+            1031.0,
+            160.0,
+            1072.0
+          ],
+          "confidence": 0.9643479585647583
+        }
+      ]
+    },
+    {
+      "text": "Nggày 31   ngng 12 năam 2021",
+      "bbox": [
+        646.0,
+        1078.0,
+        1026.0,
+        1117.0
+      ],
+      "words": [
+        {
+          "text": "Nggày 31   ngng 12 năam 2021",
+          "bbox": [
+            646.0,
+            1078.0,
+            1026.0,
+            1117.0
+          ],
+          "confidence": 0.8711913824081421
+        }
+      ]
+    },
+    {
+      "text": "Bệác sỹ/Y sỹ Khám bệnh",
+      "bbox": [
+        680.0,
+        1128.0,
+        998.0,
+        1162.0
+      ],
+      "words": [
+        {
+          "text": "Bệác sỹ/Y sỹ Khám bệnh",
+          "bbox": [
+            680.0,
+            1128.0,
+            998.0,
+            1162.0
+          ],
+          "confidence": 0.8377116918563843
+        }
+      ]
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "bbox": [
+        713.0,
+        1170.0,
+        968.0,
+        1210.0
+      ],
+      "words": [
+        {
+          "text": "(Ký, ghi rõ họ tên)",
+          "bbox": [
+            713.0,
+            1170.0,
+            968.0,
+            1210.0
+          ],
+          "confidence": 0.9848672151565552
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Ng ọc Tri",
+      "bbox": [
+        662.0,
+        1315.0,
+        1015.0,
+        1352.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Ng ọc Tri",
+          "bbox": [
+            662.0,
+            1315.0,
+            1015.0,
+            1352.0
+          ],
+          "confidence": 0.9004926085472107
+        }
+      ]
+    },
+    {
+      "text": "-Kh á ham 1ại Xin mang t  O  này.",
+      "bbox": [
+        41.0,
+        1358.0,
+        509.0,
+        1398.0
+      ],
+      "words": [
+        {
+          "text": "-Kh á ham 1ại Xin mang t  O  này.",
+          "bbox": [
+            41.0,
+            1358.0,
+            509.0,
+            1398.0
+          ],
+          "confidence": 0.8058398962020874
+        }
+      ]
+    },
+    {
+      "text": "-Tn ốc hặc Mmh cđaạ trê hoặc người sĩđưan trê ến kháhm bệnh chũữan bệnh",
+      "bbox": [
+        38.0,
+        1405.0,
+        1007.0,
+        1451.0
+      ],
+      "words": [
+        {
+          "text": "-Tn ốc hặc Mmh cđaạ trê hoặc người sĩđưan trê ến kháhm bệnh chũữan bệnh",
+          "bbox": [
+            38.0,
+            1405.0,
+            1007.0,
+            1451.0
+          ],
+          "confidence": 0.7786675691604614
+        }
+      ]
+    }
+  ]
+}

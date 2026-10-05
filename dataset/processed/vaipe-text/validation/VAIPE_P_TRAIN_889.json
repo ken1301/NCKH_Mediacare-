@@ -1,0 +1,282 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_889",
+  "image": "public_train/image/VAIPE_P_TRAIN_889.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: J40 - Viêm phế quản không xác định được là cấp hay mãn tính;\n(K21) Bệnh trào ngược dạ dày - thực quản; (J30.3) Viêm mũi dị ứng khác\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 20 Viên\n2) Methyl prednisolon (Methylprednisolon 4) 4mg\nUống sau khi ăn: sáng 4 viên\nSL: 12 Viên\n3) Loratadin (Sergurop) 10mg\nUống: SÁNG 1 Viên\nSL: 05 viên\n4) Omeprazol (Kagasdine) 20mg\nUống trước khi ăn: Sáng 1 Viên TốI 1 Viên\nSL: 10 Viên\nLời dặn:\nNgày 31 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J40 - Viêm phế quản không xác định được là cấp hay mãn tính;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1060,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(K21) Bệnh trào ngược dạ dày - thực quản; (J30.3) Viêm mũi dị ứng khác",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        1032,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        752,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Methyl prednisolon (Methylprednisolon 4) 4mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        740,
+        647
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "Uống sau khi ăn: sáng 4 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        682,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 12 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Loratadin (Sergurop) 10mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        733,
+        465,
+        777
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "Uống: SÁNG 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        542,
+        840
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 05 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        190,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Omeprazol (Kagasdine) 20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        865,
+        502,
+        902
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "Uống trước khi ăn: Sáng 1 Viên TốI 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        930,
+        870,
+        970
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        935,
+        197,
+        962
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        41,
+        997,
+        158,
+        1031
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 31 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1042,
+        1027,
+        1080
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1090,
+        1002,
+        1127
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1135,
+        969,
+        1172
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1275,
+        1002,
+        1317
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1325,
+        507,
+        1360
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1368,
+        1007,
+        1414
+      ],
+      "mapping": null
+    }
+  ]
+}

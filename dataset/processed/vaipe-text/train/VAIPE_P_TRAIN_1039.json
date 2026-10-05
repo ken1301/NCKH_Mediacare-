@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1039",
+  "image": "public_train/image/VAIPE_P_TRAIN_1039.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 280/2022\n4817933\nTOA THUỐC BHYT\nNam\nNữ\n22397\nHT\n3\n35\n35\n206\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 36.5\nMạch:\n80\n130\nCận lâm sàng: Siêu âm khớp (gối, háng, khuỷu, cổ tay...)\nChẩn đoán: I10 - Bệnh lý tăng huyết áp; (M25.4)Tràn dịch khớp gối (P)\n1) HANGITOR PLUS 40mg+12,5mg\nSL: 30 viên\nGhi chú Uống:\nSáng 1 viên\n2) MEZAFEN 60mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: Hẹn Tái KHám 7/2/2021\nNgày hẹn tái khám:\nNgày 04/01/2022\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Đào Thị Bích Thủy\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:07:16",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        188,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 280/2022",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        780,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4817933",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22397",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "HT",
+      "label": "other",
+      "bbox": [
+        275,
+        325,
+        315,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.5",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Siêu âm khớp (gối, háng, khuỷu, cổ tay...)",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        627,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: I10 - Bệnh lý tăng huyết áp; (M25.4)Tràn dịch khớp gối (P)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        770,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        597,
+        633
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1050,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        552,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) MEZAFEN 60mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        370,
+        710
+      ],
+      "mapping": 78
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn Tái KHám 7/2/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        537,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04/01/2022",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        927,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "label": "other",
+      "bbox": [
+        679,
+        1030,
+        950,
+        1067
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:07:16",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

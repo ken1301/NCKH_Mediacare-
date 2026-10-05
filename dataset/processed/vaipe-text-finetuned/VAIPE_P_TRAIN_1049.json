@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1049",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1049.png",
+  "text": "1/1 M sc người bnh\nHÍNH\nSố phiếu 4042/2018\nTOA THỐC  BHYT\nNam x Nữ2\nThu ặo h ếhám y tế BT 2 35 207 18764\nMạch: lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCânhần okno: I10- Tăng huyến áp õ căn (nguyễn phát)/Mmnệt mni\n1) SAVI LOSARTAN 50 50mg SL: 30 Viên\nGhi chú Uốg\n2) COSYNDO B 175mg 4175mg4 125mCg SL: 10 Viên\nGhi chú Uốg\nCộng khả 2 kho\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 31/08/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSDK. L Thị Anh\nTái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)\n03/05/202122:17:19",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            120.0,
+            63.0
+          ],
+          "confidence": 0.9529666304588318
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "HÍNH",
+      "bbox": [
+        150.0,
+        48.0,
+        205.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "HÍNH",
+          "bbox": [
+            150.0,
+            48.0,
+            205.0,
+            80.0
+          ],
+          "confidence": 0.7692667245864868
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 4042/2018",
+      "bbox": [
+        369.0,
+        90.0,
+        537.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 4042/2018",
+          "bbox": [
+            369.0,
+            90.0,
+            537.0,
+            121.0
+          ],
+          "confidence": 0.9683117270469666
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8637909889221191
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ2",
+      "bbox": [
+        616.0,
+        148.0,
+        737.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ2",
+          "bbox": [
+            616.0,
+            148.0,
+            737.0,
+            180.0
+          ],
+          "confidence": 0.8469838500022888
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế BT 2 35 207 18764",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            183.0,
+            203.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.9798718690872192
+        },
+        {
+          "text": "2",
+          "bbox": [
+            242.0,
+            205.0,
+            267.0,
+            227.0
+          ],
+          "confidence": 0.9999580383300781
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9996578097343445
+        },
+        {
+          "text": "18764",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9877709150314331
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            253.0
+          ],
+          "confidence": 0.9914495348930359
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: I10- Tăng huyến áp õ căn (nguyễn phát)/Mmnệt mni",
+      "bbox": [
+        25.0,
+        268.0,
+        459.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: I10- Tăng huyến áp õ căn (nguyễn phát)/Mmnệt mni",
+          "bbox": [
+            25.0,
+            268.0,
+            459.0,
+            294.0
+          ],
+          "confidence": 0.8285312056541443
+        }
+      ]
+    },
+    {
+      "text": "1) SAVI LOSARTAN 50 50mg SL: 30 Viên",
+      "bbox": [
+        40.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) SAVI LOSARTAN 50 50mg",
+          "bbox": [
+            40.0,
+            380.0,
+            349.0,
+            415.0
+          ],
+          "confidence": 0.9276995062828064
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9667222499847412
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        32.0,
+        410.0,
+        163.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            410.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9801003336906433
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.9427036643028259
+        }
+      ]
+    },
+    {
+      "text": "2) COSYNDO B 175mg 4175mg4 125mCg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) COSYNDO B 175mg 4175mg4 125mCg",
+          "bbox": [
+            37.0,
+            433.0,
+            453.0,
+            467.0
+          ],
+          "confidence": 0.8979303240776062
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9949399828910828
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        33.0,
+        464.0,
+        164.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            464.0,
+            164.0,
+            489.0
+          ],
+          "confidence": 0.8037850260734558
+        }
+      ]
+    },
+    {
+      "text": "Cộng khả 2 kho",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khả 2 kho",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9112194180488586
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9635470509529114
+        }
+      ]
+    },
+    {
+      "text": "Ngày 31/08/2018",
+      "bbox": [
+        483.0,
+        574.0,
+        625.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 31/08/2018",
+          "bbox": [
+            483.0,
+            574.0,
+            625.0,
+            602.0
+          ],
+          "confidence": 0.9862790703773499
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "YSDK. L Thị Anh",
+      "bbox": [
+        472.0,
+        676.0,
+        623.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "YSDK. L Thị Anh",
+          "bbox": [
+            472.0,
+            676.0,
+            623.0,
+            703.0
+          ],
+          "confidence": 0.9026556015014648
+        }
+      ]
+    },
+    {
+      "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu ch)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8260284662246704
+        }
+      ]
+    },
+    {
+      "text": "03/05/202122:17:19",
+      "bbox": [
+        587.0,
+        775.0,
+        732.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "03/05/202122:17:19",
+          "bbox": [
+            587.0,
+            775.0,
+            732.0,
+            795.0
+          ],
+          "confidence": 0.9947438836097717
+        }
+      ]
+    }
+  ]
+}

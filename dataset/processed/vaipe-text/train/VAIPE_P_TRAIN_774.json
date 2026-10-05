@@ -1,0 +1,425 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_774",
+  "image": "public_train/image/VAIPE_P_TRAIN_774.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 36249/2021\n4988627\nTOA THUỐC BHYT\nNam x nữ\n50302\n79\n02\n961\n3\nmmHg Thân nhiệt: 36.7\n75\nlần/phút Huyết áp:\nMạch:\n120\nCận lâm sàng:\nChần đoán: 110 - Bệnh lý tăng huyết áp; (E79.0) Tăng acid uric máu không có biểu hiện của viêm khớp\nvà bệnh tạo sỏi\n1) ENALAPRIL 5mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) KAVASDIN 5 5mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: Hẹn KHám Lại 22/8/2021\nNgày hẹn tái khám:\nNgày 22/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Trần Minh Tuấn\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:12:15",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        188,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 36249/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4988627",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1025,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        927,
+        254,
+        1057,
+        278
+      ],
+      "mapping": null
+    },
+    {
+      "text": "50302",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "79",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "02",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "961",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        692,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        387,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.7",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "75",
+      "label": "other",
+      "bbox": [
+        132,
+        362,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        392,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: 110 - Bệnh lý tăng huyết áp; (E79.0) Tăng acid uric máu không có biểu hiện của viêm khớp",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1085,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "và bệnh tạo sỏi",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        455,
+        192,
+        480
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        380,
+        632
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        402,
+        710
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        709,
+        904,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám Lại 22/8/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        550,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 22/07/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Trần Minh Tuấn",
+      "label": "other",
+      "bbox": [
+        672,
+        1032,
+        957,
+        1062
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:12:15",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

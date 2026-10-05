@@ -1,0 +1,458 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_7",
+  "image": "public_train/image/VAIPE_P_TRAIN_7.png",
+  "text": "1/1\nPK Số 7 [Mắt]\nSố phiếu 15919/2021\n4713774\nTOA THUỐC BHYT\nNam\nNữ\nMS\n35\n207\n25569\n2\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: J02 - Viêm họng cấp; (J30.3) Viêm mũi dị ứng khác\n1) CEFADROXIL 500MG 0,5g\nSL: 20 Viên\nGhi chú Uống:\nTối 2 Viên\nSáng 2 Viên\n2) SERGUROP 10mg\nSL: 5 Viên\nGhi chú Uống:\nTối 1 Viên\n3) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/03/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 21:31:14",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 7 [Mắt]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        129,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 15919/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        545,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4713774",
+      "label": "other",
+      "bbox": [
+        625,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MS",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        215,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25569",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: J02 - Viêm họng cấp; (J30.3) Viêm mũi dị ứng khác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        466,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        349,
+        412
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) SERGUROP 10mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        261,
+        466
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "SL: 5 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        697,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        466,
+        700,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        489,
+        274,
+        518
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        518,
+        700,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        376,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        548,
+        197,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        571,
+        163,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        598,
+        167,
+        616
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 17/03/2021",
+      "label": "date",
+      "bbox": [
+        484,
+        633,
+        620,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        652,
+        198,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        658,
+        611,
+        678
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        732,
+        631,
+        757
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        788,
+        416,
+        811
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 21:31:14",
+      "label": "other",
+      "bbox": [
+        586,
+        829,
+        730,
+        845
+      ],
+      "mapping": null
+    }
+  ]
+}

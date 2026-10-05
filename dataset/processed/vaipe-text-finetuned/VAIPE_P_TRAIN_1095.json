@@ -1,0 +1,640 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1095",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1095.png",
+  "text": "1/1 MMH sỐ người bnh\nGHĨA\nSố phiếu 2987/2019\nTOAOTHAỐC THU  C BH BHYT\nNm x n2\nThu ặo h ếhám y tế CK 235 206 80160\nMạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhần okno: I10- Tăng huyế áp ốô căn (nguyễn phát), (R23.3) Vết àmtm Xuáất huyến ngễu phát\n1) KAVASDIN 5 5mg SL: 10 viên\nGhi chú Uống\n2) XITORAN 0,5g SL: 20 Viên\nGhi chú Uống\n3) MYPARA 500 500mg SL: 20 Viên\nGhi chúữ Uốg\nCộng khoản: 3 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/11/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSSN. Trần Thị Hắng\nTái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)\n06/01/2022 11:41:43",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            84.0
+          ],
+          "confidence": 0.9996216893196106
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "GHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        206.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "GHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            206.0,
+            98.0
+          ],
+          "confidence": 0.9526605606079102
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2987/2019",
+      "bbox": [
+        369.0,
+        106.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2987/2019",
+          "bbox": [
+            369.0,
+            106.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.9833433628082275
+        }
+      ]
+    },
+    {
+      "text": "TOAOTHAỐC THU  C BH BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOAOTHAỐC THU  C BH BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.8076774477958679
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 235 206 80160",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 235",
+          "bbox": [
+            180.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8471100926399231
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.999974250793457
+        },
+        {
+          "text": "80160",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9993528127670288
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            247.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            250.0,
+            507.0,
+            272.0
+          ],
+          "confidence": 0.8004818558692932
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            505.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9327245950698853
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần okno: I10- Tăng huyế áp ốô căn (nguyễn phát), (R23.3) Vết àmtm Xuáất huyến ngễu phát",
+      "bbox": [
+        25.0,
+        287.0,
+        687.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần okno: I10- Tăng huyế áp ốô căn (nguyễn phát), (R23.3) Vết àmtm Xuáất huyến ngễu phát",
+          "bbox": [
+            25.0,
+            287.0,
+            687.0,
+            312.0
+          ],
+          "confidence": 0.8182447552680969
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg SL: 10 viên",
+      "bbox": [
+        38.0,
+        396.0,
+        706.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 5 5mg",
+          "bbox": [
+            38.0,
+            396.0,
+            275.0,
+            434.0
+          ],
+          "confidence": 0.987097442150116
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            592.0,
+            399.0,
+            706.0,
+            431.0
+          ],
+          "confidence": 0.9931545853614807
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        32.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) XITORAN 0,5g SL: 20 Viên",
+      "bbox": [
+        36.0,
+        450.0,
+        710.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) XITORAN 0,5g",
+          "bbox": [
+            36.0,
+            450.0,
+            236.0,
+            485.0
+          ],
+          "confidence": 0.8780441284179688
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            710.0,
+            483.0
+          ],
+          "confidence": 0.952257513999939
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) MYPARA 500 500mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        500.0,
+        711.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) MYPARA 500 500mg",
+          "bbox": [
+            35.0,
+            500.0,
+            292.0,
+            539.0
+          ],
+          "confidence": 0.9978988170623779
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9476974606513977
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg",
+      "bbox": [
+        33.0,
+        534.0,
+        164.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            534.0,
+            164.0,
+            560.0
+          ],
+          "confidence": 0.7485406994819641
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khon",
+      "bbox": [
+        29.0,
+        559.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khon",
+          "bbox": [
+            29.0,
+            559.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9891359806060791
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9935133457183838
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        170.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            170.0,
+            637.0
+          ],
+          "confidence": 0.9585273265838623
+        }
+      ]
+    },
+    {
+      "text": "Ngày 13/11/2019",
+      "bbox": [
+        482.0,
+        645.0,
+        625.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 13/11/2019",
+          "bbox": [
+            482.0,
+            645.0,
+            625.0,
+            672.0
+          ],
+          "confidence": 0.9958255887031555
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            202.0,
+            692.0
+          ],
+          "confidence": 0.9482138156890869
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YSSN. Trần Thị Hắng",
+      "bbox": [
+        459.0,
+        745.0,
+        635.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "YSSN. Trần Thị Hắng",
+          "bbox": [
+            459.0,
+            745.0,
+            635.0,
+            776.0
+          ],
+          "confidence": 0.9396312236785889
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.7835753560066223
+        }
+      ]
+    },
+    {
+      "text": "06/01/2022 11:41:43",
+      "bbox": [
+        587.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "06/01/2022 11:41:43",
+          "bbox": [
+            587.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.9864858388900757
+        }
+      ]
+    }
+  ]
+}

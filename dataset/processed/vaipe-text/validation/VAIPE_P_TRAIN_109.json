@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_109",
+  "image": "public_train/image/VAIPE_P_TRAIN_109.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: M13.0 - Viêm đa khớp không đặc hiệu; (E11)td ệnh đái tháo\nđường không phụ thuộc insuline; (E75)td Rối loạn chuyển hóa sphingolipid\nvà rối loạn tích luỹ lipid; (120) Cơn đau thắt ngực; (H81) Rối loạn chức năng\ntiền đình\nThuốc điều trị:\n1) Loxoprofen (Mezafen) 60mg\nUống: Sáng 1 Viên CHIều 1 Viên Tối 1 Viên\nSL: 30 Viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 3 viên CHIều 3 viên\nSL: 60 viên\nLời dặn:\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Thế Chiến\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: M13.0 - Viêm đa khớp không đặc hiệu; (E11)td ệnh đái tháo",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1025,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "đường không phụ thuộc insuline; (E75)td Rối loạn chuyển hóa sphingolipid",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        388,
+        1065,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "và rối loạn tích luỹ lipid; (120) Cơn đau thắt ngực; (H81) Rối loạn chức năng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        427,
+        1072,
+        469
+      ],
+      "mapping": null
+    },
+    {
+      "text": "tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        35,
+        465,
+        157,
+        500
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        505,
+        242,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Loxoprofen (Mezafen) 60mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        555,
+        487,
+        597
+      ],
+      "mapping": 40
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        625,
+        897,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        627,
+        197,
+        657
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        678,
+        892,
+        727
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 3 viên CHIều 3 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        752,
+        737,
+        792
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 60 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        755,
+        190,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        820,
+        157,
+        850
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        861,
+        1030,
+        904
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        909,
+        1002,
+        949
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        957,
+        969,
+        992
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Thế Chiến",
+      "label": "other",
+      "bbox": [
+        679,
+        1088,
+        998,
+        1143
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1147,
+        507,
+        1182
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1192,
+        1007,
+        1232
+      ],
+      "mapping": null
+    }
+  ]
+}

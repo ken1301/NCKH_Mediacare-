@@ -1,0 +1,576 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_96",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_96.png",
+  "text": "1/1 M sc người bnh\nPK Số 5.1 [TĐ] Số phiếu 52102/2019\nTOA THỐC  BHYT\nNam x Nữ\nĐệị ạ chi\nThu ặo hiếhám y tế CB 35 35 208 13358 C\nMạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt:\nCộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)\nCânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả\n1) GLUCOFAST 850 850mg SL: 62 Viên\nGh chú 8 Uống Sáau ăn: Sáng 1 Viên Ciều 1 Viên\nCộng khoả: 1 khoả\nLời dặn đơn thuốc:\nNgày hẹn t khámản: hứ águ, 20/09/2019\nNgày 20/08/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n14/05/2021 08:19:59",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        15.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9986870288848877
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 52102/2019",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9554377794265747
+        },
+        {
+          "text": "Số phiếu 52102/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9736365079879761
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8849057555198669
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        83.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế CB 35 35 208 13358 C",
+      "bbox": [
+        24.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.8210986852645874
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            183.0,
+            204.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.7666075229644775
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9997162818908691
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.9997571706771851
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9997953772544861
+        },
+        {
+          "text": "13358",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9996718168258667
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt:",
+      "bbox": [
+        25.0,
+        228.0,
+        595.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            228.0,
+            310.0,
+            256.0
+          ],
+          "confidence": 0.9487081170082092
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        }
+      ]
+    },
+    {
+      "text": "Cộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)",
+      "bbox": [
+        26.0,
+        253.0,
+        316.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Cộnln m1sn gsàng: Định 1ương G1uCcOSgố [MMáun)",
+          "bbox": [
+            26.0,
+            253.0,
+            316.0,
+            274.0
+          ],
+          "confidence": 0.818056583404541
+        }
+      ]
+    },
+    {
+      "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+      "bbox": [
+        27.0,
+        273.0,
+        460.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn okhản E1 - nhnh ĩái h o ường kĩng phu t unc inScuinả",
+          "bbox": [
+            27.0,
+            273.0,
+            460.0,
+            293.0
+          ],
+          "confidence": 0.7796812653541565
+        }
+      ]
+    },
+    {
+      "text": "1) GLUCOFAST 850 850mg SL: 62 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) GLUCOFAST 850 850mg",
+          "bbox": [
+            41.0,
+            381.0,
+            327.0,
+            412.0
+          ],
+          "confidence": 0.9745588302612305
+        },
+        {
+          "text": "SL: 62 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.94451904296875
+        }
+      ]
+    },
+    {
+      "text": "Gh chú 8 Uống Sáau ăn: Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        35.0,
+        410.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "8",
+          "bbox": [
+            92.0,
+            417.0,
+            111.0,
+            429.0
+          ],
+          "confidence": 0.22760416567325592
+        },
+        {
+          "text": "Uống Sáau ăn:",
+          "bbox": [
+            106.0,
+            413.0,
+            236.0,
+            435.0
+          ],
+          "confidence": 0.8171819448471069
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 1 khoả",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 1 khoả",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9384718537330627
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        464.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            464.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.933551549911499
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn t khámản: hứ águ, 20/09/2019",
+      "bbox": [
+        31.0,
+        489.0,
+        317.0,
+        513.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn t khámản: hứ águ, 20/09/2019",
+          "bbox": [
+            31.0,
+            489.0,
+            317.0,
+            513.0
+          ],
+          "confidence": 0.8426755666732788
+        }
+      ]
+    },
+    {
+      "text": "Ngày 20/08/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 20/08/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9895220398902893
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.983154296875
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        459.0,
+        626.0,
+        633.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            459.0,
+            626.0,
+            633.0,
+            653.0
+          ],
+          "confidence": 0.95725017786026
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488333821296692
+        }
+      ]
+    },
+    {
+      "text": "14/05/2021 08:19:59",
+      "bbox": [
+        588.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "14/05/2021 08:19:59",
+          "bbox": [
+            588.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9738839864730835
+        }
+      ]
+    }
+  ]
+}

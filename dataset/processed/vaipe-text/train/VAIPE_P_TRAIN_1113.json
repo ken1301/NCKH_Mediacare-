@@ -1,0 +1,337 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1113",
+  "image": "public_train/image/VAIPE_P_TRAIN_1113.png",
+  "text": "1/1\nPK SỐ 3 [NHI]\nSố phiếu 45960/2021\n5138376\nTOA THUỐC BHYT\nNam\nNữ\n206\n87977\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Siêu âm hệ tiết niệu (thận, tuyến thượng thận, bàng quang, tiền liệt tuyến), Điện tim\nthường\nChần đoán: N34 - Viêm niệu đạo và hội chứng niệu đạo; (R07.3) Đau ngực khác\n1) CEFADROXIL 500MG 0,5g\nSL: 28 Viên\nGhi chú Uống:\nTối 2 Viên\nSáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/10/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n29/12/2021 23:01:07",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        133,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 45960/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5138376",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "87977",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Siêu âm hệ tiết niệu (thận, tuyến thượng thận, bàng quang, tiền liệt tuyến), Điện tim",
+      "label": "other",
+      "bbox": [
+        26,
+        268,
+        692,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "thường",
+      "label": "other",
+      "bbox": [
+        27,
+        291,
+        81,
+        313
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: N34 - Viêm niệu đạo và hội chứng niệu đạo; (R07.3) Đau ngực khác",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        310,
+        576,
+        330
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        423,
+        348,
+        450
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        423,
+        707,
+        445
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        448,
+        162,
+        473
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        450,
+        701,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        451,
+        377,
+        474
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        479,
+        197,
+        501
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        30,
+        503,
+        164,
+        524
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        530,
+        168,
+        550
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 05/10/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        565,
+        621,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        583,
+        199,
+        603
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        594,
+        612,
+        612
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        663,
+        634,
+        690
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        721,
+        417,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29/12/2021 23:01:07",
+      "label": "other",
+      "bbox": [
+        585,
+        761,
+        732,
+        781
+      ],
+      "mapping": null
+    }
+  ]
+}

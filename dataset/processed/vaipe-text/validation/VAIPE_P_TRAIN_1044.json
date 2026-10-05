@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1044",
+  "image": "public_train/image/VAIPE_P_TRAIN_1044.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: J44 - Các bệnh phổi tắc nghẽn mãn tính khác\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 30 Viên\n2) Methyl prednisolon (Methylprednisolon 4) 4mg\nUống: Sáng 4 Viên\nSL: 20 Viên\n3) Carbocistein (Anpemux) 250mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 30 Viên\nLời dặn:\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Vũ Hồng Thanh\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J44 - Các bệnh phổi tắc nghẽn mãn tính khác",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        807,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        446,
+        512,
+        490
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        752,
+        555
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        195,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Methyl prednisolon (Methylprednisolon 4) 4mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        575,
+        740,
+        617
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "Uống: Sáng 4 Viên",
+      "label": "usage",
+      "bbox": [
+        281,
+        641,
+        550,
+        684
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        647,
+        197,
+        675
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Carbocistein (Anpemux) 250mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        702,
+        530,
+        745
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        772,
+        752,
+        812
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        775,
+        195,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        840,
+        157,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        882,
+        1027,
+        920
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        929,
+        1002,
+        969
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        971,
+        970,
+        1014
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Vũ Hồng Thanh",
+      "label": "other",
+      "bbox": [
+        669,
+        1108,
+        1008,
+        1163
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1165,
+        507,
+        1200
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1212,
+        1007,
+        1252
+      ],
+      "mapping": null
+    }
+  ]
+}

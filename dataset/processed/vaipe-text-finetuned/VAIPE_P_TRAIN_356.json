@@ -1,0 +1,630 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_356",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_356.png",
+  "text": "MN c người 5bnh\nTYT XÃ NHÂN CHNH\nSố phiếu 3277/2019\nTOA THUỐC  BHYT\nNm x n2\nThu úo h ếhám y tế S 35 207\nMạch: lần/phú Huyết áp: / MMHg Thân nhiệt: c\nCận lâm sàng:\nCânhần oknhoả E51.1 - Bnệnh ê phu,: (M47.9) Thoái hoá cn:t ácgng kđhĩông Xác định\n1) DICLOFENAC 50mg SL: 10 Viên\nGhi chú Uống\n2) MYPARA 500 500mg SL: 15 Viên\nGhi chú Uống\n3) SETBLOOD 115mg4100mg450mcg SL: 10 Viên\nGhi chúữ Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/08/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSĐK. Lê Thị Anh\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n21/12/2021 23:37:44",
+  "lines": [
+    {
+      "text": "MN c người 5bnh",
+      "bbox": [
+        597.0,
+        33.0,
+        717.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ NHÂN CHNH",
+      "bbox": [
+        25.0,
+        70.0,
+        205.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ NHÂN CHNH",
+          "bbox": [
+            25.0,
+            70.0,
+            205.0,
+            97.0
+          ],
+          "confidence": 0.9367737174034119
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3277/2019",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3277/2019",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9875637888908386
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC  BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC  BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9472882747650146
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu úo h ếhám y tế S 35 207",
+      "bbox": [
+        23.0,
+        219.0,
+        473.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu úo h ếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            157.0,
+            246.0
+          ],
+          "confidence": 0.7856321334838867
+        },
+        {
+          "text": "S",
+          "bbox": [
+            178.0,
+            220.0,
+            239.0,
+            246.0
+          ],
+          "confidence": 0.9999867677688599
+        },
+        {
+          "text": "35",
+          "bbox": [
+            357.0,
+            219.0,
+            396.0,
+            247.0
+          ],
+          "confidence": 0.9998475313186646
+        },
+        {
+          "text": "207",
+          "bbox": [
+            429.0,
+            219.0,
+            473.0,
+            246.0
+          ],
+          "confidence": 0.9995360970497131
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phú Huyết áp: / MMHg Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        277.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phú Huyết áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            311.0,
+            277.0
+          ],
+          "confidence": 0.9616135954856873
+        },
+        {
+          "text": "/",
+          "bbox": [
+            372.0,
+            248.0,
+            394.0,
+            272.0
+          ],
+          "confidence": 0.9430255889892578
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            447.0,
+            247.0,
+            599.0,
+            274.0
+          ],
+          "confidence": 0.9225124716758728
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần oknhoả E51.1 - Bnệnh ê phu,: (M47.9) Thoái hoá cn:t ácgng kđhĩông Xác định",
+      "bbox": [
+        25.0,
+        288.0,
+        555.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần oknhoả E51.1 - Bnệnh ê phu,: (M47.9) Thoái hoá cn:t ácgng kđhĩông Xác định",
+          "bbox": [
+            25.0,
+            288.0,
+            555.0,
+            312.0
+          ],
+          "confidence": 0.8069999814033508
+        }
+      ]
+    },
+    {
+      "text": "1) DICLOFENAC 50mg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) DICLOFENAC 50mg",
+          "bbox": [
+            38.0,
+            395.0,
+            288.0,
+            434.0
+          ],
+          "confidence": 0.975332498550415
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9903154373168945
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        32.0,
+        425.0,
+        165.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            425.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.9330570697784424
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 15 Viên",
+      "bbox": [
+        35.0,
+        449.0,
+        712.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            35.0,
+            449.0,
+            292.0,
+            486.0
+          ],
+          "confidence": 0.9620156288146973
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            712.0,
+            483.0
+          ],
+          "confidence": 0.9876994490623474
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) SETBLOOD 115mg4100mg450mcg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        503.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) SETBLOOD 115mg4100mg450mcg",
+          "bbox": [
+            36.0,
+            503.0,
+            419.0,
+            538.0
+          ],
+          "confidence": 0.9293833374977112
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            504.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9951187372207642
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uống",
+      "bbox": [
+        33.0,
+        530.0,
+        165.0,
+        561.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            530.0,
+            165.0,
+            561.0
+          ],
+          "confidence": 0.9204639792442322
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        558.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            558.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9591008424758911
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        583.0,
+        170.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            583.0,
+            170.0,
+            612.0
+          ],
+          "confidence": 0.988266110420227
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        171.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            171.0,
+            637.0
+          ],
+          "confidence": 0.9928671717643738
+        }
+      ]
+    },
+    {
+      "text": "Ngày 02/08/2019",
+      "bbox": [
+        482.0,
+        645.0,
+        625.0,
+        673.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 02/08/2019",
+          "bbox": [
+            482.0,
+            645.0,
+            625.0,
+            673.0
+          ],
+          "confidence": 0.9958323836326599
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            202.0,
+            692.0
+          ],
+          "confidence": 0.9482138156890869
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YSĐK. Lê Thị Anh",
+      "bbox": [
+        471.0,
+        746.0,
+        624.0,
+        775.0
+      ],
+      "words": [
+        {
+          "text": "YSĐK. Lê Thị Anh",
+          "bbox": [
+            471.0,
+            746.0,
+            624.0,
+            775.0
+          ],
+          "confidence": 0.9272491931915283
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8276700377464294
+        }
+      ]
+    },
+    {
+      "text": "21/12/2021 23:37:44",
+      "bbox": [
+        587.0,
+        845.0,
+        732.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "21/12/2021 23:37:44",
+          "bbox": [
+            587.0,
+            845.0,
+            732.0,
+            866.0
+          ],
+          "confidence": 0.9816498160362244
+        }
+      ]
+    }
+  ]
+}

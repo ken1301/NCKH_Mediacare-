@@ -1,0 +1,271 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_334",
+  "image": "public_train/image/VAIPE_P_TRAIN_334.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam\nNữ\nChần đoán: L08 - Nhiễm khuẩn khu trú khác của da và mô dưới da bàn chân T\n(G46?) Hội chứng mạch máu não trong bệnh mạch não (I60-167t)\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên TốI 2 Viên\nSL: 30 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên Tối 2 Viên\nSL: 20 Viên\n3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 3 viên TRƯA 3 viên TốI 3 viên\nSL: 81 viên\nLời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ\nBHXH\nNgày 23 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        215,
+        1057,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: L08 - Nhiễm khuẩn khu trú khác của da và mô dưới da bàn chân T",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1095,
+        382
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(G46?) Hội chứng mạch máu não trong bệnh mạch não (I60-167t)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        950,
+        432
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên TốI 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        715,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        585,
+        645
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        674,
+        714,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        728,
+        892,
+        777
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 3 viên TRƯA 3 viên TốI 3 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        872,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 81 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        190,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ",
+      "label": "other",
+      "bbox": [
+        42,
+        860,
+        1097,
+        902
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BHXH",
+      "label": "other",
+      "bbox": [
+        42,
+        905,
+        140,
+        932
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 23 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        912,
+        1027,
+        954
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        959,
+        1002,
+        999
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1007,
+        970,
+        1042
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1180,
+        995,
+        1207
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1225,
+        507,
+        1260
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1270,
+        1007,
+        1312
+      ],
+      "mapping": null
+    }
+  ]
+}

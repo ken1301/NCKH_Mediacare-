@@ -1,0 +1,638 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_566",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_566.png",
+  "text": "1/1 MH sỐ người xbệnh\nPK Số 1 [Ngoại] Số phiếu 73298/2019\nTOA THUỐC BHYT\nNamNx\nThu ặo h êhám y tế GB 4 35 35 209\nMạch: Lần/pút Huyết áp: / MMHg Thân nhiệtn C\nCộnhn 1smgsng: Cềhp Xôọuang nghc nhắong Chp X ọuang ngc nghiêng hoặc chếch mi bvnin\nCânhần oknho: S43 - Sai khúp, ong gân Và giần khp Và dây chong cưan ờng ngưc (chếnơ nhườơng phần mÌệm\nng:ực trái) (K29) Viêm dạ dày Ià tú trầàng\n1) ALFACHIM 4,2mg SL: 28 Viên\nGhah chú ốn Uống Sáau a ăn: Sáng 2 Viên Tối 2 Viên\n2) FAMOGAST 40mg SL: 7 Viên\nGhi chú Uốg: Tối 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/11/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTáiái khánhám Xin Mmang th cho ođm, Xknt nghinệm, phiram (rnhếu ch)\n06/05/202122:50:30",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        51.0,
+        18.0,
+        715.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            51.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.994290828704834
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngoại] Số phiếu 73298/2019",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngoại]",
+          "bbox": [
+            23.0,
+            83.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9641628861427307
+        },
+        {
+          "text": "Số phiếu 73298/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9953023791313171
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9629521369934082
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 4 35 35 209",
+      "bbox": [
+        25.0,
+        203.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7739477753639221
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            219.0,
+            226.0
+          ],
+          "confidence": 0.9996446371078491
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            269.0,
+            226.0
+          ],
+          "confidence": 0.5460228323936462
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9996625185012817
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.9997571706771851
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            204.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9999526143074036
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: / MMHg Thân nhiệtn C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9113634824752808
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MMHg Thân nhiệtn",
+          "bbox": [
+            450.0,
+            233.0,
+            596.0,
+            253.0
+          ],
+          "confidence": 0.866687536239624
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộnhn 1smgsng: Cềhp Xôọuang nghc nhắong Chp X ọuang ngc nghiêng hoặc chếch mi bvnin",
+      "bbox": [
+        24.0,
+        250.0,
+        640.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhn 1smgsng: Cềhp Xôọuang nghc nhắong Chp X ọuang ngc nghiêng hoặc chếch mi bvnin",
+          "bbox": [
+            24.0,
+            250.0,
+            640.0,
+            276.0
+          ],
+          "confidence": 0.8262062668800354
+        }
+      ]
+    },
+    {
+      "text": "Cânhần oknho: S43 - Sai khúp, ong gân Và giần khp Và dây chong cưan ờng ngưc (chếnơ nhườơng phần mÌệm",
+      "bbox": [
+        25.0,
+        268.0,
+        740.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần oknho: S43 - Sai khúp, ong gân Và giần khp Và dây chong cưan ờng ngưc (chếnơ nhườơng phần mÌệm",
+          "bbox": [
+            25.0,
+            268.0,
+            740.0,
+            295.0
+          ],
+          "confidence": 0.8259826302528381
+        }
+      ]
+    },
+    {
+      "text": "ng:ực trái) (K29) Viêm dạ dày Ià tú trầàng",
+      "bbox": [
+        26.0,
+        292.0,
+        311.0,
+        315.0
+      ],
+      "words": [
+        {
+          "text": "ng:ực trái) (K29) Viêm dạ dày Ià tú trầàng",
+          "bbox": [
+            26.0,
+            292.0,
+            311.0,
+            315.0
+          ],
+          "confidence": 0.8155215382575989
+        }
+      ]
+    },
+    {
+      "text": "1) ALFACHIM 4,2mg SL: 28 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) ALFACHIM 4,2mg",
+          "bbox": [
+            41.0,
+            381.0,
+            266.0,
+            413.0
+          ],
+          "confidence": 0.9671345949172974
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            595.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9283137917518616
+        }
+      ]
+    },
+    {
+      "text": "Ghah chú ốn Uống Sáau a ăn: Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        35.0,
+        409.0,
+        705.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghah chú ốn",
+          "bbox": [
+            35.0,
+            414.0,
+            115.0,
+            433.0
+          ],
+          "confidence": 0.8250436782836914
+        },
+        {
+          "text": "Uống Sáau a ăn:",
+          "bbox": [
+            106.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.7952998876571655
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            621.0,
+            409.0,
+            705.0,
+            436.0
+          ],
+          "confidence": 0.9963922500610352
+        }
+      ]
+    },
+    {
+      "text": "2) FAMOGAST 40mg SL: 7 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        700.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) FAMOGAST 40mg",
+          "bbox": [
+            36.0,
+            431.0,
+            268.0,
+            467.0
+          ],
+          "confidence": 0.982896089553833
+        },
+        {
+          "text": "SL: 7 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            700.0,
+            462.0
+          ],
+          "confidence": 0.978531002998352
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg: Tối 1 Viên",
+      "bbox": [
+        34.0,
+        462.0,
+        704.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.9423311948776245
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            102.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.6610852479934692
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            622.0,
+            463.0,
+            704.0,
+            487.0
+          ],
+          "confidence": 0.959176242351532
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        198.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            198.0,
+            515.0
+          ],
+          "confidence": 0.9227226376533508
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        518.0,
+        165.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            518.0,
+            165.0,
+            539.0
+          ],
+          "confidence": 0.9829773306846619
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9649877548217773
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/11/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/11/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9987977147102356
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        473.0,
+        679.0,
+        620.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            473.0,
+            679.0,
+            620.0,
+            703.0
+          ],
+          "confidence": 0.94106525182724
+        }
+      ]
+    },
+    {
+      "text": "Táiái khánhám Xin Mmang th cho ođm, Xknt nghinệm, phiram (rnhếu ch)",
+      "bbox": [
+        34.0,
+        737.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Táiái khánhám Xin Mmang th cho ođm, Xknt nghinệm, phiram (rnhếu ch)",
+          "bbox": [
+            34.0,
+            737.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.7521795630455017
+        }
+      ]
+    },
+    {
+      "text": "06/05/202122:50:30",
+      "bbox": [
+        588.0,
+        777.0,
+        731.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "06/05/202122:50:30",
+          "bbox": [
+            588.0,
+            777.0,
+            731.0,
+            794.0
+          ],
+          "confidence": 0.982677698135376
+        }
+      ]
+    }
+  ]
+}

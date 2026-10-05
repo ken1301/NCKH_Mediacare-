@@ -1,0 +1,628 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_359",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_359.png",
+  "text": "1/1 M sc người bnh\nPK Số 5.1 [TĐ] Số phiếu 24818/2021\nTOA THỐC BHYT\nNam x Nữ\nĐệị ạ chi 3\nThu ặo hiếhám y tế GB 35 35 207\nMạch: lần/phút Huyết áp: 25 MMHg Thân nhiệt C\nCộn lâm sàng:\nCnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU\n1) MEGLUCON 1000 1000 mg SL: 31 Viên\nGh chú Uống Sau khi ăn: Sáng 1 Viên\n2) DIAMICRON MR TAB 60MG 30S 60mg SL: 16 Viên\nGhi chú Uống trưiức khi ăn: Sáng 1/2 Viên\nCộng khoản: 2 khon\nLời dặn đơn thuốc:\nNgày hẹn ái khámản: Thứ năhám 27/05/2021\nNgày 26/04/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTiái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu c)\n14/05/202116:14:38",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9997822642326355
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 24818/2021",
+      "bbox": [
+        25.0,
+        86.0,
+        545.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            25.0,
+            86.0,
+            140.0,
+            114.0
+          ],
+          "confidence": 0.9226146340370178
+        },
+        {
+          "text": "Số phiếu 24818/2021",
+          "bbox": [
+            370.0,
+            89.0,
+            545.0,
+            121.0
+          ],
+          "confidence": 0.9686229825019836
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC BHYT",
+      "bbox": [
+        258.0,
+        121.0,
+        509.0,
+        154.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC BHYT",
+          "bbox": [
+            258.0,
+            121.0,
+            509.0,
+            154.0
+          ],
+          "confidence": 0.9744480848312378
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi 3",
+      "bbox": [
+        25.0,
+        180.0,
+        117.0,
+        207.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        },
+        {
+          "text": "3",
+          "bbox": [
+            97.0,
+            186.0,
+            117.0,
+            207.0
+          ],
+          "confidence": 0.3005496561527252
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế GB 35 35 207",
+      "bbox": [
+        24.0,
+        203.0,
+        471.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.827959418296814
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            221.0,
+            226.0
+          ],
+          "confidence": 0.9993468523025513
+        },
+        {
+          "text": "35",
+          "bbox": [
+            294.0,
+            205.0,
+            327.0,
+            227.0
+          ],
+          "confidence": 0.9998745918273926
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997485876083374
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997293949127197
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: 25 MMHg Thân nhiệt C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "25",
+          "bbox": [
+            375.0,
+            231.0,
+            390.0,
+            251.0
+          ],
+          "confidence": 0.4857156276702881
+        },
+        {
+          "text": "MMHg Thân nhiệt",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8944476246833801
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU",
+      "bbox": [
+        25.0,
+        270.0,
+        467.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU",
+          "bbox": [
+            25.0,
+            270.0,
+            467.0,
+            294.0
+          ],
+          "confidence": 0.7788552641868591
+        }
+      ]
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000 mg SL: 31 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) MEGLUCON 1000 1000 mg",
+          "bbox": [
+            40.0,
+            379.0,
+            351.0,
+            415.0
+          ],
+          "confidence": 0.9322721362113953
+        },
+        {
+          "text": "SL: 31 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9250355362892151
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uống Sau khi ăn: Sáng 1 Viên",
+      "bbox": [
+        35.0,
+        413.0,
+        377.0,
+        435.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "Uống Sau khi ăn:",
+          "bbox": [
+            107.0,
+            413.0,
+            235.0,
+            435.0
+          ],
+          "confidence": 0.8032056093215942
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9991088509559631
+        }
+      ]
+    },
+    {
+      "text": "2) DIAMICRON MR TAB 60MG 30S 60mg SL: 16 Viên",
+      "bbox": [
+        37.0,
+        433.0,
+        709.0,
+        466.0
+      ],
+      "words": [
+        {
+          "text": "2) DIAMICRON MR TAB 60MG 30S 60mg",
+          "bbox": [
+            37.0,
+            433.0,
+            473.0,
+            466.0
+          ],
+          "confidence": 0.9492336511611938
+        },
+        {
+          "text": "SL: 16 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9997038245201111
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống trưiức khi ăn: Sáng 1/2 Viên",
+      "bbox": [
+        34.0,
+        464.0,
+        392.0,
+        488.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            465.0,
+            99.0,
+            486.0
+          ],
+          "confidence": 0.8748193383216858
+        },
+        {
+          "text": "Uống trưiức khi ăn:",
+          "bbox": [
+            106.0,
+            465.0,
+            248.0,
+            486.0
+          ],
+          "confidence": 0.8304927945137024
+        },
+        {
+          "text": "Sáng 1/2 Viên",
+          "bbox": [
+            287.0,
+            464.0,
+            392.0,
+            488.0
+          ],
+          "confidence": 0.9990066289901733
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khon",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khon",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9270233511924744
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        516.0,
+        166.0,
+        540.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            516.0,
+            166.0,
+            540.0
+          ],
+          "confidence": 0.940495491027832
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn ái khámản: Thứ năhám 27/05/2021",
+      "bbox": [
+        31.0,
+        541.0,
+        323.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn ái khámản: Thứ năhám 27/05/2021",
+          "bbox": [
+            31.0,
+            541.0,
+            323.0,
+            566.0
+          ],
+          "confidence": 0.9189077615737915
+        }
+      ]
+    },
+    {
+      "text": "Ngày 26/04/2021",
+      "bbox": [
+        483.0,
+        574.0,
+        622.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 26/04/2021",
+          "bbox": [
+            483.0,
+            574.0,
+            622.0,
+            602.0
+          ],
+          "confidence": 0.996828019618988
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.991174578666687
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "bbox": [
+        457.0,
+        676.0,
+        635.0,
+        707.0
+      ],
+      "words": [
+        {
+          "text": "BS. Hoàng Thị Hường",
+          "bbox": [
+            457.0,
+            676.0,
+            635.0,
+            707.0
+          ],
+          "confidence": 0.9753372669219971
+        }
+      ]
+    },
+    {
+      "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.829738974571228
+        }
+      ]
+    },
+    {
+      "text": "14/05/202116:14:38",
+      "bbox": [
+        589.0,
+        777.0,
+        731.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "14/05/202116:14:38",
+          "bbox": [
+            589.0,
+            777.0,
+            731.0,
+            794.0
+          ],
+          "confidence": 0.9573462605476379
+        }
+      ]
+    }
+  ]
+}

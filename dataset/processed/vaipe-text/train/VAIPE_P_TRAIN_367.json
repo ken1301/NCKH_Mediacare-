@@ -1,0 +1,260 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_367",
+  "image": "public_train/image/VAIPE_P_TRAIN_367.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: S60 - Tồn thương nông ở cổ tay và bàn tay P; (LO3) Viêm mô\nbào; (E53.9) Thiếu vitamin B, không đặc hiệu\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên TốI 2 Viên\nSL: 30 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên Tối 2 Viên\nSL: 20 Viên\n3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg\nUống: Sáng 1 Viên TốI 1 Viên\nSL: 14 Viên\nLời dặn:\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: S60 - Tồn thương nông ở cổ tay và bàn tay P; (LO3) Viêm mô",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1040,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "bào; (E53.9) Thiếu vitamin B, không đặc hiệu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        386,
+        660,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        242,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên TốI 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        715,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        605,
+        585,
+        647
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        674,
+        714,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        732,
+        875,
+        777
+      ],
+      "mapping": 104
+    },
+    {
+      "text": "Uống: Sáng 1 Viên TốI 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        717,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 14 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        195,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        870,
+        157,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        912,
+        1027,
+        954
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        677,
+        959,
+        1002,
+        999
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1007,
+        969,
+        1042
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1152,
+        997,
+        1182
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1197,
+        507,
+        1232
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1242,
+        1007,
+        1282
+      ],
+      "mapping": null
+    }
+  ]
+}

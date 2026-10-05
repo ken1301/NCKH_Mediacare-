@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_520",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_520.png",
+  "text": "MS sỐ người bệnh\nTRẠM Y TẾ THỊ TRÂN BINH Y\nSố phiếu 1771/2021\nTOA THUỐC BHYT\nNam x ữ2\nTh bặo h iếhám y tuế 4 GB 4 35 35 38952\nMạch:8 lần/phút Huyết áp: 1332 mmHg Thân nhiệt: 37 C\nCn lâ nà ngng:\nCânuhn oknhn: I10 - nh 1s ăng huyếnH áp (H81) Rhi 1o ạn chức năặng tiên ĩinh\n1) KAVASDIN 55mg SL: 60 Viên\nGhi chú uống Sáng 1 Viên\n2) HOAT HUYÊT DUNG NÃO 150mgc20mg SL: 20 viên\nGhi chú uống Sáng 2 viên Tối 2 viên\nCộng  kn: 2  kho\nLời dặn đơ n đthuốc: uốhgng n đthu n O ta - k h hám ngày 15.9. 2021\nNgày hẹn tá khám:\nNgày 15/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Thị Hồng Hạnh\nTi kh khám in mang tho ohn, Xkt nghinệhm phiám (nếu co)\n05/01/2022 18:59:16",
+  "lines": [
+    {
+      "text": "MS sỐ người bệnh",
+      "bbox": [
+        896.0,
+        43.0,
+        1065.0,
+        74.0
+      ],
+      "words": [
+        {
+          "text": "MS sỐ người bệnh",
+          "bbox": [
+            896.0,
+            43.0,
+            1065.0,
+            74.0
+          ],
+          "confidence": 0.8335763216018677
+        }
+      ]
+    },
+    {
+      "text": "TRẠM Y TẾ THỊ TRÂN BINH Y",
+      "bbox": [
+        37.0,
+        92.0,
+        410.0,
+        129.0
+      ],
+      "words": [
+        {
+          "text": "TRẠM Y TẾ THỊ TRÂN BINH Y",
+          "bbox": [
+            37.0,
+            92.0,
+            410.0,
+            129.0
+          ],
+          "confidence": 0.7586544752120972
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1771/2021",
+      "bbox": [
+        551.0,
+        151.0,
+        795.0,
+        192.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1771/2021",
+          "bbox": [
+            551.0,
+            151.0,
+            795.0,
+            192.0
+          ],
+          "confidence": 0.9867988228797913
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        383.0,
+        195.0,
+        757.0,
+        242.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            383.0,
+            195.0,
+            757.0,
+            242.0
+          ],
+          "confidence": 0.9463179707527161
+        }
+      ]
+    },
+    {
+      "text": "Nam x ữ2",
+      "bbox": [
+        921.0,
+        236.0,
+        1100.0,
+        282.0
+      ],
+      "words": [
+        {
+          "text": "Nam x ữ2",
+          "bbox": [
+            921.0,
+            236.0,
+            1100.0,
+            282.0
+          ],
+          "confidence": 0.8793792724609375
+        }
+      ]
+    },
+    {
+      "text": "Th bặo h iếhám y tuế 4 GB 4 35 35 38952",
+      "bbox": [
+        36.0,
+        318.0,
+        840.0,
+        352.0
+      ],
+      "words": [
+        {
+          "text": "Th bặo h iếhám y tuế",
+          "bbox": [
+            36.0,
+            318.0,
+            231.0,
+            352.0
+          ],
+          "confidence": 0.6968467831611633
+        },
+        {
+          "text": "4",
+          "bbox": [
+            223.0,
+            331.0,
+            228.0,
+            336.0
+          ],
+          "confidence": 0.4285809099674225
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            271.0,
+            320.0,
+            321.0,
+            351.0
+          ],
+          "confidence": 0.9941295385360718
+        },
+        {
+          "text": "4",
+          "bbox": [
+            358.0,
+            319.0,
+            423.0,
+            352.0
+          ],
+          "confidence": 0.9998717308044434
+        },
+        {
+          "text": "35",
+          "bbox": [
+            438.0,
+            319.0,
+            485.0,
+            351.0
+          ],
+          "confidence": 0.999907910823822
+        },
+        {
+          "text": "35",
+          "bbox": [
+            538.0,
+            318.0,
+            583.0,
+            352.0
+          ],
+          "confidence": 0.9655016660690308
+        },
+        {
+          "text": "38952",
+          "bbox": [
+            759.0,
+            319.0,
+            840.0,
+            352.0
+          ],
+          "confidence": 0.9546677470207214
+        }
+      ]
+    },
+    {
+      "text": "Mạch:8 lần/phút Huyết áp: 1332 mmHg Thân nhiệt: 37 C",
+      "bbox": [
+        34.0,
+        346.0,
+        1017.0,
+        395.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:8",
+          "bbox": [
+            34.0,
+            358.0,
+            165.0,
+            390.0
+          ],
+          "confidence": 0.9854996800422668
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            246.0,
+            356.0,
+            463.0,
+            393.0
+          ],
+          "confidence": 0.9721009135246277
+        },
+        {
+          "text": "1332",
+          "bbox": [
+            478.0,
+            359.0,
+            617.0,
+            390.0
+          ],
+          "confidence": 0.9748600721359253
+        },
+        {
+          "text": "mmHg Thân nhiệt: 37",
+          "bbox": [
+            671.0,
+            358.0,
+            933.0,
+            391.0
+          ],
+          "confidence": 0.8751698732376099
+        },
+        {
+          "text": "C",
+          "bbox": [
+            960.0,
+            346.0,
+            1017.0,
+            395.0
+          ],
+          "confidence": 0.3986847996711731
+        }
+      ]
+    },
+    {
+      "text": "Cn lâ nà ngng:",
+      "bbox": [
+        35.0,
+        392.0,
+        188.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "Cn lâ nà ngng:",
+          "bbox": [
+            35.0,
+            392.0,
+            188.0,
+            423.0
+          ],
+          "confidence": 0.7167329788208008
+        }
+      ]
+    },
+    {
+      "text": "Cânuhn oknhn: I10 - nh 1s ăng huyếnH áp (H81) Rhi 1o ạn chức năặng tiên ĩinh",
+      "bbox": [
+        36.0,
+        421.0,
+        814.0,
+        451.0
+      ],
+      "words": [
+        {
+          "text": "Cânuhn oknhn: I10 - nh 1s ăng huyếnH áp (H81) Rhi 1o ạn chức năặng tiên ĩinh",
+          "bbox": [
+            36.0,
+            421.0,
+            814.0,
+            451.0
+          ],
+          "confidence": 0.8003988265991211
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 55mg SL: 60 Viên",
+      "bbox": [
+        63.0,
+        588.0,
+        1055.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 55mg",
+          "bbox": [
+            63.0,
+            588.0,
+            402.0,
+            629.0
+          ],
+          "confidence": 0.9100643396377563
+        },
+        {
+          "text": "SL: 60 Viên",
+          "bbox": [
+            885.0,
+            588.0,
+            1055.0,
+            625.0
+          ],
+          "confidence": 0.9796268343925476
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 1 Viên",
+      "bbox": [
+        46.0,
+        625.0,
+        560.0,
+        665.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            46.0,
+            625.0,
+            242.0,
+            665.0
+          ],
+          "confidence": 0.8837727904319763
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            429.0,
+            632.0,
+            560.0,
+            663.0
+          ],
+          "confidence": 0.9971345663070679
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYÊT DUNG NÃO 150mgc20mg SL: 20 viên",
+      "bbox": [
+        55.0,
+        660.0,
+        1048.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYÊT DUNG NÃO 150mgc20mg",
+          "bbox": [
+            55.0,
+            660.0,
+            752.0,
+            711.0
+          ],
+          "confidence": 0.8927278518676758
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            887.0,
+            667.0,
+            1048.0,
+            702.0
+          ],
+          "confidence": 0.9424794912338257
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú uống Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        45.0,
+        704.0,
+        1044.0,
+        745.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú uống",
+          "bbox": [
+            45.0,
+            704.0,
+            242.0,
+            745.0
+          ],
+          "confidence": 0.9216108322143555
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            429.0,
+            710.0,
+            555.0,
+            741.0
+          ],
+          "confidence": 0.9741520285606384
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            929.0,
+            704.0,
+            1044.0,
+            741.0
+          ],
+          "confidence": 0.9821854829788208
+        }
+      ]
+    },
+    {
+      "text": "Cộng  kn: 2  kho",
+      "bbox": [
+        46.0,
+        754.0,
+        291.0,
+        781.0
+      ],
+      "words": [
+        {
+          "text": "Cộng  kn: 2  kho",
+          "bbox": [
+            46.0,
+            754.0,
+            291.0,
+            781.0
+          ],
+          "confidence": 0.7562768459320068
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơ n đthuốc: uốhgng n đthu n O ta - k h hám ngày 15.9. 2021",
+      "bbox": [
+        42.0,
+        789.0,
+        728.0,
+        820.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơ n đthuốc: uốhgng n đthu n O ta - k h hám ngày 15.9. 2021",
+          "bbox": [
+            42.0,
+            789.0,
+            728.0,
+            820.0
+          ],
+          "confidence": 0.8025387525558472
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tá khám:",
+      "bbox": [
+        43.0,
+        828.0,
+        247.0,
+        858.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tá khám:",
+          "bbox": [
+            43.0,
+            828.0,
+            247.0,
+            858.0
+          ],
+          "confidence": 0.9001031517982483
+        }
+      ]
+    },
+    {
+      "text": "Ngày 15/07/2021",
+      "bbox": [
+        721.0,
+        880.0,
+        926.0,
+        912.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 15/07/2021",
+          "bbox": [
+            721.0,
+            880.0,
+            926.0,
+            912.0
+          ],
+          "confidence": 0.9232215881347656
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        93.0,
+        910.0,
+        914.0,
+        953.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            93.0,
+            910.0,
+            291.0,
+            938.0
+          ],
+          "confidence": 0.9192578792572021
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            737.0,
+            922.0,
+            914.0,
+            953.0
+          ],
+          "confidence": 0.9492961168289185
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Thị Hồng Hạnh",
+      "bbox": [
+        653.0,
+        1030.0,
+        976.0,
+        1067.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Thị Hồng Hạnh",
+          "bbox": [
+            653.0,
+            1030.0,
+            976.0,
+            1067.0
+          ],
+          "confidence": 0.923126220703125
+        }
+      ]
+    },
+    {
+      "text": "Ti kh khám in mang tho ohn, Xkt nghinệhm phiám (nếu co)",
+      "bbox": [
+        44.0,
+        1113.0,
+        616.0,
+        1146.0
+      ],
+      "words": [
+        {
+          "text": "Ti kh khám in mang tho ohn, Xkt nghinệhm phiám (nếu co)",
+          "bbox": [
+            44.0,
+            1113.0,
+            616.0,
+            1146.0
+          ],
+          "confidence": 0.8236583471298218
+        }
+      ]
+    },
+    {
+      "text": "05/01/2022 18:59:16",
+      "bbox": [
+        876.0,
+        1174.0,
+        1091.0,
+        1203.0
+      ],
+      "words": [
+        {
+          "text": "05/01/2022 18:59:16",
+          "bbox": [
+            876.0,
+            1174.0,
+            1091.0,
+            1203.0
+          ],
+          "confidence": 0.9759591817855835
+        }
+      ]
+    }
+  ]
+}

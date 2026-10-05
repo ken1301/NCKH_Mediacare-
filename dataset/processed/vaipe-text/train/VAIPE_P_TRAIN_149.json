@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_149",
+  "image": "public_train/image/VAIPE_P_TRAIN_149.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 51323/2020\n4700424\nTOA THUỐC BHYT\nNam\nNữ\nBT\n35\n35\n207\n34607\n2\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Chụp Xquang ngực thắng, Chụp Xquang ngực nghiêng hoặc chếch mỗi bên\nChấn đoán: S43 - Sai khớp, bong gân và giãn khớp và dây chẳng của vòng ngực\n1) PANACTOL 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n2) KATRYPSIN 4,2mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/09/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n27/05/2021 09:02:39",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        142,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 51323/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        547,
+        121
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4700424",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BT",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        214,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "34607",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang ngực thắng, Chụp Xquang ngực nghiêng hoặc chếch mỗi bên",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        638,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: S43 - Sai khớp, bong gân và giãn khớp và dây chẳng của vòng ngực",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        568,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        274,
+        413
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) KATRYPSIN 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        276,
+        466
+      ],
+      "mapping": 7
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        466,
+        605,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 17/09/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        680,
+        631,
+        703
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        414,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27/05/2021 09:02:39",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

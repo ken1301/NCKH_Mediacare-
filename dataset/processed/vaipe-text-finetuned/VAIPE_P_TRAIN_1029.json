@@ -1,0 +1,710 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1029",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1029.png",
+  "text": "1/1 M sc người bnh\nTRÀNG AN\nSố phiếu 2667/2018\nTOA THUỐC BHYT\nNam x Nữ\nThu bặho h hám y tut CK 35 35 206 28696\nMạch: lần/phút Huyết áp: MMHg Thân nhiệt: C\nCộn lâm sàng:\nCậnhần okn: M06 - Viêm khp dạng thấp khác 5 H81) Ri 1oạn chức năng tiên đinh (102) Viêm họng cấp\n1) ELOXICAM 7,5mg SL: 10 Viên\nGh chú Uốg Sáng 1 Viên Chiều 1 Viên\n2) HOAT HUYT DUNG NÃO BDF 150mg 4 5mg SL: 20 Vi ên\nGhi chúc Uống Sáng 2 Viên Chiều 2 Viên\n3) CEFACYL 500 0,5g SL: 20 Vi ên\nGhi chúủ Uống Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 14/11/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTáiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)\n06/05/2021 22:41:49",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        15.0,
+        716.0,
+        67.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            15.0,
+            122.0,
+            67.0
+          ],
+          "confidence": 0.9981319308280945
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8645161390304565
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        242.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            242.0,
+            79.0
+          ],
+          "confidence": 0.9000910520553589
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2667/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2667/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9980530142784119
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        120.0,
+        509.0,
+        154.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            120.0,
+            509.0,
+            154.0
+          ],
+          "confidence": 0.9192678332328796
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut CK 35 35 206 28696",
+      "bbox": [
+        26.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            184.0,
+            204.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9222486019134521
+        },
+        {
+          "text": "35",
+          "bbox": [
+            298.0,
+            205.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.995868444442749
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.965299665927887
+        },
+        {
+          "text": "28696",
+          "bbox": [
+            507.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9288591146469116
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8878223299980164
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần okn: M06 - Viêm khp dạng thấp khác 5 H81) Ri 1oạn chức năng tiên đinh (102) Viêm họng cấp",
+      "bbox": [
+        26.0,
+        271.0,
+        739.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần okn: M06 - Viêm khp dạng thấp khác 5 H81) Ri 1oạn chức năng tiên đinh (102) Viêm họng cấp",
+          "bbox": [
+            26.0,
+            271.0,
+            739.0,
+            294.0
+          ],
+          "confidence": 0.8598654866218567
+        }
+      ]
+    },
+    {
+      "text": "1) ELOXICAM 7,5mg SL: 10 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) ELOXICAM 7,5mg",
+          "bbox": [
+            41.0,
+            381.0,
+            287.0,
+            413.0
+          ],
+          "confidence": 0.9129968285560608
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        35.0,
+        410.0,
+        608.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            96.0,
+            433.0
+          ],
+          "confidence": 0.9186660647392273
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            410.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8594629764556885
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            289.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9711282849311829
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            410.0,
+            608.0,
+            435.0
+          ],
+          "confidence": 0.9988405704498291
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYT DUNG NÃO BDF 150mg 4 5mg SL: 20 Vi ên",
+      "bbox": [
+        36.0,
+        430.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYT DUNG NÃO BDF 150mg 4 5mg",
+          "bbox": [
+            36.0,
+            430.0,
+            557.0,
+            468.0
+          ],
+          "confidence": 0.9154092669487
+        },
+        {
+          "text": "SL: 20 Vi ên",
+          "bbox": [
+            593.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9762020707130432
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        463.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            464.0,
+            162.0,
+            489.0
+          ],
+          "confidence": 0.9386399984359741
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            463.0,
+            377.0,
+            490.0
+          ],
+          "confidence": 0.9991125464439392
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            513.0,
+            465.0,
+            609.0,
+            486.0
+          ],
+          "confidence": 0.9985952377319336
+        }
+      ]
+    },
+    {
+      "text": "3) CEFACYL 500 0,5g SL: 20 Vi ên",
+      "bbox": [
+        37.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) CEFACYL 500 0,5g",
+          "bbox": [
+            37.0,
+            485.0,
+            275.0,
+            518.0
+          ],
+          "confidence": 0.9134299755096436
+        },
+        {
+          "text": "SL: 20 Vi ên",
+          "bbox": [
+            593.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9810546040534973
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúủ Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        513.0,
+        609.0,
+        540.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúủ",
+          "bbox": [
+            34.0,
+            516.0,
+            95.0,
+            537.0
+          ],
+          "confidence": 0.858668863773346
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            515.0,
+            163.0,
+            540.0
+          ],
+          "confidence": 0.8485453128814697
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            516.0,
+            378.0,
+            540.0
+          ],
+          "confidence": 0.987599790096283
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            513.0,
+            609.0,
+            540.0
+          ],
+          "confidence": 0.9994986653327942
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        546.0,
+        198.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            546.0,
+            198.0,
+            567.0
+          ],
+          "confidence": 0.9626445770263672
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        164.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            164.0,
+            591.0
+          ],
+          "confidence": 0.9837544560432434
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9711275100708008
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/11/2018",
+      "bbox": [
+        484.0,
+        629.0,
+        624.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/11/2018",
+          "bbox": [
+            484.0,
+            629.0,
+            624.0,
+            653.0
+          ],
+          "confidence": 0.9705638289451599
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            654.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9894609451293945
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        477.0,
+        731.0,
+        618.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            477.0,
+            731.0,
+            618.0,
+            755.0
+          ],
+          "confidence": 0.9327142238616943
+        }
+      ]
+    },
+    {
+      "text": "Táiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)",
+      "bbox": [
+        34.0,
+        788.0,
+        414.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Táiá khKkhám Xin mang th cho ĩođn, Xknt nghinệm, phiám (ônếui co)",
+          "bbox": [
+            34.0,
+            788.0,
+            414.0,
+            809.0
+          ],
+          "confidence": 0.7711828351020813
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 22:41:49",
+      "bbox": [
+        587.0,
+        828.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 22:41:49",
+          "bbox": [
+            587.0,
+            828.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9789004325866699
+        }
+      ]
+    }
+  ]
+}

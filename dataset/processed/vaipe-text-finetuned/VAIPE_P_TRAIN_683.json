@@ -1,0 +1,638 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_683",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_683.png",
+  "text": "1/1 M sc người bnh\nTRÀNG AN\nSố phiếu 2113/2019\nTOA THUỐC BHYT\nNamNx\nThu bặho h hám y tuế GB 4 35 212 13624\nMạch: lần/phút Huyết áp: / MMHg Thân hiệt: C\nCộn lâm sàng:\nCnhân okhnả: M06 - Viêhm hp dạng thđấp khác E53.9) Thiếu iHaạHmin B, không ĩdặc hinệu\n1) ELOXICAM 7,5mg SL: 10 Viên\nGhi chú Uống: Sáng 1 Viên Ciều 1 Viên\n2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTiái kháhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)\n09/05/2021 16:55:09",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        15.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9989962577819824
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        243.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            243.0,
+            80.0
+          ],
+          "confidence": 0.8946899771690369
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2113/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2113/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9768152236938477
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tuế GB 4 35 212 13624",
+      "bbox": [
+        26.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7264984250068665
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            204.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.9997040629386902
+        },
+        {
+          "text": "4",
+          "bbox": [
+            249.0,
+            209.0,
+            263.0,
+            223.0
+          ],
+          "confidence": 0.9925853610038757
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            204.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.99986732006073
+        },
+        {
+          "text": "212",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998175501823425
+        },
+        {
+          "text": "13624",
+          "bbox": [
+            508.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.999271035194397
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8164698481559753
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cnhân okhnả: M06 - Viêhm hp dạng thđấp khác E53.9) Thiếu iHaạHmin B, không ĩdặc hinệu",
+      "bbox": [
+        25.0,
+        270.0,
+        627.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhân okhnả: M06 - Viêhm hp dạng thđấp khác E53.9) Thiếu iHaạHmin B, không ĩdặc hinệu",
+          "bbox": [
+            25.0,
+            270.0,
+            627.0,
+            294.0
+          ],
+          "confidence": 0.8019893169403076
+        }
+      ]
+    },
+    {
+      "text": "1) ELOXICAM 7,5mg SL: 10 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) ELOXICAM 7,5mg",
+          "bbox": [
+            41.0,
+            381.0,
+            287.0,
+            413.0
+          ],
+          "confidence": 0.9173983931541443
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        609.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.8064449429512024
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            289.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9711282849311829
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "2) SETBLOOD 115mg4100mg450mcg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        432.0,
+        710.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) SETBLOOD 115mg4100mg450mcg",
+          "bbox": [
+            37.0,
+            432.0,
+            422.0,
+            467.0
+          ],
+          "confidence": 0.9546264410018921
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            434.0,
+            710.0,
+            464.0
+          ],
+          "confidence": 0.9553759098052979
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        462.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.7651422619819641
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            512.0,
+            462.0,
+            609.0,
+            487.0
+          ],
+          "confidence": 0.9921243190765381
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9504138827323914
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9291466474533081
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9707815647125244
+        }
+      ]
+    },
+    {
+      "text": "Ngày 21/05/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 21/05/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9959654211997986
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        476.0,
+        676.0,
+        618.0,
+        703.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            476.0,
+            676.0,
+            618.0,
+            703.0
+          ],
+          "confidence": 0.9667935371398926
+        }
+      ]
+    },
+    {
+      "text": "Tiái kháhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kháhám Xin mmMnng th ho ođn, nt nghinệm phirám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8003612756729126
+        }
+      ]
+    },
+    {
+      "text": "09/05/2021 16:55:09",
+      "bbox": [
+        587.0,
+        775.0,
+        731.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "09/05/2021 16:55:09",
+          "bbox": [
+            587.0,
+            775.0,
+            731.0,
+            795.0
+          ],
+          "confidence": 0.9790897369384766
+        }
+      ]
+    }
+  ]
+}

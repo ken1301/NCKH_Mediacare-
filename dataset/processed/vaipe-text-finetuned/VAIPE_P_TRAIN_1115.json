@@ -1,0 +1,545 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1115",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1115.png",
+  "text": "1/1 M sc người bnh\nBốc khám Ngoi Số phiếu 23641/2019\nTA THA C  H  BHYT\nNam x Nữ\nThu bặho h hám y tut HT 35 35 205 86508\nMạch: 4 lần/phút Huyết áp: 120 MIHmHg Th Th â n nhiệt 37\nCộn 1snm gsàng: Chp Xôọuang chn: ácgng tht 1ương thắng nghiêng\nCậnhắn kn: 47 - Hư cnH ácgng (ĩOkái hOoká cô áốgng)\n1) DICLOFENAC 50mg SL: 20 Viên\nGhi chúK Uốg: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 03/05/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSCKI. Nguyễn Văn Lịạch\nTá khKhám Xịin mang tho onđ, kt nghinhm phiam (ônếu cá)\n03/05/2021 18:01:17",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        15.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            15.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9986870288848877
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Bốc khám Ngoi Số phiếu 23641/2019",
+      "bbox": [
+        24.0,
+        84.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Bốc khám Ngoi",
+          "bbox": [
+            24.0,
+            84.0,
+            148.0,
+            115.0
+          ],
+          "confidence": 0.91897052526474
+        },
+        {
+          "text": "Số phiếu 23641/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9969885945320129
+        }
+      ]
+    },
+    {
+      "text": "TA THA C  H  BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TA THA C  H  BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.7760768532752991
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut HT 35 35 205 86508",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            185.0,
+            205.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.9987161755561829
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            327.0,
+            226.0
+          ],
+          "confidence": 0.9999316334724426
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999359250068665
+        },
+        {
+          "text": "86508",
+          "bbox": [
+            508.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.998252272605896
+        }
+      ]
+    },
+    {
+      "text": "Mạch: 4 lần/phút Huyết áp: 120 MIHmHg Th Th â n nhiệt 37",
+      "bbox": [
+        25.0,
+        230.0,
+        626.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch: 4",
+          "bbox": [
+            25.0,
+            230.0,
+            115.0,
+            254.0
+          ],
+          "confidence": 0.9109687209129333
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            168.0,
+            231.0,
+            313.0,
+            252.0
+          ],
+          "confidence": 0.967408299446106
+        },
+        {
+          "text": "120",
+          "bbox": [
+            331.0,
+            231.0,
+            416.0,
+            252.0
+          ],
+          "confidence": 0.9777445197105408
+        },
+        {
+          "text": "MIHmHg",
+          "bbox": [
+            450.0,
+            234.0,
+            505.0,
+            252.0
+          ],
+          "confidence": 0.7879747748374939
+        },
+        {
+          "text": "Th Th â n nhiệt 37",
+          "bbox": [
+            513.0,
+            231.0,
+            626.0,
+            252.0
+          ],
+          "confidence": 0.8155715465545654
+        }
+      ]
+    },
+    {
+      "text": "Cộn 1snm gsàng: Chp Xôọuang chn: ácgng tht 1ương thắng nghiêng",
+      "bbox": [
+        24.0,
+        250.0,
+        450.0,
+        277.0
+      ],
+      "words": [
+        {
+          "text": "Cộn 1snm gsàng: Chp Xôọuang chn: ácgng tht 1ương thắng nghiêng",
+          "bbox": [
+            24.0,
+            250.0,
+            450.0,
+            277.0
+          ],
+          "confidence": 0.8033221960067749
+        }
+      ]
+    },
+    {
+      "text": "Cậnhắn kn: 47 - Hư cnH ácgng (ĩOkái hOoká cô áốgng)",
+      "bbox": [
+        26.0,
+        272.0,
+        377.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhắn kn: 47 - Hư cnH ácgng (ĩOkái hOoká cô áốgng)",
+          "bbox": [
+            26.0,
+            272.0,
+            377.0,
+            294.0
+          ],
+          "confidence": 0.6549516320228577
+        }
+      ]
+    },
+    {
+      "text": "1) DICLOFENAC 50mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) DICLOFENAC 50mg",
+          "bbox": [
+            41.0,
+            381.0,
+            286.0,
+            413.0
+          ],
+          "confidence": 0.9276689887046814
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        408.0,
+        609.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.8802028298377991
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            409.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.6833616495132446
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            408.0,
+            609.0,
+            437.0
+          ],
+          "confidence": 0.9988322257995605
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9341475963592529
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9552767276763916
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 03/05/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 03/05/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9924793839454651
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Lịạch",
+      "bbox": [
+        446.0,
+        627.0,
+        647.0,
+        652.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Nguyễn Văn Lịạch",
+          "bbox": [
+            446.0,
+            627.0,
+            647.0,
+            652.0
+          ],
+          "confidence": 0.9469873309135437
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xịin mang tho onđ, kt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xịin mang tho onđ, kt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8101373314857483
+        }
+      ]
+    },
+    {
+      "text": "03/05/2021 18:01:17",
+      "bbox": [
+        586.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "03/05/2021 18:01:17",
+          "bbox": [
+            586.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9864380359649658
+        }
+      ]
+    }
+  ]
+}

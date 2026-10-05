@@ -1,0 +1,691 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_167",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_167.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 717/2019\nTOA THỐC  BHYT\nNam x Nữ\nThu bặho h hám y tut HT 35 35 205 86508 C\nMạch: lần/phút Huyết áp: MMHg Thân nhiệt:\nCộn lâm sàng:\nCậnhần okn: N31 - Viêm mũi, iêm mũi họđg iêm họng mạnmn (I10) Tăng huyến áp õ ăn (ônguyễn phá)\n1) NIFEDIPIN HASAN 20 RETARD 20mg SL: 10 Viên\nGh chú Uốngữ\n2) AMOXICILLIN 500MG 0,5g SL: 20 viên\nGhi chú Uống\n3) PARACETAMOL 500MG 500mg SL: 10 Viên\nGhi chú Uống\n4) CLORPHENIRAMIN 4mg SL: 20 Viên\nGhi chú Uống\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 01/04/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n03/05/2021 17:59:59",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        46.0,
+        10.0,
+        716.0,
+        69.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            46.0,
+            10.0,
+            128.0,
+            69.0
+          ],
+          "confidence": 0.9095268249511719
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 717/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        524.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 717/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            524.0,
+            122.0
+          ],
+          "confidence": 0.9807084202766418
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8980545401573181
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut HT 35 35 205 86508 C",
+      "bbox": [
+        26.0,
+        202.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "HT",
+          "bbox": [
+            183.0,
+            204.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.999624490737915
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            327.0,
+            226.0
+          ],
+          "confidence": 0.9999316334724426
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "205",
+          "bbox": [
+            430.0,
+            202.0,
+            472.0,
+            229.0
+          ],
+          "confidence": 0.999921977519989
+        },
+        {
+          "text": "86508",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9943536520004272
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân nhiệt:",
+      "bbox": [
+        22.0,
+        227.0,
+        595.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            22.0,
+            227.0,
+            78.0,
+            256.0
+          ],
+          "confidence": 0.9883129000663757
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            228.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9734663367271423
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            254.0
+          ],
+          "confidence": 0.91028892993927
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cậnhần okn: N31 - Viêm mũi, iêm mũi họđg iêm họng mạnmn (I10) Tăng huyến áp õ ăn (ônguyễn phá)",
+      "bbox": [
+        26.0,
+        271.0,
+        731.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhần okn: N31 - Viêm mũi, iêm mũi họđg iêm họng mạnmn (I10) Tăng huyến áp õ ăn (ônguyễn phá)",
+          "bbox": [
+            26.0,
+            271.0,
+            731.0,
+            294.0
+          ],
+          "confidence": 0.8137507438659668
+        }
+      ]
+    },
+    {
+      "text": "1) NIFEDIPIN HASAN 20 RETARD 20mg SL: 10 Viên",
+      "bbox": [
+        43.0,
+        382.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) NIFEDIPIN HASAN 20 RETARD 20mg",
+          "bbox": [
+            43.0,
+            382.0,
+            456.0,
+            412.0
+          ],
+          "confidence": 0.9891793131828308
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            383.0,
+            709.0,
+            411.0
+          ],
+          "confidence": 0.9615854024887085
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốngữ",
+      "bbox": [
+        35.0,
+        411.0,
+        162.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            98.0,
+            433.0
+          ],
+          "confidence": 0.871870756149292
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8116908073425293
+        }
+      ]
+    },
+    {
+      "text": "2) AMOXICILLIN 500MG 0,5g SL: 20 viên",
+      "bbox": [
+        36.0,
+        432.0,
+        705.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) AMOXICILLIN 500MG 0,5g",
+          "bbox": [
+            36.0,
+            432.0,
+            357.0,
+            467.0
+          ],
+          "confidence": 0.9426278471946716
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            593.0,
+            436.0,
+            705.0,
+            464.0
+          ],
+          "confidence": 0.9898985028266907
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        463.0,
+        162.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            464.0,
+            99.0,
+            485.0
+          ],
+          "confidence": 0.9242978096008301
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            489.0
+          ],
+          "confidence": 0.9374353289604187
+        }
+      ]
+    },
+    {
+      "text": "3) PARACETAMOL 500MG 500mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        484.0,
+        710.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) PARACETAMOL 500MG 500mg",
+          "bbox": [
+            37.0,
+            484.0,
+            397.0,
+            519.0
+          ],
+          "confidence": 0.9472633600234985
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            487.0,
+            710.0,
+            516.0
+          ],
+          "confidence": 0.9484924674034119
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        514.0,
+        163.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            517.0,
+            94.0,
+            538.0
+          ],
+          "confidence": 0.837203860282898
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            514.0,
+            163.0,
+            543.0
+          ],
+          "confidence": 0.9619500637054443
+        }
+      ]
+    },
+    {
+      "text": "4) CLORPHENIRAMIN 4mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        537.0,
+        709.0,
+        571.0
+      ],
+      "words": [
+        {
+          "text": "4) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            37.0,
+            537.0,
+            333.0,
+            571.0
+          ],
+          "confidence": 0.9485988616943359
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            541.0,
+            709.0,
+            566.0
+          ],
+          "confidence": 0.9165546894073486
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        568.0,
+        163.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.767109215259552
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9441507458686829
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.9562608003616333
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        648.0,
+        168.0,
+        670.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            648.0,
+            168.0,
+            670.0
+          ],
+          "confidence": 0.9581643342971802
+        }
+      ]
+    },
+    {
+      "text": "Ngày 01/04/2019",
+      "bbox": [
+        484.0,
+        684.0,
+        622.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 01/04/2019",
+          "bbox": [
+            484.0,
+            684.0,
+            622.0,
+            705.0
+          ],
+          "confidence": 0.9322742819786072
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        700.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            700.0,
+            198.0,
+            725.0
+          ],
+          "confidence": 0.9873242974281311
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9960330128669739
+        }
+      ]
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "bbox": [
+        469.0,
+        781.0,
+        623.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "YS. Đào Thị Huyền",
+          "bbox": [
+            469.0,
+            781.0,
+            623.0,
+            809.0
+          ],
+          "confidence": 0.964540958404541
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        839.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            839.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.8488333821296692
+        }
+      ]
+    },
+    {
+      "text": "03/05/2021 17:59:59",
+      "bbox": [
+        586.0,
+        880.0,
+        731.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "03/05/2021 17:59:59",
+          "bbox": [
+            586.0,
+            880.0,
+            731.0,
+            900.0
+          ],
+          "confidence": 0.9996362924575806
+        }
+      ]
+    }
+  ]
+}

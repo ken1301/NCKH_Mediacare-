@@ -1,0 +1,536 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_256",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_256.png",
+  "text": "1/1 M sc người bnh\nTRÀNG AN\nSố phiếu 848/2021\nTOA THUỐC BHYT\nNamNx\nThu bặho h hm y tuế GB 35 35 212\nMạch: lần/phút Huyết áp: MMHg Thân hiệt: C\nCộn lâm sàng:\nCâềuhần knhnản 81 - Rốc 1o ạn c ức năng n inh\n1) HOẠAT HUYHT DNG NO 150mg420mg SL: 20 viên\nGhu ch ốn Uốg: Sáng 2 viên Chiều 2 viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/03/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n09/05/2021 16:58:37",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        17.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            17.0,
+            122.0,
+            65.0
+          ],
+          "confidence": 0.9997892379760742
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        243.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            243.0,
+            80.0
+          ],
+          "confidence": 0.8946899771690369
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 848/2021",
+      "bbox": [
+        369.0,
+        89.0,
+        523.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 848/2021",
+          "bbox": [
+            369.0,
+            89.0,
+            523.0,
+            122.0
+          ],
+          "confidence": 0.9671363830566406
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hm y tuế GB 35 35 212",
+      "bbox": [
+        26.0,
+        203.0,
+        470.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hm y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7481600642204285
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            184.0,
+            205.0,
+            219.0,
+            225.0
+          ],
+          "confidence": 0.9954591989517212
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            206.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9999159574508667
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998221397399902
+        },
+        {
+          "text": "212",
+          "bbox": [
+            431.0,
+            203.0,
+            470.0,
+            227.0
+          ],
+          "confidence": 0.9998405575752258
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8164698481559753
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Câềuhần knhnản 81 - Rốc 1o ạn c ức năng n inh",
+      "bbox": [
+        26.0,
+        270.0,
+        349.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Câềuhần knhnản 81 - Rốc 1o ạn c ức năng n inh",
+          "bbox": [
+            26.0,
+            270.0,
+            349.0,
+            293.0
+          ],
+          "confidence": 0.7968953251838684
+        }
+      ]
+    },
+    {
+      "text": "1) HOẠAT HUYHT DNG NO 150mg420mg SL: 20 viên",
+      "bbox": [
+        41.0,
+        377.0,
+        703.0,
+        414.0
+      ],
+      "words": [
+        {
+          "text": "1) HOẠAT HUYHT DNG NO 150mg420mg",
+          "bbox": [
+            41.0,
+            377.0,
+            505.0,
+            414.0
+          ],
+          "confidence": 0.8942417502403259
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            593.0,
+            384.0,
+            703.0,
+            409.0
+          ],
+          "confidence": 0.9904394745826721
+        }
+      ]
+    },
+    {
+      "text": "Ghu ch ốn Uốg: Sáng 2 viên Chiều 2 viên",
+      "bbox": [
+        32.0,
+        409.0,
+        605.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghu ch ốn",
+          "bbox": [
+            32.0,
+            411.0,
+            114.0,
+            435.0
+          ],
+          "confidence": 0.9266579747200012
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            102.0,
+            410.0,
+            165.0,
+            437.0
+          ],
+          "confidence": 0.6987619400024414
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            287.0,
+            412.0,
+            375.0,
+            437.0
+          ],
+          "confidence": 0.9197337627410889
+        },
+        {
+          "text": "Chiều 2 viên",
+          "bbox": [
+            510.0,
+            409.0,
+            605.0,
+            436.0
+          ],
+          "confidence": 0.9947882294654846
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9808337092399597
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 11/03/2021",
+      "bbox": [
+        482.0,
+        523.0,
+        623.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 11/03/2021",
+          "bbox": [
+            482.0,
+            523.0,
+            623.0,
+            549.0
+          ],
+          "confidence": 0.968204140663147
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        477.0,
+        626.0,
+        617.0,
+        651.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            477.0,
+            626.0,
+            617.0,
+            651.0
+          ],
+          "confidence": 0.9638680219650269
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488335013389587
+        }
+      ]
+    },
+    {
+      "text": "09/05/2021 16:58:37",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "09/05/2021 16:58:37",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9995403289794922
+        }
+      ]
+    }
+  ]
+}

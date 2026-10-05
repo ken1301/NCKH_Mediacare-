@@ -22,3 +22,12 @@ dataset/annotations/**
 *.webp
 *.tif
 *.tiff
+
+# Training checkpoints are large and are not required for inference.
+# Keep the exported inference model and evaluation/text artifacts tracked.
+dataset/processed/**/fine-tune/model/*.pdparams
+dataset/processed/**/fine-tune/model/*.pdopt
+dataset/processed/**/fine-tune/model/*.states
+dataset/processed/**/fine-tune/**/*.pdparams
+dataset/processed/**/fine-tune/**/*.pdopt
+dataset/processed/**/fine-tune/**/*.states

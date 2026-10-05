@@ -1,0 +1,370 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1110",
+  "image": "public_train/image/VAIPE_P_TRAIN_1110.png",
+  "text": "1/1\nSố phiếu 837/2018\n4659132\nTOA THUỐC BHYT\nNam\nNữ\n208\n22629\n2\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: J02 - Viêm họng cấp\n1) AMOXICILLIN 500MG 0,5g\nSL: 20 Viên\nGhi chú Uống:\n2) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\n3) COSYNDO B 175mg+175mg+125mcg\nSL: 10 Viên\nGhi chú Uống\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/06/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n28/12/2021 23:23:31",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 837/2018",
+      "label": "other",
+      "bbox": [
+        371,
+        109,
+        524,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4659132",
+      "label": "other",
+      "bbox": [
+        625,
+        119,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22629",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J02 - Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        252,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILLIN 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        355,
+        430
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        273,
+        483
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) COSYNDO B 175mg+175mg+125mcg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        503,
+        452,
+        537
+      ],
+      "mapping": 104
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        536,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        166,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29/06/2018",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "label": "other",
+      "bbox": [
+        456,
+        748,
+        637,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28/12/2021 23:23:31",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        729,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

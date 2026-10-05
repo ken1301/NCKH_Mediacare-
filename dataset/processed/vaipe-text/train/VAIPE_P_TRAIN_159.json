@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_159",
+  "image": "public_train/image/VAIPE_P_TRAIN_159.png",
+  "text": "Khoa Khám bệnh\nBốc khám nội\nSố phiếu 53616/2021\n4712994\nTOA THUỐC BHYT\nNam\nNữ\n12069\n2\n35\n35\n206\nmmHg Thân nhiệt: 36.7\nLần/phút Huyết áp:\nMạch:\n80\n140\nCận lâm sàng:\nChần đoán: T10 - Bệnh lý tăng huyết áp; (E78) Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid\nmáu khác\n1) HANGITOR PLUS 40mg+12,5mg\nSL: 30 viên\nGhi chú Uống:\nSáng 1 viên\n2) ATORIS 20MG 20mg\nSL: 15 Viên\nGhi chú Uống:\nTối 1/2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: Hẹn KHám Lại 17/12/2021\nNgày hẹn tái khám:\nNgày 17/11/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Nguyễn Văn Thự\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 22:44:55",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nội",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        188,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 53616/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4712994",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1023,
+        255,
+        1059,
+        279
+      ],
+      "mapping": null
+    },
+    {
+      "text": "12069",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.7",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        135,
+        367,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "140",
+      "label": "other",
+      "bbox": [
+        497,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        393,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: T10 - Bệnh lý tăng huyết áp; (E78) Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1077,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "máu khác",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        455,
+        137,
+        477
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HANGITOR PLUS 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        597,
+        633
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        591,
+        1050,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        235,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        552,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ATORIS 20MG 20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        427,
+        710
+      ],
+      "mapping": 15
+    },
+    {
+      "text": "SL: 15 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1055,
+        702
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1/2 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        710,
+        1065,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Hẹn KHám Lại 17/12/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        562,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 17/11/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "label": "other",
+      "bbox": [
+        667,
+        1030,
+        965,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 22:44:55",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

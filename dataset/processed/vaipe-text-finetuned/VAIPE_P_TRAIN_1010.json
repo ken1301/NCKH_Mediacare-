@@ -1,0 +1,637 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1010",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1010.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngogoạ] Số phiếu 33053/2021\nTOA THAỐC YBHYT\nNmx 2\nThu ặo h êhám y tế GB 4 35 35 210\nMạch: lần/phút Huyết áp: / MMHHg T Thâ n hit: c\nCận lâm sàng:\nCâềuhNhn ongn: H60 - m aạ ngOàhi\n1) CEFADROXIL 500MG 0,5g SL: 28 Viên\nGhi chúc Uống Sáng 2 Viên Tối 2 Viên\n2) PARTAMOL TAB. 500mg SL: 10 Vi ên\nGhi chú Uống Sáng 1 Viên Tối 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n05/07/2021 09:17:16",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        34.0,
+        716.0,
+        81.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            34.0,
+            120.0,
+            81.0
+          ],
+          "confidence": 0.9295946955680847
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8412762880325317
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoạ] Số phiếu 33053/2021",
+      "bbox": [
+        24.0,
+        102.0,
+        545.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoạ]",
+          "bbox": [
+            24.0,
+            102.0,
+            146.0,
+            133.0
+          ],
+          "confidence": 0.9063888192176819
+        },
+        {
+          "text": "Số phiếu 33053/2021",
+          "bbox": [
+            369.0,
+            106.0,
+            545.0,
+            139.0
+          ],
+          "confidence": 0.9988513588905334
+        }
+      ]
+    },
+    {
+      "text": "TOA THAỐC YBHYT",
+      "bbox": [
+        259.0,
+        140.0,
+        509.0,
+        171.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAỐC YBHYT",
+          "bbox": [
+            259.0,
+            140.0,
+            509.0,
+            171.0
+          ],
+          "confidence": 0.8585950136184692
+        }
+      ]
+    },
+    {
+      "text": "Nmx 2",
+      "bbox": [
+        616.0,
+        164.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "Nmx 2",
+          "bbox": [
+            616.0,
+            164.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.8251676559448242
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế GB 4 35 35 210",
+      "bbox": [
+        25.0,
+        221.0,
+        471.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            221.0,
+            154.0,
+            245.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            222.0,
+            221.0,
+            245.0
+          ],
+          "confidence": 0.999683141708374
+        },
+        {
+          "text": "4",
+          "bbox": [
+            244.0,
+            223.0,
+            268.0,
+            244.0
+          ],
+          "confidence": 0.5884009003639221
+        },
+        {
+          "text": "35",
+          "bbox": [
+            295.0,
+            221.0,
+            328.0,
+            245.0
+          ],
+          "confidence": 0.9996246099472046
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            221.0,
+            394.0,
+            246.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "210",
+          "bbox": [
+            431.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.9998682141304016
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHHg T Thâ n hit: c",
+      "bbox": [
+        25.0,
+        244.0,
+        678.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            248.0,
+            76.0,
+            272.0
+          ],
+          "confidence": 0.9905017018318176
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            245.0,
+            309.0,
+            274.0
+          ],
+          "confidence": 0.9642993211746216
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            250.0,
+            391.0,
+            271.0
+          ],
+          "confidence": 0.9856986403465271
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            250.0,
+            509.0,
+            272.0
+          ],
+          "confidence": 0.7633803486824036
+        },
+        {
+          "text": "T Thâ n hit:",
+          "bbox": [
+            510.0,
+            248.0,
+            596.0,
+            272.0
+          ],
+          "confidence": 0.8239466547966003
+        },
+        {
+          "text": "c",
+          "bbox": [
+            648.0,
+            244.0,
+            678.0,
+            272.0
+          ],
+          "confidence": 0.6915825009346008
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        25.0,
+        267.0,
+        127.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            25.0,
+            267.0,
+            127.0,
+            294.0
+          ],
+          "confidence": 0.9892386198043823
+        }
+      ]
+    },
+    {
+      "text": "CâềuhNhn ongn: H60 - m aạ ngOàhi",
+      "bbox": [
+        27.0,
+        288.0,
+        252.0,
+        309.0
+      ],
+      "words": [
+        {
+          "text": "CâềuhNhn ongn: H60 - m aạ ngOàhi",
+          "bbox": [
+            27.0,
+            288.0,
+            252.0,
+            309.0
+          ],
+          "confidence": 0.7315255403518677
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g SL: 28 Viên",
+      "bbox": [
+        39.0,
+        397.0,
+        710.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 0,5g",
+          "bbox": [
+            39.0,
+            397.0,
+            351.0,
+            432.0
+          ],
+          "confidence": 0.9577348828315735
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            594.0,
+            402.0,
+            710.0,
+            428.0
+          ],
+          "confidence": 0.9260473847389221
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        34.0,
+        426.0,
+        706.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            431.0,
+            95.0,
+            452.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            428.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.9543900489807129
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            430.0,
+            379.0,
+            454.0
+          ],
+          "confidence": 0.9865562319755554
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            620.0,
+            426.0,
+            706.0,
+            454.0
+          ],
+          "confidence": 0.9994389414787292
+        }
+      ]
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg SL: 10 Vi ên",
+      "bbox": [
+        36.0,
+        450.0,
+        710.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) PARTAMOL TAB. 500mg",
+          "bbox": [
+            36.0,
+            450.0,
+            339.0,
+            485.0
+          ],
+          "confidence": 0.9808266162872314
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            594.0,
+            455.0,
+            710.0,
+            480.0
+          ],
+          "confidence": 0.9880358576774597
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 Viên Tối 1 Viên",
+      "bbox": [
+        33.0,
+        478.0,
+        705.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            505.0
+          ],
+          "confidence": 0.9029200673103333
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.9559473991394043
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            286.0,
+            481.0,
+            377.0,
+            507.0
+          ],
+          "confidence": 0.920842707157135
+        },
+        {
+          "text": "Tối 1 Viên",
+          "bbox": [
+            621.0,
+            479.0,
+            705.0,
+            508.0
+          ],
+          "confidence": 0.9188331365585327
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        512.0,
+        199.0,
+        533.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            512.0,
+            199.0,
+            533.0
+          ],
+          "confidence": 0.9539598226547241
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        536.0,
+        165.0,
+        557.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            536.0,
+            165.0,
+            557.0
+          ],
+          "confidence": 0.9535789489746094
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        560.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            560.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/07/2021",
+      "bbox": [
+        483.0,
+        592.0,
+        623.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/07/2021",
+          "bbox": [
+            483.0,
+            592.0,
+            623.0,
+            620.0
+          ],
+          "confidence": 0.9965952038764954
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        615.0,
+        647.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            200.0,
+            638.0
+          ],
+          "confidence": 0.9803892970085144
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            623.0,
+            615.0,
+            647.0
+          ],
+          "confidence": 0.9877127408981323
+        }
+      ]
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "bbox": [
+        459.0,
+        693.0,
+        634.0,
+        725.0
+      ],
+      "words": [
+        {
+          "text": "BS. Lương Tiến Dũng",
+          "bbox": [
+            459.0,
+            693.0,
+            634.0,
+            725.0
+          ],
+          "confidence": 0.9783863425254822
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        753.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            753.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.8488333821296692
+        }
+      ]
+    },
+    {
+      "text": "05/07/2021 09:17:16",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "05/07/2021 09:17:16",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9998066425323486
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_439",
+  "image": "public_train/image/VAIPE_P_TRAIN_439.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 55692/2020\n5067974\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n206\n01142\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) [Máu); Siêu âm ổ bụng\nChẩn đoán: K74 - Gan hoá sợi và xơ gan; (K80) Sỏi mật\n1) CHORLATCYN 125mg+50mg+50mg+25mg\nSL: 60 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 12/10/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n10/05/2021 15:08:49",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        127,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 55692/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5067974",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "01142",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        307,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) [Máu); Siêu âm ổ bụng",
+      "label": "other",
+      "bbox": [
+        28,
+        252,
+        663,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K74 - Gan hoá sợi và xơ gan; (K80) Sỏi mật",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        414,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CHORLATCYN 125mg+50mg+50mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        498,
+        412
+      ],
+      "mapping": 97
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        410,
+        161,
+        437
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        492,
+        167,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 12/10/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        527,
+        622,
+        549
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "label": "other",
+      "bbox": [
+        458,
+        630,
+        635,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "10/05/2021 15:08:49",
+      "label": "other",
+      "bbox": [
+        588,
+        725,
+        730,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

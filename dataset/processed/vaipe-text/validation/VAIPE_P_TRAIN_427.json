@@ -1,0 +1,227 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_427",
+  "image": "public_train/image/VAIPE_P_TRAIN_427.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChấn đoán: M47 - thoái hóa cột sống; (M13) Các viêm khớp khác; (I10) Bệnh\nlý tăng huyết áp; (K21) Bệnh trào ngược dạ dày - thực quản\nThuốc điều trị:\n1) Loxoprofen (Mezafen) 60mg\nUống sau khi ăn: Sáng 1 Viên CHIỀU 1 Viên\nSL: 20 Viên\n2) Omeprazol (Kagasdine) 20mg\nUống trước khi ăn: TốI 1 Viên\nSL: 10 Viên\nLời dặn:\nNgày 21 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1010,
+        210,
+        1059,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: M47 - thoái hóa cột sống; (M13) Các viêm khớp khác; (I10) Bệnh",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        347,
+        1097,
+        395
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lý tăng huyết áp; (K21) Bệnh trào ngược dạ dày - thực quản",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        389,
+        845,
+        434
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Loxoprofen (Mezafen) 60mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        487,
+        520
+      ],
+      "mapping": 40
+    },
+    {
+      "text": "Uống sau khi ăn: Sáng 1 Viên CHIỀU 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        880,
+        589
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Omeprazol (Kagasdine) 20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        607,
+        502,
+        647
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "Uống trước khi ăn: TốI 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        695,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        742,
+        157,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        784,
+        1027,
+        826
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        832,
+        1002,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        873,
+        970,
+        917
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1014,
+        1002,
+        1064
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1067,
+        507,
+        1103
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1112,
+        1007,
+        1155
+      ],
+      "mapping": null
+    }
+  ]
+}

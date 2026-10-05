@@ -1,0 +1,502 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_331",
+  "image": "public_train/image/VAIPE_P_TRAIN_331.png",
+  "text": "Khoa Khám bệnh\nPK Số 2 [Nội]\nSố phiếu 35880/2021\n4708220\nTOA THUỐC BHYT\nNam\nNữ\n207\nPHT 2 L35\n83667\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: chụp Xquang ngực thăng\nChấn đoán: M19 - thoái hóa khớp khác;; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-\n1677): (J20) Viêm phế quản cấp\n1) CEFADROXIL 500MG 0,5g\nSL: 20 Viên\nGhi chú Uống\nSáng 2 Viên\nChiều 2 Viên\n2) MENISON 4MG 4mg\nSL: 15 Viên\nGhi chú Uống:\nSáng 3 Viên\n3) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n4) DIXIREIN 375mg\nSL: 20 Viên\nChiều 2 Viên\nGhi chú Uống\nSáng 2 Viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n20/12/2021 20:35:35",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        28,
+        79,
+        148,
+        97
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 35880/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4708220",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PHT 2 L35",
+      "label": "other",
+      "bbox": [
+        188,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "83667",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        559,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: chụp Xquang ngực thăng",
+      "label": "other",
+      "bbox": [
+        28,
+        275,
+        303,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: M19 - thoái hóa khớp khác;; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        714,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1677): (J20) Viêm phế quản cấp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        310,
+        244,
+        332
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        348,
+        430
+      ],
+      "mapping": 19
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        153,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) MENISON 4MG 4mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        288,
+        483
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "SL: 15 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 3 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        505,
+        333,
+        534
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        534,
+        162,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        539,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        559,
+        253,
+        588
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        707,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        587,
+        607,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        153,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        590,
+        377,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        619,
+        197,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        643,
+        164,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        667,
+        168,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21/07/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        703,
+        621,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        721,
+        199,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        732,
+        612,
+        749
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "label": "other",
+      "bbox": [
+        457,
+        803,
+        636,
+        827
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        858,
+        417,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "20/12/2021 20:35:35",
+      "label": "other",
+      "bbox": [
+        585,
+        898,
+        732,
+        918
+      ],
+      "mapping": null
+    }
+  ]
+}

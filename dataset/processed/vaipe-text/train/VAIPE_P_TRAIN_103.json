@@ -1,0 +1,425 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_103",
+  "image": "public_train/image/VAIPE_P_TRAIN_103.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 56255/2018\n4659132\nTOA THUỐC BHYT\nNam\nNữ\n208\n22629\n2\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: 110 - Tăng huyết áp vô căn (nguyên phát)\n1) TROYSAR AM 5mg +50mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) LENINARTO 10 10mg\nSL: 30 Viên\nGhi chú Uống:\nTối 1 Viên\n3) STACETAM 800MG 800mg\nSL: 20 Viên\nTối 1 Viên\nGhi chú Uống\nSáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 12/09/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n28/12/2021 23:17:37",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 56255/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        110,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4659132",
+      "label": "other",
+      "bbox": [
+        625,
+        119,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22629",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: 110 - Tăng huyết áp vô căn (nguyên phát)",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        390,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) TROYSAR AM 5mg +50mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        402,
+        348,
+        431
+      ],
+      "mapping": 1
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        160,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        433,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) LENINARTO 10 10mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        299,
+        483
+      ],
+      "mapping": 14
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        483,
+        701,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) STACETAM 800MG 800mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        350,
+        534
+      ],
+      "mapping": 92
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        534,
+        701,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        539,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 12/09/2018",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        675,
+        612,
+        699
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "label": "other",
+      "bbox": [
+        454,
+        748,
+        639,
+        778
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28/12/2021 23:17:37",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

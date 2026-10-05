@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_35",
+  "image": "public_train/image/VAIPE_P_TRAIN_35.png",
+  "text": "1/1\nPK Số 7 [Mắt]\nSố phiếu 56989/2019\n4706425\nTOA THUỐC BHYT\nNam\nNữ\n205\nTC\n74134\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser);\nChấn đoán: J02 - Viêm họng cấp; (K10.2) Tinh trạng viêm của xương hàm; (D34) Bướu lành tuyến giáp\n1) CEFADROXIL 0,5g\nSL: 20 Viên\nSáng 2 Viên\nChiều 2 Viên\nGhi chú uống\n2) VIPREDNI 16MG 16mg\nSL: 10 Viên\nGhi chú Uống sau khi ăn:\nSáng 2 Viên\n3) MYPARA 500 500mg\nSL: 20 Viên\nGhi chú Uống\nSáng 2 Viên\nChiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/09/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n01/01/2022 15:02:08",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 7 [Mắt]",
+      "label": "other",
+      "bbox": [
+        26,
+        108,
+        130,
+        130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 56989/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4706425",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        505,
+        170
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TC",
+      "label": "other",
+      "bbox": [
+        188,
+        226,
+        215,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "74134",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        301,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser);",
+      "label": "other",
+      "bbox": [
+        26,
+        270,
+        523,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: J02 - Viêm họng cấp; (K10.2) Tinh trạng viêm của xương hàm; (D34) Bướu lành tuyến giáp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        734,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFADROXIL 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        273,
+        430
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        37,
+        434,
+        153,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) VIPREDNI 16MG 16mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        313,
+        483
+      ],
+      "mapping": 75
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        233,
+        507
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) MYPARA 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        290,
+        534
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        35,
+        536,
+        153,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        168,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 11/09/2019",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        621,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        63,
+        667,
+        199,
+        691
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        675,
+        612,
+        699
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        749,
+        634,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "01/01/2022 15:02:08",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

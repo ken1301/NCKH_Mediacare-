@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_743",
+  "image": "public_train/image/VAIPE_P_TRAIN_743.png",
+  "text": "Khoa Khám bệnh\nBốc khám Ngoại\nSố phiếu 46111/2021\n4711844\nTOA THUỐC BHYT\nNam\nNữ\n81073\n35\n35\n200\n4\nmmHg Thân nhiệt: 36.8\nlần/phút Huyết áp:\nMạch:\n85\n120\nCận lâm sàng:\nChần đoán: L03 - Viêm mô bào; (K59.0) Táo bón; (G46?) Hội chứng mạch máu não trong bệnh mạch\nnão (I60-1677)\n1) HAPENXIN CAPSULES 0,5g\nSL: 20 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) PARTAMOL TAB. 500mg\nSL:20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n3) Bố GAN P/H 125mg+100mg+25mg\nSL: 40 Viên\nGhi chú uống:\nChiều 2 Viên\nSáng 2 Viên\n4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 20 viên\nGhi chú Uống:\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/09/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Lưu Minh Tân\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 18:55:24",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Ngoại",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        213,
+        184
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 46111/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4711844",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        255,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "81073",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "200",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.8",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "85",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        497,
+        365,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        392,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: L03 - Viêm mô bào; (K59.0) Táo bón; (G46?) Hội chứng mạch máu não trong bệnh mạch",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1072,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "não (I60-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        452,
+        187,
+        480
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        540,
+        632
+      ],
+      "mapping": 61
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        495,
+        710
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL:20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        702
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        711,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Bố GAN P/H 125mg+100mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        744,
+        622,
+        789
+      ],
+      "mapping": 18
+    },
+    {
+      "text": "SL: 40 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        790,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        820,
+        750,
+        868
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        827,
+        1050,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        867,
+        897,
+        895
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        552,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        912,
+        290,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        944,
+        242,
+        976
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        987,
+        247,
+        1015
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27/09/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        1040,
+        925,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1067,
+        292,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1077,
+        913,
+        1110
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1192,
+        947,
+        1220
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1272,
+        617,
+        1306
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 18:55:24",
+      "label": "other",
+      "bbox": [
+        877,
+        1334,
+        1089,
+        1359
+      ],
+      "mapping": null
+    }
+  ]
+}

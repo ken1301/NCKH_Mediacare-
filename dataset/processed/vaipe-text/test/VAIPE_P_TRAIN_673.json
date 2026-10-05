@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_673",
+  "image": "public_train/image/VAIPE_P_TRAIN_673.png",
+  "text": "Khoa Khám bệnh\nBốc khám nhi\nSố phiếu 48745/2021\n4905983\nTOA THUỐC BHYT\nNam\nNữ\n18404\n2\n35\n35\n206\nLần/phút Huyết áp: 120\nmmHg Thân nhiệt: 37\nMạch:\n80\nCận lâm sảng: Chụp Xquang cột sống thắt lưng thẳng nghiêng, Điện tim thường, Siêu âm ổ bung (gan\nmật, tụy, lách, thận, bàng quang)\nChấn đoán: H81 - Rối loạn chức năng tiền đình; (R07.2) Đau trước tim; (N20) TD Sỏi thận và niệu\nquản; (M47) thoái hóa cột sống thắt lưng\n1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 40 viên\nGhi chú Uống:\nChiều 2 viên\nSáng 2 viên\n2) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 15/10/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Khắc Phú\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:17:09",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám nhi",
+      "label": "other",
+      "bbox": [
+        37,
+        147,
+        187,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 48745/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4905983",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "18404",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp: 120",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        612,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sảng: Chụp Xquang cột sống thắt lưng thẳng nghiêng, Điện tim thường, Siêu âm ổ bung (gan",
+      "label": "other",
+      "bbox": [
+        37,
+        390,
+        1065,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mật, tụy, lách, thận, bàng quang)",
+      "label": "other",
+      "bbox": [
+        37,
+        425,
+        367,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: H81 - Rối loạn chức năng tiền đình; (R07.2) Đau trước tim; (N20) TD Sỏi thận và niệu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        450,
+        1042,
+        480
+      ],
+      "mapping": null
+    },
+    {
+      "text": "quản; (M47) thoái hóa cột sống thắt lưng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        479,
+        452,
+        509
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        615,
+        750,
+        660
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        622,
+        1047,
+        650
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        655,
+        235,
+        693
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        660,
+        897,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        665,
+        552,
+        692
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        697,
+        495,
+        737
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        700,
+        1057,
+        732
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        732,
+        235,
+        770
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        765,
+        737,
+        905,
+        765
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        742,
+        557,
+        770
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        785,
+        290,
+        812
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        816,
+        242,
+        848
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        860,
+        247,
+        887
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 15/10/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        912,
+        925,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        940,
+        292,
+        967
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        952,
+        912,
+        980
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Khắc Phú",
+      "label": "other",
+      "bbox": [
+        705,
+        1060,
+        925,
+        1090
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1141,
+        617,
+        1179
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:17:09",
+      "label": "other",
+      "bbox": [
+        877,
+        1207,
+        1089,
+        1230
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_689",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_689.png",
+  "text": "M sc người bnh\nTYT XÃ NHÂN CHÍNH\nSố phiếu 5010/2019\nTOA THUỐC BHYT\nNam x Nữ\nThu ặo h ếhám y tế S 35 35 209 86954 C\nMạch: lần/phút Huyết áp: / MMHg Thân hiệt:\nCộn lâm sàng:\nCnhản okn: 502- Viêm họng Ccấp: (G46) H:i chứng mMạch máu nđo trOng bnh Mmạch não (160-1677)\n1) DROXICEF 500MG 0,5g SL: 20 Viên\nGhi chú Uốngữ\n2) MYPARA 500 500mg SL: 15 Viên\nGhi chú 4 Uốg\n3) HOAT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chúc Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/11/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSDK. L Thị Anh\nTiái khákhám Xịin Mmang thco onđm Xc nghinệm phiram (ônếu co)\n15/05/2021 10:31:36",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ NHÂN CHÍNH",
+      "bbox": [
+        27.0,
+        54.0,
+        203.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ NHÂN CHÍNH",
+          "bbox": [
+            27.0,
+            54.0,
+            203.0,
+            78.0
+          ],
+          "confidence": 0.9044846892356873
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 5010/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 5010/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9791755676269531
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9783006906509399
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế S 35 35 209 86954 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "S",
+          "bbox": [
+            181.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.8670097589492798
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999125003814697
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997860789299011
+        },
+        {
+          "text": "86954",
+          "bbox": [
+            507.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9997225999832153
+        },
+        {
+          "text": "C",
+          "bbox": [
+            643.0,
+            217.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.4363517761230469
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHg Thân hiệt:",
+      "bbox": [
+        25.0,
+        229.0,
+        595.0,
+        255.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9723103046417236
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            250.0
+          ],
+          "confidence": 0.850374698638916
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8164698481559753
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cnhản okn: 502- Viêm họng Ccấp: (G46) H:i chứng mMạch máu nđo trOng bnh Mmạch não (160-1677)",
+      "bbox": [
+        25.0,
+        270.0,
+        710.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhản okn: 502- Viêm họng Ccấp: (G46) H:i chứng mMạch máu nđo trOng bnh Mmạch não (160-1677)",
+          "bbox": [
+            25.0,
+            270.0,
+            710.0,
+            294.0
+          ],
+          "confidence": 0.8058381080627441
+        }
+      ]
+    },
+    {
+      "text": "1) DROXICEF 500MG 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) DROXICEF 500MG 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            320.0,
+            415.0
+          ],
+          "confidence": 0.9321050643920898
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9694065451622009
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốngữ",
+      "bbox": [
+        34.0,
+        411.0,
+        162.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            434.0
+          ],
+          "confidence": 0.8842782378196716
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8116908073425293
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 15 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            291.0,
+            467.0
+          ],
+          "confidence": 0.9425942301750183
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9577236175537109
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú 4 Uốg",
+      "bbox": [
+        32.0,
+        462.0,
+        162.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            462.0,
+            99.0,
+            487.0
+          ],
+          "confidence": 0.8523920774459839
+        },
+        {
+          "text": "4",
+          "bbox": [
+            100.0,
+            471.0,
+            108.0,
+            480.0
+          ],
+          "confidence": 0.36199435591697693
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            102.0,
+            463.0,
+            162.0,
+            489.0
+          ],
+          "confidence": 0.8248011469841003
+        }
+      ]
+    },
+    {
+      "text": "3) HOAT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        484.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) HOAT HUYT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            37.0,
+            484.0,
+            501.0,
+            518.0
+          ],
+          "confidence": 0.8948105573654175
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9732725024223328
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống:",
+      "bbox": [
+        34.0,
+        513.0,
+        165.0,
+        541.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.8370176553726196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            513.0,
+            165.0,
+            541.0
+          ],
+          "confidence": 0.9205467104911804
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9813960194587708
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9690350294113159
+        }
+      ]
+    },
+    {
+      "text": "Ngày 29/11/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 29/11/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9629601240158081
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "YSDK. L Thị Anh",
+      "bbox": [
+        472.0,
+        731.0,
+        622.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "YSDK. L Thị Anh",
+          "bbox": [
+            472.0,
+            731.0,
+            622.0,
+            755.0
+          ],
+          "confidence": 0.8877522349357605
+        }
+      ]
+    },
+    {
+      "text": "Tiái khákhám Xịin Mmang thco onđm Xc nghinệm phiram (ônếu co)",
+      "bbox": [
+        33.0,
+        786.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tiái khákhám Xịin Mmang thco onđm Xc nghinệm phiram (ônếu co)",
+          "bbox": [
+            33.0,
+            786.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.818964958190918
+        }
+      ]
+    },
+    {
+      "text": "15/05/2021 10:31:36",
+      "bbox": [
+        587.0,
+        825.0,
+        732.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "15/05/2021 10:31:36",
+          "bbox": [
+            587.0,
+            825.0,
+            732.0,
+            848.0
+          ],
+          "confidence": 0.9554927945137024
+        }
+      ]
+    }
+  ]
+}

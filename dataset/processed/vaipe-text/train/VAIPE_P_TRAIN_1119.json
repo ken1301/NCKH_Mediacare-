@@ -1,0 +1,502 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1119",
+  "image": "public_train/image/VAIPE_P_TRAIN_1119.png",
+  "text": "1/1\nVỒNG DU\nSố phiếu 1380/2021\n5090751\nTOA THUỐC BHYT\nNam\nNữ\n209\n54141\nCT 2 L35\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: K05 - Viêm nướu và bệnh nha chu; (H81) Rối loạn chức năng tiền đình\n1) AMOXICILIN 500MG 500mg\nSL: 20 viên\nChiều 2 viên\nGhi chú uống\nSáng 2 viên\n2) METRONIDAZOL 250 250mg\nSL: 20 Viên\nGhi chú uống:\nChiều 2 Viên\nSáng 2 Viên\n3) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 20 viên\nChiều 2 viên\nGhi chú Uống\nSáng 2 viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/05/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Thị Thoan\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n20/12/2021 20:42:36",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "VỒNG DU",
+      "label": "other",
+      "bbox": [
+        153,
+        75,
+        230,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1380/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        532,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5090751",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        687,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "54141",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        559,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "CT 2 L35",
+      "label": "other",
+      "bbox": [
+        188,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        241
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K05 - Viêm nướu và bệnh nha chu; (H81) Rối loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        285,
+        596,
+        313
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        366,
+        430
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        703,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        432,
+        603,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        37,
+        434,
+        159,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        437,
+        372,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        377,
+        483
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        483,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        505,
+        333,
+        534
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        35,
+        534,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        536,
+        607,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        539,
+        377,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        557,
+        503,
+        588
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        703,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        587,
+        603,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        153,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        590,
+        372,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        619,
+        197,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        35,
+        643,
+        164,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        667,
+        168,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 28/05/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        703,
+        621,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        721,
+        199,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        732,
+        612,
+        749
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Thị Thoan",
+      "label": "other",
+      "bbox": [
+        470,
+        803,
+        623,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        858,
+        414,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "20/12/2021 20:42:36",
+      "label": "other",
+      "bbox": [
+        585,
+        898,
+        732,
+        918
+      ],
+      "mapping": null
+    }
+  ]
+}

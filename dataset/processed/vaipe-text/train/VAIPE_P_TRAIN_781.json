@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_781",
+  "image": "public_train/image/VAIPE_P_TRAIN_781.png",
+  "text": "1/1\nPK Số 5.1 [TĐ]\nSố phiếu 45984/2019\n4781186\nTOA THUỐC BHYT\nNam\nNữ\nHT\n35\n206\n63959\n2\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (110) Tăng huyết áp vô căn (nguyên\nphát)\n1) GLUCOFAST 500 500mg\nSL: 68 Viên\nGhi chú Uống sau khi ăn:\nChiều 1 Viên\nSáng 1 Viên\n2) BLOZA 50mg\nSL: 34 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ ba, 27/08/2019\nNgày 24/07/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n15/05/2021 10:53:02",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        137,
+        112
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 45984/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4781186",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        618,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "HT",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        214,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "63959",
+      "label": "other",
+      "bbox": [
+        511,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (110) Tăng huyết áp vô căn (nguyên",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        713,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "phát)",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        294,
+        65,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) GLUCOFAST 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        326,
+        413
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "SL: 68 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        412,
+        232,
+        438
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) BLOZA 50mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        219,
+        466
+      ],
+      "mapping": 33
+    },
+    {
+      "text": "SL: 34 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        464,
+        246,
+        490
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ ba, 27/08/2019",
+      "label": "other",
+      "bbox": [
+        33,
+        543,
+        311,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24/07/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        605,
+        612,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "other",
+      "bbox": [
+        459,
+        679,
+        634,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        735,
+        414,
+        760
+      ],
+      "mapping": null
+    },
+    {
+      "text": "15/05/2021 10:53:02",
+      "label": "other",
+      "bbox": [
+        588,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

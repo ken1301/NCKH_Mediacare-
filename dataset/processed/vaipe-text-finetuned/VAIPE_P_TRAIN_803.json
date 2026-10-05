@@ -1,0 +1,648 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_803",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_803.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngoại] Số phiếu 23166/2019\nTOA THUỐC BHYT\nNamNx\nĐệị ạ chi\nThu ặo hiếhám y tuế BT 35 35 207 34607\nMạch: Llần/phút Huyết áp: / MmmHg Thân nhiệt: C\nCận 1shmnásàng: Chp Xọuang Xương àn nghn ntay thng nghing hoặc chếch\nCâộềuhốn Okngn: Sá60 - Tốn ưng nMng cv tay Và àn tay\n1) MYPARA 500 500mg SL: 20 Viên\nGhi chú Uốngữ Sáng 2 Viên Ciều 2 Viên\n2) STATRIPSINE 4,2mg SL: 20 Viên\nGhi chú Uốg Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 16/04/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. khong dung\nTiái kh áhám Xin mmMnng tho ođn, nt nghinm phirhám (ônếu c)\n27/05/202108:54:10",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        63.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            18.0,
+            119.0,
+            63.0
+          ],
+          "confidence": 0.9244763255119324
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngoại] Số phiếu 23166/2019",
+      "bbox": [
+        23.0,
+        83.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngoại]",
+          "bbox": [
+            23.0,
+            83.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9641628861427307
+        },
+        {
+          "text": "Số phiếu 23166/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9972503781318665
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9770539402961731
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        83.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tuế BT 35 35 207 34607",
+      "bbox": [
+        24.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tuế",
+          "bbox": [
+            24.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7904236316680908
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            183.0,
+            204.0,
+            219.0,
+            227.0
+          ],
+          "confidence": 0.9999529719352722
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "34607",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9981178045272827
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Llần/phút Huyết áp: / MmmHg Thân nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Llần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            230.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9322916269302368
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "MmmHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            231.0,
+            597.0,
+            255.0
+          ],
+          "confidence": 0.9443631768226624
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận 1shmnásàng: Chp Xọuang Xương àn nghn ntay thng nghing hoặc chếch",
+      "bbox": [
+        24.0,
+        250.0,
+        547.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1shmnásàng: Chp Xọuang Xương àn nghn ntay thng nghing hoặc chếch",
+          "bbox": [
+            24.0,
+            250.0,
+            547.0,
+            275.0
+          ],
+          "confidence": 0.8329674601554871
+        }
+      ]
+    },
+    {
+      "text": "Câộềuhốn Okngn: Sá60 - Tốn ưng nMng cv tay Và àn tay",
+      "bbox": [
+        26.0,
+        272.0,
+        399.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Câộềuhốn Okngn: Sá60 - Tốn ưng nMng cv tay Và àn tay",
+          "bbox": [
+            26.0,
+            272.0,
+            399.0,
+            294.0
+          ],
+          "confidence": 0.7367902994155884
+        }
+      ]
+    },
+    {
+      "text": "1) MYPARA 500 500mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        708.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) MYPARA 500 500mg",
+          "bbox": [
+            41.0,
+            381.0,
+            291.0,
+            413.0
+          ],
+          "confidence": 0.9404454231262207
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            384.0,
+            708.0,
+            409.0
+          ],
+          "confidence": 0.9975361227989197
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốngữ Sáng 2 Viên Ciều 2 Viên",
+      "bbox": [
+        34.0,
+        410.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8116908073425293
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        },
+        {
+          "text": "Ciều 2 Viên",
+          "bbox": [
+            513.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9744086861610413
+        }
+      ]
+    },
+    {
+      "text": "2) STATRIPSINE 4,2mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        710.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) STATRIPSINE 4,2mg",
+          "bbox": [
+            36.0,
+            432.0,
+            293.0,
+            467.0
+          ],
+          "confidence": 0.9576228857040405
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            434.0,
+            710.0,
+            464.0
+          ],
+          "confidence": 0.9652795791625977
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        462.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            465.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.7853193879127502
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            462.0,
+            164.0,
+            490.0
+          ],
+          "confidence": 0.7651422619819641
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.987599790096283
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            512.0,
+            462.0,
+            609.0,
+            487.0
+          ],
+          "confidence": 0.9914116859436035
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9504138827323914
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.9291466474533081
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9707815647125244
+        }
+      ]
+    },
+    {
+      "text": "Ngày 16/04/2019",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 16/04/2019",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.994278073310852
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. khong dung",
+      "bbox": [
+        481.0,
+        677.0,
+        612.0,
+        707.0
+      ],
+      "words": [
+        {
+          "text": "BS. khong dung",
+          "bbox": [
+            481.0,
+            677.0,
+            612.0,
+            707.0
+          ],
+          "confidence": 0.9763228297233582
+        }
+      ]
+    },
+    {
+      "text": "Tiái kh áhám Xin mmMnng tho ođn, nt nghinm phirhám (ônếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kh áhám Xin mmMnng tho ođn, nt nghinm phirhám (ônếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            757.0
+          ],
+          "confidence": 0.8186973929405212
+        }
+      ]
+    },
+    {
+      "text": "27/05/202108:54:10",
+      "bbox": [
+        588.0,
+        777.0,
+        732.0,
+        794.0
+      ],
+      "words": [
+        {
+          "text": "27/05/202108:54:10",
+          "bbox": [
+            588.0,
+            777.0,
+            732.0,
+            794.0
+          ],
+          "confidence": 0.9399727582931519
+        }
+      ]
+    }
+  ]
+}

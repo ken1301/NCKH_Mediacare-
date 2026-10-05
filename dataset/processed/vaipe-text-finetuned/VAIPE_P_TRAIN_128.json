@@ -1,0 +1,731 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_128",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_128.png",
+  "text": "1/1 MH sỐ người xbệnh\nTRÀNG AN\nSố phiếu 2975/2019\nTOA THUỐC BHYT\nNam 2 ữx\nThu bặho h hám y tut BT 2 35 209 53492 C\nMạch: Lần/pút Huyết áp: 135 MMHg Thân nhiệt:\nCộn lâm sàng:\nCinhần okn: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (L20) Viêm d c ĩịaạ d ứng: (H81) Ri 1oạn\nchúức năng tin ĩinh\n1) KAVASDIN 5 5mg SL: 30 Viên\nGhi chú Uốngữ Sáng 1 Viên\n2) CLORPHENIRAMIN 4mg SL: 10 Viên\nGhi chúc Uốg Sáng 1 Viên Chiều 1 Viên\n3) HOAT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 18/07/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Văn Hải\nTá khKkhám Xin mang th cho ĩođn, Xknt nghinệm phiám (ônếui co)\n14/05/2021 16:43:42",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        50.0,
+        17.0,
+        715.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            17.0,
+            122.0,
+            65.0
+          ],
+          "confidence": 0.9994677901268005
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "TRÀNG AN",
+      "bbox": [
+        150.0,
+        47.0,
+        242.0,
+        80.0
+      ],
+      "words": [
+        {
+          "text": "TRÀNG AN",
+          "bbox": [
+            150.0,
+            47.0,
+            242.0,
+            80.0
+          ],
+          "confidence": 0.857378363609314
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2975/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2975/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.9878981709480286
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9560674428939819
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut BT 2 35 209 53492 C",
+      "bbox": [
+        26.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            185.0,
+            205.0,
+            219.0,
+            225.0
+          ],
+          "confidence": 0.9619404673576355
+        },
+        {
+          "text": "2",
+          "bbox": [
+            246.0,
+            207.0,
+            264.0,
+            225.0
+          ],
+          "confidence": 0.995046854019165
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "209",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997860789299011
+        },
+        {
+          "text": "53492",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9989248514175415
+        },
+        {
+          "text": "C",
+          "bbox": [
+            643.0,
+            217.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.4363517761230469
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: 135 MMHg Thân nhiệt:",
+      "bbox": [
+        25.0,
+        229.0,
+        595.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            311.0,
+            253.0
+          ],
+          "confidence": 0.9124537110328674
+        },
+        {
+          "text": "135",
+          "bbox": [
+            328.0,
+            230.0,
+            416.0,
+            254.0
+          ],
+          "confidence": 0.9995956420898438
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            450.0,
+            233.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.9202627539634705
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cinhần okn: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (L20) Viêm d c ĩịaạ d ứng: (H81) Ri 1oạn",
+      "bbox": [
+        25.0,
+        271.0,
+        706.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cinhần okn: 110- Tăng huyếnH áp ũ căn (nguyễn phát) : (L20) Viêm d c ĩịaạ d ứng: (H81) Ri 1oạn",
+          "bbox": [
+            25.0,
+            271.0,
+            706.0,
+            294.0
+          ],
+          "confidence": 0.8198586106300354
+        }
+      ]
+    },
+    {
+      "text": "chúức năng tin ĩinh",
+      "bbox": [
+        26.0,
+        292.0,
+        164.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "chúức năng tin ĩinh",
+          "bbox": [
+            26.0,
+            292.0,
+            164.0,
+            313.0
+          ],
+          "confidence": 0.8185046315193176
+        }
+      ]
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg SL: 30 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        414.0
+      ],
+      "words": [
+        {
+          "text": "1) KAVASDIN 5 5mg",
+          "bbox": [
+            41.0,
+            381.0,
+            273.0,
+            414.0
+          ],
+          "confidence": 0.9517704248428345
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9428589344024658
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốngữ Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        411.0,
+        378.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.8736915588378906
+        },
+        {
+          "text": "Uốngữ",
+          "bbox": [
+            106.0,
+            411.0,
+            162.0,
+            436.0
+          ],
+          "confidence": 0.8116908073425293
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            411.0,
+            378.0,
+            436.0
+          ],
+          "confidence": 0.9833785891532898
+        }
+      ]
+    },
+    {
+      "text": "2) CLORPHENIRAMIN 4mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) CLORPHENIRAMIN 4mg",
+          "bbox": [
+            36.0,
+            432.0,
+            338.0,
+            467.0
+          ],
+          "confidence": 0.969903290271759
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            436.0,
+            709.0,
+            461.0
+          ],
+          "confidence": 0.9996869564056396
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uốg Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        34.0,
+        461.0,
+        609.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            379.0,
+            488.0
+          ],
+          "confidence": 0.9922634363174438
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            461.0,
+            609.0,
+            488.0
+          ],
+          "confidence": 0.978081226348877
+        }
+      ]
+    },
+    {
+      "text": "3) HOAT HUYT DUNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        484.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) HOAT HUYT DUNG NÃO 150mg 20mg",
+          "bbox": [
+            37.0,
+            484.0,
+            504.0,
+            518.0
+          ],
+          "confidence": 0.8880189657211304
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            489.0,
+            709.0,
+            515.0
+          ],
+          "confidence": 0.908460795879364
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        33.0,
+        513.0,
+        609.0,
+        541.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            94.0,
+            537.0
+          ],
+          "confidence": 0.8304785490036011
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            514.0,
+            164.0,
+            541.0
+          ],
+          "confidence": 0.9235574007034302
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            518.0,
+            377.0,
+            539.0
+          ],
+          "confidence": 0.994210958480835
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            513.0,
+            609.0,
+            540.0
+          ],
+          "confidence": 0.9994986653327942
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        546.0,
+        199.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            546.0,
+            199.0,
+            567.0
+          ],
+          "confidence": 0.9770514965057373
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9690350294113159
+        }
+      ]
+    },
+    {
+      "text": "Ngày 18/07/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 18/07/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9815901517868042
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            658.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9909539818763733
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Văn Hải",
+      "bbox": [
+        477.0,
+        731.0,
+        618.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Văn Hải",
+          "bbox": [
+            477.0,
+            731.0,
+            618.0,
+            755.0
+          ],
+          "confidence": 0.9327142238616943
+        }
+      ]
+    },
+    {
+      "text": "Tá khKkhám Xin mang th cho ĩođn, Xknt nghinệm phiám (ônếui co)",
+      "bbox": [
+        34.0,
+        788.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKkhám Xin mang th cho ĩođn, Xknt nghinệm phiám (ônếui co)",
+          "bbox": [
+            34.0,
+            788.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.7878301739692688
+        }
+      ]
+    },
+    {
+      "text": "14/05/2021 16:43:42",
+      "bbox": [
+        588.0,
+        828.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "14/05/2021 16:43:42",
+          "bbox": [
+            588.0,
+            828.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9991375803947449
+        }
+      ]
+    }
+  ]
+}

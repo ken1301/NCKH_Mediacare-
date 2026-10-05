@@ -1,0 +1,194 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_254",
+  "image": "public_train/image/VAIPE_P_TRAIN_254.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: N20 - TD Sỏi thận và niệu quản; (G46?) Hội chứng mạch máu\nnão trong bệnh mạch não (I60-1677)\nThuốc điều trị:\n1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn:\nNgày 21 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: N20 - TD Sỏi thận và niệu quản; (G46?) Hội chứng mạch máu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1052,
+        395
+      ],
+      "mapping": null
+    },
+    {
+      "text": "não trong bệnh mạch não (I60-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        527,
+        427
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        242,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        473,
+        892,
+        520
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        735,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        190,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        41,
+        611,
+        161,
+        649
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        654,
+        1027,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        705,
+        1002,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        750,
+        970,
+        787
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        890,
+        1002,
+        932
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        940,
+        507,
+        975
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        985,
+        1007,
+        1027
+      ],
+      "mapping": null
+    }
+  ]
+}

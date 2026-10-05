@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_107",
+  "image": "public_train/image/VAIPE_P_TRAIN_107.png",
+  "text": "1/1\nPK Số 7 [Mắt]\nSố phiếu 69968/2018\n4680111\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n209\n26325\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol\ntoàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)\n[Máu], Định lượng Triglycerid (máu) [Máu];\nChấn đoán: K76 - Bệnh gan khác; (E11)TD Bệnh đái tháo đường không phụ thuộc insulin; (E78) Rối\nloạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (J02) Viêm họng cấp: (G46?) Hội chứng\nmạch máu não trong bệnh mạch não (I60-167t)\n1) FUDCIME 200MG 200mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\n2) STACETAM 800MG 800mg\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 08/11/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Nguyễn Văn Tùng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n09/05/2021 08:55:42",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 7 [Mắt]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        129,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 69968/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4680111",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        687,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "26325",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        235,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        717,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)",
+      "label": "other",
+      "bbox": [
+        26,
+        275,
+        732,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "[Máu], Định lượng Triglycerid (máu) [Máu];",
+      "label": "other",
+      "bbox": [
+        28,
+        294,
+        332,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K76 - Bệnh gan khác; (E11)TD Bệnh đái tháo đường không phụ thuộc insulin; (E78) Rối",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        312,
+        713,
+        334
+      ],
+      "mapping": null
+    },
+    {
+      "text": "loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (J02) Viêm họng cấp: (G46?) Hội chứng",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        332,
+        725,
+        352
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mạch máu não trong bệnh mạch não (I60-167t)",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        352,
+        346,
+        372
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FUDCIME 200MG 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        424,
+        331,
+        453
+      ],
+      "mapping": 34
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        426,
+        708,
+        449
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        449,
+        161,
+        475
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        453,
+        606,
+        471
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        454,
+        376,
+        474
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) STACETAM 800MG 800mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        476,
+        351,
+        505
+      ],
+      "mapping": 92
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        479,
+        708,
+        501
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        501,
+        161,
+        527
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        504,
+        605,
+        523
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        506,
+        376,
+        526
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        535,
+        197,
+        555
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        558,
+        163,
+        576
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        585,
+        168,
+        605
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 08/11/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        620,
+        621,
+        640
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        638,
+        198,
+        657
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        647,
+        611,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Nguyễn Văn Tùng",
+      "label": "other",
+      "bbox": [
+        459,
+        720,
+        636,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        775,
+        414,
+        798
+      ],
+      "mapping": null
+    },
+    {
+      "text": "09/05/2021 08:55:42",
+      "label": "other",
+      "bbox": [
+        586,
+        817,
+        730,
+        834
+      ],
+      "mapping": null
+    }
+  ]
+}

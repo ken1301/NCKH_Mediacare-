@@ -1,0 +1,555 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1054",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1054.png",
+  "text": "1/1 M sc người bnh\nPK Số 1 [Ngogoại] Số phiếu 5631/2019\nTOA THC  BHYT\nNam x Nữ2\nThu ặo h êhám y tế CB 35 35 206 70379\nMạch: Lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C\nCân 1sngsàng: Chp Xôọuang Xương chong tay thng nghiêng\nCiềuhn okhoả: M15 - Th oká ok a hp\n1) PARTAMOL TAB. 500mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Chiều 2\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 25/01/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)\n30/05/2021 10:31:12",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 1 [Ngogoại] Số phiếu 5631/2019",
+      "bbox": [
+        24.0,
+        84.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 1 [Ngogoại]",
+          "bbox": [
+            24.0,
+            84.0,
+            146.0,
+            116.0
+          ],
+          "confidence": 0.9638400077819824
+        },
+        {
+          "text": "Số phiếu 5631/2019",
+          "bbox": [
+            369.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9923023581504822
+        }
+      ]
+    },
+    {
+      "text": "TOA THC  BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THC  BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8834273815155029
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ2",
+      "bbox": [
+        616.0,
+        148.0,
+        737.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ2",
+          "bbox": [
+            616.0,
+            148.0,
+            737.0,
+            180.0
+          ],
+          "confidence": 0.8469838500022888
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế CB 35 35 206 70379",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            154.0,
+            227.0
+          ],
+          "confidence": 0.7583473920822144
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            183.0,
+            204.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.7666075229644775
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            329.0,
+            228.0
+          ],
+          "confidence": 0.9998559951782227
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.965299665927887
+        },
+        {
+          "text": "70379",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9967068433761597
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9494488835334778
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "mmHHg",
+          "bbox": [
+            448.0,
+            230.0,
+            506.0,
+            255.0
+          ],
+          "confidence": 0.9203370809555054
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cân 1sngsàng: Chp Xôọuang Xương chong tay thng nghiêng",
+      "bbox": [
+        24.0,
+        250.0,
+        433.0,
+        277.0
+      ],
+      "words": [
+        {
+          "text": "Cân 1sngsàng: Chp Xôọuang Xương chong tay thng nghiêng",
+          "bbox": [
+            24.0,
+            250.0,
+            433.0,
+            277.0
+          ],
+          "confidence": 0.8320854306221008
+        }
+      ]
+    },
+    {
+      "text": "Ciềuhn okhoả: M15 - Th oká ok a hp",
+      "bbox": [
+        26.0,
+        270.0,
+        283.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Ciềuhn okhoả: M15 - Th oká ok a hp",
+          "bbox": [
+            26.0,
+            270.0,
+            283.0,
+            294.0
+          ],
+          "confidence": 0.7757434248924255
+        }
+      ]
+    },
+    {
+      "text": "1) PARTAMOL TAB. 500mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) PARTAMOL TAB. 500mg",
+          "bbox": [
+            40.0,
+            379.0,
+            336.0,
+            415.0
+          ],
+          "confidence": 0.9607930779457092
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9648714661598206
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Chiều 2",
+      "bbox": [
+        34.0,
+        406.0,
+        573.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            410.0,
+            165.0,
+            438.0
+          ],
+          "confidence": 0.7422334551811218
+        },
+        {
+          "text": "Sáng 2",
+          "bbox": [
+            285.0,
+            410.0,
+            344.0,
+            439.0
+          ],
+          "confidence": 0.9986259937286377
+        },
+        {
+          "text": "Chiều 2",
+          "bbox": [
+            509.0,
+            406.0,
+            573.0,
+            437.0
+          ],
+          "confidence": 0.9988145232200623
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9306565523147583
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9562608003616333
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 25/01/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 25/01/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9938669800758362
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            550.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9633493423461914
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        623.0,
+        627.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            623.0,
+            627.0,
+            654.0
+          ],
+          "confidence": 0.9883899688720703
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinhm phiam (ônếu co)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8435706496238708
+        }
+      ]
+    },
+    {
+      "text": "30/05/2021 10:31:12",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "30/05/2021 10:31:12",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9996861815452576
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_599",
+  "image": "public_train/image/VAIPE_P_TRAIN_599.png",
+  "text": "TRẠM Y TẾ XÃ TIÊU ĐỘNG\nSố phiếu 2189/2021\n4696305\nTOA THUỐC BHYT\nNam\nNữ\n31704\nCK\n2\n35\n35\n206\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: K74 - Gan xơ hóa và xơ gan; (H81) Rối loạn chức năng tiền đình\n1) KAHAGAN 0,1g+0,075g+0,075g\nSL: 20 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 20 viên\nGhi chú uống:\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 22/11/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Trịnh Tất Thành\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 23:19:05",
+  "words": [
+    {
+      "text": "TRẠM Y TẾ XÃ TIÊU ĐỘNG",
+      "label": "other",
+      "bbox": [
+        37,
+        97,
+        360,
+        127
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2189/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        795,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4696305",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        255,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "31704",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "CK",
+      "label": "other",
+      "bbox": [
+        275,
+        325,
+        317,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        887,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        37,
+        394,
+        185,
+        422
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K74 - Gan xơ hóa và xơ gan; (H81) Rối loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        420,
+        825,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) KAHAGAN 0,1g+0,075g+0,075g",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        585,
+        633
+      ],
+      "mapping": 62
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        495,
+        710
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        223,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        742,
+        750,
+        788
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        749,
+        1049,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        765,
+        787,
+        897,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        552,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        835,
+        290,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        866,
+        242,
+        898
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 22/11/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1000,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Trịnh Tất Thành",
+      "label": "other",
+      "bbox": [
+        697,
+        1110,
+        935,
+        1143
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 23:19:05",
+      "label": "other",
+      "bbox": [
+        877,
+        1255,
+        1089,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

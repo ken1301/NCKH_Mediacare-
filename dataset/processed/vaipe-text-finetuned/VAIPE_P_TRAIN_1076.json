@@ -1,0 +1,525 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1076",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1076.png",
+  "text": "1/1 MN c người 5bnh\nPK Số 2 [Nội] Số phiếu 56441/2019\nTOA THUỐC BHYT\nNm x n2\nThu ặo hiếhám y tế GB 205 34075\nMạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCânhần oknoả I10 - T ăng huyếH áp vũ căn (nguyễn púhát)\n1) TROYSAR AM 5mg 450mg SL: 30 Viên\nGhi chú Uống: Sáng 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn á tá khámản: Th u 09/10/2019\nNgày 09/09/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)\n01/01/2022 21:14:27",
+  "lines": [
+    {
+      "text": "1/1 MN c người 5bnh",
+      "bbox": [
+        48.0,
+        33.0,
+        717.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            33.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9997511506080627
+        },
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 56441/2019",
+      "bbox": [
+        22.0,
+        98.0,
+        548.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            98.0,
+            133.0,
+            136.0
+          ],
+          "confidence": 0.9924848079681396
+        },
+        {
+          "text": "Số phiếu 56441/2019",
+          "bbox": [
+            369.0,
+            106.0,
+            548.0,
+            139.0
+          ],
+          "confidence": 0.9460544586181641
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        256.0,
+        136.0,
+        511.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            256.0,
+            136.0,
+            511.0,
+            173.0
+          ],
+          "confidence": 0.9592517018318176
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tế GB 205 34075",
+      "bbox": [
+        24.0,
+        221.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            156.0,
+            245.0
+          ],
+          "confidence": 0.8167598247528076
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            181.0,
+            222.0,
+            223.0,
+            245.0
+          ],
+          "confidence": 0.9259889721870422
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9999454617500305
+        },
+        {
+          "text": "34075",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9997908473014832
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            311.0,
+            276.0
+          ],
+          "confidence": 0.987441897392273
+        },
+        {
+          "text": "/",
+          "bbox": [
+            378.0,
+            252.0,
+            390.0,
+            268.0
+          ],
+          "confidence": 0.6627967357635498
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        130.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            130.0,
+            294.0
+          ],
+          "confidence": 0.9549980163574219
+        }
+      ]
+    },
+    {
+      "text": "Cânhần oknoả I10 - T ăng huyếH áp vũ căn (nguyễn púhát)",
+      "bbox": [
+        24.0,
+        286.0,
+        390.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần oknoả I10 - T ăng huyếH áp vũ căn (nguyễn púhát)",
+          "bbox": [
+            24.0,
+            286.0,
+            390.0,
+            313.0
+          ],
+          "confidence": 0.7935366034507751
+        }
+      ]
+    },
+    {
+      "text": "1) TROYSAR AM 5mg 450mg SL: 30 Viên",
+      "bbox": [
+        38.0,
+        396.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) TROYSAR AM 5mg 450mg",
+          "bbox": [
+            38.0,
+            396.0,
+            352.0,
+            434.0
+          ],
+          "confidence": 0.9336196184158325
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            591.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9715467691421509
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên",
+      "bbox": [
+        31.0,
+        428.0,
+        380.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            31.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9359115362167358
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            428.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.8387137651443481
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            286.0,
+            428.0,
+            380.0,
+            457.0
+          ],
+          "confidence": 0.9857040047645569
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        30.0,
+        457.0,
+        202.0,
+        484.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            30.0,
+            457.0,
+            202.0,
+            484.0
+          ],
+          "confidence": 0.9514289498329163
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        480.0,
+        167.0,
+        507.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            480.0,
+            167.0,
+            507.0
+          ],
+          "confidence": 0.9812877178192139
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn á tá khámản: Th u 09/10/2019",
+      "bbox": [
+        30.0,
+        506.0,
+        310.0,
+        533.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn á tá khámản: Th u 09/10/2019",
+          "bbox": [
+            30.0,
+            506.0,
+            310.0,
+            533.0
+          ],
+          "confidence": 0.8969099521636963
+        }
+      ]
+    },
+    {
+      "text": "Ngày 09/09/2019",
+      "bbox": [
+        482.0,
+        540.0,
+        625.0,
+        568.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 09/09/2019",
+          "bbox": [
+            482.0,
+            540.0,
+            625.0,
+            568.0
+          ],
+          "confidence": 0.9740056991577148
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        61.0,
+        559.0,
+        617.0,
+        597.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            61.0,
+            559.0,
+            201.0,
+            586.0
+          ],
+          "confidence": 0.9989372491836548
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            489.0,
+            566.0,
+            617.0,
+            597.0
+          ],
+          "confidence": 0.9810596108436584
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        454.0,
+        642.0,
+        640.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            454.0,
+            642.0,
+            640.0,
+            671.0
+          ],
+          "confidence": 0.941253662109375
+        }
+      ]
+    },
+    {
+      "text": "Tá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)",
+      "bbox": [
+        32.0,
+        701.0,
+        415.0,
+        724.0
+      ],
+      "words": [
+        {
+          "text": "Tá khákhám Xin mMng tho ođn, Xt nghinm phiám (nếui co)",
+          "bbox": [
+            32.0,
+            701.0,
+            415.0,
+            724.0
+          ],
+          "confidence": 0.8132339119911194
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 21:14:27",
+      "bbox": [
+        587.0,
+        741.0,
+        731.0,
+        762.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 21:14:27",
+          "bbox": [
+            587.0,
+            741.0,
+            731.0,
+            762.0
+          ],
+          "confidence": 0.9457042813301086
+        }
+      ]
+    }
+  ]
+}

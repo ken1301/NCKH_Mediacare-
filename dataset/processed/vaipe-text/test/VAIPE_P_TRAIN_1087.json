@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1087",
+  "image": "public_train/image/VAIPE_P_TRAIN_1087.png",
+  "text": "Số phiếu 1119/2021\n5011356\nTOA THUỐC BHYT\nNam\nNữ\n205\n70603\nBT\n2\n35\n35\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChần đoán: H10 - Viêm kết mạc; (H81) Rối loạn chức năng tiền đình\n1) AMOXICILIN 500MG 500mg\nSL: 20 viên\nGhi chú uống\n2) PARTAMOL TAB. 500mg\nSL: 10 Viên\nGhi chú Uống:\n3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 20 viên\nGhi chú uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 22:58:37",
+  "words": [
+    {
+      "text": "Số phiếu 1119/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        152,
+        795,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5011356",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        648,
+        321,
+        696,
+        351
+      ],
+      "mapping": null
+    },
+    {
+      "text": "70603",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BT",
+      "label": "other",
+      "bbox": [
+        277,
+        325,
+        315,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        887,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        250,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        392,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: H10 - Viêm kết mạc; (H81) Rối loạn chức năng tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        416,
+        742,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        542,
+        632
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        595,
+        1050,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        495,
+        710
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        742,
+        750,
+        788
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1050,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        835,
+        290,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        866,
+        242,
+        898
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29/07/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1000,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "label": "other",
+      "bbox": [
+        702,
+        1112,
+        930,
+        1145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 22:58:37",
+      "label": "other",
+      "bbox": [
+        877,
+        1255,
+        1089,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

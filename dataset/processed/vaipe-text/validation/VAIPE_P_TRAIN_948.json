@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_948",
+  "image": "public_train/image/VAIPE_P_TRAIN_948.png",
+  "text": "Khoa Khám bệnh\nBốc khám Ngoại\nSố phiếu 36926/2021\n4931166\nTOA THUỐC BHYT\nNam\nNữ\n205\n22059\n2\n35\n35\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 36.2\nMạch: 85\n120\nCận lâm sảng: Định lượng Glucose [Máu]; Chụp Xquang khớp gối thắng, nghiêng hoặc chếch\nChần đoán: M13 - Các viêm khớp khác;; (E11)TD Bệnh đái tháo đường không phụ thuộc insuline\n1) MEZAFEN 60mg\nSL: 20 Viên\nGhi chú uống\nTối 1 Viên\nSáng 1 Viên\n2) FABAMOX 500 500mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nTối 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 27/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Lưu Minh Tân\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n31/12/2021 18:26:57",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Ngoại",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        213,
+        184
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 36926/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4931166",
+      "label": "other",
+      "bbox": [
+        935,
+        162,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22059",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.2",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch: 85",
+      "label": "other",
+      "bbox": [
+        37,
+        364,
+        159,
+        389
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sảng: Định lượng Glucose [Máu]; Chụp Xquang khớp gối thắng, nghiêng hoặc chếch",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        987,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: M13 - Các viêm khớp khác;; (E11)TD Bệnh đái tháo đường không phụ thuộc insuline",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1025,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MEZAFEN 60mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        592,
+        370,
+        632
+      ],
+      "mapping": 40
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1055,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        632,
+        1045,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        455,
+        710
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        710,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        710,
+        1045,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        242,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27/07/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1035,
+        947,
+        1062
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "31/12/2021 18:26:57",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

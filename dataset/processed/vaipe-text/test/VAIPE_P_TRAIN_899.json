@@ -1,0 +1,392 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_899",
+  "image": "public_train/image/VAIPE_P_TRAIN_899.png",
+  "text": "1/1\nLƯNG ĐẠO\nSố phiếu 1336/2021\n4700520\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n208\n12939\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: L20 - Viêm da cơ địa\n1) SERGUROP 10mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n2) CHORLATCYN 125mg+50mg+50mg+25mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 26/04/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYs ĐK. Phan Thị Tuyết\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 08:26:50",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "LƯNG ĐẠO",
+      "label": "other",
+      "bbox": [
+        155,
+        60,
+        235,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1336/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        534,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4700520",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "12939",
+      "label": "other",
+      "bbox": [
+        511,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        307,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: L20 - Viêm da cơ địa",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        254,
+        290
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) SERGUROP 10mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        260,
+        413
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) CHORLATCYN 125mg+50mg+50mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        439,
+        498,
+        466
+      ],
+      "mapping": 97
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        466,
+        605,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 26/04/2021",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        620,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ys ĐK. Phan Thị Tuyết",
+      "label": "other",
+      "bbox": [
+        456,
+        680,
+        638,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        414,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 08:26:50",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_713",
+  "image": "public_train/image/VAIPE_P_TRAIN_713.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 56826/2021\n5150679\nTOA THUỐC BHYT\nNam\nNữ\n210\n35\n57612\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Định lượng Acid Uric (Máu); Chụp Xquang xương bàn, ngón chân thắng, nghiêng hoặc\nchếch\nChẩn đoán: M10 - Gút (thống phong); (M15) thoái hóa đa khớp; (M13) Các viêm khớp khác\n1) COLCHICIN 1mg\nSL: 10 Viên\nGhi chú Uống\nSáng 1 Viên\n2) MENISON 4MG 4mg\nSL: 20 Viên\nGhi chú Uống sau khi ăn:\nSáng 4 Viên\n3) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống\nSáng 2 Viên\nTối 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 20/12/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n23/12/2021 23:36:29",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 56826/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5150679",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "210",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        301,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "57612",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Acid Uric (Máu); Chụp Xquang xương bàn, ngón chân thắng, nghiêng hoặc",
+      "label": "other",
+      "bbox": [
+        26,
+        270,
+        721,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "chếch",
+      "label": "other",
+      "bbox": [
+        28,
+        292,
+        71,
+        308
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: M10 - Gút (thống phong); (M15) thoái hóa đa khớp; (M13) Các viêm khớp khác",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        307,
+        656,
+        332
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) COLCHICIN 1mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        421,
+        253,
+        450
+      ],
+      "mapping": 30
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        423,
+        707,
+        445
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        448,
+        153,
+        472
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        448,
+        377,
+        474
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) MENISON 4MG 4mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        472,
+        286,
+        501
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        474,
+        707,
+        497
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        35,
+        503,
+        232,
+        523
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 4 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        503,
+        377,
+        523
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        525,
+        333,
+        554
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        528,
+        707,
+        550
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        554,
+        153,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        556,
+        377,
+        576
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        627,
+        556,
+        701,
+        574
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        583,
+        197,
+        603
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        607,
+        164,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        634,
+        168,
+        654
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 20/12/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        670,
+        621,
+        690
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        687,
+        199,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        698,
+        612,
+        716
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        769,
+        632,
+        794
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        825,
+        414,
+        847
+      ],
+      "mapping": null
+    },
+    {
+      "text": "23/12/2021 23:36:29",
+      "label": "other",
+      "bbox": [
+        585,
+        865,
+        732,
+        885
+      ],
+      "mapping": null
+    }
+  ]
+}

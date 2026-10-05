@@ -1,0 +1,547 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1066",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1066.png",
+  "text": "1/1 M c ngưi bnh\nSố phiếu 2250/2021\nTOA THUỐC BHYT\nNm x n2\nThuh ko hiêham y tuế CK 2 207 36256\nMạch: lần/phút Huyt áp: MmHg Thân nhiệt: c\nCận lâm sàng:\nCânhần okno: I10- Bnệnh 1y tăng huyến áp: (g111) CMm iruá khĩng ưọc ĩịnh dnh\n1) BLOZA 50mg SL: 30 Viên\nGhi chú Uống\n2) SERGUROP 10mg SL: 5 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 13/09/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nNV. Đặng Thị Thu Huyền\nTái kh khám Xin mang th co ĩonđ, Xk nghinm phiám (oếui cá)\n29/12/2021 23:26:00",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        50.0,
+        34.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            34.0,
+            122.0,
+            84.0
+          ],
+          "confidence": 0.9703874588012695
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2250/2021",
+      "bbox": [
+        368.0,
+        106.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2250/2021",
+          "bbox": [
+            368.0,
+            106.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.9881488084793091
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9819501638412476
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thuh ko hiêham y tuế CK 2 207 36256",
+      "bbox": [
+        25.0,
+        221.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thuh ko hiêham y tuế",
+          "bbox": [
+            25.0,
+            223.0,
+            154.0,
+            244.0
+          ],
+          "confidence": 0.7564689517021179
+        },
+        {
+          "text": "CK 2",
+          "bbox": [
+            165.0,
+            222.0,
+            328.0,
+            246.0
+          ],
+          "confidence": 0.8806281685829163
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9996578097343445
+        },
+        {
+          "text": "36256",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9481760263442993
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmHg Thân nhiệt:",
+          "bbox": [
+            449.0,
+            249.0,
+            598.0,
+            273.0
+          ],
+          "confidence": 0.9146296977996826
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: I10- Bnệnh 1y tăng huyến áp: (g111) CMm iruá khĩng ưọc ĩịnh dnh",
+      "bbox": [
+        25.0,
+        288.0,
+        578.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: I10- Bnệnh 1y tăng huyến áp: (g111) CMm iruá khĩng ưọc ĩịnh dnh",
+          "bbox": [
+            25.0,
+            288.0,
+            578.0,
+            312.0
+          ],
+          "confidence": 0.8205171823501587
+        }
+      ]
+    },
+    {
+      "text": "1) BLOZA 50mg SL: 30 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        709.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) BLOZA 50mg",
+          "bbox": [
+            38.0,
+            395.0,
+            223.0,
+            434.0
+          ],
+          "confidence": 0.9801244735717773
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            593.0,
+            401.0,
+            709.0,
+            430.0
+          ],
+          "confidence": 0.9500299096107483
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        32.0,
+        426.0,
+        165.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            429.0,
+            97.0,
+            454.0
+          ],
+          "confidence": 0.9712845087051392
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.9409530758857727
+        }
+      ]
+    },
+    {
+      "text": "2) SERGUROP 10mg SL: 5 Viên",
+      "bbox": [
+        35.0,
+        449.0,
+        701.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) SERGUROP 10mg",
+          "bbox": [
+            35.0,
+            449.0,
+            264.0,
+            486.0
+          ],
+          "confidence": 0.980231523513794
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            701.0,
+            483.0
+          ],
+          "confidence": 0.9811436533927917
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        479.0,
+        166.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            479.0,
+            166.0,
+            509.0
+          ],
+          "confidence": 0.8877514004707336
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.97271329164505
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9477130174636841
+        }
+      ]
+    },
+    {
+      "text": "Ngày 13/09/2021",
+      "bbox": [
+        482.0,
+        592.0,
+        624.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 13/09/2021",
+          "bbox": [
+            482.0,
+            592.0,
+            624.0,
+            620.0
+          ],
+          "confidence": 0.9784442782402039
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9740474820137024
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "NV. Đặng Thị Thu Huyền",
+      "bbox": [
+        445.0,
+        696.0,
+        648.0,
+        723.0
+      ],
+      "words": [
+        {
+          "text": "NV. Đặng Thị Thu Huyền",
+          "bbox": [
+            445.0,
+            696.0,
+            648.0,
+            723.0
+          ],
+          "confidence": 0.911908745765686
+        }
+      ]
+    },
+    {
+      "text": "Tái kh khám Xin mang th co ĩonđ, Xk nghinm phiám (oếui cá)",
+      "bbox": [
+        33.0,
+        751.0,
+        415.0,
+        775.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh khám Xin mang th co ĩonđ, Xk nghinm phiám (oếui cá)",
+          "bbox": [
+            33.0,
+            751.0,
+            415.0,
+            775.0
+          ],
+          "confidence": 0.8118189573287964
+        }
+      ]
+    },
+    {
+      "text": "29/12/2021 23:26:00",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "29/12/2021 23:26:00",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9981878995895386
+        }
+      ]
+    }
+  ]
+}

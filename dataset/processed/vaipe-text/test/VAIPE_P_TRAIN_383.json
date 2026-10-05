@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_383",
+  "image": "public_train/image/VAIPE_P_TRAIN_383.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 2\nSố phiếu 38129/2021\n4970408\nTOA THUỐC BHYT\nNam\nNữ\n205\n53854\n35\n35\n4\nMMHg Thân nhiệt: 37\n79\nLần/phút Huyết áp:\nMạch:\n110170\nCận lâm sàng:\nChẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp\n1) METFORMIN 500 500mg\nSL: 87 Viên\nGhi chú Uống sau khi ăn:\nTối 1 Viên\nSáng 2 Viên\n2) PAMLONOR 5mg\nSL:29 Viên\nGhi chú Uống:\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: KHÁM LạI 3/9/2021\nNgày hẹn tái khám:\nNgày 04/08/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Đức Thái\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 18:30:31",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 2",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        285,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 38129/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4970408",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        755,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "53854",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        359,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "79",
+      "label": "other",
+      "bbox": [
+        132,
+        362,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "110170",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        36,
+        392,
+        185,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        992,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) METFORMIN 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        487,
+        632
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "SL: 87 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1055,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        343,
+        669
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        632,
+        1045,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PAMLONOR 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        382,
+        710
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL:29 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: KHÁM LạI 3/9/2021",
+      "label": "other",
+      "bbox": [
+        44,
+        787,
+        480,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04/08/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Đức Thái",
+      "label": "other",
+      "bbox": [
+        686,
+        1027,
+        943,
+        1071
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 18:30:31",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1087,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

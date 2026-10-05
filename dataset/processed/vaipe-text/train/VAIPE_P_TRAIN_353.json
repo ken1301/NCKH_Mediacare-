@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_353",
+  "image": "public_train/image/VAIPE_P_TRAIN_353.png",
+  "text": "1/1\nSố phiếu 900/2019\n4884911\nTOA THUỐC BHYT\nNam\nNữ\n206\n18353\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: '10 - Tăng huyết áp vô căn (nguyên phát) rối loạn tuần hoàn não, khô mắt\n1) NIFEDIPIN HASAN 20 RETARD 20mg\nSL: 10 Viên\nGhi chú Uống:\n2) PARACETAMOL 500MG 500mg\nSL: 10 Viên\nGhi chú Uống\n3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 10 Viên\nGhi chú Uống\n4) VINA-AD 2000ui+ 400ui\nSL: 10 viên\nGhi chú Uống\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/04/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Đào Thị Huyền\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 12:36:55",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 900/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        524,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4884911",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        687,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "18353",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: '10 - Tăng huyết áp vô căn (nguyên phát) rối loạn tuần hoàn não, khô mắt",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        607,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) NIFEDIPIN HASAN 20 RETARD 20mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        457,
+        430
+      ],
+      "mapping": 84
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        397,
+        483
+      ],
+      "mapping": 0
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        503,
+        501,
+        535
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        35,
+        536,
+        153,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) VINA-AD 2000ui+ 400ui",
+      "label": "drugname",
+      "bbox": [
+        46,
+        559,
+        319,
+        585
+      ],
+      "mapping": 103
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        703,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        153,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        619,
+        197,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        35,
+        643,
+        164,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        667,
+        168,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 19/04/2019",
+      "label": "date",
+      "bbox": [
+        483,
+        703,
+        621,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        721,
+        199,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        732,
+        612,
+        749
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Đào Thị Huyền",
+      "label": "other",
+      "bbox": [
+        470,
+        803,
+        623,
+        827
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        858,
+        414,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 12:36:55",
+      "label": "other",
+      "bbox": [
+        585,
+        898,
+        732,
+        918
+      ],
+      "mapping": null
+    }
+  ]
+}

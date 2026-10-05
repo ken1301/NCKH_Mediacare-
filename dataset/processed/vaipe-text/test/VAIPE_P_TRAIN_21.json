@@ -1,0 +1,370 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_21",
+  "image": "public_train/image/VAIPE_P_TRAIN_21.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 55389/2021\n4890618\nTOA THUỐC BHYT\nNam\nNữ\n76257\n35\n207\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: N40 - Tăng sản tuyến tiền liệt; (N34) Viêm niệu đạo và hội chứng niệu đạo\n1) CARUDXAN 2mg\nSL: 7 Viên\nSáng 1 Viên\nGhi chú uống:\n2) METRONIDAZOL 250 250mg\nSL: 28 Viên\nChiều 2 Viên\nSáng 2 Viên\nGhi chú Uống\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 08/12/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n19/12/2021 12:17:43",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        144,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 55389/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4890618",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "76257",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        437,
+        228,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: N40 - Tăng sản tuyến tiền liệt; (N34) Viêm niệu đạo và hội chứng niệu đạo",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        621,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CARUDXAN 2mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        259,
+        430
+      ],
+      "mapping": 23
+    },
+    {
+      "text": "SL: 7 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        696,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        434,
+        161,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        377,
+        483
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        607,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        486,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        513,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 08/12/2021",
+      "label": "date",
+      "bbox": [
+        485,
+        601,
+        621,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        472,
+        698,
+        619,
+        721
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "19/12/2021 12:17:43",
+      "label": "other",
+      "bbox": [
+        587,
+        794,
+        732,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

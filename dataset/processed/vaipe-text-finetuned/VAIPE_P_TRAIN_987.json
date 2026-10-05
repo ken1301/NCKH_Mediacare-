@@ -1,0 +1,722 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_987",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_987.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 1376/2018\nTOA THUỐC BHYT\nNam x Nữ\nĐệị ạ chi\nThu ặo hiếhám y tuế CK 35 35 207 43734\nMạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCộnhcn okhản M13 C c hám hp c C ếkhẹ n ườ ng phần muhm\n1) CEFADROXIL 500MG 500mg SL: 20 Viên\nGhi chú Uống\n2) PANACTOL 500mg SL: 10 Viên\nGhi chú Uốg\n3) STATRIPSINE 4,2mg SL: 10 Viên\nGhi chúủ Uống\n4) COSYNDO B 175mg 4175mgU 125mcg SL: 10 Viên\nGhi chú Uống\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 23/07/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)\n18/05/2021 11:45:50",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        44.0,
+        5.0,
+        716.0,
+        69.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            44.0,
+            5.0,
+            163.0,
+            69.0
+          ],
+          "confidence": 0.9970085024833679
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1376/2018",
+      "bbox": [
+        370.0,
+        90.0,
+        537.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1376/2018",
+          "bbox": [
+            370.0,
+            90.0,
+            537.0,
+            121.0
+          ],
+          "confidence": 0.982001006603241
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9452599287033081
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Đệị ạ chi",
+      "bbox": [
+        25.0,
+        180.0,
+        83.0,
+        203.0
+      ],
+      "words": [
+        {
+          "text": "Đệị ạ chi",
+          "bbox": [
+            25.0,
+            180.0,
+            83.0,
+            203.0
+          ],
+          "confidence": 0.7960292100906372
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo hiếhám y tuế CK 35 35 207 43734",
+      "bbox": [
+        24.0,
+        203.0,
+        563.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo hiếhám y tuế",
+          "bbox": [
+            24.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7904236316680908
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            203.0,
+            222.0,
+            227.0
+          ],
+          "confidence": 0.8771856427192688
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9996578097343445
+        },
+        {
+          "text": "43734",
+          "bbox": [
+            506.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.9994767904281616
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        24.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            229.0,
+            78.0,
+            254.0
+          ],
+          "confidence": 0.9623091816902161
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            310.0,
+            255.0
+          ],
+          "confidence": 0.9723103046417236
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộnhcn okhản M13 C c hám hp c C ếkhẹ n ườ ng phần muhm",
+      "bbox": [
+        25.0,
+        269.0,
+        464.0,
+        292.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhcn okhản M13 C c hám hp c C ếkhẹ n ườ ng phần muhm",
+          "bbox": [
+            25.0,
+            269.0,
+            464.0,
+            292.0
+          ],
+          "confidence": 0.7530797123908997
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 500mg",
+          "bbox": [
+            41.0,
+            381.0,
+            371.0,
+            412.0
+          ],
+          "confidence": 0.9639744758605957
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        410.0,
+        163.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            434.0
+          ],
+          "confidence": 0.8842782378196716
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.855303168296814
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            276.0,
+            467.0
+          ],
+          "confidence": 0.882411003112793
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9949399828910828
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        34.0,
+        464.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            464.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.8842782378196716
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.7992185950279236
+        }
+      ]
+    },
+    {
+      "text": "3) STATRIPSINE 4,2mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        485.0,
+        710.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) STATRIPSINE 4,2mg",
+          "bbox": [
+            37.0,
+            485.0,
+            290.0,
+            518.0
+          ],
+          "confidence": 0.9052627682685852
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            485.0,
+            710.0,
+            516.0
+          ],
+          "confidence": 0.9915513396263123
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúủ Uống",
+      "bbox": [
+        34.0,
+        514.0,
+        164.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúủ",
+          "bbox": [
+            34.0,
+            516.0,
+            95.0,
+            537.0
+          ],
+          "confidence": 0.858668863773346
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            514.0,
+            164.0,
+            543.0
+          ],
+          "confidence": 0.9355435967445374
+        }
+      ]
+    },
+    {
+      "text": "4) COSYNDO B 175mg 4175mgU 125mcg SL: 10 Viên",
+      "bbox": [
+        38.0,
+        538.0,
+        709.0,
+        571.0
+      ],
+      "words": [
+        {
+          "text": "4) COSYNDO B 175mg 4175mgU 125mcg",
+          "bbox": [
+            38.0,
+            538.0,
+            452.0,
+            571.0
+          ],
+          "confidence": 0.9081516265869141
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            541.0,
+            709.0,
+            566.0
+          ],
+          "confidence": 0.9996906518936157
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        568.0,
+        163.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8866081237792969
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.767109215259552
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.947688639163971
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.9820692539215088
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        648.0,
+        168.0,
+        670.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            648.0,
+            168.0,
+            670.0
+          ],
+          "confidence": 0.9632980823516846
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23/07/2018",
+      "bbox": [
+        484.0,
+        684.0,
+        623.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23/07/2018",
+          "bbox": [
+            484.0,
+            684.0,
+            623.0,
+            705.0
+          ],
+          "confidence": 0.9431485533714294
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        700.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            700.0,
+            199.0,
+            725.0
+          ],
+          "confidence": 0.9716371893882751
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9960330128669739
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "bbox": [
+        456.0,
+        782.0,
+        637.0,
+        811.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Xuân Dũng",
+          "bbox": [
+            456.0,
+            782.0,
+            637.0,
+            811.0
+          ],
+          "confidence": 0.9382032155990601
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)",
+      "bbox": [
+        33.0,
+        839.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xịin mang tho onđ, knt nghinhm phihm (ônếu co)",
+          "bbox": [
+            33.0,
+            839.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.7959818243980408
+        }
+      ]
+    },
+    {
+      "text": "18/05/2021 11:45:50",
+      "bbox": [
+        588.0,
+        880.0,
+        732.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "18/05/2021 11:45:50",
+          "bbox": [
+            588.0,
+            880.0,
+            732.0,
+            900.0
+          ],
+          "confidence": 0.9993977546691895
+        }
+      ]
+    }
+  ]
+}

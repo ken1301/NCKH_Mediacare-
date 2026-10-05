@@ -1,0 +1,326 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_954",
+  "image": "public_train/image/VAIPE_P_TRAIN_954.png",
+  "text": "1/1\nALY\nSố phiếu 2831/2018\n4692678\nTOA THUỐC BHYT\nNam\nNữ\n90028\n207\nLần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: J02 - Viêm họng cấp\n1) CEFIXIM 200 200mg\nSL: 10 Viên\nGhi chú Uống:\n2) PARACETAMOL 500MG 500mg\nSL: 10 Viên\nGhi chú Uống\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/09/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nNHS. Nguyễn Thị Nguyên\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n29/12/2021 22:57:27",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ALY",
+      "label": "other",
+      "bbox": [
+        150,
+        75,
+        193,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2831/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        109,
+        535,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4692678",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "90028",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        437,
+        228,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        308,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: J02 - Viêm họng cấp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        252,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CEFIXIM 200 200mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        286,
+        430
+      ],
+      "mapping": 17
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARACETAMOL 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        397,
+        483
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        32,
+        511,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21/09/2018",
+      "label": "date",
+      "bbox": [
+        485,
+        601,
+        623,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "NHS. Nguyễn Thị Nguyên",
+      "label": "other",
+      "bbox": [
+        443,
+        698,
+        650,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29/12/2021 22:57:27",
+      "label": "other",
+      "bbox": [
+        585,
+        794,
+        732,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

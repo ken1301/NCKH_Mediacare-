@@ -1,0 +1,337 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_958",
+  "image": "public_train/image/VAIPE_P_TRAIN_958.png",
+  "text": "1/1\nPK Số 5.1 [TĐ]\nSố phiếu 17334/2020\n4657305\nTOA THUỐC BHYT\nNam\nNữ\nGD\n35\n208\n12287\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin\n1) LAZIBET MR 60 60mg\nSL: 16 Viên\nGhi chú Uống trước khi ăn:\nSáng 1/2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ hai, 27/04/2020\nNgày 26/03/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n20/05/2021 09:41:09",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        137,
+        112
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 17334/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4657305",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "GD",
+      "label": "other",
+      "bbox": [
+        185,
+        207,
+        215,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "12287",
+      "label": "other",
+      "bbox": [
+        511,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        459,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) LAZIBET MR 60 60mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        306,
+        413
+      ],
+      "mapping": 38
+    },
+    {
+      "text": "SL: 16 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        246,
+        439
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1/2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        389,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ hai, 27/04/2020",
+      "label": "other",
+      "bbox": [
+        33,
+        491,
+        314,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 26/03/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        529,
+        621,
+        548
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "other",
+      "bbox": [
+        459,
+        630,
+        633,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "20/05/2021 09:41:09",
+      "label": "other",
+      "bbox": [
+        586,
+        725,
+        730,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

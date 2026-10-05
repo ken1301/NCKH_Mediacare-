@@ -1,0 +1,183 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_231",
+  "image": "public_train/image/VAIPE_P_TRAIN_231.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: 149 - Loạn nhịp tim khác\nThuốc điều trị:\n1) Bisoprolol (SaviProlol 2,5) 2,5mg\nUống: Sáng 1 Viên\nSL: 10 Viên\nLời dặn:\nNgày 28 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Đào Thị Bích Thủy\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh\nVỢ: TRẦN THỊ NHÀN",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: 149 - Loạn nhịp tim khác",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        535,
+        389
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Bisoprolol (SaviProlol 2,5) 2,5mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        445,
+        555,
+        490
+      ],
+      "mapping": 41
+    },
+    {
+      "text": "Uống: Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        552,
+        555
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        195,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        582,
+        157,
+        615
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 28 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        644,
+        624,
+        1027,
+        666
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        675,
+        1002,
+        710
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        720,
+        970,
+        757
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đào Thị Bích Thủy",
+      "label": "other",
+      "bbox": [
+        677,
+        865,
+        1002,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        907,
+        507,
+        943
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        955,
+        1007,
+        997
+      ],
+      "mapping": null
+    },
+    {
+      "text": "VỢ: TRẦN THỊ NHÀN",
+      "label": "other",
+      "bbox": [
+        54,
+        1003,
+        385,
+        1042
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_290",
+  "image": "public_train/image/VAIPE_P_TRAIN_290.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam\nNữ\nNam\nChấn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (K02) Sâu răng 24;\n(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)\nThuốc điều trị:\n1) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên Chiều 2 Viên\nSL: 20 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 10 Viên\n3) Metronidazol (Metronidazol 250) 250 mg\nUống: Sáng 1 Viên Chiều 1 Viên\nSL: 10 Viên\n4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 1 viên CHIều 1 viên\nSL: 10 viên\nLời dặn:\nNgày 27 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ngọc Tri\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh\nVỢ: NGUYỄN THỊ CÔNG",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        215,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        37,
+        345,
+        105,
+        372
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (K02) Sâu răng 24;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        373,
+        1080,
+        422
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        419,
+        932,
+        462
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        455,
+        243,
+        497
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        505,
+        565,
+        547
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        575,
+        750,
+        612
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        577,
+        195,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        632,
+        585,
+        675
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        702,
+        750,
+        740
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        705,
+        195,
+        735
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Metronidazol (Metronidazol 250) 250 mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        762,
+        657,
+        802
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "Uống: Sáng 1 Viên Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        830,
+        750,
+        867
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        835,
+        195,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        886,
+        892,
+        932
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 1 viên CHIều 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        960,
+        737,
+        1000
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        962,
+        190,
+        992
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        1027,
+        157,
+        1057
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1070,
+        1027,
+        1107
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1117,
+        1002,
+        1155
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1162,
+        969,
+        1200
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        662,
+        1302,
+        1017,
+        1345
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1352,
+        507,
+        1387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1395,
+        1007,
+        1442
+      ],
+      "mapping": null
+    },
+    {
+      "text": "VỢ: NGUYỄN THỊ CÔNG",
+      "label": "other",
+      "bbox": [
+        54,
+        1445,
+        432,
+        1487
+      ],
+      "mapping": null
+    }
+  ]
+}

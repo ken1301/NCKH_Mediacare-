@@ -1,0 +1,348 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_237",
+  "image": "public_train/image/VAIPE_P_TRAIN_237.png",
+  "text": "1/1\nHANG\nSố phiếu 2569/2019\n4660078\nTOA THUỐC BHYT\nNam x nữ\n206\n65441\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (E51) Thiếu thiamine\n1) KAVASDIN 5 5mg\nSL: 28 viên\nGhi chú Uống\nSáng 1 viên\n2) SETBLOOD 115mg+100mg+50mcg\nSL: 10 Viên\nGhi chú Uống\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 10/10/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n28/12/2021 23:56:40",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "HANG",
+      "label": "other",
+      "bbox": [
+        153,
+        77,
+        210,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2569/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4660078",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "65441",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        559,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (E51) Thiếu thiamine",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        548,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        270,
+        430
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 28 viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        703,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        153,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        437,
+        372,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) SETBLOOD 115mg+100mg+50mcg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        457,
+        419,
+        483
+      ],
+      "mapping": 104
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        483,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        513,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 10/10/2019",
+      "label": "date",
+      "bbox": [
+        483,
+        599,
+        621,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "label": "other",
+      "bbox": [
+        461,
+        698,
+        632,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28/12/2021 23:56:40",
+      "label": "other",
+      "bbox": [
+        585,
+        794,
+        732,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

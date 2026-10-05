@@ -1,0 +1,359 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_477",
+  "image": "public_train/image/VAIPE_P_TRAIN_477.png",
+  "text": "1/1\nTHẦN HÀ NAM\nLoại Trú\nSố phiếu 6074/2020\nPhòng khám ngoại trú 2\n5052014\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n207\n24055\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch: 82\n120\nCận lâm sàng:\nChẩn đoán: F00% - Mất trí trong bệnh Alzheimer (G30.-t)\n1) Olanzapin 10mg (Olanxol)\nSL: 60 Viên\nGhi chú Uống:\nTối 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ sáu, 30/10/2020\nNgày 30/09/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Đặng Thị Yến\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n03/05/2021 22:20:01",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "THẦN HÀ NAM",
+      "label": "other",
+      "bbox": [
+        163,
+        28,
+        284,
+        46
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Loại Trú",
+      "label": "other",
+      "bbox": [
+        147,
+        58,
+        209,
+        80
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 6074/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Phòng khám ngoại trú 2",
+      "label": "other",
+      "bbox": [
+        26,
+        93,
+        192,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5052014",
+      "label": "other",
+      "bbox": [
+        626,
+        101,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        153
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "24055",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        451,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch: 82",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        110,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        334,
+        234,
+        412,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: F00% - Mất trí trong bệnh Alzheimer (G30.-t)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        271,
+        419,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Olanzapin 10mg (Olanxol)",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        327,
+        412
+      ],
+      "mapping": 86
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        410,
+        161,
+        437
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        444,
+        197,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        466,
+        163,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ sáu, 30/10/2020",
+      "label": "other",
+      "bbox": [
+        33,
+        491,
+        317,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 30/09/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        529,
+        621,
+        548
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        546,
+        198,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        553,
+        612,
+        575
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Đặng Thị Yến",
+      "label": "other",
+      "bbox": [
+        476,
+        628,
+        618,
+        654
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        685,
+        414,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "03/05/2021 22:20:01",
+      "label": "other",
+      "bbox": [
+        586,
+        725,
+        728,
+        742
+      ],
+      "mapping": null
+    }
+  ]
+}

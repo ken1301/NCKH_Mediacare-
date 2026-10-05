@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_404",
+  "image": "public_train/image/VAIPE_P_TRAIN_404.png",
+  "text": "1/1\nBÌNH NGHĨA\nSố phiếu 1585/2019\n4693065\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n206\n32781\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\n130\nCận lâm sàng:\nChấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (L20) Viêm da cơ địa dị ứng\n1) ENALAPRIL 5mg\nSL: 60 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n2) GAPHYTON S 100mg+75mg+7,5mg\nSL: 20 Viên\nGhi chú Uống:\nTối 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/05/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS...............................................................................................................................................................................................................................................................\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n10/06/2021 21:30:01",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "label": "other",
+      "bbox": [
+        153,
+        58,
+        250,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1585/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        535,
+        121
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4693065",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        618,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "32781",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        558,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        334,
+        234,
+        412,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (L20) Viêm da cơ địa dị ứng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        595,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        257,
+        413
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) GAPHYTON S 100mg+75mg+7,5mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        428,
+        467
+      ],
+      "mapping": 69
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        466,
+        700,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 02/05/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS...............................................................................................................................................................................................................................................................",
+      "label": "other",
+      "bbox": [
+        476,
+        683,
+        616,
+        700
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        735,
+        414,
+        760
+      ],
+      "mapping": null
+    },
+    {
+      "text": "10/06/2021 21:30:01",
+      "label": "other",
+      "bbox": [
+        588,
+        777,
+        728,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

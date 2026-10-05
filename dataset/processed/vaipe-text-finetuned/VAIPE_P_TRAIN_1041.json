@@ -1,0 +1,557 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1041",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1041.png",
+  "text": "1/1 MMH sỐ người bnh\nGHĨA\nSố phiếu 3037/2020\nTOA THUỐC BHYT N 2N\nThu ặo h ếhám y tế CB 2 208 48972\nMạch: lần/phút Huyt áp: MMHg Thân nhiệt: c\nCận lâm sàng:\nCânhần okno: G46 - Hải chứng mMạch máu não tưOng bệnh mạch não (160-1677): (L28.2) Sánản ngứa khác\n1) HOẠT HUYÊT DUNG NÃO ON 150mg+20mg SL: 20 Viên\nGhi chú Uốg:\n2) LIVONIC 2500mg4400mg4500mg485mg SL: 20 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/12/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSSN. Trần Thị Hắng\nTái th khám Xin mang thco ĩonđ, Xđ nghinm phiám (nếui cá)\n01/01/2022 13:46:38",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        83.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            83.0
+          ],
+          "confidence": 0.9997725486755371
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "GHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        206.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "GHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            206.0,
+            98.0
+          ],
+          "confidence": 0.9526605606079102
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 3037/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 3037/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.992742657661438
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT N 2N",
+      "bbox": [
+        258.0,
+        138.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9819501638412476
+        },
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6931097507476807
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CB 2 208 48972",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CB 2",
+          "bbox": [
+            181.0,
+            220.0,
+            330.0,
+            247.0
+          ],
+          "confidence": 0.9352036714553833
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.9995846748352051
+        },
+        {
+          "text": "48972",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9995614290237427
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MMHg Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MMHg Thân nhiệt:",
+          "bbox": [
+            448.0,
+            247.0,
+            599.0,
+            274.0
+          ],
+          "confidence": 0.985336184501648
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okno: G46 - Hải chứng mMạch máu não tưOng bệnh mạch não (160-1677): (L28.2) Sánản ngứa khác",
+      "bbox": [
+        25.0,
+        288.0,
+        722.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okno: G46 - Hải chứng mMạch máu não tưOng bệnh mạch não (160-1677): (L28.2) Sánản ngứa khác",
+          "bbox": [
+            25.0,
+            288.0,
+            722.0,
+            312.0
+          ],
+          "confidence": 0.8493895530700684
+        }
+      ]
+    },
+    {
+      "text": "1) HOẠT HUYÊT DUNG NÃO ON 150mg+20mg SL: 20 Viên",
+      "bbox": [
+        39.0,
+        397.0,
+        711.0,
+        433.0
+      ],
+      "words": [
+        {
+          "text": "1) HOẠT HUYÊT DUNG NÃO ON 150mg+20mg",
+          "bbox": [
+            39.0,
+            397.0,
+            543.0,
+            433.0
+          ],
+          "confidence": 0.9036182761192322
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            711.0,
+            431.0
+          ],
+          "confidence": 0.9940494894981384
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg:",
+      "bbox": [
+        33.0,
+        430.0,
+        164.0,
+        455.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            98.0,
+            452.0
+          ],
+          "confidence": 0.7999119758605957
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            104.0,
+            430.0,
+            164.0,
+            455.0
+          ],
+          "confidence": 0.7649926543235779
+        }
+      ]
+    },
+    {
+      "text": "2) LIVONIC 2500mg4400mg4500mg485mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        452.0,
+        711.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) LIVONIC 2500mg4400mg4500mg485mg",
+          "bbox": [
+            36.0,
+            452.0,
+            470.0,
+            485.0
+          ],
+          "confidence": 0.9554309844970703
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9787601828575134
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            99.0,
+            506.0
+          ],
+          "confidence": 0.96548992395401
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            104.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.8500819206237793
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.97271329164505
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        168.0,
+        582.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            168.0,
+            582.0
+          ],
+          "confidence": 0.9887040257453918
+        }
+      ]
+    },
+    {
+      "text": "Ngày 28/12/2020",
+      "bbox": [
+        482.0,
+        592.0,
+        625.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 28/12/2020",
+          "bbox": [
+            482.0,
+            592.0,
+            625.0,
+            620.0
+          ],
+          "confidence": 0.9644489288330078
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9489806890487671
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "YSSN. Trần Thị Hắng",
+      "bbox": [
+        458.0,
+        691.0,
+        635.0,
+        725.0
+      ],
+      "words": [
+        {
+          "text": "YSSN. Trần Thị Hắng",
+          "bbox": [
+            458.0,
+            691.0,
+            635.0,
+            725.0
+          ],
+          "confidence": 0.9432368874549866
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xđ nghinm phiám (nếui cá)",
+      "bbox": [
+        33.0,
+        751.0,
+        414.0,
+        775.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xđ nghinm phiám (nếui cá)",
+          "bbox": [
+            33.0,
+            751.0,
+            414.0,
+            775.0
+          ],
+          "confidence": 0.8181811571121216
+        }
+      ]
+    },
+    {
+      "text": "01/01/2022 13:46:38",
+      "bbox": [
+        587.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "01/01/2022 13:46:38",
+          "bbox": [
+            587.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9820631742477417
+        }
+      ]
+    }
+  ]
+}

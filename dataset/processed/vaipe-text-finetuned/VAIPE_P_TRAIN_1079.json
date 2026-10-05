@@ -1,0 +1,545 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1079",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1079.png",
+  "text": "1/1 M sc người bnh\nPK Số 2 [Nội] Số phiếu 71516/2018\nTOA THUỐC BHYT\nNamNx\nThu ặo h ếhám y tế GB 4 35 205 26964\nMạch: Lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCâềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)\n1) TROYSAR AM 5mg 50mg SL: 30 Viên\nGhi chúữ Uốg Sáng 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn t i khámản: ThT áku 14/12/2018\nNgày 14/11/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n06/05/2021 10:14:57",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9997822642326355
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 71516/2018",
+      "bbox": [
+        23.0,
+        83.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            23.0,
+            83.0,
+            131.0,
+            116.0
+          ],
+          "confidence": 0.9721657037734985
+        },
+        {
+          "text": "Số phiếu 71516/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9653383493423462
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9770539402961731
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 205 26964",
+      "bbox": [
+        25.0,
+        203.0,
+        563.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            266.0,
+            225.0
+          ],
+          "confidence": 0.9998762607574463
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999359250068665
+        },
+        {
+          "text": "26964",
+          "bbox": [
+            506.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.9997458457946777
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            254.0
+          ],
+          "confidence": 0.9820467233657837
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+      "bbox": [
+        26.0,
+        271.0,
+        390.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+          "bbox": [
+            26.0,
+            271.0,
+            390.0,
+            294.0
+          ],
+          "confidence": 0.8319355249404907
+        }
+      ]
+    },
+    {
+      "text": "1) TROYSAR AM 5mg 50mg SL: 30 Viên",
+      "bbox": [
+        41.0,
+        380.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) TROYSAR AM 5mg 50mg",
+          "bbox": [
+            41.0,
+            380.0,
+            349.0,
+            415.0
+          ],
+          "confidence": 0.9423126578330994
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9960479140281677
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg Sáng 1 Viên",
+      "bbox": [
+        32.0,
+        410.0,
+        378.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            32.0,
+            411.0,
+            99.0,
+            436.0
+          ],
+          "confidence": 0.7878026962280273
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.8333907127380371
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9343615174293518
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9808337092399597
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn t i khámản: ThT áku 14/12/2018",
+      "bbox": [
+        31.0,
+        489.0,
+        318.0,
+        513.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn t i khámản: ThT áku 14/12/2018",
+          "bbox": [
+            31.0,
+            489.0,
+            318.0,
+            513.0
+          ],
+          "confidence": 0.8528514504432678
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/11/2018",
+      "bbox": [
+        483.0,
+        523.0,
+        625.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/11/2018",
+          "bbox": [
+            483.0,
+            523.0,
+            625.0,
+            549.0
+          ],
+          "confidence": 0.9886091947555542
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.9600176811218262
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            550.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9786296486854553
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        454.0,
+        625.0,
+        639.0,
+        653.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            454.0,
+            625.0,
+            639.0,
+            653.0
+          ],
+          "confidence": 0.9113670587539673
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488333225250244
+        }
+      ]
+    },
+    {
+      "text": "06/05/2021 10:14:57",
+      "bbox": [
+        587.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "06/05/2021 10:14:57",
+          "bbox": [
+            587.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9821855425834656
+        }
+      ]
+    }
+  ]
+}

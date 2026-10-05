@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_828",
+  "image": "public_train/image/VAIPE_P_TRAIN_828.png",
+  "text": "Khoa Khám bệnh\nPK SỐ 6 [YHCT]\nSố phiếu 48018/2018\n4680316\nTOA THUỐC BHYT\nNam\nNữ\nBT\n35\n35\n210\n58100\n2\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Chụp Xquang khớp khuỷu thẳng, nghiêng hoặc chếch\nChẩn đoán: M25.5 - Đau khớp/thoái hóa khớp khuỷu tay trái thuận\n1) PARACETAMOL 500MG 500mg\nSL: 28 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\n2) VINA-AD 2000ui+ 400ui\nSL: 10 Viên\nGhi chú Uống:\nChiều 1 Viên\nSáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 08/08/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Thị Ngà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 18:56:16",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        26,
+        60,
+        148,
+        78
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 6 [YHCT]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        147,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 48018/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        92,
+        547,
+        122
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4680316",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BT",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        214,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "210",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "58100",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        210,
+        262,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang khớp khuỷu thẳng, nghiêng hoặc chếch",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        491,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: M25.5 - Đau khớp/thoái hóa khớp khuỷu tay trái thuận",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        441,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PARACETAMOL 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        398,
+        413
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        414,
+        605,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) VINA-AD 2000ui+ 400ui",
+      "label": "drugname",
+      "bbox": [
+        44,
+        436,
+        321,
+        465
+      ],
+      "mapping": 103
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        466,
+        605,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        376,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 08/08/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        605,
+        612,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Thị Ngà",
+      "label": "other",
+      "bbox": [
+        466,
+        680,
+        628,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        414,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 18:56:16",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        732,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

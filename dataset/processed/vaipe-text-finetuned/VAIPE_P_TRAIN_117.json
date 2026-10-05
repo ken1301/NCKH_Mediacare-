@@ -1,0 +1,639 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_117",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_117.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 92/2020\nTOA THUỐC  BHYT\nNam x Nữ\nThu ặo h ếhám y tế GB 4 35 206 53016\nMạch: Lần/phút Huyết áp: MmMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCộnhần 4okno: L28.2 - Sán ngứaạ khác : 102) Viêm họng cấp\n1) BO GAN P/H 125mg4100mg425mg SL: 40 Viên\nGhi chú Uống\n2) SERGUROP 10mg SL: 10 Viên\nGhi chú Uống\n3) XITORAN 0,5g SL: 15 Viên\nGhi chú Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 16/01/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Dương Xuân Dũng\nTái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui co)\n09/05/2021 18:01:48",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        43.0,
+        2.0,
+        716.0,
+        73.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            43.0,
+            2.0,
+            164.0,
+            73.0
+          ],
+          "confidence": 0.9941417574882507
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 92/2020",
+      "bbox": [
+        369.0,
+        89.0,
+        513.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 92/2020",
+          "bbox": [
+            369.0,
+            89.0,
+            513.0,
+            122.0
+          ],
+          "confidence": 0.9523075819015503
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC  BHYT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC  BHYT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.8848260045051575
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 206 53016",
+      "bbox": [
+        25.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            207.0,
+            266.0,
+            225.0
+          ],
+          "confidence": 0.9998762607574463
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999765753746033
+        },
+        {
+          "text": "53016",
+          "bbox": [
+            507.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9279974699020386
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: MmMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộnhần 4okno: L28.2 - Sán ngứaạ khác : 102) Viêm họng cấp",
+      "bbox": [
+        25.0,
+        268.0,
+        418.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cộnhần 4okno: L28.2 - Sán ngứaạ khác : 102) Viêm họng cấp",
+          "bbox": [
+            25.0,
+            268.0,
+            418.0,
+            295.0
+          ],
+          "confidence": 0.7624529600143433
+        }
+      ]
+    },
+    {
+      "text": "1) BO GAN P/H 125mg4100mg425mg SL: 40 Viên",
+      "bbox": [
+        42.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) BO GAN P/H 125mg4100mg425mg",
+          "bbox": [
+            42.0,
+            379.0,
+            418.0,
+            415.0
+          ],
+          "confidence": 0.8916691541671753
+        },
+        {
+          "text": "SL: 40 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9221475720405579
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        411.0,
+        163.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            99.0,
+            434.0
+          ],
+          "confidence": 0.8669964671134949
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            411.0,
+            163.0,
+            436.0
+          ],
+          "confidence": 0.8389028310775757
+        }
+      ]
+    },
+    {
+      "text": "2) SERGUROP 10mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        430.0,
+        708.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) SERGUROP 10mg",
+          "bbox": [
+            36.0,
+            430.0,
+            262.0,
+            467.0
+          ],
+          "confidence": 0.9381856918334961
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            593.0,
+            437.0,
+            708.0,
+            462.0
+          ],
+          "confidence": 0.9949399828910828
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        461.0,
+        164.0,
+        491.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            464.0,
+            97.0,
+            486.0
+          ],
+          "confidence": 0.8842782378196716
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            461.0,
+            164.0,
+            491.0
+          ],
+          "confidence": 0.912422776222229
+        }
+      ]
+    },
+    {
+      "text": "3) XITORAN 0,5g SL: 15 Viên",
+      "bbox": [
+        36.0,
+        484.0,
+        709.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) XITORAN 0,5g",
+          "bbox": [
+            36.0,
+            484.0,
+            235.0,
+            519.0
+          ],
+          "confidence": 0.9477419257164001
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            594.0,
+            488.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.970694899559021
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        513.0,
+        165.0,
+        544.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            513.0,
+            165.0,
+            544.0
+          ],
+          "confidence": 0.8465034365653992
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.9828934669494629
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9835989475250244
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.958842396736145
+        }
+      ]
+    },
+    {
+      "text": "Ngày 16/01/2020",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 16/01/2020",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9784048795700073
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        648.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            648.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9535803198814392
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "BS. Dương Xuân Dũng",
+      "bbox": [
+        455.0,
+        729.0,
+        637.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "BS. Dương Xuân Dũng",
+          "bbox": [
+            455.0,
+            729.0,
+            637.0,
+            758.0
+          ],
+          "confidence": 0.9792682528495789
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui co)",
+      "bbox": [
+        33.0,
+        786.0,
+        416.0,
+        810.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang tho onđ, Xkt nghinm phiám (oếui co)",
+          "bbox": [
+            33.0,
+            786.0,
+            416.0,
+            810.0
+          ],
+          "confidence": 0.8301617503166199
+        }
+      ]
+    },
+    {
+      "text": "09/05/2021 18:01:48",
+      "bbox": [
+        586.0,
+        825.0,
+        732.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "09/05/2021 18:01:48",
+          "bbox": [
+            586.0,
+            825.0,
+            732.0,
+            848.0
+          ],
+          "confidence": 0.9966086149215698
+        }
+      ]
+    }
+  ]
+}

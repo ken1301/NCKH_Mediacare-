@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_918",
+  "image": "public_train/image/VAIPE_P_TRAIN_918.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam\nNữ\nNam\nChấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (G46?) Hội\nchứng mạch máu não trong bệnh mạch não (160-167't)\nThuốc điều trị:\n1) Metformin (Meglucon 1000) 1000 mg\nUống sau khi ăn: TRƯA 1 Viên\nSL: 29 Viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\nLời dặn: KHÁM Lại 28/1/2022\nNgày 28 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Đức Thái\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        215,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        37,
+        345,
+        105,
+        372
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (G46?) Hội",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        380,
+        1095,
+        420
+      ],
+      "mapping": null
+    },
+    {
+      "text": "chứng mạch máu não trong bệnh mạch não (160-167't)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        420,
+        765,
+        457
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        455,
+        242,
+        497
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Metformin (Meglucon 1000) 1000 mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        505,
+        610,
+        547
+      ],
+      "mapping": 56
+    },
+    {
+      "text": "Uống sau khi ăn: TRƯA 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        574,
+        690,
+        615
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 29 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        577,
+        197,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        630,
+        892,
+        675
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        702,
+        737,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        705,
+        190,
+        735
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: KHÁM Lại 28/1/2022",
+      "label": "other",
+      "bbox": [
+        42,
+        765,
+        480,
+        802
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 28 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        812,
+        1027,
+        854
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        677,
+        859,
+        1002,
+        899
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        907,
+        970,
+        942
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Đức Thái",
+      "label": "other",
+      "bbox": [
+        686,
+        1038,
+        993,
+        1093
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1095,
+        510,
+        1130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1142,
+        1007,
+        1182
+      ],
+      "mapping": null
+    }
+  ]
+}

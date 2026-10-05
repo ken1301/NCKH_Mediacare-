@@ -1,0 +1,702 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_726",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_726.png",
+  "text": "1/1 MMH sỐ người bnh\nGHĨA\nSố phiếu 2916/2020\nTOA THUỐC BHYT\nNm x n2\nThu ặo h ếhám y tế CK 235 206 80160\nMạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c\nCận lâm sàng:\nCânhần ĩokno:N20 - Viêm phế ựuân cấp: (g1) Côm viưrugS không đưọc ĩịnh dnhu (L29) Ngứa\n1) HAPENXIN CAPSULES 0,5g SL: 20 Viên\nGhi chú Uống\n2) BROMHEXIN ACTAVIS 8mg SL: 20 Viên\nGhi chú Uống:\n3) TYDOL PM 500mg 4 25mg SL: 10 Viên\nGhi chú Uốg:\n4) LIVONIC 2500mg4400mg4500mg485mg SL: 20 Viên\nGhi chúK Uốg:\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nBệnh nhân ký nhận Ngày 16/12/2020\nY, Bác sĩ điều trị\nYSSN. Trần Thị Hng\nTái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)\n06/01/2022 11:42:48",
+  "lines": [
+    {
+      "text": "1/1 MMH sỐ người bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            120.0,
+            84.0
+          ],
+          "confidence": 0.9996216893196106
+        },
+        {
+          "text": "MMH sỐ người bnh",
+          "bbox": [
+            600.0,
+            36.0,
+            716.0,
+            62.0
+          ],
+          "confidence": 0.8246084451675415
+        }
+      ]
+    },
+    {
+      "text": "GHĨA",
+      "bbox": [
+        150.0,
+        67.0,
+        206.0,
+        98.0
+      ],
+      "words": [
+        {
+          "text": "GHĨA",
+          "bbox": [
+            150.0,
+            67.0,
+            206.0,
+            98.0
+          ],
+          "confidence": 0.9526605606079102
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2916/2020",
+      "bbox": [
+        369.0,
+        107.0,
+        536.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2916/2020",
+          "bbox": [
+            369.0,
+            107.0,
+            536.0,
+            138.0
+          ],
+          "confidence": 0.9896854758262634
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9819501638412476
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        740.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            740.0,
+            202.0
+          ],
+          "confidence": 0.7509226202964783
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 235 206 80160",
+      "bbox": [
+        24.0,
+        220.0,
+        565.0,
+        247.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            24.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.8114252686500549
+        },
+        {
+          "text": "CK 235",
+          "bbox": [
+            180.0,
+            220.0,
+            329.0,
+            247.0
+          ],
+          "confidence": 0.8471100926399231
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            222.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999635815620422
+        },
+        {
+          "text": "80160",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9993528127670288
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: MmMHHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9817996025085449
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            250.0,
+            507.0,
+            272.0
+          ],
+          "confidence": 0.8004818558692932
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cânhần ĩokno:N20 - Viêm phế ựuân cấp: (g1) Côm viưrugS không đưọc ĩịnh dnhu (L29) Ngứa",
+      "bbox": [
+        25.0,
+        286.0,
+        649.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần ĩokno:N20 - Viêm phế ựuân cấp: (g1) Côm viưrugS không đưọc ĩịnh dnhu (L29) Ngứa",
+          "bbox": [
+            25.0,
+            286.0,
+            649.0,
+            313.0
+          ],
+          "confidence": 0.7736798524856567
+        }
+      ]
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        397.0,
+        710.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) HAPENXIN CAPSULES 0,5g",
+          "bbox": [
+            40.0,
+            397.0,
+            364.0,
+            432.0
+          ],
+          "confidence": 0.9867886900901794
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9928701519966125
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        457.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            431.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8176636695861816
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            457.0
+          ],
+          "confidence": 0.9204639792442322
+        }
+      ]
+    },
+    {
+      "text": "2) BROMHEXIN ACTAVIS 8mg SL: 20 Viên",
+      "bbox": [
+        37.0,
+        450.0,
+        711.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) BROMHEXIN ACTAVIS 8mg",
+          "bbox": [
+            37.0,
+            450.0,
+            371.0,
+            485.0
+          ],
+          "confidence": 0.9737975001335144
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9787601828575134
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        479.0,
+        165.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8443241119384766
+        }
+      ]
+    },
+    {
+      "text": "3) TYDOL PM 500mg 4 25mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        502.0,
+        711.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) TYDOL PM 500mg 4 25mg",
+          "bbox": [
+            36.0,
+            502.0,
+            345.0,
+            538.0
+          ],
+          "confidence": 0.9517638087272644
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9838514924049377
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg:",
+      "bbox": [
+        32.0,
+        532.0,
+        164.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            534.0,
+            94.0,
+            555.0
+          ],
+          "confidence": 0.8701440691947937
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            106.0,
+            532.0,
+            164.0,
+            559.0
+          ],
+          "confidence": 0.7884259819984436
+        }
+      ]
+    },
+    {
+      "text": "4) LIVONIC 2500mg4400mg4500mg485mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        554.0,
+        710.0,
+        589.0
+      ],
+      "words": [
+        {
+          "text": "4) LIVONIC 2500mg4400mg4500mg485mg",
+          "bbox": [
+            36.0,
+            554.0,
+            470.0,
+            589.0
+          ],
+          "confidence": 0.9310528039932251
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            593.0,
+            558.0,
+            710.0,
+            586.0
+          ],
+          "confidence": 0.957994282245636
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg:",
+      "bbox": [
+        33.0,
+        583.0,
+        166.0,
+        613.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            586.0,
+            102.0,
+            608.0
+          ],
+          "confidence": 0.8344141244888306
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            103.0,
+            583.0,
+            166.0,
+            613.0
+          ],
+          "confidence": 0.7524223327636719
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        31.0,
+        614.0,
+        201.0,
+        638.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            31.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9938066601753235
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        638.0,
+        166.0,
+        663.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            638.0,
+            166.0,
+            663.0
+          ],
+          "confidence": 0.9794078469276428
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        665.0,
+        170.0,
+        689.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            665.0,
+            170.0,
+            689.0
+          ],
+          "confidence": 0.9490678310394287
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Ngày 16/12/2020",
+      "bbox": [
+        62.0,
+        700.0,
+        625.0,
+        743.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            716.0,
+            201.0,
+            743.0
+          ],
+          "confidence": 0.9997349977493286
+        },
+        {
+          "text": "Ngày 16/12/2020",
+          "bbox": [
+            483.0,
+            700.0,
+            625.0,
+            724.0
+          ],
+          "confidence": 0.9981891512870789
+        }
+      ]
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "bbox": [
+        491.0,
+        727.0,
+        617.0,
+        753.0
+      ],
+      "words": [
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            727.0,
+            617.0,
+            753.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "YSSN. Trần Thị Hng",
+      "bbox": [
+        458.0,
+        796.0,
+        635.0,
+        829.0
+      ],
+      "words": [
+        {
+          "text": "YSSN. Trần Thị Hng",
+          "bbox": [
+            458.0,
+            796.0,
+            635.0,
+            829.0
+          ],
+          "confidence": 0.9215396046638489
+        }
+      ]
+    },
+    {
+      "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+      "bbox": [
+        33.0,
+        856.0,
+        415.0,
+        880.0
+      ],
+      "words": [
+        {
+          "text": "Tái th khám Xin mang thco ĩonđ, Xk nghinm phiám (nếui cá)",
+          "bbox": [
+            33.0,
+            856.0,
+            415.0,
+            880.0
+          ],
+          "confidence": 0.8202944397926331
+        }
+      ]
+    },
+    {
+      "text": "06/01/2022 11:42:48",
+      "bbox": [
+        587.0,
+        897.0,
+        732.0,
+        918.0
+      ],
+      "words": [
+        {
+          "text": "06/01/2022 11:42:48",
+          "bbox": [
+            587.0,
+            897.0,
+            732.0,
+            918.0
+          ],
+          "confidence": 0.9707490801811218
+        }
+      ]
+    }
+  ]
+}

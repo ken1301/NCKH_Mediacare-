@@ -1,0 +1,414 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_49",
+  "image": "public_train/image/VAIPE_P_TRAIN_49.png",
+  "text": "Khoa Khám bệnh\nBốc khám Ngoại\nSố phiếu 42244/2021\n4806357\nTOA THUỐC BHYT\nNữ\nNam\n69105\n35\n35\n205\n4\nMMHg Thân nhiệt: 36.3\nlần/phút Huyết áp:\nMạch: 85\n120\nCận lâm sàng: Chụp Xquang xương cánh tay thẳng nghiêng\nChẩn đoán: S42.3 - Gãy thân xương cánh tay; (LO3) Viêm mô bào\n1) HAPENXIN CAPSULES 0,5g\nSL: 20 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 30/08/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Lưu Minh Tân\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 22:54:02",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        130
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Ngoại",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        213,
+        184
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 42244/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4806357",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1025,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        927,
+        255,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "69105",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt: 36.3",
+      "label": "other",
+      "bbox": [
+        674,
+        359,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch: 85",
+      "label": "other",
+      "bbox": [
+        37,
+        364,
+        159,
+        389
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang xương cánh tay thẳng nghiêng",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        642,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: S42.3 - Gãy thân xương cánh tay; (LO3) Viêm mô bào",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        715,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        540,
+        632
+      ],
+      "mapping": 61
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        495,
+        710
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        709,
+        904,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        710,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        755,
+        290,
+        785
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        45,
+        790,
+        242,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        832,
+        247,
+        860
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 30/08/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        885,
+        925,
+        912
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        912,
+        292,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        920,
+        912,
+        952
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        1035,
+        947,
+        1062
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1114,
+        617,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 22:54:02",
+      "label": "other",
+      "bbox": [
+        877,
+        1177,
+        1089,
+        1202
+      ],
+      "mapping": null
+    }
+  ]
+}

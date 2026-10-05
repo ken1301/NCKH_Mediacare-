@@ -1,0 +1,535 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_483",
+  "image": "public_train/image/VAIPE_P_TRAIN_483.png",
+  "text": "TYT XÃ BẮC LY\nSố phiếu 4136/2020\n4942576\nTOA THUỐC BHYT\nNam\nNữ\n39377\n207\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChẩn đoán: K29 - Viêm dạ dày và tá tràng; (L20) Viêm da cơ địa\n1) AMOXICILIN 500MG 500mg\nSL: 20 Viên\nSáng 2 Viên\nGhi chú uống:\nTối 2 Viên\n2) METRONIDAZOL 250 250mg\nSL: 20 Viên\nTối 2 Viên\nSáng 2 Viên\nGhi chú Uống\n3) PRAZOPRO 40mg\nSL: 10 Viên\nTối 1 Viên\nSáng 1 Viên\nGhi chú Uống\n4) SERGUROP 10mg\nSL: 10 Viên\nTối 1 Viên\nGhi chú Uống:\nSáng 1 Viên\n5) CHORLATCYN 125mg+50mg+50mg+25mg\nSL: 20 Viên\nGhi chú uống:\nSáng 2 Viên\nTối 2 Viên\nCộng khoản: 5 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/12/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYs ĐK. Nguyễn Công Hoan\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n27/12/2021 22:23:16",
+  "words": [
+    {
+      "text": "TYT XÃ BẮC LY",
+      "label": "other",
+      "bbox": [
+        26,
+        75,
+        157,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 4136/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        109,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4942576",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "39377",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        559,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        434,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K29 - Viêm dạ dày và tá tràng; (L20) Viêm da cơ địa",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        472,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        366,
+        430
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        432,
+        161,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        432,
+        701,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        377,
+        483
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        483,
+        701,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        485,
+        377,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        486,
+        153,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PRAZOPRO 40mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        259,
+        534
+      ],
+      "mapping": 93
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        506,
+        708,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        534,
+        701,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        536,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) SERGUROP 10mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        559,
+        259,
+        588
+      ],
+      "mapping": 5
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        707,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        587,
+        701,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        162,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        592,
+        377,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5) CHORLATCYN 125mg+50mg+50mg+25mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        612,
+        497,
+        639
+      ],
+      "mapping": 35
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        612,
+        707,
+        634
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        636,
+        162,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        641,
+        377,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        641,
+        701,
+        658
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 5 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        670,
+        197,
+        690
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        694,
+        164,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        32,
+        717,
+        168,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 11/12/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        756,
+        623,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        772,
+        199,
+        794
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        781,
+        612,
+        803
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ys ĐK. Nguyễn Công Hoan",
+      "label": "other",
+      "bbox": [
+        438,
+        851,
+        654,
+        882
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        909,
+        415,
+        934
+      ],
+      "mapping": null
+    },
+    {
+      "text": "27/12/2021 22:23:16",
+      "label": "other",
+      "bbox": [
+        585,
+        951,
+        732,
+        969
+      ],
+      "mapping": null
+    }
+  ]
+}

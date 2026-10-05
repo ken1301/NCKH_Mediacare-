@@ -1,0 +1,337 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_879",
+  "image": "public_train/image/VAIPE_P_TRAIN_879.png",
+  "text": "1/1\nPK SỐ 3 [NHI]\nSố phiếu 19787/2020\n4784725\nTOA THUỐC BHYT\nNam\nNữ\n209\n29478\nGB 4 135\n35\nLần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Điện tim thường\nChần đoán: R07.3 - Đau ngực khác; (G58.0) Bệnh dây thần kinh liên sườn\n1) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\nChiều 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 16/04/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYS. Trần Thị Hoa\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n24/12/2021 12:27:18",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        133,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 19787/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4784725",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29478",
+      "label": "other",
+      "bbox": [
+        508,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "GB 4 135",
+      "label": "other",
+      "bbox": [
+        188,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        308,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Điện tim thường",
+      "label": "other",
+      "bbox": [
+        26,
+        272,
+        241,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: R07.3 - Đau ngực khác; (G58.0) Bệnh dây thần kinh liên sườn",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        534,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        273,
+        430
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        461,
+        197,
+        481
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        30,
+        485,
+        164,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        512,
+        168,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 16/04/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        544,
+        623,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        565,
+        199,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        572,
+        612,
+        594
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YS. Trần Thị Hoa",
+      "label": "other",
+      "bbox": [
+        477,
+        645,
+        616,
+        667
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        703,
+        417,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "24/12/2021 12:27:18",
+      "label": "other",
+      "bbox": [
+        585,
+        743,
+        732,
+        761
+      ],
+      "mapping": null
+    }
+  ]
+}

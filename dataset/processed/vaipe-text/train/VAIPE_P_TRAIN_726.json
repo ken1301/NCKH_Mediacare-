@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_726",
+  "image": "public_train/image/VAIPE_P_TRAIN_726.png",
+  "text": "1/1\nLGHĨA\nSố phiếu 2916/2020\n4673002\nTOA THUỐC BHYT\nNam x nữ\n206\n80160\n2\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: [20 - Viêm phế quản cấp; (J11) Cúm, virus không được định danh; (L29) Ngứa\n1) HAPENXIN CAPSULES 0,5g\nSL: 20 Viên\nGhi chú uống:\n2) BROMHEXIN ACTAVIS 8mg\nSL: 20 Viên\nGhi chú Uống:\n3) TYDOL PM 500mg + 25mg\nSL: 10 Viên\nGhi chú Uống\n4) LIVONIC 2500mg+400mg+500mg+85mg\nSL: 20 Viên\nGhi chú Uống\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 16/12/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nYSSN. Trần Thị Hằng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/01/2022 11:42:48",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "LGHĨA",
+      "label": "other",
+      "bbox": [
+        155,
+        77,
+        201,
+        95
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 2916/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4673002",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        437,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80160",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        75,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: [20 - Viêm phế quản cấp; (J11) Cúm, virus không được định danh; (L29) Ngứa",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        647,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        364,
+        430
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        432,
+        159,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) BROMHEXIN ACTAVIS 8mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        370,
+        483
+      ],
+      "mapping": 63
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        481,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) TYDOL PM 500mg + 25mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        508,
+        343,
+        534
+      ],
+      "mapping": 101
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        537,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) LIVONIC 2500mg+400mg+500mg+85mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        561,
+        470,
+        587
+      ],
+      "mapping": 68
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        561,
+        707,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        588,
+        153,
+        610
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        35,
+        619,
+        197,
+        639
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        643,
+        164,
+        661
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        667,
+        168,
+        687
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 16/12/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        703,
+        623,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        721,
+        199,
+        741
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        732,
+        612,
+        749
+      ],
+      "mapping": null
+    },
+    {
+      "text": "YSSN. Trần Thị Hằng",
+      "label": "other",
+      "bbox": [
+        461,
+        800,
+        634,
+        827
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        858,
+        417,
+        880
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/01/2022 11:42:48",
+      "label": "other",
+      "bbox": [
+        585,
+        898,
+        732,
+        918
+      ],
+      "mapping": null
+    }
+  ]
+}

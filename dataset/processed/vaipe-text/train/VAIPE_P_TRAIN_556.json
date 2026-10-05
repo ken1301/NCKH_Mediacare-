@@ -1,0 +1,227 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_556",
+  "image": "public_train/image/VAIPE_P_TRAIN_556.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: D34 - td U lành của tuyến giáp; (M13) Các viêm khớp khác;\n(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t)\nThuốc điều trị:\n1) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 1 Viên CHiều 1 Viên\nSL: 20 Viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHiều 2 viên TổI 2 viên\nSL: 60 viên\nLời dặn:\nNgày 24 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Vũ Hồng Thanh\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1010,
+        210,
+        1059,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: D34 - td U lành của tuyến giáp; (M13) Các viêm khớp khác;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1022,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        392,
+        930,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        585,
+        520
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        750,
+        588
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        602,
+        892,
+        647
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHiều 2 viên TổI 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        880,
+        715
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 60 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        190,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        742,
+        157,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        785,
+        1027,
+        825
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        832,
+        1002,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        711,
+        873,
+        970,
+        917
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Vũ Hồng Thanh",
+      "label": "other",
+      "bbox": [
+        669,
+        1012,
+        1008,
+        1062
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1067,
+        507,
+        1103
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1112,
+        1007,
+        1155
+      ],
+      "mapping": null
+    }
+  ]
+}

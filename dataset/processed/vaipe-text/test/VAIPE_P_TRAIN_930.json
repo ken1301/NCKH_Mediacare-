@@ -1,0 +1,513 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_930",
+  "image": "public_train/image/VAIPE_P_TRAIN_930.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 2\nSố phiếu 42488/2021\n5098549\nTOA THUỐC BHYT\nNam\nNữ\n205\n92213\n2\n35\n35\nmmHg Thân nhiệt: 37\nLần/phút Huyết áp:\nMạch:\n80\n130\nCận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Định lượng Cholesterol toàn\nphần (máu), Định lượng Glucose [Máu], Định lượng HBAIc [máu], Định lượng HDL-C (High density\nLipoprotein Cholesterol) (Máu], Định lượng Triglycerid (máu) [Máu], Đo hoạt độ ALT (GPT) (Máu], Đo\nhoạt độ AST (GOT) [Máu], Định lượng Creatinin (máu), Tổng phân tích nước tiểu (Bằng máy tự động);\nĐiện tim thường\nChấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (RO7.1) Đau ngực khi thở; (E78.1)\nTăng triglycerid máu đơn thuần; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1671)\n1) MEGLUCON 1000 1000mg\nSL: 60 Viên\nGhi chú Uống sau khi ăn:\nTối 1 Viên\n2) PYME DIAPRO MR 30mg\nSL: 60 Viên\nGhi chú Uống trước khi ăn:\nSáng 1 Viên\n3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 40 viên\nGhi chú Uống\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc: KHám Lại 1/11/2021\nNgày hẹn tái khám:\nNgày 01/09/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Đức Thái\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 23:46:52",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 2",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        285,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 42488/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5098549",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "205",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "92213",
+      "label": "other",
+      "bbox": [
+        760,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        370,
+        325,
+        390,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        362,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "130",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        612,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Định lượng Cholesterol toàn",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        1069,
+        424
+      ],
+      "mapping": null
+    },
+    {
+      "text": "phần (máu), Định lượng Glucose [Máu], Định lượng HBAIc [máu], Định lượng HDL-C (High density",
+      "label": "other",
+      "bbox": [
+        37,
+        422,
+        1070,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lipoprotein Cholesterol) (Máu], Định lượng Triglycerid (máu) [Máu], Đo hoạt độ ALT (GPT) (Máu], Đo",
+      "label": "other",
+      "bbox": [
+        37,
+        455,
+        1095,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "hoạt độ AST (GOT) [Máu], Định lượng Creatinin (máu), Tổng phân tích nước tiểu (Bằng máy tự động);",
+      "label": "other",
+      "bbox": [
+        37,
+        479,
+        1087,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Điện tim thường",
+      "label": "other",
+      "bbox": [
+        36,
+        505,
+        208,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (RO7.1) Đau ngực khi thở; (E78.1)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        537,
+        1062,
+        567
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tăng triglycerid máu đơn thuần; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1671)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        563,
+        1040,
+        599
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        705,
+        517,
+        747
+      ],
+      "mapping": 56
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        707,
+        1055,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        743,
+        343,
+        783
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        747,
+        1045,
+        775
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PYME DIAPRO MR 30mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        784,
+        497,
+        825
+      ],
+      "mapping": 37
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        787,
+        1055,
+        817
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống trước khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        820,
+        363,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        827,
+        560,
+        857
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        857,
+        750,
+        903
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        864,
+        1049,
+        897
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        49,
+        897,
+        223,
+        935
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        765,
+        902,
+        897,
+        930
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        907,
+        552,
+        935
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        950,
+        290,
+        977
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: KHám Lại 1/11/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        982,
+        492,
+        1012
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        1025,
+        247,
+        1052
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 01/09/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        1077,
+        925,
+        1105
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1105,
+        292,
+        1132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1112,
+        912,
+        1145
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Đức Thái",
+      "label": "other",
+      "bbox": [
+        686,
+        1220,
+        943,
+        1263
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1306,
+        617,
+        1344
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 23:46:52",
+      "label": "other",
+      "bbox": [
+        877,
+        1369,
+        1089,
+        1394
+      ],
+      "mapping": null
+    }
+  ]
+}

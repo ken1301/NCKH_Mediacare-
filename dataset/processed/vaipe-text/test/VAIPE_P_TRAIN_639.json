@@ -1,0 +1,359 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_639",
+  "image": "public_train/image/VAIPE_P_TRAIN_639.png",
+  "text": "1/1\nPK SỐ 3 [NHI]\nSố phiếu 6005/2019\n4713774\nTOA THUỐC BHYT\nNam\nNữ\nMS\n35\n35\n207\n25569\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Định lượng Cholesterol toàn phần (máu), Định lượng HDL-C (High density lipoprotein\nCholesterol) [Máu], Định lượng Triglycerid (máu) [Máu];\nChấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác\n1) LENINARTO 10 10mg\nSL: 30 Viên\nGhi chú Uống:\nTối 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 28/01/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. khong dung\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 19:04:13",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        130,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 6005/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4713774",
+      "label": "other",
+      "bbox": [
+        625,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MS",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        215,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25569",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Cholesterol toàn phần (máu), Định lượng HDL-C (High density lipoprotein",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        717,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cholesterol) [Máu], Định lượng Triglycerid (máu) [Máu];",
+      "label": "other",
+      "bbox": [
+        28,
+        274,
+        419,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        292,
+        593,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) LENINARTO 10 10mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        402,
+        299,
+        433
+      ],
+      "mapping": 14
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        406,
+        708,
+        428
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        429,
+        160,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        431,
+        700,
+        449
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        463,
+        197,
+        481
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        484,
+        163,
+        504
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        511,
+        167,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 28/01/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        548,
+        621,
+        566
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        566,
+        198,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        575,
+        611,
+        593
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. khong dung",
+      "label": "other",
+      "bbox": [
+        484,
+        648,
+        609,
+        673
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        701,
+        414,
+        725
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 19:04:13",
+      "label": "other",
+      "bbox": [
+        586,
+        743,
+        730,
+        760
+      ],
+      "mapping": null
+    }
+  ]
+}

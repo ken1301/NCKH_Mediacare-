@@ -1,0 +1,729 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_790",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_790.png",
+  "text": "1/1 M sc người bnh\nPK SỐ 3 [NHI] Số phiếu 1295/2021\nTOA THAC  BHYT\nNm\nThu ặo h ếhám y tế GD 4 35 35 208 06270\nMạch: lần/phút Huyết áp: / MMHHg Th Th ân nhiệt: c\nCnhl 1sàngsgng: Cềhp X ọuang ngc nhắng\nCộềuhần oknhoả: 42 - iêm phế :uhn măn tinh hĩông phTân 1oại\n1) CEFADROXIL 500MG 0,5g SL: 28 Viên\nGhi chúc Uống Sáng 2 Viên Tối 2 Viên\n2) PANACTOL 500mg SL: 10 Viên\nGhi chú Uống: Sáng 1 Viên Chiều 1 Viên\n3) DIXIREIN 375mg SL: 28 Vi ên\nGhi chú Uống: Sáng 2 Viên Chiều 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 06/01/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTá khákhám Xịin mang tho onđ, knt nghinhm phiám (ônếu co)\n05/07/2021 09:14:35",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        34.0,
+        716.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            35.0,
+            120.0,
+            79.0
+          ],
+          "confidence": 0.999769389629364
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            34.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.778324544429779
+        }
+      ]
+    },
+    {
+      "text": "PK SỐ 3 [NHI] Số phiếu 1295/2021",
+      "bbox": [
+        24.0,
+        102.0,
+        534.0,
+        138.0
+      ],
+      "words": [
+        {
+          "text": "PK SỐ 3 [NHI]",
+          "bbox": [
+            24.0,
+            102.0,
+            135.0,
+            133.0
+          ],
+          "confidence": 0.9548823833465576
+        },
+        {
+          "text": "Số phiếu 1295/2021",
+          "bbox": [
+            369.0,
+            107.0,
+            534.0,
+            138.0
+          ],
+          "confidence": 0.9899134039878845
+        }
+      ]
+    },
+    {
+      "text": "TOA THAC  BHYT",
+      "bbox": [
+        258.0,
+        140.0,
+        509.0,
+        171.0
+      ],
+      "words": [
+        {
+          "text": "TOA THAC  BHYT",
+          "bbox": [
+            258.0,
+            140.0,
+            509.0,
+            171.0
+          ],
+          "confidence": 0.902531087398529
+        }
+      ]
+    },
+    {
+      "text": "Nm",
+      "bbox": [
+        616.0,
+        164.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "Nm",
+          "bbox": [
+            616.0,
+            164.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6872325539588928
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GD 4 35 35 208 06270",
+      "bbox": [
+        25.0,
+        218.0,
+        564.0,
+        248.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            221.0,
+            155.0,
+            245.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GD",
+          "bbox": [
+            182.0,
+            222.0,
+            219.0,
+            245.0
+          ],
+          "confidence": 0.9418666958808899
+        },
+        {
+          "text": "4",
+          "bbox": [
+            249.0,
+            226.0,
+            263.0,
+            241.0
+          ],
+          "confidence": 0.6163628101348877
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            221.0,
+            328.0,
+            245.0
+          ],
+          "confidence": 0.9997196197509766
+        },
+        {
+          "text": "35",
+          "bbox": [
+            359.0,
+            218.0,
+            394.0,
+            248.0
+          ],
+          "confidence": 0.9997309446334839
+        },
+        {
+          "text": "208",
+          "bbox": [
+            432.0,
+            221.0,
+            471.0,
+            245.0
+          ],
+          "confidence": 0.8343098759651184
+        },
+        {
+          "text": "06270",
+          "bbox": [
+            508.0,
+            221.0,
+            564.0,
+            246.0
+          ],
+          "confidence": 0.9987770318984985
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MMHHg Th Th ân nhiệt: c",
+      "bbox": [
+        25.0,
+        244.0,
+        678.0,
+        274.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            248.0,
+            76.0,
+            272.0
+          ],
+          "confidence": 0.9905017018318176
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            246.0,
+            309.0,
+            274.0
+          ],
+          "confidence": 0.9581643342971802
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            249.0,
+            393.0,
+            271.0
+          ],
+          "confidence": 0.9896609783172607
+        },
+        {
+          "text": "MMHHg",
+          "bbox": [
+            449.0,
+            250.0,
+            507.0,
+            272.0
+          ],
+          "confidence": 0.7848145365715027
+        },
+        {
+          "text": "Th Th ân nhiệt:",
+          "bbox": [
+            512.0,
+            250.0,
+            596.0,
+            272.0
+          ],
+          "confidence": 0.8535603880882263
+        },
+        {
+          "text": "c",
+          "bbox": [
+            648.0,
+            244.0,
+            678.0,
+            272.0
+          ],
+          "confidence": 0.6915825009346008
+        }
+      ]
+    },
+    {
+      "text": "Cnhl 1sàngsgng: Cềhp X ọuang ngc nhắng",
+      "bbox": [
+        24.0,
+        268.0,
+        305.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhl 1sàngsgng: Cềhp X ọuang ngc nhắng",
+          "bbox": [
+            24.0,
+            268.0,
+            305.0,
+            294.0
+          ],
+          "confidence": 0.7915149927139282
+        }
+      ]
+    },
+    {
+      "text": "Cộềuhần oknhoả: 42 - iêm phế :uhn măn tinh hĩông phTân 1oại",
+      "bbox": [
+        26.0,
+        289.0,
+        428.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cộềuhần oknhoả: 42 - iêm phế :uhn măn tinh hĩông phTân 1oại",
+          "bbox": [
+            26.0,
+            289.0,
+            428.0,
+            312.0
+          ],
+          "confidence": 0.7916046380996704
+        }
+      ]
+    },
+    {
+      "text": "1) CEFADROXIL 500MG 0,5g SL: 28 Viên",
+      "bbox": [
+        38.0,
+        395.0,
+        710.0,
+        434.0
+      ],
+      "words": [
+        {
+          "text": "1) CEFADROXIL 500MG 0,5g",
+          "bbox": [
+            38.0,
+            395.0,
+            352.0,
+            434.0
+          ],
+          "confidence": 0.962618350982666
+        },
+        {
+          "text": "SL: 28 Viên",
+          "bbox": [
+            594.0,
+            402.0,
+            710.0,
+            428.0
+          ],
+          "confidence": 0.9260473847389221
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống Sáng 2 Viên Tối 2 Viên",
+      "bbox": [
+        34.0,
+        426.0,
+        706.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            431.0,
+            95.0,
+            452.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            428.0,
+            164.0,
+            456.0
+          ],
+          "confidence": 0.9543900489807129
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            287.0,
+            430.0,
+            379.0,
+            455.0
+          ],
+          "confidence": 0.9297007918357849
+        },
+        {
+          "text": "Tối 2 Viên",
+          "bbox": [
+            620.0,
+            426.0,
+            706.0,
+            454.0
+          ],
+          "confidence": 0.9994389414787292
+        }
+      ]
+    },
+    {
+      "text": "2) PANACTOL 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        450.0,
+        710.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) PANACTOL 500mg",
+          "bbox": [
+            36.0,
+            450.0,
+            277.0,
+            486.0
+          ],
+          "confidence": 0.9688793420791626
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            592.0,
+            453.0,
+            710.0,
+            481.0
+          ],
+          "confidence": 0.9733443856239319
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        478.0,
+        608.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            94.0,
+            505.0
+          ],
+          "confidence": 0.8600844144821167
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            478.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8698654174804688
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            480.0,
+            378.0,
+            508.0
+          ],
+          "confidence": 0.9983856081962585
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            511.0,
+            480.0,
+            608.0,
+            505.0
+          ],
+          "confidence": 0.9988405704498291
+        }
+      ]
+    },
+    {
+      "text": "3) DIXIREIN 375mg SL: 28 Vi ên",
+      "bbox": [
+        36.0,
+        501.0,
+        709.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "3) DIXIREIN 375mg",
+          "bbox": [
+            36.0,
+            501.0,
+            257.0,
+            538.0
+          ],
+          "confidence": 0.9470396637916565
+        },
+        {
+          "text": "SL: 28 Vi ên",
+          "bbox": [
+            593.0,
+            507.0,
+            709.0,
+            532.0
+          ],
+          "confidence": 0.9766799807548523
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        531.0,
+        610.0,
+        561.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            535.0,
+            94.0,
+            557.0
+          ],
+          "confidence": 0.86687171459198
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            533.0,
+            165.0,
+            561.0
+          ],
+          "confidence": 0.9177179336547852
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            534.0,
+            378.0,
+            558.0
+          ],
+          "confidence": 0.987599790096283
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            531.0,
+            610.0,
+            558.0
+          ],
+          "confidence": 0.9990713596343994
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        561.0,
+        200.0,
+        586.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            561.0,
+            200.0,
+            586.0
+          ],
+          "confidence": 0.965898334980011
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        587.0,
+        164.0,
+        608.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            587.0,
+            164.0,
+            608.0
+          ],
+          "confidence": 0.9324415922164917
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        614.0,
+        168.0,
+        635.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            614.0,
+            168.0,
+            635.0
+          ],
+          "confidence": 0.9547688364982605
+        }
+      ]
+    },
+    {
+      "text": "Ngày 06/01/2021",
+      "bbox": [
+        483.0,
+        645.0,
+        623.0,
+        672.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 06/01/2021",
+          "bbox": [
+            483.0,
+            645.0,
+            623.0,
+            672.0
+          ],
+          "confidence": 0.9967066645622253
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        668.0,
+        616.0,
+        699.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            668.0,
+            198.0,
+            689.0
+          ],
+          "confidence": 0.9778704047203064
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            699.0
+          ],
+          "confidence": 0.9870515465736389
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        745.0,
+        628.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            745.0,
+            628.0,
+            776.0
+          ],
+          "confidence": 0.9533830285072327
+        }
+      ]
+    },
+    {
+      "text": "Tá khákhám Xịin mang tho onđ, knt nghinhm phiám (ônếu co)",
+      "bbox": [
+        33.0,
+        803.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tá khákhám Xịin mang tho onđ, knt nghinhm phiám (ônếu co)",
+          "bbox": [
+            33.0,
+            803.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.8201702237129211
+        }
+      ]
+    },
+    {
+      "text": "05/07/2021 09:14:35",
+      "bbox": [
+        586.0,
+        845.0,
+        732.0,
+        865.0
+      ],
+      "words": [
+        {
+          "text": "05/07/2021 09:14:35",
+          "bbox": [
+            586.0,
+            845.0,
+            732.0,
+            865.0
+          ],
+          "confidence": 0.9861994385719299
+        }
+      ]
+    }
+  ]
+}

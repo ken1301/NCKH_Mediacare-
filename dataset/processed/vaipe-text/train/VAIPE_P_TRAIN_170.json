@@ -1,0 +1,271 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_170",
+  "image": "public_train/image/VAIPE_P_TRAIN_170.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChấn đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-167t)\n(195) Huyết áp thấp (hạ huyết áp); (E53.9) Thiếu vitamin B, không đặc hiệu\nThuốc điều trị:\n1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên CHIều 2 viên\nSL: 40 viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 2 Viên Chiều 2 Viên\nSL: 20 Viên\n3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 20 Viên\nLời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ\nBHXH\nNgày 27 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Văn Thự\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1010,
+        210,
+        1059,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-167t)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1085,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(195) Huyết áp thấp (hạ huyết áp); (E53.9) Thiếu vitamin B, không đặc hiệu",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        387,
+        1077,
+        430
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        39,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        473,
+        892,
+        520
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên CHIều 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        735,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 40 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        190,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        605,
+        585,
+        647
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "Uống: Sáng 2 Viên Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        675,
+        750,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        195,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        732,
+        875,
+        777
+      ],
+      "mapping": 104
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        752,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        197,
+        835
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ",
+      "label": "other",
+      "bbox": [
+        42,
+        860,
+        1097,
+        902
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BHXH",
+      "label": "other",
+      "bbox": [
+        42,
+        905,
+        140,
+        932
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        912,
+        1027,
+        954
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        959,
+        1002,
+        999
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1007,
+        970,
+        1042
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Văn Thự",
+      "label": "other",
+      "bbox": [
+        661,
+        1170,
+        1018,
+        1221
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1225,
+        507,
+        1260
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1270,
+        1007,
+        1312
+      ],
+      "mapping": null
+    }
+  ]
+}

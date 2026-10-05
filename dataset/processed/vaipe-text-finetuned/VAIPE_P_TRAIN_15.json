@@ -1,0 +1,555 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_15",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_15.png",
+  "text": "1/1 M sc người bnh\nPK Số 5.1 [TĐ] Số phiếu 26409/2021\nTOA THỐC T U C  H BHT\nNam x Nữ\nThu ặo h ếhám y tế CB 35 35 207 63467\nMạch: lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU\n1) MEGLUCON 1000 1000 mg SL: 122 Viên\nGhi chú Uốg Sáng 1 Viên Ciều 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹnt tá i khám: Thủ tu 07/07/2021\nNgày 07/05/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Đào Tiến Trung\nTáiái kháKhám Xin Mmanng tho ođm, Xn nghinm phirm (rnếu co)\n16/05/2021 11:01:04",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 26409/2021",
+      "bbox": [
+        24.0,
+        86.0,
+        545.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            24.0,
+            86.0,
+            140.0,
+            114.0
+          ],
+          "confidence": 0.904761791229248
+        },
+        {
+          "text": "Số phiếu 26409/2021",
+          "bbox": [
+            370.0,
+            89.0,
+            545.0,
+            121.0
+          ],
+          "confidence": 0.9931533932685852
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC T U C  H BHT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC T U C  H BHT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.776771068572998
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CB 35 35 207 63467",
+      "bbox": [
+        25.0,
+        203.0,
+        565.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CB",
+          "bbox": [
+            183.0,
+            203.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.9158003330230713
+        },
+        {
+          "text": "35",
+          "bbox": [
+            296.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999125003814697
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9996578097343445
+        },
+        {
+          "text": "63467",
+          "bbox": [
+            508.0,
+            203.0,
+            565.0,
+            228.0
+          ],
+          "confidence": 0.9994738698005676
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / mmHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            78.0,
+            254.0
+          ],
+          "confidence": 0.9605226516723633
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            227.0,
+            310.0,
+            256.0
+          ],
+          "confidence": 0.9641157984733582
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "mmHHg",
+          "bbox": [
+            448.0,
+            230.0,
+            506.0,
+            255.0
+          ],
+          "confidence": 0.9203370809555054
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU",
+      "bbox": [
+        25.0,
+        270.0,
+        467.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cnhn oknhnả: E11- nh ĩi th o đường không phu thunyc 0nSốuđinU",
+          "bbox": [
+            25.0,
+            270.0,
+            467.0,
+            294.0
+          ],
+          "confidence": 0.7788552641868591
+        }
+      ]
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000 mg SL: 122 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        719.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) MEGLUCON 1000 1000 mg",
+          "bbox": [
+            40.0,
+            379.0,
+            351.0,
+            415.0
+          ],
+          "confidence": 0.9448822140693665
+        },
+        {
+          "text": "SL: 122 Viên",
+          "bbox": [
+            592.0,
+            383.0,
+            719.0,
+            410.0
+          ],
+          "confidence": 0.9561607241630554
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        34.0,
+        410.0,
+        609.0,
+        438.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            164.0,
+            438.0
+          ],
+          "confidence": 0.8781428337097168
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        32.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            32.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9656203389167786
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9535789489746094
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹnt tá i khám: Thủ tu 07/07/2021",
+      "bbox": [
+        30.0,
+        488.0,
+        308.0,
+        514.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹnt tá i khám: Thủ tu 07/07/2021",
+          "bbox": [
+            30.0,
+            488.0,
+            308.0,
+            514.0
+          ],
+          "confidence": 0.8324329257011414
+        }
+      ]
+    },
+    {
+      "text": "Ngày 07/05/2021",
+      "bbox": [
+        483.0,
+        523.0,
+        623.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 07/05/2021",
+          "bbox": [
+            483.0,
+            523.0,
+            623.0,
+            549.0
+          ],
+          "confidence": 0.9673048257827759
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        543.0,
+        616.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            543.0,
+            200.0,
+            567.0
+          ],
+          "confidence": 0.968380868434906
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            616.0,
+            578.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "BS. Đào Tiến Trung",
+      "bbox": [
+        466.0,
+        623.0,
+        627.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "BS. Đào Tiến Trung",
+          "bbox": [
+            466.0,
+            623.0,
+            627.0,
+            654.0
+          ],
+          "confidence": 0.9883766174316406
+        }
+      ]
+    },
+    {
+      "text": "Táiái kháKhám Xin Mmanng tho ođm, Xn nghinm phirm (rnếu co)",
+      "bbox": [
+        34.0,
+        684.0,
+        415.0,
+        704.0
+      ],
+      "words": [
+        {
+          "text": "Táiái kháKhám Xin Mmanng tho ođm, Xn nghinm phirm (rnếu co)",
+          "bbox": [
+            34.0,
+            684.0,
+            415.0,
+            704.0
+          ],
+          "confidence": 0.8043599724769592
+        }
+      ]
+    },
+    {
+      "text": "16/05/2021 11:01:04",
+      "bbox": [
+        588.0,
+        723.0,
+        732.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "16/05/2021 11:01:04",
+          "bbox": [
+            588.0,
+            723.0,
+            732.0,
+            744.0
+          ],
+          "confidence": 0.9289346933364868
+        }
+      ]
+    }
+  ]
+}

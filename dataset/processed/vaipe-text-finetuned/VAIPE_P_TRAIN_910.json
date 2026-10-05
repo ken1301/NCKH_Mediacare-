@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_910",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_910.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam  n x\nCânhân kgn:n H10 - Vn m ánt mMạy (Ký04) nệnh tủy Và mMõ đuannh chân răng:\n(L23.9) Viêm da dị ứng tiếp Xức nguyễn nhân không ĩdặc hinệu\nThuốc điều trị:\n1)AmOoX ic i (ýF No mOU 500) 500mg\nSL: 30 Viên Uống : SángG 3 Vn CHIcU 3 Viên\n2)hthy1 prtdniáOo1ođ (Mthy1đprcCdniScOo1omn 4) 4mg\nSL: 20 Viên Uống Sau k i ăn: Sáng 4 Vin\n3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg\nSL: 10 Viên Uống: Sáng 1 Vi CHIg 1 Viên\nLời dặn:\nNgày 23 nghng 12 năam 2021\nBác sỹ/Y sỹ khaám bệnh\n(Ký, ghi rõ họ tên)\nBS. Trần Thị TuyếHt\n-Kh hám 1hại Xi mnng t O n này.\n-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+  "lines": [
+    {
+      "text": "Điện thoại:",
+      "bbox": [
+        40.0,
+        98.0,
+        197.0,
+        142.0
+      ],
+      "words": [
+        {
+          "text": "Điện thoại:",
+          "bbox": [
+            40.0,
+            98.0,
+            197.0,
+            142.0
+          ],
+          "confidence": 0.9611215591430664
+        }
+      ]
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "bbox": [
+        395.0,
+        145.0,
+        750.0,
+        195.0
+      ],
+      "words": [
+        {
+          "text": "ĐƠN THUỐC BHYT",
+          "bbox": [
+            395.0,
+            145.0,
+            750.0,
+            195.0
+          ],
+          "confidence": 0.8940101861953735
+        }
+      ]
+    },
+    {
+      "text": "Cân nặng kg nam  n x",
+      "bbox": [
+        695.0,
+        194.0,
+        1102.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Cân nặng kg nam  n x",
+          "bbox": [
+            695.0,
+            194.0,
+            1102.0,
+            258.0
+          ],
+          "confidence": 0.8527345657348633
+        }
+      ]
+    },
+    {
+      "text": "Cânhân kgn:n H10 - Vn m ánt mMạy (Ký04) nệnh tủy Và mMõ đuannh chân răng:",
+      "bbox": [
+        34.0,
+        345.0,
+        1042.0,
+        392.0
+      ],
+      "words": [
+        {
+          "text": "Cânhân kgn:n H10 - Vn m ánt mMạy (Ký04) nệnh tủy Và mMõ đuannh chân răng:",
+          "bbox": [
+            34.0,
+            345.0,
+            1042.0,
+            392.0
+          ],
+          "confidence": 0.8122484683990479
+        }
+      ]
+    },
+    {
+      "text": "(L23.9) Viêm da dị ứng tiếp Xức nguyễn nhân không ĩdặc hinệu",
+      "bbox": [
+        34.0,
+        388.0,
+        886.0,
+        429.0
+      ],
+      "words": [
+        {
+          "text": "(L23.9) Viêm da dị ứng tiếp Xức nguyễn nhân không ĩdặc hinệu",
+          "bbox": [
+            34.0,
+            388.0,
+            886.0,
+            429.0
+          ],
+          "confidence": 0.8748294115066528
+        }
+      ]
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "bbox": [
+        34.0,
+        425.0,
+        244.0,
+        470.0
+      ],
+      "words": [
+        {
+          "text": "Thuốc điều trị:",
+          "bbox": [
+            34.0,
+            425.0,
+            244.0,
+            470.0
+          ],
+          "confidence": 0.9153227210044861
+        }
+      ]
+    },
+    {
+      "text": "1)AmOoX ic i (ýF No mOU 500) 500mg",
+      "bbox": [
+        35.0,
+        475.0,
+        564.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "1)AmOoX ic i (ýF No mOU 500) 500mg",
+          "bbox": [
+            35.0,
+            475.0,
+            564.0,
+            519.0
+          ],
+          "confidence": 0.8131749629974365
+        }
+      ]
+    },
+    {
+      "text": "SL: 30 Viên Uống : SángG 3 Vn CHIcU 3 Viên",
+      "bbox": [
+        40.0,
+        543.0,
+        751.0,
+        583.0
+      ],
+      "words": [
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            40.0,
+            544.0,
+            199.0,
+            581.0
+          ],
+          "confidence": 0.968980073928833
+        },
+        {
+          "text": "Uống : SángG 3 Vn CHIcU 3 Viên",
+          "bbox": [
+            279.0,
+            543.0,
+            751.0,
+            583.0
+          ],
+          "confidence": 0.8457050919532776
+        }
+      ]
+    },
+    {
+      "text": "2)hthy1 prtdniáOo1ođ (Mthy1đprcCdniScOo1omn 4) 4mg",
+      "bbox": [
+        33.0,
+        603.0,
+        739.0,
+        647.0
+      ],
+      "words": [
+        {
+          "text": "2)hthy1 prtdniáOo1ođ (Mthy1đprcCdniScOo1omn 4) 4mg",
+          "bbox": [
+            33.0,
+            603.0,
+            739.0,
+            647.0
+          ],
+          "confidence": 0.7569421529769897
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 Viên Uống Sau k i ăn: Sáng 4 Vin",
+      "bbox": [
+        41.0,
+        671.0,
+        683.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            41.0,
+            672.0,
+            199.0,
+            709.0
+          ],
+          "confidence": 0.9517039656639099
+        },
+        {
+          "text": "Uống Sau k i ăn: Sáng 4 Vin",
+          "bbox": [
+            279.0,
+            671.0,
+            683.0,
+            711.0
+          ],
+          "confidence": 0.8086890578269958
+        }
+      ]
+    },
+    {
+      "text": "3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg",
+      "bbox": [
+        33.0,
+        733.0,
+        583.0,
+        774.0
+      ],
+      "words": [
+        {
+          "text": "3)PMT aạcBctamO1 (PMNraạmO1 Taạâ.) 500mg",
+          "bbox": [
+            33.0,
+            733.0,
+            583.0,
+            774.0
+          ],
+          "confidence": 0.7279244065284729
+        }
+      ]
+    },
+    {
+      "text": "SL: 10 Viên Uống: Sáng 1 Vi CHIg 1 Viên",
+      "bbox": [
+        41.0,
+        798.0,
+        751.0,
+        840.0
+      ],
+      "words": [
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            41.0,
+            803.0,
+            199.0,
+            837.0
+          ],
+          "confidence": 0.9598093628883362
+        },
+        {
+          "text": "Uống: Sáng 1 Vi CHIg 1 Viên",
+          "bbox": [
+            277.0,
+            798.0,
+            751.0,
+            840.0
+          ],
+          "confidence": 0.8755166530609131
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn:",
+      "bbox": [
+        36.0,
+        863.0,
+        161.0,
+        904.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn:",
+          "bbox": [
+            36.0,
+            863.0,
+            161.0,
+            904.0
+          ],
+          "confidence": 0.925964891910553
+        }
+      ]
+    },
+    {
+      "text": "Ngày 23 nghng 12 năam 2021",
+      "bbox": [
+        644.0,
+        910.0,
+        1027.0,
+        950.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 23 nghng 12 năam 2021",
+          "bbox": [
+            644.0,
+            910.0,
+            1027.0,
+            950.0
+          ],
+          "confidence": 0.828388512134552
+        }
+      ]
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khaám bệnh",
+      "bbox": [
+        677.0,
+        958.0,
+        999.0,
+        994.0
+      ],
+      "words": [
+        {
+          "text": "Bác sỹ/Y sỹ khaám bệnh",
+          "bbox": [
+            677.0,
+            958.0,
+            999.0,
+            994.0
+          ],
+          "confidence": 0.8390132784843445
+        }
+      ]
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "bbox": [
+        714.0,
+        1004.0,
+        968.0,
+        1042.0
+      ],
+      "words": [
+        {
+          "text": "(Ký, ghi rõ họ tên)",
+          "bbox": [
+            714.0,
+            1004.0,
+            968.0,
+            1042.0
+          ],
+          "confidence": 0.9204869270324707
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị TuyếHt",
+      "bbox": [
+        704.0,
+        1141.0,
+        973.0,
+        1185.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị TuyếHt",
+          "bbox": [
+            704.0,
+            1141.0,
+            973.0,
+            1185.0
+          ],
+          "confidence": 0.9222331643104553
+        }
+      ]
+    },
+    {
+      "text": "-Kh hám 1hại Xi mnng t O n này.",
+      "bbox": [
+        40.0,
+        1192.0,
+        510.0,
+        1232.0
+      ],
+      "words": [
+        {
+          "text": "-Kh hám 1hại Xi mnng t O n này.",
+          "bbox": [
+            40.0,
+            1192.0,
+            510.0,
+            1232.0
+          ],
+          "confidence": 0.7928080558776855
+        }
+      ]
+    },
+    {
+      "text": "-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+      "bbox": [
+        39.0,
+        1239.0,
+        1006.0,
+        1281.0
+      ],
+      "words": [
+        {
+          "text": "-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+          "bbox": [
+            39.0,
+            1239.0,
+            1006.0,
+            1281.0
+          ],
+          "confidence": 0.7448355555534363
+        }
+      ]
+    }
+  ]
+}

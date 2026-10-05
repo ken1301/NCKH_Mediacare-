@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_955",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_955.png",
+  "text": "1/1 M sc người bnh\nLHANG\nSố phiếu 536/2020\nTOA THUỐC BHYT\nNamNx\nThu ặo h ếhám y tế GB 4 35 208 07327\nMạch: Lần/phút Huyết áp: / mmMHmHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCộềuhcn okhoả: M06 - V i hm đhp dạng thđnp khác\n1) AMOXICILIN 500MG 500mg SL: 20 Viên\nGhi chú Uống\n2) MYPARA 500 500mg SL: 10 Viên\nGhi chú Ug:\nCộng khoản 2 khon\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 05/03/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)\n17/05/2021 16:16:46",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        48.0,
+        16.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            48.0,
+            16.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.8852343559265137
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "LHANG",
+      "bbox": [
+        151.0,
+        53.0,
+        211.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "LHANG",
+          "bbox": [
+            151.0,
+            53.0,
+            211.0,
+            78.0
+          ],
+          "confidence": 0.886309802532196
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 536/2020",
+      "bbox": [
+        369.0,
+        89.0,
+        524.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 536/2020",
+          "bbox": [
+            369.0,
+            89.0,
+            524.0,
+            122.0
+          ],
+          "confidence": 0.9825512170791626
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        257.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            257.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9363172650337219
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế GB 4 35 208 07327",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "GB",
+          "bbox": [
+            183.0,
+            203.0,
+            220.0,
+            227.0
+          ],
+          "confidence": 0.9050109386444092
+        },
+        {
+          "text": "4",
+          "bbox": [
+            245.0,
+            206.0,
+            266.0,
+            225.0
+          ],
+          "confidence": 0.48203331232070923
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.9999196529388428
+        },
+        {
+          "text": "208",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.999660313129425
+        },
+        {
+          "text": "07327",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.961820125579834
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mmMHmHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9552405476570129
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "mmMHmHg",
+          "bbox": [
+            449.0,
+            233.0,
+            505.0,
+            254.0
+          ],
+          "confidence": 0.7626336216926575
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cộềuhcn okhoả: M06 - V i hm đhp dạng thđnp khác",
+      "bbox": [
+        25.0,
+        271.0,
+        339.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cộềuhcn okhoả: M06 - V i hm đhp dạng thđnp khác",
+          "bbox": [
+            25.0,
+            271.0,
+            339.0,
+            294.0
+          ],
+          "confidence": 0.725805401802063
+        }
+      ]
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) AMOXICILIN 500MG 500mg",
+          "bbox": [
+            40.0,
+            379.0,
+            365.0,
+            415.0
+          ],
+          "confidence": 0.9573336839675903
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        410.0,
+        163.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            410.0,
+            163.0,
+            436.0
+          ],
+          "confidence": 0.8372085094451904
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        432.0,
+        709.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            36.0,
+            432.0,
+            291.0,
+            467.0
+          ],
+          "confidence": 0.9410513639450073
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            595.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9646921157836914
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Ug:",
+      "bbox": [
+        32.0,
+        462.0,
+        165.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            464.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.9692519903182983
+        },
+        {
+          "text": "Ug:",
+          "bbox": [
+            104.0,
+            462.0,
+            165.0,
+            490.0
+          ],
+          "confidence": 0.7330722808837891
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản 2 khon",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản 2 khon",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.935966968536377
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9635470509529114
+        }
+      ]
+    },
+    {
+      "text": "Ngày 05/03/2020",
+      "bbox": [
+        483.0,
+        574.0,
+        624.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 05/03/2020",
+          "bbox": [
+            483.0,
+            574.0,
+            624.0,
+            602.0
+          ],
+          "confidence": 0.9911917448043823
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "bbox": [
+        462.0,
+        678.0,
+        632.0,
+        705.0
+      ],
+      "words": [
+        {
+          "text": "BS. Nguyễn Phúc Hải",
+          "bbox": [
+            462.0,
+            678.0,
+            632.0,
+            705.0
+          ],
+          "confidence": 0.9378038644790649
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        735.0,
+        415.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, knt nghinhm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            735.0,
+            415.0,
+            758.0
+          ],
+          "confidence": 0.8276697993278503
+        }
+      ]
+    },
+    {
+      "text": "17/05/2021 16:16:46",
+      "bbox": [
+        588.0,
+        775.0,
+        733.0,
+        795.0
+      ],
+      "words": [
+        {
+          "text": "17/05/2021 16:16:46",
+          "bbox": [
+            588.0,
+            775.0,
+            733.0,
+            795.0
+          ],
+          "confidence": 0.988795816898346
+        }
+      ]
+    }
+  ]
+}

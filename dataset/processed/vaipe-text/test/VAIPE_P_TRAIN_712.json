@@ -1,0 +1,304 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_712",
+  "image": "public_train/image/VAIPE_P_TRAIN_712.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam\nNữ\nChần đoán: A09 - Viêm dạ dày - ruột và đại tràng do nguyên nhân nhiễm trùng\nvà chưa xác định được nguồn gốc nhiễm trùng; (K21) Bệnh trào ngược dạ dày\n- thực quản\nThuốc điều trị:\n1) Omeprazol (Kagasdine) 20mg\nUống trước khi ăn: sáng 1 viên chiều 1 viên\nSL: 14 Viên\n2) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên CHiều 2 Viên\nSL: 28 Viên\n3) Metronidazol (Metronidazol 250) 250 mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 28 Viên\n4) Drotaverin clohydrat (Dromasm fort) 80mg\nUống: Sáng 1 Viên Chiều 1 Viên\nSL: 10 Viên\nLời dặn:\nNgày 27 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        215,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: A09 - Viêm dạ dày - ruột và đại tràng do nguyên nhân nhiễm trùng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1102,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "và chưa xác định được nguồn gốc nhiễm trùng; (K21) Bệnh trào ngược dạ dày",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        382,
+        1100,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "- thực quản",
+      "label": "diagnose",
+      "bbox": [
+        40,
+        432,
+        192,
+        464
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        466,
+        243,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Omeprazol (Kagasdine) 20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        516,
+        502,
+        560
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "Uống trước khi ăn: sáng 1 viên chiều 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        585,
+        905,
+        622
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 14 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        197,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        644,
+        565,
+        687
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        750,
+        753
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        195,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Metronidazol (Metronidazol 250) 250 mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        772,
+        657,
+        815
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        842,
+        752,
+        882
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        845,
+        195,
+        875
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Drotaverin clohydrat (Dromasm fort) 80mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        902,
+        679,
+        942
+      ],
+      "mapping": 36
+    },
+    {
+      "text": "Uống: Sáng 1 Viên Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        970,
+        750,
+        1007
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        972,
+        195,
+        1002
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        1037,
+        160,
+        1072
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        1082,
+        1027,
+        1120
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1130,
+        1002,
+        1165
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1175,
+        970,
+        1212
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1312,
+        1002,
+        1357
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1365,
+        507,
+        1397
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1409,
+        1007,
+        1452
+      ],
+      "mapping": null
+    }
+  ]
+}

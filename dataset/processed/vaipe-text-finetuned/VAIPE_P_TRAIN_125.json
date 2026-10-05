@@ -1,0 +1,649 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_125",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_125.png",
+  "text": "1/1 MH sỐ người xbệnh\nPK Số 5.1 [TĐ] Số phiếu 19411/2021\nTOA THUỐC BHYT\nNam x Nữ\nThu ặo h ếhám y tế CK 35 207 35077 C\nMạch: Lần/phút Huyết áp: / mMHg Thâ n nhiệt\nCận 1snm ásàng: Định 1ương Acid Uric [MMáu Định 1ương GiucOS [MMáu) TMng phân tich nườc tiêu (Bắng\nMmáy t1 nng)\nCânhn Okhn: E78 - Ri 1OMạn chuyến hcaạ 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) nhnh ĩái\ntháo ường thõng phU thunc inSu1inc: (M10) Gint (thng phOng)\n1) MILURIT 300mg SL: 10 Vi ên\nGhi chú 4 Uống áau kah ặn: Sáng 1 Viên\n2) GOUTCOLCIN 1mg SL: 5 Viên\nGhi chú Uống gau ăn: Sáng 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNggày 02/04/2021\nBệnh nhân ký nhậ Y, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khákhám Xin mang thco onđ, kt nghinhm phikam (ônếu co)\n16/05/2021 16:42:16",
+  "lines": [
+    {
+      "text": "1/1 MH sỐ người xbệnh",
+      "bbox": [
+        50.0,
+        16.0,
+        715.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            16.0,
+            121.0,
+            64.0
+          ],
+          "confidence": 0.9995422959327698
+        },
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "PK Số 5.1 [TĐ] Số phiếu 19411/2021",
+      "bbox": [
+        23.0,
+        83.0,
+        544.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 5.1 [TĐ]",
+          "bbox": [
+            23.0,
+            83.0,
+            140.0,
+            115.0
+          ],
+          "confidence": 0.9554377794265747
+        },
+        {
+          "text": "Số phiếu 19411/2021",
+          "bbox": [
+            370.0,
+            89.0,
+            544.0,
+            121.0
+          ],
+          "confidence": 0.9696656465530396
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        259.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            259.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.9322304129600525
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 35 207 35077 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            204.0,
+            224.0,
+            227.0
+          ],
+          "confidence": 0.790462851524353
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            394.0,
+            228.0
+          ],
+          "confidence": 0.999843955039978
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "35077",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9974104166030884
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: / mMHg Thâ n nhiệt",
+      "bbox": [
+        23.0,
+        229.0,
+        595.0,
+        254.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9966289401054382
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            230.0,
+            308.0,
+            253.0
+          ],
+          "confidence": 0.9619522094726562
+        },
+        {
+          "text": "/",
+          "bbox": [
+            377.0,
+            233.0,
+            390.0,
+            249.0
+          ],
+          "confidence": 0.7973536849021912
+        },
+        {
+          "text": "mMHg Thâ n nhiệt",
+          "bbox": [
+            449.0,
+            230.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8986794948577881
+        }
+      ]
+    },
+    {
+      "text": "Cận 1snm ásàng: Định 1ương Acid Uric [MMáu Định 1ương GiucOS [MMáu) TMng phân tich nườc tiêu (Bắng",
+      "bbox": [
+        24.0,
+        251.0,
+        737.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận 1snm ásàng: Định 1ương Acid Uric [MMáu Định 1ương GiucOS [MMáu) TMng phân tich nườc tiêu (Bắng",
+          "bbox": [
+            24.0,
+            251.0,
+            737.0,
+            276.0
+          ],
+          "confidence": 0.8409095406532288
+        }
+      ]
+    },
+    {
+      "text": "Mmáy t1 nng)",
+      "bbox": [
+        26.0,
+        273.0,
+        127.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Mmáy t1 nng)",
+          "bbox": [
+            26.0,
+            273.0,
+            127.0,
+            293.0
+          ],
+          "confidence": 0.7522628307342529
+        }
+      ]
+    },
+    {
+      "text": "Cânhn Okhn: E78 - Ri 1OMạn chuyến hcaạ 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) nhnh ĩái",
+      "bbox": [
+        27.0,
+        291.0,
+        710.0,
+        311.0
+      ],
+      "words": [
+        {
+          "text": "Cânhn Okhn: E78 - Ri 1OMạn chuyến hcaạ 1ipOprOntin à tinh t aạng tăng 1ipi Mmáhu khákc (E11) nhnh ĩái",
+          "bbox": [
+            27.0,
+            291.0,
+            710.0,
+            311.0
+          ],
+          "confidence": 0.7770727872848511
+        }
+      ]
+    },
+    {
+      "text": "tháo ường thõng phU thunc inSu1inc: (M10) Gint (thng phOng)",
+      "bbox": [
+        26.0,
+        309.0,
+        460.0,
+        332.0
+      ],
+      "words": [
+        {
+          "text": "tháo ường thõng phU thunc inSu1inc: (M10) Gint (thng phOng)",
+          "bbox": [
+            26.0,
+            309.0,
+            460.0,
+            332.0
+          ],
+          "confidence": 0.8219022750854492
+        }
+      ]
+    },
+    {
+      "text": "1) MILURIT 300mg SL: 10 Vi ên",
+      "bbox": [
+        40.0,
+        400.0,
+        709.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) MILURIT 300mg",
+          "bbox": [
+            40.0,
+            400.0,
+            250.0,
+            432.0
+          ],
+          "confidence": 0.914441704750061
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            595.0,
+            403.0,
+            709.0,
+            429.0
+          ],
+          "confidence": 0.964783251285553
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú 4 Uống áau kah ặn: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        431.0,
+        377.0,
+        453.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            431.0,
+            99.0,
+            452.0
+          ],
+          "confidence": 0.8748193383216858
+        },
+        {
+          "text": "4",
+          "bbox": [
+            92.0,
+            436.0,
+            110.0,
+            447.0
+          ],
+          "confidence": 0.22540980577468872
+        },
+        {
+          "text": "Uống áau kah ặn:",
+          "bbox": [
+            107.0,
+            432.0,
+            235.0,
+            453.0
+          ],
+          "confidence": 0.7996622323989868
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            432.0,
+            377.0,
+            453.0
+          ],
+          "confidence": 0.9945070147514343
+        }
+      ]
+    },
+    {
+      "text": "2) GOUTCOLCIN 1mg SL: 5 Viên",
+      "bbox": [
+        37.0,
+        452.0,
+        698.0,
+        483.0
+      ],
+      "words": [
+        {
+          "text": "2) GOUTCOLCIN 1mg",
+          "bbox": [
+            37.0,
+            452.0,
+            279.0,
+            483.0
+          ],
+          "confidence": 0.9839199185371399
+        },
+        {
+          "text": "SL: 5 Viên",
+          "bbox": [
+            594.0,
+            455.0,
+            698.0,
+            480.0
+          ],
+          "confidence": 0.9973692893981934
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống gau ăn: Sáng 1 Viên",
+      "bbox": [
+        35.0,
+        480.0,
+        378.0,
+        508.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            35.0,
+            484.0,
+            94.0,
+            503.0
+          ],
+          "confidence": 0.8699569702148438
+        },
+        {
+          "text": "Uống gau ăn:",
+          "bbox": [
+            106.0,
+            480.0,
+            236.0,
+            508.0
+          ],
+          "confidence": 0.8419576287269592
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            480.0,
+            378.0,
+            508.0
+          ],
+          "confidence": 0.9983856081962585
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        512.0,
+        199.0,
+        533.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            512.0,
+            199.0,
+            533.0
+          ],
+          "confidence": 0.9156751036643982
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        536.0,
+        165.0,
+        557.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            536.0,
+            165.0,
+            557.0
+          ],
+          "confidence": 0.9814830422401428
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        563.0,
+        168.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            563.0,
+            168.0,
+            585.0
+          ],
+          "confidence": 0.9346835017204285
+        }
+      ]
+    },
+    {
+      "text": "Nggày 02/04/2021",
+      "bbox": [
+        485.0,
+        598.0,
+        621.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Nggày 02/04/2021",
+          "bbox": [
+            485.0,
+            598.0,
+            621.0,
+            619.0
+          ],
+          "confidence": 0.926150918006897
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhậ Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        616.0,
+        615.0,
+        649.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhậ",
+          "bbox": [
+            64.0,
+            616.0,
+            198.0,
+            637.0
+          ],
+          "confidence": 0.9931804537773132
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            621.0,
+            615.0,
+            649.0
+          ],
+          "confidence": 0.9778044819831848
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "bbox": [
+        473.0,
+        697.0,
+        620.0,
+        721.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Mạnh Hà",
+          "bbox": [
+            473.0,
+            697.0,
+            620.0,
+            721.0
+          ],
+          "confidence": 0.9054611921310425
+        }
+      ]
+    },
+    {
+      "text": "Tái khákhám Xin mang thco onđ, kt nghinhm phikam (ônếu co)",
+      "bbox": [
+        33.0,
+        753.0,
+        416.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái khákhám Xin mang thco onđ, kt nghinhm phikam (ônếu co)",
+          "bbox": [
+            33.0,
+            753.0,
+            416.0,
+            776.0
+          ],
+          "confidence": 0.7945111393928528
+        }
+      ]
+    },
+    {
+      "text": "16/05/2021 16:42:16",
+      "bbox": [
+        588.0,
+        793.0,
+        732.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "16/05/2021 16:42:16",
+          "bbox": [
+            588.0,
+            793.0,
+            732.0,
+            814.0
+          ],
+          "confidence": 0.9798171520233154
+        }
+      ]
+    }
+  ]
+}

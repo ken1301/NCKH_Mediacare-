@@ -1,0 +1,326 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1124",
+  "image": "public_train/image/VAIPE_P_TRAIN_1124.png",
+  "text": "1/1\nPK SỐ 5.1 [TĐ]\nSố phiếu 28868/2020\n4699376\nTOA THUỐC BHYT\nNam\nNữ\n960\n09913\n3\n25\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: Định lượng Glucose [Máu]\nChẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin\n1) METFORMIN 500 500mg\nSL: 34 Viên\nGhi chú Uống sau khi ăn:\nTối 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ ba, 07/07/2020\nNgày 03/06/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Hoàng Thị Hường\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n01/01/2022 15:19:19",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        55,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 5.1 [TĐ]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        138,
+        131
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 28868/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4699376",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "960",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "09913",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3",
+      "label": "other",
+      "bbox": [
+        250,
+        226,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "25",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        241
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Định lượng Glucose [Máu]",
+      "label": "other",
+      "bbox": [
+        26,
+        272,
+        317,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        461,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) METFORMIN 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        328,
+        430
+      ],
+      "mapping": 54
+    },
+    {
+      "text": "SL: 34 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        35,
+        429,
+        233,
+        457
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        623,
+        432,
+        701,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        461,
+        197,
+        481
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        30,
+        485,
+        164,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ ba, 07/07/2020",
+      "label": "other",
+      "bbox": [
+        33,
+        508,
+        310,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 03/06/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        544,
+        623,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        565,
+        199,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        570,
+        612,
+        594
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Hoàng Thị Hường",
+      "label": "other",
+      "bbox": [
+        459,
+        647,
+        634,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        703,
+        417,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "01/01/2022 15:19:19",
+      "label": "other",
+      "bbox": [
+        585,
+        743,
+        732,
+        761
+      ],
+      "mapping": null
+    }
+  ]
+}

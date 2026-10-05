@@ -1,0 +1,690 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_676",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_676.png",
+  "text": "1/1 M sc người bnh\nSố phiếu 2261/2019\nTOA THUỐC BHYT\nNam x Nữ2\nThu ặo h êhám y tế TS 2 35 207 25572\nMạch: lần/phút Huyết áp: MmMHHg T Thân nhiệt: c\nCiều n okgo:n 02 - Snsu rễng Cộn lâm sàng:\n1) NOVOXIM-500 0,5g SL: 20 Viên\nGhi chú Uốg\n2) MYPARA 500 500mg SL: 20 Viên\nGhi chúK Uốg\n3) METRONIDAZOL 250mg SL: 20 Viên\nGhi chú Uống\n4) SETBLOOD 115mg4100mg450mg SL: 10 Viên\nGhi chúữ Uốg\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 12/08/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Nguyễn Văn Huy\nTá kh khám Xin MmMng tho ĩođn, Xết nghinm phiám (nếu co)\n11/05/2021 22:04:22",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            122.0,
+            64.0
+          ],
+          "confidence": 0.9997976422309875
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2261/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2261/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9681977033615112
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9711178541183472
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ2",
+      "bbox": [
+        616.0,
+        148.0,
+        737.0,
+        180.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ2",
+          "bbox": [
+            616.0,
+            148.0,
+            737.0,
+            180.0
+          ],
+          "confidence": 0.8469838500022888
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế TS 2 35 207 25572",
+      "bbox": [
+        25.0,
+        203.0,
+        564.0,
+        229.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7718562483787537
+        },
+        {
+          "text": "TS",
+          "bbox": [
+            184.0,
+            203.0,
+            218.0,
+            227.0
+          ],
+          "confidence": 0.9987262487411499
+        },
+        {
+          "text": "2",
+          "bbox": [
+            245.0,
+            207.0,
+            264.0,
+            225.0
+          ],
+          "confidence": 0.7922866940498352
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            392.0,
+            228.0
+          ],
+          "confidence": 0.9998906850814819
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997256398200989
+        },
+        {
+          "text": "25572",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            229.0
+          ],
+          "confidence": 0.9887055158615112
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MmMHHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        222.0,
+        682.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            255.0
+          ],
+          "confidence": 0.9673336744308472
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            226.0,
+            310.0,
+            258.0
+          ],
+          "confidence": 0.9230075478553772
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            511.0,
+            230.0,
+            595.0,
+            255.0
+          ],
+          "confidence": 0.8131991028785706
+        },
+        {
+          "text": "c",
+          "bbox": [
+            643.0,
+            222.0,
+            682.0,
+            257.0
+          ],
+          "confidence": 0.3725590109825134
+        }
+      ]
+    },
+    {
+      "text": "Ciều n okgo:n 02 - Snsu rễng Cộn lâm sàng:",
+      "bbox": [
+        24.0,
+        251.0,
+        216.0,
+        296.0
+      ],
+      "words": [
+        {
+          "text": "Ciều n okgo:n 02 - Snsu rễng",
+          "bbox": [
+            24.0,
+            267.0,
+            216.0,
+            296.0
+          ],
+          "confidence": 0.7291085124015808
+        },
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) NOVOXIM-500 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            282.0,
+            415.0
+          ],
+          "confidence": 0.9784808158874512
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg",
+      "bbox": [
+        34.0,
+        409.0,
+        164.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            409.0,
+            164.0,
+            437.0
+          ],
+          "confidence": 0.8201684951782227
+        }
+      ]
+    },
+    {
+      "text": "2) MYPARA 500 500mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        430.0,
+        709.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) MYPARA 500 500mg",
+          "bbox": [
+            35.0,
+            430.0,
+            292.0,
+            468.0
+          ],
+          "confidence": 0.9699183106422424
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            594.0,
+            437.0,
+            709.0,
+            462.0
+          ],
+          "confidence": 0.9167513251304626
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uốg",
+      "bbox": [
+        33.0,
+        464.0,
+        163.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            464.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8423901200294495
+        }
+      ]
+    },
+    {
+      "text": "3) METRONIDAZOL 250mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        484.0,
+        709.0,
+        519.0
+      ],
+      "words": [
+        {
+          "text": "3) METRONIDAZOL 250mg",
+          "bbox": [
+            36.0,
+            484.0,
+            334.0,
+            519.0
+          ],
+          "confidence": 0.9320633411407471
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            487.0,
+            709.0,
+            516.0
+          ],
+          "confidence": 0.972341775894165
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        514.0,
+        164.0,
+        543.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            517.0,
+            94.0,
+            539.0
+          ],
+          "confidence": 0.86687171459198
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            514.0,
+            164.0,
+            543.0
+          ],
+          "confidence": 0.969755232334137
+        }
+      ]
+    },
+    {
+      "text": "4) SETBLOOD 115mg4100mg450mg SL: 10 Viên",
+      "bbox": [
+        37.0,
+        537.0,
+        709.0,
+        572.0
+      ],
+      "words": [
+        {
+          "text": "4) SETBLOOD 115mg4100mg450mg",
+          "bbox": [
+            37.0,
+            537.0,
+            420.0,
+            572.0
+          ],
+          "confidence": 0.9298723340034485
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            541.0,
+            709.0,
+            566.0
+          ],
+          "confidence": 0.9996906518936157
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg",
+      "bbox": [
+        33.0,
+        568.0,
+        163.0,
+        593.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            569.0,
+            95.0,
+            591.0
+          ],
+          "confidence": 0.8597269058227539
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            568.0,
+            163.0,
+            593.0
+          ],
+          "confidence": 0.8099691271781921
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "bbox": [
+        33.0,
+        598.0,
+        199.0,
+        619.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 4 khoản",
+          "bbox": [
+            33.0,
+            598.0,
+            199.0,
+            619.0
+          ],
+          "confidence": 0.9443156719207764
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        622.0,
+        165.0,
+        643.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            622.0,
+            165.0,
+            643.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        646.0,
+        168.0,
+        671.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            646.0,
+            168.0,
+            671.0
+          ],
+          "confidence": 0.9572920203208923
+        }
+      ]
+    },
+    {
+      "text": "Ngày 12/08/2019",
+      "bbox": [
+        482.0,
+        681.0,
+        624.0,
+        707.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 12/08/2019",
+          "bbox": [
+            482.0,
+            681.0,
+            624.0,
+            707.0
+          ],
+          "confidence": 0.9486661553382874
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        700.0,
+        615.0,
+        735.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            700.0,
+            200.0,
+            724.0
+          ],
+          "confidence": 0.9632934331893921
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            710.0,
+            615.0,
+            735.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "YS. Nguyễn Văn Huy",
+      "bbox": [
+        461.0,
+        780.0,
+        631.0,
+        811.0
+      ],
+      "words": [
+        {
+          "text": "YS. Nguyễn Văn Huy",
+          "bbox": [
+            461.0,
+            780.0,
+            631.0,
+            811.0
+          ],
+          "confidence": 0.943856954574585
+        }
+      ]
+    },
+    {
+      "text": "Tá kh khám Xin MmMng tho ĩođn, Xết nghinm phiám (nếu co)",
+      "bbox": [
+        32.0,
+        837.0,
+        416.0,
+        862.0
+      ],
+      "words": [
+        {
+          "text": "Tá kh khám Xin MmMng tho ĩođn, Xết nghinm phiám (nếu co)",
+          "bbox": [
+            32.0,
+            837.0,
+            416.0,
+            862.0
+          ],
+          "confidence": 0.8024685978889465
+        }
+      ]
+    },
+    {
+      "text": "11/05/2021 22:04:22",
+      "bbox": [
+        588.0,
+        880.0,
+        731.0,
+        900.0
+      ],
+      "words": [
+        {
+          "text": "11/05/2021 22:04:22",
+          "bbox": [
+            588.0,
+            880.0,
+            731.0,
+            900.0
+          ],
+          "confidence": 0.9994803071022034
+        }
+      ]
+    }
+  ]
+}

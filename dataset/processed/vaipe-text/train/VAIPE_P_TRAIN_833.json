@@ -1,0 +1,403 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_833",
+  "image": "public_train/image/VAIPE_P_TRAIN_833.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 4385/2019\n4659132\nTOA THUỐC BHYT\nNam\nNữ\n208\n22629\n2\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng: chụp Xquang ngực thẳng\nChấn đoán: 543 - Sai khớp, bong gân và giăn khóp và dây chẳng của vòng ngực (Chấn thương phần mềm\nvùng ngực)\n1) STATRIPSINE 4,2mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nChiều 2 Viên\n2) PARTAMOL TAB. 500mg\nSL: 20 Viên\nChiều 2\nGhi chú uống:\nSáng 2\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/01/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n28/12/2021 23:18:11",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 4385/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        535,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4659132",
+      "label": "other",
+      "bbox": [
+        625,
+        119,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "208",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22629",
+      "label": "other",
+      "bbox": [
+        508,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        250,
+        228,
+        323,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: chụp Xquang ngực thẳng",
+      "label": "other",
+      "bbox": [
+        28,
+        272,
+        303,
+        292
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: 543 - Sai khớp, bong gân và giăn khóp và dây chẳng của vòng ngực (Chấn thương phần mềm",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        741,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "vùng ngực)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        314,
+        109,
+        334
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) STATRIPSINE 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        402,
+        288,
+        430
+      ],
+      "mapping": 7
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        454
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        333,
+        483
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2",
+      "label": "usage",
+      "bbox": [
+        512,
+        483,
+        570,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        37,
+        486,
+        160,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2",
+      "label": "usage",
+      "bbox": [
+        290,
+        488,
+        339,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        32,
+        511,
+        197,
+        535
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        536,
+        164,
+        556
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        563,
+        168,
+        583
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21/01/2019",
+      "label": "date",
+      "bbox": [
+        485,
+        601,
+        621,
+        619
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        616,
+        199,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        497,
+        627,
+        612,
+        645
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        472,
+        698,
+        619,
+        721
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        754,
+        414,
+        776
+      ],
+      "mapping": null
+    },
+    {
+      "text": "28/12/2021 23:18:11",
+      "label": "other",
+      "bbox": [
+        585,
+        794,
+        729,
+        814
+      ],
+      "mapping": null
+    }
+  ]
+}

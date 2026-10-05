@@ -1,0 +1,480 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_907",
+  "image": "public_train/image/VAIPE_P_TRAIN_907.png",
+  "text": "Khoa Khám bệnh\nBốc khám Tiểu đường 2\nSố phiếu 35336/2021\n5072563\nTOA THUỐC BHYT\nNam\nNữ\n82497\n35\n35\n204\n4\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 36.7\nMạch:\n78\n110\nCận lâm sàng: Chụp Xquang ngực thẳng\nChấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (140)\nViêm phế quản không xác định được là cấp hay mãn tính TD LAO\n1) MEGLUCON 1000 1000mg\nSL: 60 Viên\nGhi chú Uống sau khi ăn:\nTối 1 Viên\nSáng 1 Viên\n2) ENALAPRIL 5mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\n3) HAPENXIN CAPSULES 0,5g\nSL: 20 Viên\nGhi chú Uống:\nChiều 2 Viên\nSáng 2 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc: KHáM Lại 20/8/2021\nNgày hẹn tái khám:\nNgày 19/07/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Đức Thái\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 23:52:34",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám Tiểu đường 2",
+      "label": "other",
+      "bbox": [
+        36,
+        146,
+        285,
+        183
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 35336/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5072563",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        757,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "82497",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "204",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 36.7",
+      "label": "other",
+      "bbox": [
+        674,
+        360,
+        950,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "78",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "110",
+      "label": "other",
+      "bbox": [
+        500,
+        365,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang ngực thẳng",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        450,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (140)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1054,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Viêm phế quản không xác định được là cấp hay mãn tính TD LAO",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        452,
+        712,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) MEGLUCON 1000 1000mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        517,
+        632
+      ],
+      "mapping": 56
+    },
+    {
+      "text": "SL: 60 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        591,
+        1055,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        49,
+        627,
+        343,
+        669
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        632,
+        1045,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) ENALAPRIL 5mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        669,
+        380,
+        710
+      ],
+      "mapping": 46
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        712,
+        560,
+        742
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) HAPENXIN CAPSULES 0,5g",
+      "label": "drugname",
+      "bbox": [
+        65,
+        750,
+        540,
+        787
+      ],
+      "mapping": 61
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        783,
+        236,
+        823
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        787,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        835,
+        290,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: KHáM Lại 20/8/2021",
+      "label": "other",
+      "bbox": [
+        45,
+        867,
+        492,
+        897
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 19/07/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1000,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Đức Thái",
+      "label": "other",
+      "bbox": [
+        686,
+        1105,
+        943,
+        1149
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 23:52:34",
+      "label": "other",
+      "bbox": [
+        877,
+        1257,
+        1089,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

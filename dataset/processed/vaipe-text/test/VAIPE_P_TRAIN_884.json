@@ -1,0 +1,172 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_884",
+  "image": "public_train/image/VAIPE_P_TRAIN_884.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: 110 - Bệnh lý tăng huyết áp Độ 2\nThuốc điều trị:\n1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg\nUống: Sáng 1 viên CHiều 1 viên\nSL: 60 viên\nLời dặn: Hẹn Tái KHám 24/1/2022\nNgày 22 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Trần Khắc Phú\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: 110 - Bệnh lý tăng huyết áp Độ 2",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        652,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        446,
+        950,
+        490
+      ],
+      "mapping": 79
+    },
+    {
+      "text": "Uống: Sáng 1 viên CHiều 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        735,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 60 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        190,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Hẹn Tái KHám 24/1/2022",
+      "label": "other",
+      "bbox": [
+        42,
+        575,
+        557,
+        616
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 22 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        624,
+        1027,
+        666
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        675,
+        1002,
+        710
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        720,
+        970,
+        757
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Khắc Phú",
+      "label": "other",
+      "bbox": [
+        707,
+        860,
+        972,
+        895
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        907,
+        507,
+        943
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        955,
+        1007,
+        997
+      ],
+      "mapping": null
+    }
+  ]
+}

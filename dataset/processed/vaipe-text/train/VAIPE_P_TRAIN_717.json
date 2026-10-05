@@ -1,0 +1,458 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_717",
+  "image": "public_train/image/VAIPE_P_TRAIN_717.png",
+  "text": "1/1\nBÌNH NGHĨA\nSố phiếu 1241/2020\n4693065\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n206\n32781\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChẩn đoán: K29 - Viêm dạ dày và tá tràng\n1) METRONIDAZOL 250 250mg\nSL: 20 Viên\nGhi chú uống:\nTối 2 viên\nSáng 2 viên\n2) DROMASM FORT 80mg\nSL: 10 viên\nGhi chú Uống:\nTối 1 viên\nSáng 1 viên\n3) KAGASDINE 20mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 19/03/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. 0300000000038\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n10/06/2021 21:31:10",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BÌNH NGHĨA",
+      "label": "other",
+      "bbox": [
+        153,
+        58,
+        250,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1241/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4693065",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "32781",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        558,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        307,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: K29 - Viêm dạ dày và tá tràng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        271,
+        316,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        377,
+        413
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        413,
+        160,
+        435
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        697,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        372,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) DROMASM FORT 80mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        322,
+        466
+      ],
+      "mapping": 36
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        703,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        160,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        466,
+        697,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        468,
+        372,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) KAGASDINE 20mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        489,
+        274,
+        518
+      ],
+      "mapping": 87
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        161,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        518,
+        700,
+        536
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        519,
+        376,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        548,
+        197,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        571,
+        163,
+        590
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        598,
+        167,
+        616
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 19/03/2020",
+      "label": "date",
+      "bbox": [
+        484,
+        633,
+        621,
+        652
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        652,
+        198,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        658,
+        611,
+        678
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. 0300000000038",
+      "label": "other",
+      "bbox": [
+        476,
+        737,
+        616,
+        754
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        788,
+        416,
+        811
+      ],
+      "mapping": null
+    },
+    {
+      "text": "10/06/2021 21:31:10",
+      "label": "other",
+      "bbox": [
+        588,
+        829,
+        732,
+        845
+      ],
+      "mapping": null
+    }
+  ]
+}

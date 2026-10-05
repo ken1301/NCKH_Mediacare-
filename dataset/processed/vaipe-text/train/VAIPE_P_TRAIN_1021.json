@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1021",
+  "image": "public_train/image/VAIPE_P_TRAIN_1021.png",
+  "text": "1/1\nLHANG\nSố phiếu 1234/2018\n4707875\nTOA THUỐC BHYT\nNam\nNữ\nGB\n35\n35\n209\n31365\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: M54.2 - Đau vùng cổ gáy: (G45) Cơn thiếu máu não thoáng qua và hội chứng liên quan\n1) PANACTOL 500mg\nSL: 10 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n2) VITAMIN C STADA 1G 1g\nSL: 5 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc: 0\nNgày hẹn tái khám:\nNgày 24/04/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Nguyễn Phúc Hải\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n23/05/2021 08:40:52",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "LHANG",
+      "label": "other",
+      "bbox": [
+        153,
+        60,
+        208,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1234/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4707875",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        120,
+        508,
+        154
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "GB",
+      "label": "other",
+      "bbox": [
+        187,
+        207,
+        214,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "31365",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: M54.2 - Đau vùng cổ gáy: (G45) Cơn thiếu máu não thoáng qua và hội chứng liên quan",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        703,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        274,
+        413
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) VITAMIN C STADA 1G 1g",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        346,
+        466
+      ],
+      "mapping": 105
+    },
+    {
+      "text": "SL: 5 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        697,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: 0",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        185,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 24/04/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        605,
+        612,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Phúc Hải",
+      "label": "other",
+      "bbox": [
+        463,
+        680,
+        631,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        735,
+        414,
+        760
+      ],
+      "mapping": null
+    },
+    {
+      "text": "23/05/2021 08:40:52",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

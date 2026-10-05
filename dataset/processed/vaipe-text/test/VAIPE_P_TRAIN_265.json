@@ -1,0 +1,205 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_265",
+  "image": "public_train/image/VAIPE_P_TRAIN_265.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: N20 - Sỏi thận và niệu quản; (E11)TD Bệnh đái tháo đường\nkhông phụ thuộc insuline; (E78)TD Rối loạn chuyển hóa lipoprotein và tình\ntrạng tăng lipid máu khác; (N18)TD Suy thận mãn tính; (G46?) Hội chứng\nmạch máu não trong bệnh mạch não (160-167t)\nThuốc điều trị:\n1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 2 viên TRƯA 2 viên TốI 2 viên\nSL: 60 viên\nLời dặn:\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Lưu Minh Tân\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: N20 - Sỏi thận và niệu quản; (E11)TD Bệnh đái tháo đường",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        1015,
+        395
+      ],
+      "mapping": null
+    },
+    {
+      "text": "không phụ thuộc insuline; (E78)TD Rối loạn chuyển hóa lipoprotein và tình",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        388,
+        1060,
+        432
+      ],
+      "mapping": null
+    },
+    {
+      "text": "trạng tăng lipid máu khác; (N18)TD Suy thận mãn tính; (G46?) Hội chứng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        430,
+        1045,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mạch máu não trong bệnh mạch não (160-167t)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        470,
+        675,
+        505
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        505,
+        243,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        552,
+        892,
+        597
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 2 viên TRƯA 2 viên TốI 2 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        625,
+        870,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 60 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        627,
+        190,
+        657
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        692,
+        157,
+        722
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        735,
+        1030,
+        772
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        782,
+        1002,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        827,
+        969,
+        864
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Lưu Minh Tân",
+      "label": "other",
+      "bbox": [
+        682,
+        972,
+        994,
+        1002
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1017,
+        507,
+        1052
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1060,
+        1007,
+        1107
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_186",
+  "image": "public_train/image/VAIPE_P_TRAIN_186.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: H61.2 - Nút ráy tai trái; (H60) Viêm tai ngoài; (H81) Rối loạn\nchức năng tiền đình; (L50.0) Mày đay dị ứng\nThuốc điều trị:\n1) Cefalexin (Firstlexin 500) 0,5g\nUống: Sáng 2 Viên CHiều 2 Viên Tối 2 Viên\nSL: 30 Viên\n2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg\nUống: Sáng 3 viên CHiều 3 viên TốI 3 viên\nSL: 90 viên\n3) Methyl prednisolon (Methylprednisolon 4) 4mg\nUống: Sáng 4 Viên\nSL: 20 Viên\n4) Loratadin (Sergurop) 10mg\nUống: TỐI 1 viên\nSL: 10 viên\n5) Paracetamol (Partamol Tab.) 500mg\nSL: 10 Viên\nUống: Sáng 1 Viên Chiều 1 Viên\nLời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ\nBHXH\nNgày 04 tháng 01 năm 2022\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Thế Chiến\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: H61.2 - Nút ráy tai trái; (H60) Viêm tai ngoài; (H81) Rối loạn",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        347,
+        1045,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "chức năng tiền đình; (L50.0) Mày đay dị ứng",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        389,
+        647,
+        432
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        428,
+        243,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Cefalexin (Firstlexin 500) 0,5g",
+      "label": "drugname",
+      "bbox": [
+        37,
+        477,
+        512,
+        520
+      ],
+      "mapping": 26
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHiều 2 Viên Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        544,
+        900,
+        587
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        550,
+        197,
+        577
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        602,
+        892,
+        647
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "Uống: Sáng 3 viên CHiều 3 viên TốI 3 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        674,
+        877,
+        712
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 90 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        677,
+        190,
+        707
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Methyl prednisolon (Methylprednisolon 4) 4mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        733,
+        740,
+        777
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "Uống: Sáng 4 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        802,
+        552,
+        842
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        807,
+        199,
+        837
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) Loratadin (Sergurop) 10mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        862,
+        465,
+        905
+      ],
+      "mapping": 70
+    },
+    {
+      "text": "Uống: TỐI 1 viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        930,
+        532,
+        970
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        935,
+        190,
+        962
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        991,
+        585,
+        1032
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        1060,
+        195,
+        1092
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Uống: Sáng 1 Viên Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        1060,
+        750,
+        1097
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ",
+      "label": "other",
+      "bbox": [
+        42,
+        1115,
+        1097,
+        1157
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BHXH",
+      "label": "other",
+      "bbox": [
+        42,
+        1160,
+        140,
+        1187
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04 tháng 01 năm 2022",
+      "label": "date",
+      "bbox": [
+        647,
+        1169,
+        1030,
+        1211
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        1217,
+        1002,
+        1255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        1265,
+        970,
+        1300
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Thế Chiến",
+      "label": "other",
+      "bbox": [
+        679,
+        1423,
+        998,
+        1478
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1482,
+        507,
+        1517
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1527,
+        1007,
+        1567
+      ],
+      "mapping": null
+    }
+  ]
+}

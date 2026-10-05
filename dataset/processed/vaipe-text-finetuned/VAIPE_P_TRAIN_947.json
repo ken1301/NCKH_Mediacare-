@@ -1,0 +1,638 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_947",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_947.png",
+  "text": "1/1 M c ngưi bnh\nÌNH NGHĨA\nSố phiếu 4706/2018\nTOA THUỐCT H U C H BHYT\nN 2N\nThu úo hiếhám y tế BT 2 206 16054\nMạch: lần/phút Huyt áp: / MmMHHg T Thân nhiệt: c\nCận lâm sàng:\nCậnhn okn: H53 - Rối 1oạnẹơnị gi c, (H81) Ri 1oạn chức năng tin đinh\n1) VINA-AD 2000ui4 400ui SL: 10 viên\nGhi chú Uống: Sáng 1 viên Tối 1 viên\n2) HOAT HUYHT DNG NÃO 150mg 20mg SL: 20 Viên\nGhi chú Uống: Sáng 2 Tối 2\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 14/12/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Tính\nTái kh khám Xin mang tho ĩonđ, Xk nghinm phiám (oiếui cá)\n21/12/2021 23:02:11",
+  "lines": [
+    {
+      "text": "1/1 M c ngưi bnh",
+      "bbox": [
+        49.0,
+        35.0,
+        716.0,
+        84.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            35.0,
+            121.0,
+            84.0
+          ],
+          "confidence": 0.9996120929718018
+        },
+        {
+          "text": "M c ngưi bnh",
+          "bbox": [
+            598.0,
+            35.0,
+            716.0,
+            63.0
+          ],
+          "confidence": 0.8184261322021484
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        151.0,
+        68.0,
+        255.0,
+        96.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            151.0,
+            68.0,
+            255.0,
+            96.0
+          ],
+          "confidence": 0.90804523229599
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 4706/2018",
+      "bbox": [
+        369.0,
+        107.0,
+        537.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 4706/2018",
+          "bbox": [
+            369.0,
+            107.0,
+            537.0,
+            139.0
+          ],
+          "confidence": 0.9908934831619263
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐCT H U C H BHYT",
+      "bbox": [
+        257.0,
+        136.0,
+        509.0,
+        173.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐCT H U C H BHYT",
+          "bbox": [
+            257.0,
+            136.0,
+            509.0,
+            173.0
+          ],
+          "confidence": 0.7607881426811218
+        }
+      ]
+    },
+    {
+      "text": "N 2N",
+      "bbox": [
+        613.0,
+        161.0,
+        739.0,
+        201.0
+      ],
+      "words": [
+        {
+          "text": "N 2N",
+          "bbox": [
+            613.0,
+            161.0,
+            739.0,
+            201.0
+          ],
+          "confidence": 0.6931097507476807
+        }
+      ]
+    },
+    {
+      "text": "Thu úo hiếhám y tế BT 2 206 16054",
+      "bbox": [
+        23.0,
+        219.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu úo hiếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            156.0,
+            246.0
+          ],
+          "confidence": 0.7923290133476257
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            180.0,
+            221.0,
+            240.0,
+            246.0
+          ],
+          "confidence": 0.9995696544647217
+        },
+        {
+          "text": "2",
+          "bbox": [
+            234.0,
+            221.0,
+            275.0,
+            245.0
+          ],
+          "confidence": 0.8070654273033142
+        },
+        {
+          "text": "206",
+          "bbox": [
+            431.0,
+            221.0,
+            473.0,
+            245.0
+          ],
+          "confidence": 0.9999735951423645
+        },
+        {
+          "text": "16054",
+          "bbox": [
+            507.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9997574687004089
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: / MmMHHg T Thân nhiệt: c",
+      "bbox": [
+        24.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            24.0,
+            248.0,
+            76.0,
+            271.0
+          ],
+          "confidence": 0.991473376750946
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "/",
+          "bbox": [
+            378.0,
+            252.0,
+            390.0,
+            268.0
+          ],
+          "confidence": 0.6627967357635498
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            250.0,
+            507.0,
+            272.0
+          ],
+          "confidence": 0.8004818558692932
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        267.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            267.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9737218618392944
+        }
+      ]
+    },
+    {
+      "text": "Cậnhn okn: H53 - Rối 1oạnẹơnị gi c, (H81) Ri 1oạn chức năng tin đinh",
+      "bbox": [
+        25.0,
+        287.0,
+        517.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "Cậnhn okn: H53 - Rối 1oạnẹơnị gi c, (H81) Ri 1oạn chức năng tin đinh",
+          "bbox": [
+            25.0,
+            287.0,
+            517.0,
+            312.0
+          ],
+          "confidence": 0.7882130146026611
+        }
+      ]
+    },
+    {
+      "text": "1) VINA-AD 2000ui4 400ui SL: 10 viên",
+      "bbox": [
+        40.0,
+        399.0,
+        705.0,
+        429.0
+      ],
+      "words": [
+        {
+          "text": "1) VINA-AD 2000ui4 400ui",
+          "bbox": [
+            40.0,
+            399.0,
+            322.0,
+            429.0
+          ],
+          "confidence": 0.9410791397094727
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            592.0,
+            400.0,
+            705.0,
+            429.0
+          ],
+          "confidence": 0.9959323406219482
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 1 viên Tối 1 viên",
+      "bbox": [
+        33.0,
+        426.0,
+        703.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            430.0,
+            95.0,
+            452.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8410241007804871
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            288.0,
+            429.0,
+            376.0,
+            454.0
+          ],
+          "confidence": 0.9825534820556641
+        },
+        {
+          "text": "Tối 1 viên",
+          "bbox": [
+            619.0,
+            426.0,
+            703.0,
+            454.0
+          ],
+          "confidence": 0.9340206384658813
+        }
+      ]
+    },
+    {
+      "text": "2) HOAT HUYHT DNG NÃO 150mg 20mg SL: 20 Viên",
+      "bbox": [
+        35.0,
+        448.0,
+        711.0,
+        485.0
+      ],
+      "words": [
+        {
+          "text": "2) HOAT HUYHT DNG NÃO 150mg 20mg",
+          "bbox": [
+            35.0,
+            448.0,
+            503.0,
+            485.0
+          ],
+          "confidence": 0.9310598373413086
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            451.0,
+            711.0,
+            482.0
+          ],
+          "confidence": 0.9994838833808899
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống: Sáng 2 Tối 2",
+      "bbox": [
+        32.0,
+        478.0,
+        671.0,
+        509.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            481.0,
+            97.0,
+            506.0
+          ],
+          "confidence": 0.9714380502700806
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            106.0,
+            479.0,
+            165.0,
+            509.0
+          ],
+          "confidence": 0.8424805402755737
+        },
+        {
+          "text": "Sáng 2",
+          "bbox": [
+            284.0,
+            480.0,
+            346.0,
+            509.0
+          ],
+          "confidence": 0.9942348599433899
+        },
+        {
+          "text": "Tối 2",
+          "bbox": [
+            619.0,
+            478.0,
+            671.0,
+            508.0
+          ],
+          "confidence": 0.9098711013793945
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        31.0,
+        510.0,
+        200.0,
+        535.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            31.0,
+            510.0,
+            200.0,
+            535.0
+          ],
+          "confidence": 0.9776546359062195
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        30.0,
+        535.0,
+        166.0,
+        559.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            30.0,
+            535.0,
+            166.0,
+            559.0
+          ],
+          "confidence": 0.9460487365722656
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        561.0,
+        170.0,
+        585.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            561.0,
+            170.0,
+            585.0
+          ],
+          "confidence": 0.9463503956794739
+        }
+      ]
+    },
+    {
+      "text": "Ngày 14/12/2018",
+      "bbox": [
+        482.0,
+        592.0,
+        626.0,
+        620.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 14/12/2018",
+          "bbox": [
+            482.0,
+            592.0,
+            626.0,
+            620.0
+          ],
+          "confidence": 0.9680272936820984
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        614.0,
+        617.0,
+        648.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            614.0,
+            201.0,
+            638.0
+          ],
+          "confidence": 0.9725088477134705
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            622.0,
+            617.0,
+            648.0
+          ],
+          "confidence": 0.988061785697937
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Tính",
+      "bbox": [
+        474.0,
+        695.0,
+        620.0,
+        722.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Tính",
+          "bbox": [
+            474.0,
+            695.0,
+            620.0,
+            722.0
+          ],
+          "confidence": 0.9928967952728271
+        }
+      ]
+    },
+    {
+      "text": "Tái kh khám Xin mang tho ĩonđ, Xk nghinm phiám (oiếui cá)",
+      "bbox": [
+        33.0,
+        752.0,
+        415.0,
+        776.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh khám Xin mang tho ĩonđ, Xk nghinm phiám (oiếui cá)",
+          "bbox": [
+            33.0,
+            752.0,
+            415.0,
+            776.0
+          ],
+          "confidence": 0.8159747123718262
+        }
+      ]
+    },
+    {
+      "text": "21/12/2021 23:02:11",
+      "bbox": [
+        587.0,
+        793.0,
+        731.0,
+        814.0
+      ],
+      "words": [
+        {
+          "text": "21/12/2021 23:02:11",
+          "bbox": [
+            587.0,
+            793.0,
+            731.0,
+            814.0
+          ],
+          "confidence": 0.9799477458000183
+        }
+      ]
+    }
+  ]
+}

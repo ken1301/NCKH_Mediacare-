@@ -1,0 +1,249 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_129",
+  "image": "public_train/image/VAIPE_P_TRAIN_129.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChẩn đoán: N30 - Viêm bàng quang; (N20) Sỏi thận và niệu quản\nThuốc điều trị:\n1) Amoxicilin (Fabamox 500) 500mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n2) Kim tiền thảo, râu ngô (Kim tiền thảo) 120mg+35mg\nUống: Sáng 5 Viên CHiều 5 Viên\nSL: 100 Viên\n3) Drotaverin clohydrat (Dromasm fort) 80mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 20 Viên\nLời dặn:\nNgày 31 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ngọc Tri\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1012,
+        212,
+        1057,
+        240
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: N30 - Viêm bàng quang; (N20) Sỏi thận và niệu quản",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        349,
+        932,
+        395
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Amoxicilin (Fabamox 500) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        445,
+        565,
+        490
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        749,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        197,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Kim tiền thảo, râu ngô (Kim tiền thảo) 120mg+35mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        570,
+        810,
+        617
+      ],
+      "mapping": 67
+    },
+    {
+      "text": "Uống: Sáng 5 Viên CHiều 5 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        642,
+        752,
+        685
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 100 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        647,
+        212,
+        675
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Drotaverin clohydrat (Dromasm fort) 80mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        704,
+        679,
+        744
+      ],
+      "mapping": 36
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        772,
+        752,
+        812
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        775,
+        195,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        840,
+        157,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 31 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        880,
+        1027,
+        922
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        929,
+        1002,
+        969
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        975,
+        969,
+        1012
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        661,
+        1111,
+        1018,
+        1162
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1165,
+        507,
+        1200
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1212,
+        1007,
+        1252
+      ],
+      "mapping": null
+    }
+  ]
+}

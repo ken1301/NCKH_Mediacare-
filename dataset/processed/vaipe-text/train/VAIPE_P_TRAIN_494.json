@@ -1,0 +1,425 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_494",
+  "image": "public_train/image/VAIPE_P_TRAIN_494.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 74741/2018\n4635704\nTOA THUỐC BHYT\nNam\nNữ\n206\n13412\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (E78) Rối loạn chuyến hoá lipoprotein và tỉnh\ntrạng tăng lipid máu khác\n1) STACETAM 800MG 800mg\nSL: 20 Viên\nGhi chú Uống\nChiều 1 Viên\nSáng 1 Viên\n2) LENINARTO 10 10mg\nSL: 29 Viên\nGhi chú Uống:\nTối 1 Viên\n3) EBITAC 12.5 10mg + 12,5mg\nSL: 29 Viên\nGhi chú Uống\nSáng 1 Viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám: Thứ sáu, 28/12/2018\nNgày 29/11/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n30/12/2021 21:04:07",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 74741/2018",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4635704",
+      "label": "other",
+      "bbox": [
+        625,
+        119,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        654,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        687,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        434,
+        224,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "13412",
+      "label": "other",
+      "bbox": [
+        512,
+        226,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (E78) Rối loạn chuyến hoá lipoprotein và tỉnh",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        288,
+        712,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "trạng tăng lipid máu khác",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        315,
+        201,
+        332
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) STACETAM 800MG 800mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        401,
+        350,
+        430
+      ],
+      "mapping": 92
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        430,
+        153,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        512,
+        432,
+        607,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        433,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) LENINARTO 10 10mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        454,
+        299,
+        483
+      ],
+      "mapping": 14
+    },
+    {
+      "text": "SL: 29 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        457,
+        707,
+        479
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        483,
+        162,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        627,
+        485,
+        701,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) EBITAC 12.5 10mg + 12,5mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        506,
+        359,
+        535
+      ],
+      "mapping": 45
+    },
+    {
+      "text": "SL: 29 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        508,
+        707,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        536,
+        153,
+        557
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        290,
+        539,
+        377,
+        559
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        565,
+        197,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        590,
+        164,
+        607
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám: Thứ sáu, 28/12/2018",
+      "label": "other",
+      "bbox": [
+        33,
+        612,
+        317,
+        637
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 29/11/2018",
+      "label": "date",
+      "bbox": [
+        483,
+        650,
+        623,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        670,
+        199,
+        690
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        676,
+        612,
+        696
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        472,
+        748,
+        619,
+        775
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        805,
+        415,
+        829
+      ],
+      "mapping": null
+    },
+    {
+      "text": "30/12/2021 21:04:07",
+      "label": "other",
+      "bbox": [
+        585,
+        847,
+        732,
+        865
+      ],
+      "mapping": null
+    }
+  ]
+}

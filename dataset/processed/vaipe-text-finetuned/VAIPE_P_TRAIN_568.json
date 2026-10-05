@@ -1,0 +1,608 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_568",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_568.png",
+  "text": "1/1 M sc người bnh\nNGOC L\nSố phiếu 552/2018\nTOA THUỐC BHYT\nNam x Nữ\nThu bặho h hám y tut CK 35 35 205 53741\nMạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt: C\nCận lâm1 sàng:\nCộnuhn on: g02 - m ọg cấáp\n1) NOVOXIM-500 0,5g SL: 20 Viên\nGhi chú Uống\n2) PARTAMOL TAB. 500mg SL: 10 viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 29/03/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. Trần Thị Phương\nTiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)\n07/05/2021 09:23:11",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            17.0,
+            122.0,
+            65.0
+          ],
+          "confidence": 0.9994677901268005
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            46.0
+          ],
+          "confidence": 0.7782209515571594
+        }
+      ]
+    },
+    {
+      "text": "NGOC L",
+      "bbox": [
+        150.0,
+        50.0,
+        230.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "NGOC L",
+          "bbox": [
+            150.0,
+            50.0,
+            230.0,
+            79.0
+          ],
+          "confidence": 0.8733493685722351
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 552/2018",
+      "bbox": [
+        369.0,
+        89.0,
+        525.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 552/2018",
+          "bbox": [
+            369.0,
+            89.0,
+            525.0,
+            122.0
+          ],
+          "confidence": 0.9814165830612183
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.94770348072052
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu bặho h hám y tut CK 35 35 205 53741",
+      "bbox": [
+        26.0,
+        203.0,
+        563.0,
+        229.0
+      ],
+      "words": [
+        {
+          "text": "Thu bặho h hám y tut",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7505401968955994
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            204.0,
+            221.0,
+            227.0
+          ],
+          "confidence": 0.768469512462616
+        },
+        {
+          "text": "35",
+          "bbox": [
+            298.0,
+            204.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.999832272529602
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "205",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998909831047058
+        },
+        {
+          "text": "53741",
+          "bbox": [
+            507.0,
+            203.0,
+            563.0,
+            229.0
+          ],
+          "confidence": 0.9996525049209595
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            391.0,
+            252.0
+          ],
+          "confidence": 0.9896251559257507
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm1 sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm1 sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            276.0
+          ],
+          "confidence": 0.8716052770614624
+        }
+      ]
+    },
+    {
+      "text": "Cộnuhn on: g02 - m ọg cấáp",
+      "bbox": [
+        26.0,
+        271.0,
+        252.0,
+        295.0
+      ],
+      "words": [
+        {
+          "text": "Cộnuhn on: g02 - m ọg cấáp",
+          "bbox": [
+            26.0,
+            271.0,
+            252.0,
+            295.0
+          ],
+          "confidence": 0.7567501068115234
+        }
+      ]
+    },
+    {
+      "text": "1) NOVOXIM-500 0,5g SL: 20 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) NOVOXIM-500 0,5g",
+          "bbox": [
+            40.0,
+            379.0,
+            282.0,
+            415.0
+          ],
+          "confidence": 0.9789209961891174
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            410.0
+          ],
+          "confidence": 0.9744324088096619
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        34.0,
+        411.0,
+        163.0,
+        436.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            107.0,
+            411.0,
+            163.0,
+            436.0
+          ],
+          "confidence": 0.8252413272857666
+        }
+      ]
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg SL: 10 viên",
+      "bbox": [
+        36.0,
+        431.0,
+        704.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "2) PARTAMOL TAB. 500mg",
+          "bbox": [
+            36.0,
+            431.0,
+            335.0,
+            468.0
+          ],
+          "confidence": 0.9626790881156921
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            594.0,
+            437.0,
+            704.0,
+            462.0
+          ],
+          "confidence": 0.999192476272583
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        32.0,
+        462.0,
+        165.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            465.0,
+            96.0,
+            486.0
+          ],
+          "confidence": 0.8865078091621399
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            462.0,
+            165.0,
+            490.0
+          ],
+          "confidence": 0.8334954977035522
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "bbox": [
+        32.0,
+        493.0,
+        199.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 2 khoản",
+          "bbox": [
+            32.0,
+            493.0,
+            199.0,
+            515.0
+          ],
+          "confidence": 0.9315477609634399
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        517.0,
+        164.0,
+        538.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            517.0,
+            164.0,
+            538.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        544.0,
+        169.0,
+        565.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            544.0,
+            169.0,
+            565.0
+          ],
+          "confidence": 0.9635470509529114
+        }
+      ]
+    },
+    {
+      "text": "Ngày 29/03/2018",
+      "bbox": [
+        483.0,
+        574.0,
+        625.0,
+        602.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 29/03/2018",
+          "bbox": [
+            483.0,
+            574.0,
+            625.0,
+            602.0
+          ],
+          "confidence": 0.9926770329475403
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        594.0,
+        615.0,
+        629.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            594.0,
+            200.0,
+            620.0
+          ],
+          "confidence": 0.9903069734573364
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            603.0,
+            615.0,
+            629.0
+          ],
+          "confidence": 0.992472767829895
+        }
+      ]
+    },
+    {
+      "text": "BS. Trần Thị Phương",
+      "bbox": [
+        462.0,
+        675.0,
+        632.0,
+        707.0
+      ],
+      "words": [
+        {
+          "text": "BS. Trần Thị Phương",
+          "bbox": [
+            462.0,
+            675.0,
+            632.0,
+            707.0
+          ],
+          "confidence": 0.9965850710868835
+        }
+      ]
+    },
+    {
+      "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)",
+      "bbox": [
+        33.0,
+        735.0,
+        414.0,
+        757.0
+      ],
+      "words": [
+        {
+          "text": "Tiái kháhám Xin mmMnng tho on, nt nghinm phirám (nếu c)",
+          "bbox": [
+            33.0,
+            735.0,
+            414.0,
+            757.0
+          ],
+          "confidence": 0.8319486975669861
+        }
+      ]
+    },
+    {
+      "text": "07/05/2021 09:23:11",
+      "bbox": [
+        586.0,
+        773.0,
+        731.0,
+        797.0
+      ],
+      "words": [
+        {
+          "text": "07/05/2021 09:23:11",
+          "bbox": [
+            586.0,
+            773.0,
+            731.0,
+            797.0
+          ],
+          "confidence": 0.9869647026062012
+        }
+      ]
+    }
+  ]
+}

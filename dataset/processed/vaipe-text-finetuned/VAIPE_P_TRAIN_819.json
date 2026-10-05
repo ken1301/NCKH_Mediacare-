@@ -1,0 +1,710 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_819",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_819.png",
+  "text": "MH sỐ người xbệnh\nTRẠM Y TẾ XÃ ĐỒNG DU\nSố phiếu 1936/2020\nTOA THUỐC BHYT\nNam 2 ữx\nThu ặho h hám y tuế BT 35 35 205 71062\nMạch: Lần/pút Huyết áp: 136 mMHHg Th Th n nhiệt: C\nCận lâm1 sàng:\nCânhần okn: I10- Tăng huyến áp Vũ căn (nguyễến púhát): (KR51) ĐMau ầu\n1) AMCARDIA-5 5mg SL: 30 viên\nGh chú Uốg Sáng 1 viên\n2) HOẠT HUYHT DNNG NO 150mg420mg SL: 20 viên\nGhi chú Uốg Sáng 2 viên Chiều 2 viên\n3) PANACTOL 500mg SL: 10 Vi ên\nGhi chú Uốg: Sáng 1 Viên Chiều 1 Viên\nCộng khoản: 3 khoản\nLời dặn ưđơnththuốc: tốhgng thuthu cấp I - t ká khám khi co trinhu chứng gi1\nNgày hẹn tái khám:\nNgày 06/08/2020\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. TRN TH THOAN\nTáiá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếui co)\n03/05/2021 11:08:41",
+  "lines": [
+    {
+      "text": "MH sỐ người xbệnh",
+      "bbox": [
+        600.0,
+        18.0,
+        715.0,
+        43.0
+      ],
+      "words": [
+        {
+          "text": "MH sỐ người xbệnh",
+          "bbox": [
+            600.0,
+            18.0,
+            715.0,
+            43.0
+          ],
+          "confidence": 0.7650504112243652
+        }
+      ]
+    },
+    {
+      "text": "TRẠM Y TẾ XÃ ĐỒNG DU",
+      "bbox": [
+        26.0,
+        49.0,
+        231.0,
+        79.0
+      ],
+      "words": [
+        {
+          "text": "TRẠM Y TẾ XÃ ĐỒNG DU",
+          "bbox": [
+            26.0,
+            49.0,
+            231.0,
+            79.0
+          ],
+          "confidence": 0.9574577212333679
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1936/2020",
+      "bbox": [
+        370.0,
+        90.0,
+        536.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1936/2020",
+          "bbox": [
+            370.0,
+            90.0,
+            536.0,
+            121.0
+          ],
+          "confidence": 0.997748076915741
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9711178541183472
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu ặho h hám y tuế BT 35 35 205 71062",
+      "bbox": [
+        26.0,
+        203.0,
+        564.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặho h hám y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            153.0,
+            226.0
+          ],
+          "confidence": 0.7746310830116272
+        },
+        {
+          "text": "BT",
+          "bbox": [
+            185.0,
+            206.0,
+            217.0,
+            225.0
+          ],
+          "confidence": 0.5727715492248535
+        },
+        {
+          "text": "35",
+          "bbox": [
+            299.0,
+            205.0,
+            326.0,
+            227.0
+          ],
+          "confidence": 0.9222099184989929
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            203.0,
+            393.0,
+            227.0
+          ],
+          "confidence": 0.9997966289520264
+        },
+        {
+          "text": "205",
+          "bbox": [
+            431.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9999359250068665
+        },
+        {
+          "text": "71062",
+          "bbox": [
+            507.0,
+            203.0,
+            564.0,
+            228.0
+          ],
+          "confidence": 0.9983681440353394
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/pút Huyết áp: 136 mMHHg Th Th n nhiệt: C",
+      "bbox": [
+        25.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/pút Huyết áp:",
+          "bbox": [
+            167.0,
+            229.0,
+            311.0,
+            253.0
+          ],
+          "confidence": 0.9072880744934082
+        },
+        {
+          "text": "136",
+          "bbox": [
+            332.0,
+            232.0,
+            367.0,
+            251.0
+          ],
+          "confidence": 0.9836040139198303
+        },
+        {
+          "text": "mMHHg",
+          "bbox": [
+            449.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.9092332124710083
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm1 sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm1 sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            276.0
+          ],
+          "confidence": 0.9032394289970398
+        }
+      ]
+    },
+    {
+      "text": "Cânhần okn: I10- Tăng huyến áp Vũ căn (nguyễến púhát): (KR51) ĐMau ầu",
+      "bbox": [
+        25.0,
+        268.0,
+        504.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần okn: I10- Tăng huyến áp Vũ căn (nguyễến púhát): (KR51) ĐMau ầu",
+          "bbox": [
+            25.0,
+            268.0,
+            504.0,
+            294.0
+          ],
+          "confidence": 0.8150920867919922
+        }
+      ]
+    },
+    {
+      "text": "1) AMCARDIA-5 5mg SL: 30 viên",
+      "bbox": [
+        41.0,
+        381.0,
+        703.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) AMCARDIA-5 5mg",
+          "bbox": [
+            41.0,
+            381.0,
+            274.0,
+            413.0
+          ],
+          "confidence": 0.9649176001548767
+        },
+        {
+          "text": "SL: 30 viên",
+          "bbox": [
+            594.0,
+            385.0,
+            703.0,
+            409.0
+          ],
+          "confidence": 0.9560368061065674
+        }
+      ]
+    },
+    {
+      "text": "Gh chú Uốg Sáng 1 viên",
+      "bbox": [
+        35.0,
+        410.0,
+        375.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Gh chú",
+          "bbox": [
+            35.0,
+            414.0,
+            96.0,
+            433.0
+          ],
+          "confidence": 0.9186660647392273
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            410.0,
+            162.0,
+            437.0
+          ],
+          "confidence": 0.8064370155334473
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            288.0,
+            411.0,
+            375.0,
+            436.0
+          ],
+          "confidence": 0.9740104675292969
+        }
+      ]
+    },
+    {
+      "text": "2) HOẠT HUYHT DNNG NO 150mg420mg SL: 20 viên",
+      "bbox": [
+        36.0,
+        432.0,
+        704.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) HOẠT HUYHT DNNG NO 150mg420mg",
+          "bbox": [
+            36.0,
+            432.0,
+            506.0,
+            467.0
+          ],
+          "confidence": 0.8824407458305359
+        },
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            594.0,
+            436.0,
+            704.0,
+            461.0
+          ],
+          "confidence": 0.9987571835517883
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 2 viên Chiều 2 viên",
+      "bbox": [
+        32.0,
+        463.0,
+        605.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            463.0,
+            97.0,
+            487.0
+          ],
+          "confidence": 0.9787330627441406
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            463.0,
+            162.0,
+            490.0
+          ],
+          "confidence": 0.8128934502601624
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            287.0,
+            463.0,
+            374.0,
+            490.0
+          ],
+          "confidence": 0.9550268650054932
+        },
+        {
+          "text": "Chiều 2 viên",
+          "bbox": [
+            512.0,
+            463.0,
+            605.0,
+            487.0
+          ],
+          "confidence": 0.987199604511261
+        }
+      ]
+    },
+    {
+      "text": "3) PANACTOL 500mg SL: 10 Vi ên",
+      "bbox": [
+        37.0,
+        485.0,
+        709.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "3) PANACTOL 500mg",
+          "bbox": [
+            37.0,
+            485.0,
+            276.0,
+            518.0
+          ],
+          "confidence": 0.9600823521614075
+        },
+        {
+          "text": "SL: 10 Vi ên",
+          "bbox": [
+            593.0,
+            489.0,
+            709.0,
+            514.0
+          ],
+          "confidence": 0.9817675948143005
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg: Sáng 1 Viên Chiều 1 Viên",
+      "bbox": [
+        33.0,
+        511.0,
+        609.0,
+        540.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            94.0,
+            537.0
+          ],
+          "confidence": 0.8304785490036011
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            106.0,
+            515.0,
+            164.0,
+            540.0
+          ],
+          "confidence": 0.8153180480003357
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            516.0,
+            378.0,
+            540.0
+          ],
+          "confidence": 0.9928264021873474
+        },
+        {
+          "text": "Chiều 1 Viên",
+          "bbox": [
+            510.0,
+            511.0,
+            609.0,
+            540.0
+          ],
+          "confidence": 0.9858530163764954
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        33.0,
+        545.0,
+        199.0,
+        566.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            33.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.975149929523468
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn ưđơnththuốc: tốhgng thuthu cấp I - t ká khám khi co trinhu chứng gi1",
+      "bbox": [
+        30.0,
+        567.0,
+        533.0,
+        594.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn ưđơnththuốc: tốhgng thuthu cấp I - t ká khám khi co trinhu chứng gi1",
+          "bbox": [
+            30.0,
+            567.0,
+            533.0,
+            594.0
+          ],
+          "confidence": 0.7996456027030945
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        33.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            33.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9284825921058655
+        }
+      ]
+    },
+    {
+      "text": "Ngày 06/08/2020",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 06/08/2020",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9824283719062805
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        614.0,
+        681.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            656.0,
+            614.0,
+            681.0
+          ],
+          "confidence": 0.9852588176727295
+        }
+      ]
+    },
+    {
+      "text": "BS. TRN TH THOAN",
+      "bbox": [
+        450.0,
+        731.0,
+        643.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "BS. TRN TH THOAN",
+          "bbox": [
+            450.0,
+            731.0,
+            643.0,
+            755.0
+          ],
+          "confidence": 0.9251009225845337
+        }
+      ]
+    },
+    {
+      "text": "Táiá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếui co)",
+      "bbox": [
+        34.0,
+        788.0,
+        415.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Táiá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếui co)",
+          "bbox": [
+            34.0,
+            788.0,
+            415.0,
+            809.0
+          ],
+          "confidence": 0.7928799390792847
+        }
+      ]
+    },
+    {
+      "text": "03/05/2021 11:08:41",
+      "bbox": [
+        587.0,
+        828.0,
+        730.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "03/05/2021 11:08:41",
+          "bbox": [
+            587.0,
+            828.0,
+            730.0,
+            848.0
+          ],
+          "confidence": 0.9741402864456177
+        }
+      ]
+    }
+  ]
+}

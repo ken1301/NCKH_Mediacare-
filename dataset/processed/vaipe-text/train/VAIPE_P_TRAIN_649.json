@@ -1,0 +1,238 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_649",
+  "image": "public_train/image/VAIPE_P_TRAIN_649.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nNữ\nCân nặng kg nam\nChần đoán: S93 - căng cơ khớp và dây chẳng tại tầm cổ chân và bàn chân trái;\n(E11)TD Bệnh đái tháo đường không phụ thuộc insuline; (E78) Rối loạn\nchuyến hóa lipoprotein và tình trạng tăng lipid máu khác\nThuốc điều trị:\n1) Atorvastatin (Atoris 20mg) 20mg\nUống: TốI 1/2 Viên\nSL: 03 Viên\n2) Paracetamol (Partamol Tab.) 500mg\nUống: Sáng 1 Viên CHIều 1 Viên\nSL: 10 Viên\nLời dặn:\nNgày 27 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Nguyễn Ngọc Tri\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1010,
+        210,
+        1059,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        962,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: S93 - căng cơ khớp và dây chẳng tại tầm cổ chân và bàn chân trái;",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        350,
+        1100,
+        392
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(E11)TD Bệnh đái tháo đường không phụ thuộc insuline; (E78) Rối loạn",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        389,
+        1015,
+        434
+      ],
+      "mapping": null
+    },
+    {
+      "text": "chuyến hóa lipoprotein và tình trạng tăng lipid máu khác",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        430,
+        802,
+        470
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        468,
+        242,
+        510
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Atorvastatin (Atoris 20mg) 20mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        516,
+        545,
+        560
+      ],
+      "mapping": 15
+    },
+    {
+      "text": "Uống: TốI 1/2 Viên",
+      "label": "usage",
+      "bbox": [
+        281,
+        584,
+        565,
+        627
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 03 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        590,
+        197,
+        617
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        35,
+        647,
+        582,
+        682
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "Uống: Sáng 1 Viên CHIều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        712,
+        752,
+        752
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        717,
+        197,
+        745
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        780,
+        160,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 27 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        825,
+        1027,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        680,
+        872,
+        1002,
+        910
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        917,
+        970,
+        955
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        662,
+        1057,
+        1017,
+        1100
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1107,
+        507,
+        1142
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1152,
+        1007,
+        1195
+      ],
+      "mapping": null
+    }
+  ]
+}

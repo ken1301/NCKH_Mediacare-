@@ -1,0 +1,525 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_839",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_839.png",
+  "text": "1/1 M sc người bnh\nPK Số 2 [Nội] Số phiếu 69615/2018\nTOA THUỐC BHYT\nNamNx\nThu ặo h êhám y tế DN 35 35 160\nMạch: lần/phút Huyết áp: MMHg Thân hiệt C\nCộn lâm sàng:\nCnhkn ngn: G461 - H:i chng MmmMạch Mmu nãO tOng nnh mạch no (160-1677)\n1) STACETAM 800MG 800mg SL: 10 Viên\nGhi chú Uốg Sáng 1 Viên Ciều 1 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 06/11/2018\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếu cá)\n19/05/2021 09:58:21",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        49.0,
+        16.0,
+        716.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            49.0,
+            16.0,
+            120.0,
+            64.0
+          ],
+          "confidence": 0.9997720122337341
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 69615/2018",
+      "bbox": [
+        22.0,
+        83.0,
+        547.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            83.0,
+            131.0,
+            116.0
+          ],
+          "confidence": 0.9845625758171082
+        },
+        {
+          "text": "Số phiếu 69615/2018",
+          "bbox": [
+            370.0,
+            89.0,
+            547.0,
+            121.0
+          ],
+          "confidence": 0.9934428334236145
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        121.0,
+        509.0,
+        154.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            121.0,
+            509.0,
+            154.0
+          ],
+          "confidence": 0.969993531703949
+        }
+      ]
+    },
+    {
+      "text": "NamNx",
+      "bbox": [
+        616.0,
+        147.0,
+        739.0,
+        182.0
+      ],
+      "words": [
+        {
+          "text": "NamNx",
+          "bbox": [
+            616.0,
+            147.0,
+            739.0,
+            182.0
+          ],
+          "confidence": 0.7318679094314575
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h êhám y tế DN 35 35 160",
+      "bbox": [
+        25.0,
+        202.0,
+        471.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h êhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7739477753639221
+        },
+        {
+          "text": "DN",
+          "bbox": [
+            180.0,
+            202.0,
+            236.0,
+            227.0
+          ],
+          "confidence": 0.9883182048797607
+        },
+        {
+          "text": "35",
+          "bbox": [
+            295.0,
+            203.0,
+            328.0,
+            227.0
+          ],
+          "confidence": 0.9990686178207397
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.999746561050415
+        },
+        {
+          "text": "160",
+          "bbox": [
+            433.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.999965250492096
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân hiệt C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        257.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            165.0,
+            228.0,
+            309.0,
+            257.0
+          ],
+          "confidence": 0.9526302814483643
+        },
+        {
+          "text": "MMHg Thân hiệt",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8970824480056763
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        127.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            127.0,
+            275.0
+          ],
+          "confidence": 0.8999032974243164
+        }
+      ]
+    },
+    {
+      "text": "Cnhkn ngn: G461 - H:i chng MmmMạch Mmu nãO tOng nnh mạch no (160-1677)",
+      "bbox": [
+        26.0,
+        271.0,
+        554.0,
+        293.0
+      ],
+      "words": [
+        {
+          "text": "Cnhkn ngn: G461 - H:i chng MmmMạch Mmu nãO tOng nnh mạch no (160-1677)",
+          "bbox": [
+            26.0,
+            271.0,
+            554.0,
+            293.0
+          ],
+          "confidence": 0.8224658370018005
+        }
+      ]
+    },
+    {
+      "text": "1) STACETAM 800MG 800mg SL: 10 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        412.0
+      ],
+      "words": [
+        {
+          "text": "1) STACETAM 800MG 800mg",
+          "bbox": [
+            41.0,
+            381.0,
+            351.0,
+            412.0
+          ],
+          "confidence": 0.9682148098945618
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            594.0,
+            384.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9996846914291382
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên Ciều 1 Viên",
+      "bbox": [
+        32.0,
+        410.0,
+        609.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            32.0,
+            410.0,
+            99.0,
+            435.0
+          ],
+          "confidence": 0.7620573043823242
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            104.0,
+            410.0,
+            164.0,
+            437.0
+          ],
+          "confidence": 0.7164030075073242
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            287.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9593223333358765
+        },
+        {
+          "text": "Ciều 1 Viên",
+          "bbox": [
+            512.0,
+            410.0,
+            609.0,
+            436.0
+          ],
+          "confidence": 0.9455342888832092
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9359388947486877
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.959064781665802
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        31.0,
+        490.0,
+        170.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            31.0,
+            490.0,
+            170.0,
+            515.0
+          ],
+          "confidence": 0.945093035697937
+        }
+      ]
+    },
+    {
+      "text": "Ngày 06/11/2018",
+      "bbox": [
+        483.0,
+        523.0,
+        625.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 06/11/2018",
+          "bbox": [
+            483.0,
+            523.0,
+            625.0,
+            549.0
+          ],
+          "confidence": 0.9756489992141724
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        544.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            544.0,
+            200.0,
+            568.0
+          ],
+          "confidence": 0.9758189916610718
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        453.0,
+        624.0,
+        639.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            453.0,
+            624.0,
+            639.0,
+            654.0
+          ],
+          "confidence": 0.9273366928100586
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám Xịin mang thcho onđ, kết nghinhm phikam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.7740880250930786
+        }
+      ]
+    },
+    {
+      "text": "19/05/2021 09:58:21",
+      "bbox": [
+        588.0,
+        723.0,
+        730.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "19/05/2021 09:58:21",
+          "bbox": [
+            588.0,
+            723.0,
+            730.0,
+            744.0
+          ],
+          "confidence": 0.9798985719680786
+        }
+      ]
+    }
+  ]
+}

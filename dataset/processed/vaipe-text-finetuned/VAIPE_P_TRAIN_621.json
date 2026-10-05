@@ -1,0 +1,649 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_621",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_621.png",
+  "text": "1/1 M c người bnh\nSố phiếu 1784/2019\nTOA HAỐC T H U C B H BHT\nNamx\nThu ặho h hm y tuế GD 35 35 207\nMạch: lần/phút Huyết áp: MMHg Thân hiệt: C\nCộn lâm sàng:\nCânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp\n1) RENAPRIL 5MG 5mg SL: 30 Viên\nGhi chú Uốg Sáng 1 Viên\n2) NOVOXIM-500 0,5g SL: 20 Viên\nGhi chú Uốg Sáng 2 Viên Chiều 2 Viên\n3) YPARA 500 500mg SL: 10 Viên\nGhi chú Uống:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 10/06/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBSĐK. Nguyễn Thế Anh\nTái kh khám Xin mang thco onđ, Xk nghinm phiám (oiếui cá)\n09/05/2021 09:32:17",
+  "lines": [
+    {
+      "text": "1/1 M c người bnh",
+      "bbox": [
+        42.0,
+        3.0,
+        716.0,
+        74.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            42.0,
+            3.0,
+            163.0,
+            74.0
+          ],
+          "confidence": 0.9935131669044495
+        },
+        {
+          "text": "M c người bnh",
+          "bbox": [
+            598.0,
+            17.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8392256498336792
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 1784/2019",
+      "bbox": [
+        370.0,
+        89.0,
+        536.0,
+        122.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 1784/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            536.0,
+            122.0
+          ],
+          "confidence": 0.9745299220085144
+        }
+      ]
+    },
+    {
+      "text": "TOA HAỐC T H U C B H BHT",
+      "bbox": [
+        258.0,
+        123.0,
+        509.0,
+        153.0
+      ],
+      "words": [
+        {
+          "text": "TOA HAỐC T H U C B H BHT",
+          "bbox": [
+            258.0,
+            123.0,
+            509.0,
+            153.0
+          ],
+          "confidence": 0.7439088821411133
+        }
+      ]
+    },
+    {
+      "text": "Namx",
+      "bbox": [
+        614.0,
+        146.0,
+        739.0,
+        184.0
+      ],
+      "words": [
+        {
+          "text": "Namx",
+          "bbox": [
+            614.0,
+            146.0,
+            739.0,
+            184.0
+          ],
+          "confidence": 0.9221034646034241
+        }
+      ]
+    },
+    {
+      "text": "Thu ặho h hm y tuế GD 35 35 207",
+      "bbox": [
+        26.0,
+        204.0,
+        471.0,
+        227.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặho h hm y tuế",
+          "bbox": [
+            26.0,
+            205.0,
+            154.0,
+            226.0
+          ],
+          "confidence": 0.7318795323371887
+        },
+        {
+          "text": "GD",
+          "bbox": [
+            182.0,
+            204.0,
+            224.0,
+            226.0
+          ],
+          "confidence": 0.9785448312759399
+        },
+        {
+          "text": "35",
+          "bbox": [
+            295.0,
+            206.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.9998680353164673
+        },
+        {
+          "text": "35",
+          "bbox": [
+            362.0,
+            205.0,
+            392.0,
+            226.0
+          ],
+          "confidence": 0.9998700618743896
+        },
+        {
+          "text": "207",
+          "bbox": [
+            432.0,
+            204.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9997725486755371
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: MMHg Thân hiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            229.0,
+            309.0,
+            255.0
+          ],
+          "confidence": 0.9666202068328857
+        },
+        {
+          "text": "MMHg Thân hiệt:",
+          "bbox": [
+            450.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8865278363227844
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp",
+      "bbox": [
+        25.0,
+        268.0,
+        543.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhần ĩokn: I10- Tăng huyến áp Võ căn (nguyễn phát) : (102) Viêm họng cấp",
+          "bbox": [
+            25.0,
+            268.0,
+            543.0,
+            294.0
+          ],
+          "confidence": 0.8404654860496521
+        }
+      ]
+    },
+    {
+      "text": "1) RENAPRIL 5MG 5mg SL: 30 Viên",
+      "bbox": [
+        41.0,
+        381.0,
+        709.0,
+        413.0
+      ],
+      "words": [
+        {
+          "text": "1) RENAPRIL 5MG 5mg",
+          "bbox": [
+            41.0,
+            381.0,
+            295.0,
+            413.0
+          ],
+          "confidence": 0.9078631401062012
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            594.0,
+            383.0,
+            709.0,
+            411.0
+          ],
+          "confidence": 0.9813188314437866
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        378.0,
+        437.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            437.0
+          ],
+          "confidence": 0.825014054775238
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9859002828598022
+        }
+      ]
+    },
+    {
+      "text": "2) NOVOXIM-500 0,5g SL: 20 Viên",
+      "bbox": [
+        36.0,
+        431.0,
+        710.0,
+        467.0
+      ],
+      "words": [
+        {
+          "text": "2) NOVOXIM-500 0,5g",
+          "bbox": [
+            36.0,
+            431.0,
+            285.0,
+            467.0
+          ],
+          "confidence": 0.9705657958984375
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            432.0,
+            710.0,
+            463.0
+          ],
+          "confidence": 0.9924021363258362
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uốg Sáng 2 Viên Chiều 2 Viên",
+      "bbox": [
+        34.0,
+        461.0,
+        609.0,
+        489.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            464.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8843952417373657
+        },
+        {
+          "text": "Uốg",
+          "bbox": [
+            106.0,
+            464.0,
+            163.0,
+            489.0
+          ],
+          "confidence": 0.8423901200294495
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            464.0,
+            378.0,
+            488.0
+          ],
+          "confidence": 0.987599790096283
+        },
+        {
+          "text": "Chiều 2 Viên",
+          "bbox": [
+            510.0,
+            461.0,
+            609.0,
+            489.0
+          ],
+          "confidence": 0.9878707528114319
+        }
+      ]
+    },
+    {
+      "text": "3) YPARA 500 500mg SL: 10 Viên",
+      "bbox": [
+        36.0,
+        483.0,
+        710.0,
+        520.0
+      ],
+      "words": [
+        {
+          "text": "3) YPARA 500 500mg",
+          "bbox": [
+            36.0,
+            483.0,
+            292.0,
+            520.0
+          ],
+          "confidence": 0.9582001566886902
+        },
+        {
+          "text": "SL: 10 Viên",
+          "bbox": [
+            591.0,
+            485.0,
+            710.0,
+            516.0
+          ],
+          "confidence": 0.9724414944648743
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "bbox": [
+        33.0,
+        513.0,
+        165.0,
+        544.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            517.0,
+            95.0,
+            538.0
+          ],
+          "confidence": 0.7722023129463196
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            104.0,
+            513.0,
+            165.0,
+            544.0
+          ],
+          "confidence": 0.8603283762931824
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        31.0,
+        542.0,
+        200.0,
+        569.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            31.0,
+            542.0,
+            200.0,
+            569.0
+          ],
+          "confidence": 0.982355535030365
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        31.0,
+        569.0,
+        164.0,
+        590.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            31.0,
+            569.0,
+            164.0,
+            590.0
+          ],
+          "confidence": 0.8966643810272217
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9468236565589905
+        }
+      ]
+    },
+    {
+      "text": "Ngày 10/06/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        625.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 10/06/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            625.0,
+            654.0
+          ],
+          "confidence": 0.9763564467430115
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        63.0,
+        648.0,
+        615.0,
+        682.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            63.0,
+            648.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9535803198814392
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            491.0,
+            655.0,
+            615.0,
+            682.0
+          ],
+          "confidence": 0.9959531426429749
+        }
+      ]
+    },
+    {
+      "text": "BSĐK. Nguyễn Thế Anh",
+      "bbox": [
+        448.0,
+        728.0,
+        643.0,
+        758.0
+      ],
+      "words": [
+        {
+          "text": "BSĐK. Nguyễn Thế Anh",
+          "bbox": [
+            448.0,
+            728.0,
+            643.0,
+            758.0
+          ],
+          "confidence": 0.9803876876831055
+        }
+      ]
+    },
+    {
+      "text": "Tái kh khám Xin mang thco onđ, Xk nghinm phiám (oiếui cá)",
+      "bbox": [
+        33.0,
+        786.0,
+        416.0,
+        810.0
+      ],
+      "words": [
+        {
+          "text": "Tái kh khám Xin mang thco onđ, Xk nghinm phiám (oiếui cá)",
+          "bbox": [
+            33.0,
+            786.0,
+            416.0,
+            810.0
+          ],
+          "confidence": 0.8103549480438232
+        }
+      ]
+    },
+    {
+      "text": "09/05/2021 09:32:17",
+      "bbox": [
+        587.0,
+        827.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "09/05/2021 09:32:17",
+          "bbox": [
+            587.0,
+            827.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.992639422416687
+        }
+      ]
+    }
+  ]
+}

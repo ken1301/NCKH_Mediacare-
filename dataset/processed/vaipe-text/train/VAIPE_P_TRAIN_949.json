@@ -1,0 +1,480 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_949",
+  "image": "public_train/image/VAIPE_P_TRAIN_949.png",
+  "text": "Khoa Khám bệnh\nBốc khám truyền nhiễm\nSố phiếu 41572/2021\n4641189\nTOA THUỐC BHYT\nNam\nNữ\n36305\n35\n35\n206\n4\nMMHg Thân nhiệt: 37\nlần/phút Huyết áp:\nMạch:\n80\n120\nCận lâm sàng: Chụp Xquang ngực thắng, Điện tim thường\nChấn đoán: 140 - Viêm phế quản không xác định được là cấp hay măn tính;; (RO7.2) Đau trước tim\n1) HAPENXIN CAPSULES 0,5g\nSL:30 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) PARTAMOL TAB. 500mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nChiều 2 Viên\n3) DIXIREIN 375mg\nSL: 20 viên\nGhi chú uống:\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 25/08/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Vũ Hồng Thanh\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/01/2022 19:06:10",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám truyền nhiễm",
+      "label": "other",
+      "bbox": [
+        37,
+        147,
+        292,
+        181
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 41572/2021",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        813,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4641189",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        755,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1025,
+        257,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "36305",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        835,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        650,
+        325,
+        695,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        359,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "80",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang ngực thắng, Điện tim thường",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        630,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: 140 - Viêm phế quản không xác định được là cấp hay măn tính;; (RO7.2) Đau trước tim",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1034,
+        452
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        540,
+        632
+      ],
+      "mapping": 61
+    },
+    {
+      "text": "SL:30 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        495,
+        710
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1057,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        710,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        710,
+        905,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) DIXIREIN 375mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        377,
+        787
+      ],
+      "mapping": 2
+    },
+    {
+      "text": "SL: 20 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        749,
+        1049,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        787,
+        897,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        552,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        835,
+        290,
+        862
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        44,
+        866,
+        242,
+        898
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        910,
+        247,
+        937
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 25/08/2021",
+      "label": "date",
+      "bbox": [
+        722,
+        962,
+        925,
+        990
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        990,
+        292,
+        1017
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1002,
+        912,
+        1030
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Vũ Hồng Thanh",
+      "label": "other",
+      "bbox": [
+        674,
+        1105,
+        955,
+        1147
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1194,
+        617,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/01/2022 19:06:10",
+      "label": "other",
+      "bbox": [
+        877,
+        1255,
+        1090,
+        1280
+      ],
+      "mapping": null
+    }
+  ]
+}

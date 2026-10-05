@@ -1,0 +1,249 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1061",
+  "image": "public_train/image/VAIPE_P_TRAIN_1061.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x\nChẩn đoán: N30 - Viêm bàng quang\nThuốc điều trị:\n1) Metronidazol (Metronidazol 250) 250 mg\nUống: Sáng 2 Viên CHIều 2 Viên\nSL: 20 Viên\n2) Drotaverin clohydrat (Dromasm fort) 80mg\nUống: Sáng 1 Viên Chiều 1 Viên\nSL: 10 Viên\n3) Paracetamol (Partamol Tab.) 500mg\nUống 2v/ lần khi tiểu buốt. 2 lần uống cách nhau ít nhất 4h:\nSL: 20 Viên\nSÁNG 2 VIÊN CHIỀU 2 VIÊN\nLời dặn:\nNgày 30 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nBS. Nguyễn Trung Đức\nKhám lại xin mang theo đơn này\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        42,
+        105,
+        197,
+        140
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        397,
+        150,
+        750,
+        192
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng kg nam x",
+      "label": "other",
+      "bbox": [
+        702,
+        215,
+        1057,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chẩn đoán: N30 - Viêm bàng quang",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        347,
+        528,
+        394
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        37,
+        398,
+        242,
+        440
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) Metronidazol (Metronidazol 250) 250 mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        446,
+        657,
+        490
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "Uống: Sáng 2 Viên CHIều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        515,
+        749,
+        552
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        520,
+        197,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) Drotaverin clohydrat (Dromasm fort) 80mg",
+      "label": "drugname",
+      "bbox": [
+        34,
+        575,
+        680,
+        617
+      ],
+      "mapping": 36
+    },
+    {
+      "text": "Uống: Sáng 1 Viên Chiều 1 Viên",
+      "label": "usage",
+      "bbox": [
+        282,
+        642,
+        750,
+        683
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        647,
+        195,
+        675
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) Paracetamol (Partamol Tab.) 500mg",
+      "label": "drugname",
+      "bbox": [
+        37,
+        705,
+        585,
+        742
+      ],
+      "mapping": 99
+    },
+    {
+      "text": "Uống 2v/ lần khi tiểu buốt. 2 lần uống cách nhau ít nhất 4h:",
+      "label": "usage",
+      "bbox": [
+        282,
+        750,
+        1025,
+        796
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        42,
+        775,
+        195,
+        805
+      ],
+      "mapping": null
+    },
+    {
+      "text": "SÁNG 2 VIÊN CHIỀU 2 VIÊN",
+      "label": "usage",
+      "bbox": [
+        280,
+        792,
+        657,
+        822
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        42,
+        840,
+        157,
+        870
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 30 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        647,
+        882,
+        1027,
+        920
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        679,
+        929,
+        1002,
+        968
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        712,
+        975,
+        969,
+        1012
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Nguyễn Trung Đức",
+      "label": "other",
+      "bbox": [
+        677,
+        1115,
+        1002,
+        1160
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này",
+      "label": "other",
+      "bbox": [
+        62,
+        1165,
+        507,
+        1200
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        62,
+        1212,
+        1007,
+        1252
+      ],
+      "mapping": null
+    }
+  ]
+}

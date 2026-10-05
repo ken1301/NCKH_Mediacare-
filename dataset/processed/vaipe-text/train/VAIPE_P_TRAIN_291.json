@@ -1,0 +1,546 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_291",
+  "image": "public_train/image/VAIPE_P_TRAIN_291.png",
+  "text": "Khoa Khám bệnh\nBốc khám răng - hàm -mặt\nSố phiếu 411/2022\n5032338\nTOA THUỐC BHYT\nNam\nNữ\n210\n88591\n35\n35\n4\nlần/phút Huyết áp:\nmmHg Thân nhiệt: 37\nMạch:\n78\n120\nCận lâm sàng: Chụp Xquang răng cánh cắn (Bite wing)\nChần đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (KO4) Bệnh tủy và mô quanh chân răng 1121\n22; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)\n1) FABAMOX 500 500mg\nSL: 28 Viên\nGhi chú uống\nChiều 2 Viên\nSáng 2 Viên\n2) PARTAMOL TAB. 500mg\nSL: 14 Viên\nGhi chú Uống:\nTối 1 Viên\nSáng 1 Viên\n3) METRONIDAZOL 250 250mg\nSL: 28 Viên\nGhi chú uống:\nChiều 2 Viên\nSáng 2 Viên\n4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 28 viên\nGhi chú Uống:\nChiều 2 viên\nSáng 2 viên\nCộng khoản: 4 khoản\nLời dặn đơn thuốc: Uống thuốc theo toa + tái khám sau 1 tuần ? nghi dưỡng theo chế độ BHXH\nNgày hẹn tái khám:\nNgày 04/01/2022\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSCKI. Nguyễn Ngọc Tri\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n04/01/2022 22:17:48",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        102,
+        217,
+        129
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bốc khám răng - hàm -mặt",
+      "label": "other",
+      "bbox": [
+        37,
+        146,
+        330,
+        185
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 411/2022",
+      "label": "other",
+      "bbox": [
+        554,
+        151,
+        780,
+        193
+      ],
+      "mapping": null
+    },
+    {
+      "text": "5032338",
+      "label": "other",
+      "bbox": [
+        935,
+        165,
+        1027,
+        190
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        387,
+        195,
+        755,
+        242
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        925,
+        252,
+        977,
+        275
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        1022,
+        252,
+        1057,
+        277
+      ],
+      "mapping": null
+    },
+    {
+      "text": "210",
+      "label": "other",
+      "bbox": [
+        650,
+        322,
+        697,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "88591",
+      "label": "other",
+      "bbox": [
+        762,
+        322,
+        832,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        447,
+        325,
+        480,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        545,
+        325,
+        577,
+        350
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        372,
+        327,
+        390,
+        347
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        247,
+        360,
+        455,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt: 37",
+      "label": "other",
+      "bbox": [
+        674,
+        361,
+        930,
+        393
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        37,
+        365,
+        105,
+        390
+      ],
+      "mapping": null
+    },
+    {
+      "text": "78",
+      "label": "other",
+      "bbox": [
+        132,
+        365,
+        160,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "120",
+      "label": "other",
+      "bbox": [
+        500,
+        367,
+        615,
+        387
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang răng cánh cắn (Bite wing)",
+      "label": "other",
+      "bbox": [
+        37,
+        392,
+        597,
+        425
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (KO4) Bệnh tủy và mô quanh chân răng 1121",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        422,
+        1085,
+        453
+      ],
+      "mapping": null
+    },
+    {
+      "text": "22; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        37,
+        452,
+        745,
+        482
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) FABAMOX 500 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        590,
+        455,
+        632
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        592,
+        1057,
+        625
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống",
+      "label": "other",
+      "bbox": [
+        49,
+        630,
+        235,
+        662
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        632,
+        905,
+        660
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        635,
+        560,
+        665
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        670,
+        495,
+        710
+      ],
+      "mapping": 89
+    },
+    {
+      "text": "SL: 14 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        672,
+        1055,
+        702
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        705,
+        235,
+        743
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        932,
+        710,
+        1045,
+        737
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        429,
+        711,
+        560,
+        744
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        747,
+        560,
+        787
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        750,
+        1057,
+        782
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        786,
+        235,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        790,
+        905,
+        815
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        792,
+        560,
+        820
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        64,
+        820,
+        750,
+        868
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 28 viên",
+      "label": "quantity",
+      "bbox": [
+        887,
+        827,
+        1049,
+        859
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        49,
+        862,
+        235,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 viên",
+      "label": "usage",
+      "bbox": [
+        767,
+        867,
+        897,
+        895
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 viên",
+      "label": "usage",
+      "bbox": [
+        430,
+        870,
+        552,
+        900
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        45,
+        912,
+        290,
+        940
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc: Uống thuốc theo toa + tái khám sau 1 tuần ? nghi dưỡng theo chế độ BHXH",
+      "label": "other",
+      "bbox": [
+        45,
+        945,
+        1035,
+        977
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        45,
+        987,
+        247,
+        1015
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 04/01/2022",
+      "label": "date",
+      "bbox": [
+        722,
+        1040,
+        927,
+        1070
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        92,
+        1067,
+        292,
+        1095
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        737,
+        1080,
+        912,
+        1107
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSCKI. Nguyễn Ngọc Tri",
+      "label": "other",
+      "bbox": [
+        667,
+        1190,
+        965,
+        1227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        44,
+        1272,
+        617,
+        1306
+      ],
+      "mapping": null
+    },
+    {
+      "text": "04/01/2022 22:17:48",
+      "label": "other",
+      "bbox": [
+        877,
+        1334,
+        1089,
+        1359
+      ],
+      "mapping": null
+    }
+  ]
+}

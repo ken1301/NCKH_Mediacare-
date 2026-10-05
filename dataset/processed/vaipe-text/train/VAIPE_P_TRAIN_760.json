@@ -1,0 +1,381 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_760",
+  "image": "public_train/image/VAIPE_P_TRAIN_760.png",
+  "text": "1/1\nSố phiếu 782/2018\n4688698\nTOA THUỐC BHYT\nNam\nNữ\n207\n00068\n35\n35\n4\nlần/phút Huyết áp:\nMMHg Thân nhiệt:\nMạch:\nCận lâm sàng:\nChần đoán: 110 - Tăng huyết áp vô căn (nguyên phát)/rối loạn tiền đình\n1) CARDILOPIN 5mg\nSL: 30 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) HOẠT HUYẾT DƯỠNG NÃO BDF 150mg+5mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nChiều 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/03/2018\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBSĐK. Nguyễn Thế Anh\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n09/05/2021 09:30:31",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 782/2018",
+      "label": "other",
+      "bbox": [
+        371,
+        93,
+        525,
+        125
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4688698",
+      "label": "other",
+      "bbox": [
+        626,
+        103,
+        688,
+        120
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        123,
+        508,
+        155
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        162,
+        655,
+        178
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        162,
+        708,
+        178
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        208,
+        466,
+        227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "00068",
+      "label": "other",
+      "bbox": [
+        509,
+        208,
+        560,
+        227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        210,
+        322,
+        227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        210,
+        387,
+        227
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4",
+      "label": "other",
+      "bbox": [
+        252,
+        212,
+        262,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        233,
+        306,
+        257
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        451,
+        234,
+        595,
+        256
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        237,
+        73,
+        254
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        256,
+        125,
+        276
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: 110 - Tăng huyết áp vô căn (nguyên phát)/rối loạn tiền đình",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        274,
+        513,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) CARDILOPIN 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        387,
+        267,
+        416
+      ],
+      "mapping": 22
+    },
+    {
+      "text": "SL: 30 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        389,
+        708,
+        411
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        413,
+        160,
+        438
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        417,
+        376,
+        438
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) HOẠT HUYẾT DƯỠNG NÃO BDF 150mg+5mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        553,
+        468
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        441,
+        708,
+        463
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        465,
+        161,
+        490
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        469,
+        376,
+        489
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        513,
+        469,
+        605,
+        486
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        498,
+        197,
+        518
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        521,
+        163,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        548,
+        167,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 02/03/2018",
+      "label": "date",
+      "bbox": [
+        484,
+        583,
+        621,
+        601
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        601,
+        198,
+        620
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        608,
+        611,
+        628
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BSĐK. Nguyễn Thế Anh",
+      "label": "other",
+      "bbox": [
+        450,
+        679,
+        642,
+        708
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        738,
+        414,
+        761
+      ],
+      "mapping": null
+    },
+    {
+      "text": "09/05/2021 09:30:31",
+      "label": "other",
+      "bbox": [
+        586,
+        778,
+        729,
+        798
+      ],
+      "mapping": null
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1142",
+  "image": "public_train/image/VAIPE_P_TRAIN_1142.png",
+  "text": "TYT XÃ ĐỨC LÝ\nSố phiếu 184/2021\n4692003\nTOA THUỐC BHYT\nNam\nNữ\n35\n207\n51102\n2\n35\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: K29.9 - Viêm dạ dày tá tràng, không đặc hiệu; (120) Viêm phế quản cấp: (G46?) Hội chứng\nmạch máu não trong bệnh mạch não (160-167t)\n1) AMOXICILIN 500MG 500mg\nSL: 20 Viên\nGhi chú Uống:\n2) METRONIDAZOL 250 250mg\nSL: 20 Viên\nGhi chú Uống\n3) BROMHEXIN ACTAVIS 8mg\nSL: 20 Viên\nGhi chú Uống:\n4) HOẠT HUYẾT DƯỠNG NÃO QN 150mg+20mg\nSL: 20 Viên\nGhi chú Uống:\nCộng khoản: 4 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 15/01/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nNV. Đặng Thị Thu Huyền\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n05/05/2021 07:36:37",
+  "words": [
+    {
+      "text": "TYT XÃ ĐỨC LÝ",
+      "label": "other",
+      "bbox": [
+        28,
+        58,
+        158,
+        76
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 184/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        522,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4692003",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "51102",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        208,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: K29.9 - Viêm dạ dày tá tràng, không đặc hiệu; (120) Viêm phế quản cấp: (G46?) Hội chứng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        732,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mạch máu não trong bệnh mạch não (160-167t)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        294,
+        347,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) AMOXICILIN 500MG 500mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        366,
+        413
+      ],
+      "mapping": 10
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        438,
+        377,
+        466
+      ],
+      "mapping": 51
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        152,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) BROMHEXIN ACTAVIS 8mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        489,
+        371,
+        518
+      ],
+      "mapping": 63
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        491,
+        708,
+        513
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        515,
+        159,
+        540
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4) HOẠT HUYẾT DƯỠNG NÃO QN 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        540,
+        541,
+        570
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        543,
+        708,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        566,
+        160,
+        592
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 4 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        600,
+        197,
+        620
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        623,
+        163,
+        642
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        650,
+        167,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 15/01/2021",
+      "label": "date",
+      "bbox": [
+        484,
+        682,
+        620,
+        706
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        703,
+        198,
+        722
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        712,
+        611,
+        732
+      ],
+      "mapping": null
+    },
+    {
+      "text": "NV. Đặng Thị Thu Huyền",
+      "label": "other",
+      "bbox": [
+        444,
+        785,
+        650,
+        810
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        840,
+        414,
+        863
+      ],
+      "mapping": null
+    },
+    {
+      "text": "05/05/2021 07:36:37",
+      "label": "other",
+      "bbox": [
+        586,
+        882,
+        730,
+        899
+      ],
+      "mapping": null
+    }
+  ]
+}

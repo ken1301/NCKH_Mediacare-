@@ -1,0 +1,359 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_702",
+  "image": "public_train/image/VAIPE_P_TRAIN_702.png",
+  "text": "1/1\nSố phiếu 1806/2019\n4672026\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n207\n21958\n2\nMMHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng:\nChấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (G46?) Hội chứng mạch máu não trong bệnh\nmạch não (160-1677)\n1) KAVASDIN 5 5mg\nSL: 30 viên\nGhi chú Uống:\n2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg\nSL: 20 Viên\nGhi chú Uống:\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 02/07/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nNV. Đặng Thị Thu Huyền\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n17/05/2021 16:20:01",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 1806/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        535,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4672026",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        120,
+        508,
+        154
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        466,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "21958",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2",
+      "label": "other",
+      "bbox": [
+        249,
+        208,
+        262,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        125,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (G46?) Hội chứng mạch máu não trong bệnh",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        703,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mạch não (160-1677)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        294,
+        168,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) KAVASDIN 5 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        272,
+        413
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 30 viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        703,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        411,
+        161,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg",
+      "label": "drugname",
+      "bbox": [
+        45,
+        434,
+        501,
+        466
+      ],
+      "mapping": 64
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        708,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 02/07/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "NV. Đặng Thị Thu Huyền",
+      "label": "other",
+      "bbox": [
+        444,
+        680,
+        648,
+        705
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        416,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "17/05/2021 16:20:01",
+      "label": "other",
+      "bbox": [
+        588,
+        777,
+        728,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

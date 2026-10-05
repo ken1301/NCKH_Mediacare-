@@ -1,0 +1,315 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_904",
+  "image": "public_train/image/VAIPE_P_TRAIN_904.png",
+  "text": "Khoa Khám bệnh\nPK SỐ 3 [NHI]\nSố phiếu 46702/2021\n4898792\nTOA THUỐC BHYT\nNam x nữ\n86080\n206\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sàng:\nChấn đoán: [10 - Bệnh lý tăng huyết áp; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-\n1677)\n1) PAMLONOR 5mg\nSL: 20 Viên\nGhi chú Uống:\nSáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 11/10/2021\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Lương Tiến Dũng\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/01/2022 10:53:37",
+  "words": [
+    {
+      "text": "Khoa Khám bệnh",
+      "label": "other",
+      "bbox": [
+        26,
+        77,
+        148,
+        97
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK SỐ 3 [NHI]",
+      "label": "other",
+      "bbox": [
+        26,
+        107,
+        133,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 46702/2021",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        543,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4898792",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "86080",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        561,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "206",
+      "label": "other",
+      "bbox": [
+        437,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "label": "other",
+      "bbox": [
+        28,
+        273,
+        126,
+        293
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: [10 - Bệnh lý tăng huyết áp; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        290,
+        716,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1677)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        315,
+        68,
+        330
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) PAMLONOR 5mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        402,
+        257,
+        430
+      ],
+      "mapping": 8
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        403,
+        707,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        428,
+        162,
+        455
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        431,
+        377,
+        456
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        461,
+        197,
+        481
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        30,
+        485,
+        164,
+        506
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        512,
+        168,
+        532
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 11/10/2021",
+      "label": "date",
+      "bbox": [
+        483,
+        544,
+        621,
+        568
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        565,
+        199,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        572,
+        612,
+        594
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        461,
+        645,
+        634,
+        670
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        703,
+        417,
+        723
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/01/2022 10:53:37",
+      "label": "other",
+      "bbox": [
+        585,
+        743,
+        732,
+        761
+      ],
+      "mapping": null
+    }
+  ]
+}

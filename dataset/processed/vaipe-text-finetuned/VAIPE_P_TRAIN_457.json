@@ -1,0 +1,535 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_457",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_457.png",
+  "text": "M sc người bnh\nPK Số 2 [Nội] Số phiếu 50016/2019\nTOA THUỐC BHYT\nNam x Nữ\nThu ặOo h ếhám y tuế CK 35 35 205 53741\nMạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt: C\nCộn lâm sàng:\nCâềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)\n1) ENALAPRIL 5mg SL: 64 Viên\nGhi chú Uống Sáng 2 Viên\nCộng khoản: 1 khoản\nLời dặn đơn thuốc:\nNgày hẹn t Kkhámả: Thứ t 10/09/2019\nNgày 09/08/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYS. Trương Quốc Huân\nTá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)\n07/05/2021 09:27:12",
+  "lines": [
+    {
+      "text": "M sc người bnh",
+      "bbox": [
+        599.0,
+        17.0,
+        716.0,
+        44.0
+      ],
+      "words": [
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            17.0,
+            716.0,
+            44.0
+          ],
+          "confidence": 0.8549646735191345
+        }
+      ]
+    },
+    {
+      "text": "PK Số 2 [Nội] Số phiếu 50016/2019",
+      "bbox": [
+        22.0,
+        84.0,
+        546.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "PK Số 2 [Nội]",
+          "bbox": [
+            22.0,
+            84.0,
+            131.0,
+            116.0
+          ],
+          "confidence": 0.9253575205802917
+        },
+        {
+          "text": "Số phiếu 50016/2019",
+          "bbox": [
+            370.0,
+            89.0,
+            546.0,
+            121.0
+          ],
+          "confidence": 0.9931433796882629
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.9711178541183472
+        }
+      ]
+    },
+    {
+      "text": "Nam x Nữ",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam x Nữ",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8314136266708374
+        }
+      ]
+    },
+    {
+      "text": "Thu ặOo h ếhám y tuế CK 35 35 205 53741",
+      "bbox": [
+        24.0,
+        202.0,
+        563.0,
+        228.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặOo h ếhám y tuế",
+          "bbox": [
+            24.0,
+            202.0,
+            155.0,
+            228.0
+          ],
+          "confidence": 0.7828289866447449
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            184.0,
+            204.0,
+            221.0,
+            227.0
+          ],
+          "confidence": 0.9102654457092285
+        },
+        {
+          "text": "35",
+          "bbox": [
+            298.0,
+            204.0,
+            326.0,
+            226.0
+          ],
+          "confidence": 0.999832272529602
+        },
+        {
+          "text": "35",
+          "bbox": [
+            360.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9998533725738525
+        },
+        {
+          "text": "205",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.9998909831047058
+        },
+        {
+          "text": "53741",
+          "bbox": [
+            507.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.9994651675224304
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyết áp: / MmMHHg Th Th â n nhiệt: C",
+      "bbox": [
+        23.0,
+        223.0,
+        681.0,
+        256.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            229.0,
+            77.0,
+            254.0
+          ],
+          "confidence": 0.9995161294937134
+        },
+        {
+          "text": "lần/phút Huyết áp:",
+          "bbox": [
+            166.0,
+            227.0,
+            309.0,
+            256.0
+          ],
+          "confidence": 0.9551107883453369
+        },
+        {
+          "text": "/",
+          "bbox": [
+            375.0,
+            232.0,
+            392.0,
+            254.0
+          ],
+          "confidence": 0.9820467233657837
+        },
+        {
+          "text": "MmMHHg",
+          "bbox": [
+            450.0,
+            233.0,
+            506.0,
+            254.0
+          ],
+          "confidence": 0.8114079833030701
+        },
+        {
+          "text": "Th Th â n nhiệt:",
+          "bbox": [
+            513.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8223744630813599
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            223.0,
+            681.0,
+            256.0
+          ],
+          "confidence": 0.6304437518119812
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+      "bbox": [
+        26.0,
+        271.0,
+        391.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Câềhần oknả: I10 - Tăng huyến áp ũ căn (ônguyễn púhát)",
+          "bbox": [
+            26.0,
+            271.0,
+            391.0,
+            294.0
+          ],
+          "confidence": 0.8390088677406311
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 64 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            40.0,
+            379.0,
+            258.0,
+            415.0
+          ],
+          "confidence": 0.9841670989990234
+        },
+        {
+          "text": "SL: 64 Viên",
+          "bbox": [
+            594.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9786123633384705
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 2 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        378.0,
+        439.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            412.0,
+            97.0,
+            435.0
+          ],
+          "confidence": 0.9784675240516663
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            409.0,
+            164.0,
+            439.0
+          ],
+          "confidence": 0.912422776222229
+        },
+        {
+          "text": "Sáng 2 Viên",
+          "bbox": [
+            288.0,
+            412.0,
+            378.0,
+            437.0
+          ],
+          "confidence": 0.9933833479881287
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 1 khoản",
+      "bbox": [
+        33.0,
+        442.0,
+        199.0,
+        463.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 1 khoản",
+          "bbox": [
+            33.0,
+            442.0,
+            199.0,
+            463.0
+          ],
+          "confidence": 0.9406412243843079
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        466.0,
+        165.0,
+        487.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            466.0,
+            165.0,
+            487.0
+          ],
+          "confidence": 0.9850919246673584
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn t Kkhámả: Thứ t 10/09/2019",
+      "bbox": [
+        31.0,
+        489.0,
+        311.0,
+        513.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn t Kkhámả: Thứ t 10/09/2019",
+          "bbox": [
+            31.0,
+            489.0,
+            311.0,
+            513.0
+          ],
+          "confidence": 0.8388217091560364
+        }
+      ]
+    },
+    {
+      "text": "Ngày 09/08/2019",
+      "bbox": [
+        483.0,
+        523.0,
+        624.0,
+        549.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 09/08/2019",
+          "bbox": [
+            483.0,
+            523.0,
+            624.0,
+            549.0
+          ],
+          "confidence": 0.9911363124847412
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        64.0,
+        545.0,
+        615.0,
+        578.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            64.0,
+            545.0,
+            199.0,
+            566.0
+          ],
+          "confidence": 0.9705328345298767
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            553.0,
+            615.0,
+            578.0
+          ],
+          "confidence": 0.9986290335655212
+        }
+      ]
+    },
+    {
+      "text": "YS. Trương Quốc Huân",
+      "bbox": [
+        454.0,
+        624.0,
+        639.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "YS. Trương Quốc Huân",
+          "bbox": [
+            454.0,
+            624.0,
+            639.0,
+            654.0
+          ],
+          "confidence": 0.9186612367630005
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+      "bbox": [
+        33.0,
+        683.0,
+        416.0,
+        706.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mang tho onđ, kt nghinm phiam (ônếu cá)",
+          "bbox": [
+            33.0,
+            683.0,
+            416.0,
+            706.0
+          ],
+          "confidence": 0.8488335013389587
+        }
+      ]
+    },
+    {
+      "text": "07/05/2021 09:27:12",
+      "bbox": [
+        586.0,
+        723.0,
+        731.0,
+        744.0
+      ],
+      "words": [
+        {
+          "text": "07/05/2021 09:27:12",
+          "bbox": [
+            586.0,
+            723.0,
+            731.0,
+            744.0
+          ],
+          "confidence": 0.9975641965866089
+        }
+      ]
+    }
+  ]
+}

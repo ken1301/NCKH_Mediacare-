@@ -1,0 +1,282 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_817",
+  "image": "public_train/image/VAIPE_P_TRAIN_817.png",
+  "text": "Số phiếu: 56872/2021\nMãy tế: 4708220\nĐiện thoại:\nPK Số 1 [Ngoại]\nĐƠN THUỐC BHYT\nCân nặng: kg Nam x Nữ\nChần đoán: H65.3 - Viêm tai giữa tiết nhày mạn\nThuốc điều trị:\n1) DROXICEF 0,5g\nSL: 28 Viên\nCách dùng: Uống: Sáng 2 Viên\n2) MENISON 4MG 4mg\nSL: 20 Viên\nCách dùng: Uống sau khi ăn: sáng 4 Viên\n3) PARTAMOL TAB. 500mg\nSL: 10 Viên\nCách dùng: Uống: Sáng 1 Viên\nLời dặn:\nNgày 20 tháng 12 năm 2021\nBác sỹ/Y sỹ khám bệnh\n(Ký, ghi rõ họ tên)\nTái khám\nBS. Lương Tiến Dũng\nKhám lại xin mang theo đơn này.\nTên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+  "words": [
+    {
+      "text": "Số phiếu: 56872/2021",
+      "label": "other",
+      "bbox": [
+        568,
+        44,
+        736,
+        68
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mãy tế: 4708220",
+      "label": "other",
+      "bbox": [
+        572,
+        71,
+        707,
+        90
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Điện thoại:",
+      "label": "other",
+      "bbox": [
+        28,
+        75,
+        115,
+        93
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        91,
+        155,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        266,
+        122,
+        503,
+        153
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cân nặng: kg Nam x Nữ",
+      "label": "other",
+      "bbox": [
+        521,
+        157,
+        714,
+        180
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: H65.3 - Viêm tai giữa tiết nhày mạn",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        226,
+        390,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Thuốc điều trị:",
+      "label": "other",
+      "bbox": [
+        26,
+        295,
+        153,
+        317
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) DROXICEF 0,5g",
+      "label": "drugname",
+      "bbox": [
+        26,
+        315,
+        206,
+        346
+      ],
+      "mapping": 43
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        607,
+        321,
+        721,
+        343
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cách dùng: Uống: Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        26,
+        346,
+        437,
+        372
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) MENISON 4MG 4mg",
+      "label": "drugname",
+      "bbox": [
+        24,
+        372,
+        244,
+        399
+      ],
+      "mapping": 74
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        607,
+        374,
+        721,
+        397
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cách dùng: Uống sau khi ăn: sáng 4 Viên",
+      "label": "usage",
+      "bbox": [
+        26,
+        399,
+        401,
+        426
+      ],
+      "mapping": null
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg",
+      "label": "drugname",
+      "bbox": [
+        24,
+        426,
+        288,
+        452
+      ],
+      "mapping": 90
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        607,
+        428,
+        721,
+        450
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cách dùng: Uống: Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        26,
+        451,
+        437,
+        480
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn:",
+      "label": "other",
+      "bbox": [
+        28,
+        488,
+        93,
+        503
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 20 tháng 12 năm 2021",
+      "label": "date",
+      "bbox": [
+        450,
+        508,
+        665,
+        530
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bác sỹ/Y sỹ khám bệnh",
+      "label": "other",
+      "bbox": [
+        468,
+        532,
+        650,
+        554
+      ],
+      "mapping": null
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "label": "other",
+      "bbox": [
+        488,
+        563,
+        632,
+        585
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám",
+      "label": "other",
+      "bbox": [
+        33,
+        616,
+        122,
+        636
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Lương Tiến Dũng",
+      "label": "other",
+      "bbox": [
+        474,
+        674,
+        645,
+        698
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Khám lại xin mang theo đơn này.",
+      "label": "other",
+      "bbox": [
+        39,
+        709,
+        264,
+        728
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",
+      "label": "other",
+      "bbox": [
+        37,
+        724,
+        512,
+        749
+      ],
+      "mapping": null
+    }
+  ]
+}

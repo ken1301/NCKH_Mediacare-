@@ -1,0 +1,392 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_566",
+  "image": "public_train/image/VAIPE_P_TRAIN_566.png",
+  "text": "1/1\nPK Số 1 [Ngoại]\nSố phiếu 73298/2019\n4712946\nTOA THUỐC BHYT\nNam\nNữ\n35\n35\n209\n29739\nmmHg Thân nhiệt:\nlần/phút Huyết áp:\nMạch:\nCận lâm sàng: Chụp Xquang ngực thắng, Chụp Xquang ngực nghiêng hoặc chếch mỗi bên\nChấn đoán: S43 - Sai khớp, bong gân và giăn khóp và dây chẳng của vòng ngực (chấn thương phần mềm\nngực trái); (K29) Viêm dạ dày và tá tràng\n1) ALFACHIM 4,2mg\nSL: 28 Viên\nGhi chú Uống sau khi ăn:\nTối 2 Viên\nSáng 2 Viên\n2) FAMOGAST 40mg\nSL: 7 Viên\nGhi chú Uống:\nTối 1 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 21/11/2019\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trần Mạnh Hà\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/05/2021 22:50:30",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        58,
+        28,
+        113,
+        58
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 1 [Ngoại]",
+      "label": "other",
+      "bbox": [
+        26,
+        89,
+        142,
+        113
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 73298/2019",
+      "label": "other",
+      "bbox": [
+        372,
+        91,
+        547,
+        123
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4712946",
+      "label": "other",
+      "bbox": [
+        626,
+        100,
+        688,
+        118
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        260,
+        122,
+        508,
+        152
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam",
+      "label": "other",
+      "bbox": [
+        620,
+        160,
+        655,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nữ",
+      "label": "other",
+      "bbox": [
+        685,
+        160,
+        708,
+        177
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        300,
+        207,
+        322,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        366,
+        207,
+        387,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "209",
+      "label": "other",
+      "bbox": [
+        436,
+        207,
+        468,
+        224
+      ],
+      "mapping": null
+    },
+    {
+      "text": "29739",
+      "label": "other",
+      "bbox": [
+        509,
+        207,
+        560,
+        225
+      ],
+      "mapping": null
+    },
+    {
+      "text": "mmHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        450,
+        231,
+        595,
+        255
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        168,
+        232,
+        305,
+        252
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        234,
+        73,
+        250
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sàng: Chụp Xquang ngực thắng, Chụp Xquang ngực nghiêng hoặc chếch mỗi bên",
+      "label": "other",
+      "bbox": [
+        28,
+        254,
+        638,
+        274
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chấn đoán: S43 - Sai khớp, bong gân và giăn khóp và dây chẳng của vòng ngực (chấn thương phần mềm",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        272,
+        738,
+        294
+      ],
+      "mapping": null
+    },
+    {
+      "text": "ngực trái); (K29) Viêm dạ dày và tá tràng",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        294,
+        309,
+        314
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) ALFACHIM 4,2mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        386,
+        266,
+        413
+      ],
+      "mapping": 28
+    },
+    {
+      "text": "SL: 28 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        387,
+        708,
+        409
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống sau khi ăn:",
+      "label": "other",
+      "bbox": [
+        34,
+        412,
+        232,
+        438
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 2 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        414,
+        700,
+        433
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        289,
+        416,
+        376,
+        436
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) FAMOGAST 40mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        438,
+        267,
+        466
+      ],
+      "mapping": 50
+    },
+    {
+      "text": "SL: 7 Viên",
+      "label": "quantity",
+      "bbox": [
+        595,
+        439,
+        697,
+        461
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        34,
+        463,
+        161,
+        488
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tối 1 Viên",
+      "label": "usage",
+      "bbox": [
+        625,
+        466,
+        700,
+        484
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        496,
+        197,
+        514
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        33,
+        519,
+        163,
+        538
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        546,
+        167,
+        565
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 21/11/2019",
+      "label": "date",
+      "bbox": [
+        484,
+        581,
+        621,
+        600
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        65,
+        600,
+        198,
+        618
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        606,
+        611,
+        626
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trần Mạnh Hà",
+      "label": "other",
+      "bbox": [
+        474,
+        679,
+        618,
+        703
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        737,
+        414,
+        758
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/05/2021 22:50:30",
+      "label": "other",
+      "bbox": [
+        586,
+        777,
+        730,
+        794
+      ],
+      "mapping": null
+    }
+  ]
+}

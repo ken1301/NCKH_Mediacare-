@@ -1,0 +1,436 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1045",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1045.png",
+  "text": "Điện thoại:\nĐƠN THUỐC BHYT\nCân nặng kg nam x nữ\nCâềnhễn Okngn: /44 - C c nnh phi t nghễn Mmân t/Mnh   c  : (R07.2) Đ nu trưhc\ntim\nThuốc điều trị\n1)C ràotXium (ýFirátuictXin 500) 0,5g\nSL: 30 Viên Uống : Sáng 2 Vn CHIU 2 Viên\n2)thy1 prádniáOo1ođ (Mhthy1prtdniácO1om 4) 4mg\nSL: 20 Viên Uống: Sng 4 Viên\n3 )CarhociS ti (AnpcmuX) 250mg\nSL: 30 Viên Uống : SángG 2 Vn CHIcU 2 Vi\nLời dặn:\nNgày 24 nghg 12 năaám 2021\nBác sỹ/Y sỹ kaám bệnh\n(Ký, ghi rõ họ tên)\nBSCKI. Vũ HẦng Thannh\n-Kháhm 1ịại Xi mang tO ĩn này.\n-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+  "lines": [
+    {
+      "text": "Điện thoại:",
+      "bbox": [
+        39.0,
+        99.0,
+        198.0,
+        141.0
+      ],
+      "words": [
+        {
+          "text": "Điện thoại:",
+          "bbox": [
+            39.0,
+            99.0,
+            198.0,
+            141.0
+          ],
+          "confidence": 0.9701902270317078
+        }
+      ]
+    },
+    {
+      "text": "ĐƠN THUỐC BHYT",
+      "bbox": [
+        395.0,
+        145.0,
+        751.0,
+        195.0
+      ],
+      "words": [
+        {
+          "text": "ĐƠN THUỐC BHYT",
+          "bbox": [
+            395.0,
+            145.0,
+            751.0,
+            195.0
+          ],
+          "confidence": 0.9391998052597046
+        }
+      ]
+    },
+    {
+      "text": "Cân nặng kg nam x nữ",
+      "bbox": [
+        696.0,
+        196.0,
+        1103.0,
+        253.0
+      ],
+      "words": [
+        {
+          "text": "Cân nặng kg nam x nữ",
+          "bbox": [
+            696.0,
+            196.0,
+            1103.0,
+            253.0
+          ],
+          "confidence": 0.932946503162384
+        }
+      ]
+    },
+    {
+      "text": "Câềnhễn Okngn: /44 - C c nnh phi t nghễn Mmân t/Mnh   c  : (R07.2) Đ nu trưhc",
+      "bbox": [
+        35.0,
+        348.0,
+        1076.0,
+        388.0
+      ],
+      "words": [
+        {
+          "text": "Câềnhễn Okngn: /44 - C c nnh phi t nghễn Mmân t/Mnh   c  : (R07.2) Đ nu trưhc",
+          "bbox": [
+            35.0,
+            348.0,
+            1076.0,
+            388.0
+          ],
+          "confidence": 0.7450167536735535
+        }
+      ]
+    },
+    {
+      "text": "tim",
+      "bbox": [
+        35.0,
+        391.0,
+        88.0,
+        423.0
+      ],
+      "words": [
+        {
+          "text": "tim",
+          "bbox": [
+            35.0,
+            391.0,
+            88.0,
+            423.0
+          ],
+          "confidence": 0.8495410084724426
+        }
+      ]
+    },
+    {
+      "text": "Thuốc điều trị",
+      "bbox": [
+        33.0,
+        422.0,
+        244.0,
+        471.0
+      ],
+      "words": [
+        {
+          "text": "Thuốc điều trị",
+          "bbox": [
+            33.0,
+            422.0,
+            244.0,
+            471.0
+          ],
+          "confidence": 0.9306101202964783
+        }
+      ]
+    },
+    {
+      "text": "1)C ràotXium (ýFirátuictXin 500) 0,5g",
+      "bbox": [
+        34.0,
+        474.0,
+        512.0,
+        518.0
+      ],
+      "words": [
+        {
+          "text": "1)C ràotXium (ýFirátuictXin 500) 0,5g",
+          "bbox": [
+            34.0,
+            474.0,
+            512.0,
+            518.0
+          ],
+          "confidence": 0.7160207629203796
+        }
+      ]
+    },
+    {
+      "text": "SL: 30 Viên Uống : Sáng 2 Vn CHIU 2 Viên",
+      "bbox": [
+        41.0,
+        542.0,
+        751.0,
+        583.0
+      ],
+      "words": [
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            41.0,
+            546.0,
+            199.0,
+            581.0
+          ],
+          "confidence": 0.8865736126899719
+        },
+        {
+          "text": "Uống : Sáng 2 Vn CHIU 2 Viên",
+          "bbox": [
+            279.0,
+            542.0,
+            751.0,
+            583.0
+          ],
+          "confidence": 0.868943989276886
+        }
+      ]
+    },
+    {
+      "text": "2)thy1 prádniáOo1ođ (Mhthy1prtdniácO1om 4) 4mg",
+      "bbox": [
+        32.0,
+        601.0,
+        739.0,
+        647.0
+      ],
+      "words": [
+        {
+          "text": "2)thy1 prádniáOo1ođ (Mhthy1prtdniácO1om 4) 4mg",
+          "bbox": [
+            32.0,
+            601.0,
+            739.0,
+            647.0
+          ],
+          "confidence": 0.7999477982521057
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 Viên Uống: Sng 4 Viên",
+      "bbox": [
+        40.0,
+        670.0,
+        551.0,
+        711.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            40.0,
+            672.0,
+            199.0,
+            709.0
+          ],
+          "confidence": 0.9406410455703735
+        },
+        {
+          "text": "Uống: Sng 4 Viên",
+          "bbox": [
+            278.0,
+            670.0,
+            551.0,
+            711.0
+          ],
+          "confidence": 0.9165101051330566
+        }
+      ]
+    },
+    {
+      "text": "3 )CarhociS ti (AnpcmuX) 250mg",
+      "bbox": [
+        31.0,
+        729.0,
+        531.0,
+        777.0
+      ],
+      "words": [
+        {
+          "text": "3 )CarhociS ti (AnpcmuX) 250mg",
+          "bbox": [
+            31.0,
+            729.0,
+            531.0,
+            777.0
+          ],
+          "confidence": 0.8566278219223022
+        }
+      ]
+    },
+    {
+      "text": "SL: 30 Viên Uống : SángG 2 Vn CHIcU 2 Vi",
+      "bbox": [
+        41.0,
+        799.0,
+        751.0,
+        839.0
+      ],
+      "words": [
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            41.0,
+            803.0,
+            199.0,
+            838.0
+          ],
+          "confidence": 0.899624764919281
+        },
+        {
+          "text": "Uống : SángG 2 Vn CHIcU 2 Vi",
+          "bbox": [
+            279.0,
+            799.0,
+            751.0,
+            839.0
+          ],
+          "confidence": 0.8722381591796875
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn:",
+      "bbox": [
+        36.0,
+        863.0,
+        161.0,
+        904.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn:",
+          "bbox": [
+            36.0,
+            863.0,
+            161.0,
+            904.0
+          ],
+          "confidence": 0.925964891910553
+        }
+      ]
+    },
+    {
+      "text": "Ngày 24 nghg 12 năaám 2021",
+      "bbox": [
+        644.0,
+        910.0,
+        1027.0,
+        950.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 24 nghg 12 năaám 2021",
+          "bbox": [
+            644.0,
+            910.0,
+            1027.0,
+            950.0
+          ],
+          "confidence": 0.8212620615959167
+        }
+      ]
+    },
+    {
+      "text": "Bác sỹ/Y sỹ kaám bệnh",
+      "bbox": [
+        677.0,
+        958.0,
+        999.0,
+        994.0
+      ],
+      "words": [
+        {
+          "text": "Bác sỹ/Y sỹ kaám bệnh",
+          "bbox": [
+            677.0,
+            958.0,
+            999.0,
+            994.0
+          ],
+          "confidence": 0.8717244267463684
+        }
+      ]
+    },
+    {
+      "text": "(Ký, ghi rõ họ tên)",
+      "bbox": [
+        714.0,
+        1004.0,
+        968.0,
+        1042.0
+      ],
+      "words": [
+        {
+          "text": "(Ký, ghi rõ họ tên)",
+          "bbox": [
+            714.0,
+            1004.0,
+            968.0,
+            1042.0
+          ],
+          "confidence": 0.9462471008300781
+        }
+      ]
+    },
+    {
+      "text": "BSCKI. Vũ HẦng Thannh",
+      "bbox": [
+        671.0,
+        1146.0,
+        1004.0,
+        1184.0
+      ],
+      "words": [
+        {
+          "text": "BSCKI. Vũ HẦng Thannh",
+          "bbox": [
+            671.0,
+            1146.0,
+            1004.0,
+            1184.0
+          ],
+          "confidence": 0.9036856889724731
+        }
+      ]
+    },
+    {
+      "text": "-Kháhm 1ịại Xi mang tO ĩn này.",
+      "bbox": [
+        40.0,
+        1192.0,
+        510.0,
+        1232.0
+      ],
+      "words": [
+        {
+          "text": "-Kháhm 1ịại Xi mang tO ĩn này.",
+          "bbox": [
+            40.0,
+            1192.0,
+            510.0,
+            1232.0
+          ],
+          "confidence": 0.7667019963264465
+        }
+      ]
+    },
+    {
+      "text": "-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+      "bbox": [
+        39.0,
+        1239.0,
+        1007.0,
+        1281.0
+      ],
+      "words": [
+        {
+          "text": "-Tên c hOkặc Mmmh crđa tráõ hOặc người ĩưaạ tráõ ến kááhm bnh, chũữan bệnh",
+          "bbox": [
+            39.0,
+            1239.0,
+            1007.0,
+            1281.0
+          ],
+          "confidence": 0.7584482431411743
+        }
+      ]
+    }
+  ]
+}

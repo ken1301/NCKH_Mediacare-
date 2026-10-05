@@ -1,0 +1,650 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_1150",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_1150.png",
+  "text": "MN c người 5bnh\nTYT XÃ NHÂN CHNH\nSố phiếu 2582/2021\nTOA THUỐC BHYT\nNm x n2\nThu úo h ếhám y tế S 3 207 97715\nMạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c\nCận lâm sàng:\nCnhần okno:n K05 - Vi m nườu Và bệnh nha chug (Ký12.3) Viêm ming (1o)\n1) HAPENXIN CAPSULES 0,5g SL: 20 Viên\nGhi chúK Uống\n2) METRONIDAZOL 250 250 mg SL: 20 Viên\nGhi chú Uống\n3) PARTAMOL TAB. 500mg SL: 15 Viên\nGhi chúữ Uốg:\nCộng khoản: 3 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 20/07/2021\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nYSĐK. Lê Thị Anh\nTái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)\n21/12/2021 23:39:02",
+  "lines": [
+    {
+      "text": "MN c người 5bnh",
+      "bbox": [
+        597.0,
+        33.0,
+        717.0,
+        64.0
+      ],
+      "words": [
+        {
+          "text": "MN c người 5bnh",
+          "bbox": [
+            597.0,
+            33.0,
+            717.0,
+            64.0
+          ],
+          "confidence": 0.8026335835456848
+        }
+      ]
+    },
+    {
+      "text": "TYT XÃ NHÂN CHNH",
+      "bbox": [
+        25.0,
+        70.0,
+        205.0,
+        97.0
+      ],
+      "words": [
+        {
+          "text": "TYT XÃ NHÂN CHNH",
+          "bbox": [
+            25.0,
+            70.0,
+            205.0,
+            97.0
+          ],
+          "confidence": 0.8948711156845093
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 2582/2021",
+      "bbox": [
+        368.0,
+        106.0,
+        536.0,
+        139.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 2582/2021",
+          "bbox": [
+            368.0,
+            106.0,
+            536.0,
+            139.0
+          ],
+          "confidence": 0.9845518469810486
+        }
+      ]
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "bbox": [
+        258.0,
+        138.0,
+        509.0,
+        172.0
+      ],
+      "words": [
+        {
+          "text": "TOA THUỐC BHYT",
+          "bbox": [
+            258.0,
+            138.0,
+            509.0,
+            172.0
+          ],
+          "confidence": 0.9600443243980408
+        }
+      ]
+    },
+    {
+      "text": "Nm x n2",
+      "bbox": [
+        614.0,
+        162.0,
+        741.0,
+        202.0
+      ],
+      "words": [
+        {
+          "text": "Nm x n2",
+          "bbox": [
+            614.0,
+            162.0,
+            741.0,
+            202.0
+          ],
+          "confidence": 0.718228280544281
+        }
+      ]
+    },
+    {
+      "text": "Thu úo h ếhám y tế S 3 207 97715",
+      "bbox": [
+        23.0,
+        219.0,
+        565.0,
+        246.0
+      ],
+      "words": [
+        {
+          "text": "Thu úo h ếhám y tế",
+          "bbox": [
+            23.0,
+            219.0,
+            157.0,
+            246.0
+          ],
+          "confidence": 0.7856321334838867
+        },
+        {
+          "text": "S",
+          "bbox": [
+            178.0,
+            220.0,
+            239.0,
+            246.0
+          ],
+          "confidence": 0.9999867677688599
+        },
+        {
+          "text": "3",
+          "bbox": [
+            268.0,
+            220.0,
+            329.0,
+            246.0
+          ],
+          "confidence": 0.5180880427360535
+        },
+        {
+          "text": "207",
+          "bbox": [
+            431.0,
+            221.0,
+            472.0,
+            245.0
+          ],
+          "confidence": 0.999661922454834
+        },
+        {
+          "text": "97715",
+          "bbox": [
+            506.0,
+            221.0,
+            565.0,
+            246.0
+          ],
+          "confidence": 0.9993791580200195
+        }
+      ]
+    },
+    {
+      "text": "Mạch: lần/phút Huyt áp: / MmmHg T Thân nhiệt: c",
+      "bbox": [
+        23.0,
+        242.0,
+        679.0,
+        276.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            23.0,
+            246.0,
+            78.0,
+            272.0
+          ],
+          "confidence": 0.9442211389541626
+        },
+        {
+          "text": "lần/phút Huyt áp:",
+          "bbox": [
+            164.0,
+            244.0,
+            310.0,
+            276.0
+          ],
+          "confidence": 0.9818016290664673
+        },
+        {
+          "text": "/",
+          "bbox": [
+            378.0,
+            252.0,
+            390.0,
+            268.0
+          ],
+          "confidence": 0.6627967357635498
+        },
+        {
+          "text": "MmmHg",
+          "bbox": [
+            448.0,
+            248.0,
+            508.0,
+            273.0
+          ],
+          "confidence": 0.870526134967804
+        },
+        {
+          "text": "T Thân nhiệt:",
+          "bbox": [
+            509.0,
+            248.0,
+            598.0,
+            272.0
+          ],
+          "confidence": 0.9475697875022888
+        },
+        {
+          "text": "c",
+          "bbox": [
+            647.0,
+            242.0,
+            679.0,
+            273.0
+          ],
+          "confidence": 0.4677598178386688
+        }
+      ]
+    },
+    {
+      "text": "Cận lâm sàng:",
+      "bbox": [
+        23.0,
+        266.0,
+        129.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cận lâm sàng:",
+          "bbox": [
+            23.0,
+            266.0,
+            129.0,
+            294.0
+          ],
+          "confidence": 0.9527925252914429
+        }
+      ]
+    },
+    {
+      "text": "Cnhần okno:n K05 - Vi m nườu Và bệnh nha chug (Ký12.3) Viêm ming (1o)",
+      "bbox": [
+        24.0,
+        286.0,
+        538.0,
+        313.0
+      ],
+      "words": [
+        {
+          "text": "Cnhần okno:n K05 - Vi m nườu Và bệnh nha chug (Ký12.3) Viêm ming (1o)",
+          "bbox": [
+            24.0,
+            286.0,
+            538.0,
+            313.0
+          ],
+          "confidence": 0.8476969599723816
+        }
+      ]
+    },
+    {
+      "text": "1) HAPENXIN CAPSULES 0,5g SL: 20 Viên",
+      "bbox": [
+        39.0,
+        397.0,
+        710.0,
+        432.0
+      ],
+      "words": [
+        {
+          "text": "1) HAPENXIN CAPSULES 0,5g",
+          "bbox": [
+            39.0,
+            397.0,
+            365.0,
+            432.0
+          ],
+          "confidence": 0.9525743722915649
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            592.0,
+            399.0,
+            710.0,
+            431.0
+          ],
+          "confidence": 0.9928701519966125
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúK Uống",
+      "bbox": [
+        33.0,
+        426.0,
+        165.0,
+        456.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúK",
+          "bbox": [
+            33.0,
+            430.0,
+            96.0,
+            452.0
+          ],
+          "confidence": 0.8335578441619873
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            104.0,
+            426.0,
+            165.0,
+            456.0
+          ],
+          "confidence": 0.8957592248916626
+        }
+      ]
+    },
+    {
+      "text": "2) METRONIDAZOL 250 250 mg SL: 20 Viên",
+      "bbox": [
+        36.0,
+        448.0,
+        711.0,
+        486.0
+      ],
+      "words": [
+        {
+          "text": "2) METRONIDAZOL 250 250 mg",
+          "bbox": [
+            36.0,
+            448.0,
+            379.0,
+            486.0
+          ],
+          "confidence": 0.9515256881713867
+        },
+        {
+          "text": "SL: 20 Viên",
+          "bbox": [
+            591.0,
+            452.0,
+            711.0,
+            483.0
+          ],
+          "confidence": 0.9712856411933899
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống",
+      "bbox": [
+        33.0,
+        478.0,
+        165.0,
+        510.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            482.0,
+            95.0,
+            504.0
+          ],
+          "confidence": 0.9364858865737915
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            105.0,
+            478.0,
+            165.0,
+            510.0
+          ],
+          "confidence": 0.9279283285140991
+        }
+      ]
+    },
+    {
+      "text": "3) PARTAMOL TAB. 500mg SL: 15 Viên",
+      "bbox": [
+        35.0,
+        500.0,
+        711.0,
+        539.0
+      ],
+      "words": [
+        {
+          "text": "3) PARTAMOL TAB. 500mg",
+          "bbox": [
+            35.0,
+            500.0,
+            337.0,
+            539.0
+          ],
+          "confidence": 0.9425126910209656
+        },
+        {
+          "text": "SL: 15 Viên",
+          "bbox": [
+            590.0,
+            502.0,
+            711.0,
+            536.0
+          ],
+          "confidence": 0.9983065128326416
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúữ Uốg:",
+      "bbox": [
+        33.0,
+        534.0,
+        164.0,
+        560.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúữ",
+          "bbox": [
+            33.0,
+            535.0,
+            96.0,
+            557.0
+          ],
+          "confidence": 0.8337403535842896
+        },
+        {
+          "text": "Uốg:",
+          "bbox": [
+            104.0,
+            534.0,
+            164.0,
+            560.0
+          ],
+          "confidence": 0.8192768096923828
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoản: 3 khoản",
+      "bbox": [
+        29.0,
+        558.0,
+        202.0,
+        588.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoản: 3 khoản",
+          "bbox": [
+            29.0,
+            558.0,
+            202.0,
+            588.0
+          ],
+          "confidence": 0.9521903991699219
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        28.0,
+        583.0,
+        169.0,
+        612.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            28.0,
+            583.0,
+            169.0,
+            612.0
+          ],
+          "confidence": 0.9935133457183838
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        30.0,
+        613.0,
+        171.0,
+        637.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            30.0,
+            613.0,
+            171.0,
+            637.0
+          ],
+          "confidence": 0.9928671717643738
+        }
+      ]
+    },
+    {
+      "text": "Ngày 20/07/2021",
+      "bbox": [
+        482.0,
+        645.0,
+        624.0,
+        673.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 20/07/2021",
+          "bbox": [
+            482.0,
+            645.0,
+            624.0,
+            673.0
+          ],
+          "confidence": 0.9958590269088745
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        665.0,
+        616.0,
+        700.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            665.0,
+            202.0,
+            692.0
+          ],
+          "confidence": 0.9482138156890869
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            492.0,
+            675.0,
+            616.0,
+            700.0
+          ],
+          "confidence": 0.9984069466590881
+        }
+      ]
+    },
+    {
+      "text": "YSĐK. Lê Thị Anh",
+      "bbox": [
+        471.0,
+        746.0,
+        624.0,
+        775.0
+      ],
+      "words": [
+        {
+          "text": "YSĐK. Lê Thị Anh",
+          "bbox": [
+            471.0,
+            746.0,
+            624.0,
+            775.0
+          ],
+          "confidence": 0.9272491931915283
+        }
+      ]
+    },
+    {
+      "text": "Tái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+      "bbox": [
+        33.0,
+        805.0,
+        415.0,
+        828.0
+      ],
+      "words": [
+        {
+          "text": "Tái khKkhám ịin mang tho onđ, knt nghinhm phikam (ônếui cá)",
+          "bbox": [
+            33.0,
+            805.0,
+            415.0,
+            828.0
+          ],
+          "confidence": 0.7855694890022278
+        }
+      ]
+    },
+    {
+      "text": "21/12/2021 23:39:02",
+      "bbox": [
+        587.0,
+        845.0,
+        731.0,
+        866.0
+      ],
+      "words": [
+        {
+          "text": "21/12/2021 23:39:02",
+          "bbox": [
+            587.0,
+            845.0,
+            731.0,
+            866.0
+          ],
+          "confidence": 0.9943147897720337
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_632",
+  "image": "public_train/image/VAIPE_P_TRAIN_632.png",
+  "text": "1/1\nPK Số 2 [Nội]\nSố phiếu 51224/2020\n4782439\nTOA THUỐC BHYT\nNam x nữ\n75221\n207\n35\nlần/phút Huyết áp:\nMạch:\nMMHg Thân nhiệt:\nCận lâm sảng: Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng\nGlucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) (Máu), Định lượng\nTriglycerid (máu) [máu]\nChần đoán: M10 - Gút (thống phong): (E11) TD Bệnh đái tháo đường không phụ thuộc insulin; (E78)\nTD Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (M25.5) Đau khớp\n1) COLCHICIN 1mg\nSL: 10 Viên\nGhi chú Uống:\nSáng 1 Viên\n2) PANACTOL 500mg\nSL: 20 Viên\nGhi chú Uống\nSáng 2 Viên\nChiều 2 Viên\nCộng khoản: 2 khoản\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 17/09/2020\nBệnh nhân ký nhận\nY, Bác sĩ điều trị\nBS. Trương Văn Nghĩa\nTái khám xin mang theo đơn, xét nghiệm, phim (nếu có)\n06/01/2022 10:44:34",
+  "words": [
+    {
+      "text": "1/1",
+      "label": "other",
+      "bbox": [
+        57,
+        46,
+        115,
+        77
+      ],
+      "mapping": null
+    },
+    {
+      "text": "PK Số 2 [Nội]",
+      "label": "other",
+      "bbox": [
+        25,
+        106,
+        129,
+        132
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Số phiếu 51224/2020",
+      "label": "other",
+      "bbox": [
+        372,
+        111,
+        546,
+        138
+      ],
+      "mapping": null
+    },
+    {
+      "text": "4782439",
+      "label": "other",
+      "bbox": [
+        625,
+        117,
+        690,
+        137
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TOA THUỐC BHYT",
+      "label": "other",
+      "bbox": [
+        259,
+        139,
+        508,
+        173
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Nam x nữ",
+      "label": "other",
+      "bbox": [
+        621,
+        179,
+        710,
+        195
+      ],
+      "mapping": null
+    },
+    {
+      "text": "75221",
+      "label": "other",
+      "bbox": [
+        510,
+        224,
+        559,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "207",
+      "label": "other",
+      "bbox": [
+        434,
+        226,
+        468,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "35",
+      "label": "other",
+      "bbox": [
+        368,
+        228,
+        388,
+        244
+      ],
+      "mapping": null
+    },
+    {
+      "text": "lần/phút Huyết áp:",
+      "label": "other",
+      "bbox": [
+        170,
+        252,
+        306,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Mạch:",
+      "label": "other",
+      "bbox": [
+        28,
+        255,
+        73,
+        270
+      ],
+      "mapping": null
+    },
+    {
+      "text": "MMHg Thân nhiệt:",
+      "label": "other",
+      "bbox": [
+        452,
+        255,
+        596,
+        272
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cận lâm sảng: Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+      "label": "other",
+      "bbox": [
+        28,
+        272,
+        692,
+        295
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) (Máu), Định lượng",
+      "label": "other",
+      "bbox": [
+        26,
+        292,
+        665,
+        312
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Triglycerid (máu) [máu]",
+      "label": "other",
+      "bbox": [
+        28,
+        315,
+        201,
+        330
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chần đoán: M10 - Gút (thống phong): (E11) TD Bệnh đái tháo đường không phụ thuộc insulin; (E78)",
+      "label": "diagnose",
+      "bbox": [
+        28,
+        331,
+        718,
+        354
+      ],
+      "mapping": null
+    },
+    {
+      "text": "TD Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (M25.5) Đau khớp",
+      "label": "diagnose",
+      "bbox": [
+        26,
+        350,
+        634,
+        372
+      ],
+      "mapping": null
+    },
+    {
+      "text": "1) COLCHICIN 1mg",
+      "label": "drugname",
+      "bbox": [
+        46,
+        441,
+        253,
+        470
+      ],
+      "mapping": 30
+    },
+    {
+      "text": "SL: 10 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        443,
+        707,
+        465
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống:",
+      "label": "other",
+      "bbox": [
+        35,
+        468,
+        162,
+        493
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 1 Viên",
+      "label": "usage",
+      "bbox": [
+        288,
+        472,
+        377,
+        492
+      ],
+      "mapping": null
+    },
+    {
+      "text": "2) PANACTOL 500mg",
+      "label": "drugname",
+      "bbox": [
+        44,
+        491,
+        275,
+        523
+      ],
+      "mapping": 91
+    },
+    {
+      "text": "SL: 20 Viên",
+      "label": "quantity",
+      "bbox": [
+        594,
+        497,
+        707,
+        519
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ghi chú Uống",
+      "label": "other",
+      "bbox": [
+        37,
+        521,
+        153,
+        546
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Sáng 2 Viên",
+      "label": "usage",
+      "bbox": [
+        287,
+        522,
+        377,
+        547
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Chiều 2 Viên",
+      "label": "usage",
+      "bbox": [
+        514,
+        523,
+        607,
+        543
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Cộng khoản: 2 khoản",
+      "label": "other",
+      "bbox": [
+        33,
+        552,
+        197,
+        572
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "label": "other",
+      "bbox": [
+        30,
+        574,
+        164,
+        598
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "label": "other",
+      "bbox": [
+        33,
+        603,
+        168,
+        623
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Ngày 17/09/2020",
+      "label": "date",
+      "bbox": [
+        483,
+        635,
+        623,
+        659
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Bệnh nhân ký nhận",
+      "label": "other",
+      "bbox": [
+        64,
+        656,
+        199,
+        676
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Y, Bác sĩ điều trị",
+      "label": "other",
+      "bbox": [
+        494,
+        661,
+        612,
+        685
+      ],
+      "mapping": null
+    },
+    {
+      "text": "BS. Trương Văn Nghĩa",
+      "label": "other",
+      "bbox": [
+        457,
+        738,
+        636,
+        763
+      ],
+      "mapping": null
+    },
+    {
+      "text": "Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+      "label": "other",
+      "bbox": [
+        33,
+        794,
+        417,
+        816
+      ],
+      "mapping": null
+    },
+    {
+      "text": "06/01/2022 10:44:34",
+      "label": "other",
+      "bbox": [
+        585,
+        834,
+        732,
+        852
+      ],
+      "mapping": null
+    }
+  ]
+}

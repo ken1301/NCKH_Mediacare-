@@ -1,0 +1,761 @@
+{
+  "sample_id": "VAIPE_P_TRAIN_818",
+  "image": "D:\\HocTap\\Projects\\NCKH-Medicare\\dataset\\external\\vaipe-p\\public_train\\image\\VAIPE_P_TRAIN_818.png",
+  "text": "1/1 M sc người bnh\nÌNH NGHĨA\nSố phiếu 657/2019\nTOA THỐC  BHYT\nNam 2 ữx\nThu ặo h ếhám y tế CK 35 35 206 03758 C\nMạch: Lần/phút Huyết áp: 150 8/8 MMIHHg Th Th n nhiệt:\nCộn lâm sàng:\nCânhắn oknả: 110- Tăng huyếnH áp Vô căn (nguyễn púhát) : (H10) Viêm kết mạc, (E50.0) Khõ kế: mMạc do\nthiếu aámin A\n1) ENALAPRIL 5mg SL: 30 Viên\nGhi chú 2) AMOXICILIN 500MG 0,5g Uống: Sáng 1 Viên\nSL: 20 viên\nGhi chúc Uống Sáng 2 viên Tối 2 viên\n3) VINA-AD 2000ui4 400ui SL: 10 viên\nGhi chú Uống Sáng 1 viên Tối 1 viên\nCộng khoả: 3 khoả\nLời dặn đơn thuốc:\nNgày hẹn tái khám:\nNgày 25/02/2019\nBệnh nhân ký nhận Y, Bác sĩ điều trị\nBS. 0 000000\nTá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếu co)\n05/05/2021 17:41:48",
+  "lines": [
+    {
+      "text": "1/1 M sc người bnh",
+      "bbox": [
+        50.0,
+        17.0,
+        716.0,
+        65.0
+      ],
+      "words": [
+        {
+          "text": "1/1",
+          "bbox": [
+            50.0,
+            17.0,
+            121.0,
+            65.0
+          ],
+          "confidence": 0.9995034337043762
+        },
+        {
+          "text": "M sc người bnh",
+          "bbox": [
+            599.0,
+            18.0,
+            716.0,
+            45.0
+          ],
+          "confidence": 0.8527066111564636
+        }
+      ]
+    },
+    {
+      "text": "ÌNH NGHĨA",
+      "bbox": [
+        152.0,
+        48.0,
+        254.0,
+        78.0
+      ],
+      "words": [
+        {
+          "text": "ÌNH NGHĨA",
+          "bbox": [
+            152.0,
+            48.0,
+            254.0,
+            78.0
+          ],
+          "confidence": 0.9381238222122192
+        }
+      ]
+    },
+    {
+      "text": "Số phiếu 657/2019",
+      "bbox": [
+        370.0,
+        90.0,
+        524.0,
+        121.0
+      ],
+      "words": [
+        {
+          "text": "Số phiếu 657/2019",
+          "bbox": [
+            370.0,
+            90.0,
+            524.0,
+            121.0
+          ],
+          "confidence": 0.983142077922821
+        }
+      ]
+    },
+    {
+      "text": "TOA THỐC  BHYT",
+      "bbox": [
+        258.0,
+        122.0,
+        508.0,
+        152.0
+      ],
+      "words": [
+        {
+          "text": "TOA THỐC  BHYT",
+          "bbox": [
+            258.0,
+            122.0,
+            508.0,
+            152.0
+          ],
+          "confidence": 0.8637909889221191
+        }
+      ]
+    },
+    {
+      "text": "Nam 2 ữx",
+      "bbox": [
+        617.0,
+        149.0,
+        738.0,
+        181.0
+      ],
+      "words": [
+        {
+          "text": "Nam 2 ữx",
+          "bbox": [
+            617.0,
+            149.0,
+            738.0,
+            181.0
+          ],
+          "confidence": 0.8776549100875854
+        }
+      ]
+    },
+    {
+      "text": "Thu ặo h ếhám y tế CK 35 35 206 03758 C",
+      "bbox": [
+        25.0,
+        203.0,
+        684.0,
+        258.0
+      ],
+      "words": [
+        {
+          "text": "Thu ặo h ếhám y tế",
+          "bbox": [
+            25.0,
+            203.0,
+            155.0,
+            227.0
+          ],
+          "confidence": 0.7557964324951172
+        },
+        {
+          "text": "CK",
+          "bbox": [
+            183.0,
+            204.0,
+            221.0,
+            227.0
+          ],
+          "confidence": 0.7980034947395325
+        },
+        {
+          "text": "35",
+          "bbox": [
+            297.0,
+            203.0,
+            328.0,
+            228.0
+          ],
+          "confidence": 0.9999241232872009
+        },
+        {
+          "text": "35",
+          "bbox": [
+            361.0,
+            203.0,
+            393.0,
+            228.0
+          ],
+          "confidence": 0.9999005794525146
+        },
+        {
+          "text": "206",
+          "bbox": [
+            432.0,
+            203.0,
+            471.0,
+            227.0
+          ],
+          "confidence": 0.965299665927887
+        },
+        {
+          "text": "03758",
+          "bbox": [
+            506.0,
+            203.0,
+            563.0,
+            228.0
+          ],
+          "confidence": 0.9980033040046692
+        },
+        {
+          "text": "C",
+          "bbox": [
+            644.0,
+            218.0,
+            684.0,
+            258.0
+          ],
+          "confidence": 0.5221757292747498
+        }
+      ]
+    },
+    {
+      "text": "Mạch: Lần/phút Huyết áp: 150 8/8 MMIHHg Th Th n nhiệt:",
+      "bbox": [
+        25.0,
+        230.0,
+        595.0,
+        253.0
+      ],
+      "words": [
+        {
+          "text": "Mạch:",
+          "bbox": [
+            25.0,
+            230.0,
+            76.0,
+            253.0
+          ],
+          "confidence": 0.9986246228218079
+        },
+        {
+          "text": "Lần/phút Huyết áp:",
+          "bbox": [
+            167.0,
+            230.0,
+            311.0,
+            253.0
+          ],
+          "confidence": 0.977698028087616
+        },
+        {
+          "text": "150",
+          "bbox": [
+            332.0,
+            232.0,
+            365.0,
+            252.0
+          ],
+          "confidence": 0.9998245239257812
+        },
+        {
+          "text": "8/8",
+          "bbox": [
+            362.0,
+            231.0,
+            416.0,
+            253.0
+          ],
+          "confidence": 0.5466989874839783
+        },
+        {
+          "text": "MMIHHg",
+          "bbox": [
+            451.0,
+            234.0,
+            506.0,
+            252.0
+          ],
+          "confidence": 0.7429587841033936
+        },
+        {
+          "text": "Th Th n nhiệt:",
+          "bbox": [
+            512.0,
+            232.0,
+            595.0,
+            253.0
+          ],
+          "confidence": 0.8590216040611267
+        }
+      ]
+    },
+    {
+      "text": "Cộn lâm sàng:",
+      "bbox": [
+        25.0,
+        251.0,
+        128.0,
+        275.0
+      ],
+      "words": [
+        {
+          "text": "Cộn lâm sàng:",
+          "bbox": [
+            25.0,
+            251.0,
+            128.0,
+            275.0
+          ],
+          "confidence": 0.894280195236206
+        }
+      ]
+    },
+    {
+      "text": "Cânhắn oknả: 110- Tăng huyếnH áp Vô căn (nguyễn púhát) : (H10) Viêm kết mạc, (E50.0) Khõ kế: mMạc do",
+      "bbox": [
+        25.0,
+        271.0,
+        712.0,
+        294.0
+      ],
+      "words": [
+        {
+          "text": "Cânhắn oknả: 110- Tăng huyếnH áp Vô căn (nguyễn púhát) : (H10) Viêm kết mạc, (E50.0) Khõ kế: mMạc do",
+          "bbox": [
+            25.0,
+            271.0,
+            712.0,
+            294.0
+          ],
+          "confidence": 0.8122841119766235
+        }
+      ]
+    },
+    {
+      "text": "thiếu aámin A",
+      "bbox": [
+        26.0,
+        291.0,
+        138.0,
+        312.0
+      ],
+      "words": [
+        {
+          "text": "thiếu aámin A",
+          "bbox": [
+            26.0,
+            291.0,
+            138.0,
+            312.0
+          ],
+          "confidence": 0.8410859704017639
+        }
+      ]
+    },
+    {
+      "text": "1) ENALAPRIL 5mg SL: 30 Viên",
+      "bbox": [
+        40.0,
+        379.0,
+        709.0,
+        415.0
+      ],
+      "words": [
+        {
+          "text": "1) ENALAPRIL 5mg",
+          "bbox": [
+            40.0,
+            379.0,
+            258.0,
+            415.0
+          ],
+          "confidence": 0.9813979268074036
+        },
+        {
+          "text": "SL: 30 Viên",
+          "bbox": [
+            595.0,
+            385.0,
+            709.0,
+            409.0
+          ],
+          "confidence": 0.9509384632110596
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú 2) AMOXICILIN 500MG 0,5g Uống: Sáng 1 Viên",
+      "bbox": [
+        34.0,
+        409.0,
+        377.0,
+        468.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            34.0,
+            413.0,
+            96.0,
+            435.0
+          ],
+          "confidence": 0.919461727142334
+        },
+        {
+          "text": "2) AMOXICILIN 500MG 0,5g",
+          "bbox": [
+            35.0,
+            429.0,
+            361.0,
+            468.0
+          ],
+          "confidence": 0.96091228723526
+        },
+        {
+          "text": "Uống:",
+          "bbox": [
+            105.0,
+            409.0,
+            163.0,
+            438.0
+          ],
+          "confidence": 0.7705122232437134
+        },
+        {
+          "text": "Sáng 1 Viên",
+          "bbox": [
+            288.0,
+            413.0,
+            377.0,
+            435.0
+          ],
+          "confidence": 0.9991088509559631
+        }
+      ]
+    },
+    {
+      "text": "SL: 20 viên",
+      "bbox": [
+        595.0,
+        437.0,
+        705.0,
+        462.0
+      ],
+      "words": [
+        {
+          "text": "SL: 20 viên",
+          "bbox": [
+            595.0,
+            437.0,
+            705.0,
+            462.0
+          ],
+          "confidence": 0.9469559192657471
+        }
+      ]
+    },
+    {
+      "text": "Ghi chúc Uống Sáng 2 viên Tối 2 viên",
+      "bbox": [
+        34.0,
+        461.0,
+        702.0,
+        490.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chúc",
+          "bbox": [
+            34.0,
+            465.0,
+            95.0,
+            486.0
+          ],
+          "confidence": 0.8377991914749146
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            463.0,
+            163.0,
+            490.0
+          ],
+          "confidence": 0.8389921188354492
+        },
+        {
+          "text": "Sáng 2 viên",
+          "bbox": [
+            287.0,
+            463.0,
+            374.0,
+            490.0
+          ],
+          "confidence": 0.9550268650054932
+        },
+        {
+          "text": "Tối 2 viên",
+          "bbox": [
+            622.0,
+            461.0,
+            702.0,
+            489.0
+          ],
+          "confidence": 0.9911802411079407
+        }
+      ]
+    },
+    {
+      "text": "3) VINA-AD 2000ui4 400ui SL: 10 viên",
+      "bbox": [
+        40.0,
+        489.0,
+        704.0,
+        515.0
+      ],
+      "words": [
+        {
+          "text": "3) VINA-AD 2000ui4 400ui",
+          "bbox": [
+            40.0,
+            489.0,
+            322.0,
+            514.0
+          ],
+          "confidence": 0.9205121994018555
+        },
+        {
+          "text": "SL: 10 viên",
+          "bbox": [
+            594.0,
+            489.0,
+            704.0,
+            515.0
+          ],
+          "confidence": 0.9954742193222046
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú Uống Sáng 1 viên Tối 1 viên",
+      "bbox": [
+        33.0,
+        514.0,
+        701.0,
+        541.0
+      ],
+      "words": [
+        {
+          "text": "Ghi chú",
+          "bbox": [
+            33.0,
+            516.0,
+            94.0,
+            537.0
+          ],
+          "confidence": 0.8304785490036011
+        },
+        {
+          "text": "Uống",
+          "bbox": [
+            106.0,
+            514.0,
+            164.0,
+            541.0
+          ],
+          "confidence": 0.9237731695175171
+        },
+        {
+          "text": "Sáng 1 viên",
+          "bbox": [
+            288.0,
+            515.0,
+            374.0,
+            541.0
+          ],
+          "confidence": 0.981928288936615
+        },
+        {
+          "text": "Tối 1 viên",
+          "bbox": [
+            623.0,
+            516.0,
+            701.0,
+            539.0
+          ],
+          "confidence": 0.9513649940490723
+        }
+      ]
+    },
+    {
+      "text": "Cộng khoả: 3 khoả",
+      "bbox": [
+        33.0,
+        546.0,
+        199.0,
+        567.0
+      ],
+      "words": [
+        {
+          "text": "Cộng khoả: 3 khoả",
+          "bbox": [
+            33.0,
+            546.0,
+            199.0,
+            567.0
+          ],
+          "confidence": 0.9048080444335938
+        }
+      ]
+    },
+    {
+      "text": "Lời dặn đơn thuốc:",
+      "bbox": [
+        32.0,
+        570.0,
+        165.0,
+        591.0
+      ],
+      "words": [
+        {
+          "text": "Lời dặn đơn thuốc:",
+          "bbox": [
+            32.0,
+            570.0,
+            165.0,
+            591.0
+          ],
+          "confidence": 0.9820692539215088
+        }
+      ]
+    },
+    {
+      "text": "Ngày hẹn tái khám:",
+      "bbox": [
+        32.0,
+        596.0,
+        168.0,
+        617.0
+      ],
+      "words": [
+        {
+          "text": "Ngày hẹn tái khám:",
+          "bbox": [
+            32.0,
+            596.0,
+            168.0,
+            617.0
+          ],
+          "confidence": 0.9665404558181763
+        }
+      ]
+    },
+    {
+      "text": "Ngày 25/02/2019",
+      "bbox": [
+        483.0,
+        627.0,
+        624.0,
+        654.0
+      ],
+      "words": [
+        {
+          "text": "Ngày 25/02/2019",
+          "bbox": [
+            483.0,
+            627.0,
+            624.0,
+            654.0
+          ],
+          "confidence": 0.9823791980743408
+        }
+      ]
+    },
+    {
+      "text": "Bệnh nhân ký nhận Y, Bác sĩ điều trị",
+      "bbox": [
+        62.0,
+        646.0,
+        614.0,
+        680.0
+      ],
+      "words": [
+        {
+          "text": "Bệnh nhân ký nhận",
+          "bbox": [
+            62.0,
+            646.0,
+            200.0,
+            673.0
+          ],
+          "confidence": 0.9606839418411255
+        },
+        {
+          "text": "Y, Bác sĩ điều trị",
+          "bbox": [
+            493.0,
+            659.0,
+            614.0,
+            680.0
+          ],
+          "confidence": 0.941504716873169
+        }
+      ]
+    },
+    {
+      "text": "BS. 0 000000",
+      "bbox": [
+        473.0,
+        733.0,
+        618.0,
+        755.0
+      ],
+      "words": [
+        {
+          "text": "BS. 0",
+          "bbox": [
+            473.0,
+            733.0,
+            529.0,
+            755.0
+          ],
+          "confidence": 0.8889437913894653
+        },
+        {
+          "text": "000000",
+          "bbox": [
+            547.0,
+            744.0,
+            618.0,
+            754.0
+          ],
+          "confidence": 0.623896598815918
+        }
+      ]
+    },
+    {
+      "text": "Tá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếu co)",
+      "bbox": [
+        34.0,
+        788.0,
+        414.0,
+        809.0
+      ],
+      "words": [
+        {
+          "text": "Tá khKhám Xin mMang thho ođm, Xknt nghinm phiám (ônếu co)",
+          "bbox": [
+            34.0,
+            788.0,
+            414.0,
+            809.0
+          ],
+          "confidence": 0.7967169880867004
+        }
+      ]
+    },
+    {
+      "text": "05/05/2021 17:41:48",
+      "bbox": [
+        587.0,
+        828.0,
+        731.0,
+        848.0
+      ],
+      "words": [
+        {
+          "text": "05/05/2021 17:41:48",
+          "bbox": [
+            587.0,
+            828.0,
+            731.0,
+            848.0
+          ],
+          "confidence": 0.9660288095474243
+        }
+      ]
+    }
+  ]
+}
